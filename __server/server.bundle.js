@@ -1,6 +1,28 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
+/***/ 96
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/楊柳-6b9499259f597037256a09f59d8bbd0b.jpg");
+
+/***/ },
+
+/***/ 188
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tools3-f7971d8f4b09ac090809b59acf8d189d.png");
+
+/***/ },
+
 /***/ 205
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -64,6 +86,50 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/practice-arpeggios-g-maj
 
 /***/ },
 
+/***/ 429
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Arp-251_G-Major-ee985a464bc31ab25836665c06b384b7.png");
+
+/***/ },
+
+/***/ 451
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+
+/***/ },
+
+/***/ 807
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/closed-voicing-b6320b450b396dea1a968d531ec563f4.png");
+
+/***/ },
+
+/***/ 983
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Gmaj7-GBDFSharp_Seq-7c31852628095de8c10dbf25ab446c8d.png");
+
+/***/ },
+
 /***/ 1433
 () {
 
@@ -71,14 +137,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/practice-arpeggios-g-maj
 
 /***/ },
 
-/***/ 1627
+/***/ 1536
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Keyboard_C-5c4cf5d15b9d509218a5495b21f896c1.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/AranjuesMonAmour-ef9a4fc17e166ebd47a1d5f8c0a74f90.jpg");
 
 /***/ },
 
@@ -135,17 +201,6 @@ module.exports = {
 
 /***/ },
 
-/***/ 1797
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_advance2_secondary-dominant-c32cc2a36ff408eba93348721f75313d.png");
-
-/***/ },
-
 /***/ 1811
 (module) {
 
@@ -195,17 +250,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"調式","permalink":"
 
 /***/ },
 
-/***/ 1993
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/G-Pent-Scale-Arpeggios-e0ef88456018a5aae8ceae61cce48eec.png");
-
-/***/ },
-
 /***/ 2067
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -213,7 +257,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"調式","permalink":"
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (/* binding */ ComponentCreator)
 /* harmony export */ });
-/* harmony import */ var _Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(29867);
+/* harmony import */ var _Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(29867);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(96540);
 /* harmony import */ var react_loadable__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(53259);
 /* harmony import */ var react_loadable__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_loadable__WEBPACK_IMPORTED_MODULE_2__);
@@ -229,7 +273,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"調式","permalink":"
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */function ComponentCreator(path,hash){// 404 page
-if(path==='*'){return react_loadable__WEBPACK_IMPORTED_MODULE_2___default()({loading:_theme_Loading__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A,loader:()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(82237))),modules:['@theme/NotFound'],webpack:()=>[/*require.resolve*/(82237)],render(loaded,props){const NotFound=loaded.default;return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)(_routeContext__WEBPACK_IMPORTED_MODULE_7__/* .RouteContextProvider */ .W// Do we want a better name than native-default?
+if(path==='*'){return react_loadable__WEBPACK_IMPORTED_MODULE_2___default()({loading:_theme_Loading__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A,loader:()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(82237))),modules:['@theme/NotFound'],webpack:()=>[/*require.resolve*/(82237)],render(loaded,props){const NotFound=loaded.default;return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)(_routeContext__WEBPACK_IMPORTED_MODULE_7__/* .RouteContextProvider */ .W// Do we want a better name than native-default?
 ,{value:{plugin:{name:'native',id:'default'}},children:/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)(NotFound,{...props})});}});}const chunkNames=_generated_routesChunkNames__WEBPACK_IMPORTED_MODULE_3__[`${path}-${hash}`];// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const loader={};const modules=[];const optsWebpack=[];// A map from prop names to chunk names.
 // e.g. Suppose the plugin added this as route:
@@ -260,17 +304,6 @@ return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)(_route
 
 /***/ },
 
-/***/ 2157
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/minor-scale-on-guitar-3e5be50b2e0b7f334c513097f2f2fa3c.png");
-
-/***/ },
-
 /***/ 2203
 (module) {
 
@@ -297,28 +330,6 @@ module.exports = require("stream");
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */function MobileSidebarToggle(){const{toggle,shown}=(0,_docusaurus_theme_common_internal__WEBPACK_IMPORTED_MODULE_1__/* .useNavbarMobileSidebar */ .M)();return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("button",{onClick:toggle,"aria-label":(0,_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_2__/* .translate */ .T)({id:'theme.docs.sidebar.toggleSidebarButtonAriaLabel',message:'Toggle navigation bar',description:'The ARIA label for hamburger menu button of mobile navigation'}),"aria-expanded":shown,className:"navbar__toggle clean-btn",type:"button",children:/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(_theme_Icon_Menu__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A,{})});}
-
-/***/ },
-
-/***/ 2340
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/08-1-ff96af30b092c7755453a812ae279e89.JPG");
-
-/***/ },
-
-/***/ 2345
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -403,6 +414,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"production/motu-mk4-macos/index
 
 /***/ },
 
+/***/ 2810
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/03-2-9a99538c47723c985e3b8ae26b3c746b.JPG");
+
+/***/ },
+
 /***/ 2833
 (module) {
 
@@ -453,17 +475,6 @@ module.exports = function shallowEqual(objA, objB, compare, compareContext) {
   return true;
 };
 
-
-/***/ },
-
-/***/ 2954
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/logic-pro-event-view-c7aaf23930247aa9e0137957177ea021.png");
 
 /***/ },
 
@@ -639,14 +650,14 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 3357
+/***/ 3298
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/freq-analysis-9e5f6d74eaade7360450176e9c63c71b.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Roland_SPD-S-6b124715d670b80f37c0c8fc3bae7724.jpg");
 
 /***/ },
 
@@ -658,25 +669,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"production/loop-concepts-and-ap
 
 /***/ },
 
-/***/ 3428
+/***/ 3614
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/fig3_GMixo-Lydian-P3-b0db11b39a7d4f436691898f7fadbea9.png");
-
-/***/ },
-
-/***/ 3547
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic3_number-notation-88ea2382da28191c61c166871c50e7d4.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/LoveStory-8306959bc4efaaad5209371a8818ccf8.jpg");
 
 /***/ },
 
@@ -949,6 +949,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     code: "code",
     h2: "h2",
     h3: "h3",
@@ -1278,7 +1279,7 @@ function _createMdxContent(props) {
       children: "中央 C 定義為 C4，也就是鍵盤上第四個 C。音階在鋼琴 (鍵盤) 上，左到右是由低到高，12 個半音 (八度) 一直循環。一架 88 鍵的鋼琴共有 7 個完整的八度。如下圖："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(24703)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(99457)/* ["default"] */ .A) + "",
         width: "1600",
         height: "287"
       })
@@ -1300,8 +1301,8 @@ function _createMdxContent(props) {
       }), " 音樂時，主要是以英美的系統為主。但是在古典音樂裡，歐洲才是音樂的發源地。所以實際上很多音樂術語，都不是英文。所以稍微了解一下一些 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
         children: "音樂"
       }), " 文化大國 (就是很多音樂偉人誕生的地方) 的術語，是有必要的。最簡單的就是各國的音名，如下表："]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "國家 | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ\n----|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:\n德國 | C | D | E | F | G | A | H\n中日 | C | D | E | F | G | A | B\n義大利 | Do | Re | Mi | Fa | Sol | La | Si\n法國 | Do (Ut) | Re` | Mi | Fa | Sol | La | Si\n英美 | C | D | E | F | G | A | B"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["國家 | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "----|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "德國 | C | D | E | F | G | A | H", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "中日 | C | D | E | F | G | A | B", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "義大利 | Do | Re | Mi | Fa | Sol | La | Si", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "法國 | Do (Ut) | Re` | Mi | Fa | Sol | La | Si", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "英美 | C | D | E | F | G | A | B"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "所以不難發現，德國的第七個音不是稱 \"B\"，而是 \"H\"。義大利和法國則是直接借用唱名"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
@@ -2211,11 +2212,18 @@ __webpack_require__.r(__webpack_exports__);
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "routeBasePath": "/"
+          "routeBasePath": "/",
+          "remarkPlugins": [
+            null
+          ]
         },
         "blog": false,
         "theme": {
           "customCss": "./src/css/custom.css"
+        },
+        "gtag": {
+          "trackingID": "G-74MKXCGYFR",
+          "anonymizeIP": true
         }
       }
     ]
@@ -2280,8 +2288,11 @@ __webpack_require__.r(__webpack_exports__);
             },
             {
               "label": "Complete Think",
-              "href": "https://rickhw.github.io/",
-              "description": "先生不知來自何方，亦不知歸去何處，年過而立，參悟生與死，淡泊名與利，但憂天下蒼生。蹤跡走紅塵，藏身山林田野，撫琴於搖滾，振筆於網路，傳道於教學；神遊金庸武俠，往返程式思考，常以此樂而忘眠。"
+              "href": "https://rickhw.github.io/"
+            },
+            {
+              "label": "公開演講",
+              "href": "https://speakerdeck.com/rickhwang"
             }
           ]
         }
@@ -2295,13 +2306,21 @@ __webpack_require__.r(__webpack_exports__);
           "title": "關於",
           "items": [
             {
-              "label": "喝咖啡 聊音樂",
-              "to": "/about"
+              "label": "關於作者",
+              "href": "https://rickhw.github.io/2017/12/29/About/About-Author/"
+            },
+            {
+              "label": "個人著作",
+              "href": "https://www.gtcafe.com/portfolios"
+            },
+            {
+              "label": "公開演講 (Speakdeck)",
+              "href": "https://speakerdeck.com/rickhwang"
             }
           ]
         },
         {
-          "title": "其他網站",
+          "title": "網站",
           "items": [
             {
               "label": "GTCafe",
@@ -2310,6 +2329,31 @@ __webpack_require__.r(__webpack_exports__);
             {
               "label": "Complete Think",
               "href": "https://rickhw.github.io"
+            },
+            {
+              "label": "喝咖啡 聊音樂",
+              "href": "https://rickmidi.gtcafe.com"
+            },
+            {
+              "label": "喝咖啡 聊音樂 (舊站)",
+              "href": "https://rickmidi.blogspot.com"
+            }
+          ]
+        },
+        {
+          "title": "More",
+          "items": [
+            {
+              "label": "Facebook",
+              "href": "https://www.facebook.com/completethink/"
+            },
+            {
+              "label": "GitHub",
+              "href": "https://github.com/rickhw"
+            },
+            {
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/in/rickhwang/"
             }
           ]
         }
@@ -2612,7 +2656,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_gossip_memory_in_ff_music_md_84f_json__WEBPACK_IMPORTED_MODULE_0__),
 /* harmony export */   toc: () => (/* binding */ toc)
 /* harmony export */ });
-/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_gossip_memory_in_ff_music_md_84f_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(39460);
+/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_gossip_memory_in_ff_music_md_84f_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(17079);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(74848);
 /* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(28453);
 
@@ -2781,6 +2825,17 @@ function MDXContent(props = {}) {
 
 /***/ },
 
+/***/ 5033
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/IMG_7389-31f76d7125c74980ba5e00378ffc6c36.jpg");
+
+/***/ },
+
 /***/ 5048
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -2796,17 +2851,6 @@ function MDXContent(props = {}) {
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */function IconWordWrap(props){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("svg",{viewBox:"0 0 24 24",...props,children:/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("path",{fill:"currentColor",d:"M4 19h6v-2H4v2zM20 5H4v2h16V5zm-3 6H4v2h13.25c1.1 0 2 .9 2 2s-.9 2-2 2H15v-2l-3 3l3 3v-2h2c2.21 0 4-1.79 4-4s-1.79-4-4-4z"})});}
-
-/***/ },
-
-/***/ 5094
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic3_c-major-658d4e20714c3eda65126d9a70e06d29.png");
 
 /***/ },
 
@@ -3363,17 +3407,6 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/* NProgress, 
 
 /***/ },
 
-/***/ 5959
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/IMG_7392-637b0ba8daecc14b950f581ac254774a.jpg");
-
-/***/ },
-
 /***/ 6125
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -3659,25 +3692,14 @@ exports.version = "19.2.3";
 
 /***/ },
 
-/***/ 6393
+/***/ 6443
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Gmaj7_Arp_on_Various_Strings-75bf1dcec81d80f80581c8adacfa16cc.png");
-
-/***/ },
-
-/***/ 6490
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Hotel-California-cee2f7bd6910f27f732dc8e7edc80464.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -4571,6 +4593,7 @@ const toc = [{
 function _createMdxContent(props) {
   const _components = {
     a: "a",
+    br: "br",
     h2: "h2",
     hr: "hr",
     li: "li",
@@ -4676,8 +4699,8 @@ function _createMdxContent(props) {
       children: "Know the NOTES on the NECK (知道指版上所有的音名)"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "不只是看六線譜，而是要知道指版上所有的音名位置。手上沒有吉他的時候，也能夠做視覺化的練習，以下是幾種常見的練習方法："
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "指版視覺化：第五弦第七格是 E，表示成 (5, 7, E)、(4, 10, C)、(3, 9, E) ... 等。\n給一個音名，例如 Eb，然後很快的找出指板上所有的 Eb\n給一個音名，找出他的完全四度、完全五度\n給一個和弦、和調姓，找出一定範圍之內的所有順階和弦\n上述的練習，手上是都不可以有吉他的，通常是坐車、搭捷運的時候可以這樣練習。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["指版視覺化：第五弦第七格是 E，表示成 (5, 7, E)、(4, 10, C)、(3, 9, E) ... 等。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "給一個音名，例如 Eb，然後很快的找出指板上所有的 Eb", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "給一個音名，找出他的完全四度、完全五度", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "給一個和弦、和調姓，找出一定範圍之內的所有順階和弦", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "上述的練習，手上是都不可以有吉他的，通常是坐車、搭捷運的時候可以這樣練習。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "這部分很重要，但是很多學習者都很容易忽略他。認為只要看六線譜就夠了，但往往會造就不思考的習慣。這樣對於學習是很不好的。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -4805,6 +4828,17 @@ function MDXContent(props = {}) {
 
 /***/ },
 
+/***/ 6852
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/01-2-c193ea1348691efdd9783e783606b02b.JPG");
+
+/***/ },
+
 /***/ 6877
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -4895,17 +4929,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ },
 
-/***/ 7258
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/AranjuesMonAmour-ef9a4fc17e166ebd47a1d5f8c0a74f90.jpg");
-
-/***/ },
-
 /***/ 7268
 (module) {
 
@@ -4937,6 +4960,17 @@ isFocusedAnchor.current=false;}else if(scrollTop>=lastScrollTop){// The user has
 // animation under progress.
 cancelScroll();setShown(false);}else if(scrollTop<threshold){// Scrolled to the minimum position; hide the button.
 setShown(false);}else if(scrollTop+window.innerHeight<document.documentElement.scrollHeight){setShown(true);}});(0,_utils_useLocationChange__WEBPACK_IMPORTED_MODULE_2__/* .useLocationChange */ .$)(locationChangeEvent=>{if(locationChangeEvent.location.hash){isFocusedAnchor.current=true;setShown(false);}});return{shown,scrollToTop:()=>startScroll(0)};}
+
+/***/ },
+
+/***/ 7674
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FollowLove-a8a282953861644d88c51b19a45fcbbd.jpg");
 
 /***/ },
 
@@ -4974,17 +5008,6 @@ module.exports = {
 
 /***/ },
 
-/***/ 8224
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/04-1-fa60899acc4d37ce6c73d8b8392291ff.JPG");
-
-/***/ },
-
 /***/ 8244
 (module) {
 
@@ -5015,17 +5038,6 @@ module.exports = {
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */function Tag({permalink,label,count,description}){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A,{rel:"tag",href:permalink,title:description,className:(0,clsx__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)((_styles_module_css__WEBPACK_IMPORTED_MODULE_3___default().tag),count?(_styles_module_css__WEBPACK_IMPORTED_MODULE_3___default().tagWithCount):(_styles_module_css__WEBPACK_IMPORTED_MODULE_3___default().tagRegular)),children:[label,count&&/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("span",{children:count})]});}
-
-/***/ },
-
-/***/ 8517
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Night-277e97ea8a4a12d77a508d0eefde891a.jpg");
 
 /***/ },
 
@@ -5149,6 +5161,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"songs/Songs-for-Nylon-Guitar/in
 
 /***/ },
 
+/***/ 8900
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+
+/***/ },
+
 /***/ 8944
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -5182,17 +5205,6 @@ return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_8__.jsx)(_theme
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/just-getting-started/index","title":"十年，不過是入門而已","description":"怎樣才算入門？","source":"@site/docs/gossip/just-getting-started/index.md","sourceDirName":"gossip/just-getting-started","slug":"/gossip/just-getting-started/","permalink":"/gossip/just-getting-started/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"}],"version":"current","frontMatter":{"title":"十年，不過是入門而已","description":"怎樣才算入門？","date":"2008-10-07T00:00:00.000Z","tags":["★","聊天"]},"sidebar":"tutorialSidebar","previous":{"title":"聊聊 Jimi Hendrix","permalink":"/gossip/jimi-hendrix"},"next":{"title":"學習聆聽","permalink":"/gossip/learn-to-listen"}}');
-
-/***/ },
-
-/***/ 9073
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -5231,17 +5243,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Tritone","permalink":
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Augmented","permalink":"/tags/augmented","allTagsPath":"/tags","count":1,"items":[{"id":"theory/tritone","title":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","permalink":"/theory/tritone"}],"unlisted":false}}');
-
-/***/ },
-
-/***/ 9378
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -5399,7 +5400,7 @@ function _createMdxContent(props) {
       })]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(7258)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(1536)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5423,7 +5424,7 @@ function _createMdxContent(props) {
       allowfullscreen: true
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(46206)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(12200)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5434,7 +5435,7 @@ function _createMdxContent(props) {
       children: "世界名曲，剛開始學琴時練得兩聲部合奏曲。旋律、和弦都很簡單，很適合新手。和弦比一般教四大和弦都還簡單。我也試著拿來當作自己的教材過。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(67963)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(46377)/* ["default"] */ .A) + "",
         width: "1600",
         height: "1200"
       })
@@ -5449,7 +5450,7 @@ function _createMdxContent(props) {
       children: "除了這首，當時也練了最有名的『夢中的婚禮』，同樣也超難的。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(72980)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(22450)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5460,7 +5461,7 @@ function _createMdxContent(props) {
       children: "吉他二重奏。很輕快的、和聲非常豐富的曲子，難度也不高。我第一、第二部都練過，那時候表演常彈的曲子。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(81152)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(63217)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5478,7 +5479,7 @@ function _createMdxContent(props) {
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(98330)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(96)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5500,7 +5501,7 @@ function _createMdxContent(props) {
       allowfullscreen: true
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(39455)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(68469)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5525,7 +5526,7 @@ function _createMdxContent(props) {
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(87229)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(58967)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5539,7 +5540,7 @@ function _createMdxContent(props) {
       children: "失去的地平線"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(78001)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(43335)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5548,7 +5549,7 @@ function _createMdxContent(props) {
       children: "Love Story"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(41096)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(3614)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5557,7 +5558,7 @@ function _createMdxContent(props) {
       children: "Love is Blue"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(95461)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(35443)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5568,7 +5569,7 @@ function _createMdxContent(props) {
       children: "我非常喜歡的曲子，難度也適中。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(9708)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(16998)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5577,7 +5578,7 @@ function _createMdxContent(props) {
       children: "Because I Love You"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(97406)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(63380)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5595,7 +5596,7 @@ function _createMdxContent(props) {
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(35318)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(12560)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -5664,25 +5665,14 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 9708
+/***/ 9473
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Somewhere-Out-There-1aef1272d231d67237b84db8cc30296f.jpg");
-
-/***/ },
-
-/***/ 9964
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Miss-in-the-night-e23fdb9d08603ef571906372feafa016.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/01-3-47b87cbee66a710514c4b0b735c86746.JPG");
 
 /***/ },
 
@@ -5769,6 +5759,28 @@ if(samePathname&&sameHash&&!sameSearch){return;}const{hash}=location;if(!hash){w
 
 /***/ },
 
+/***/ 10936
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/CantHelpFallingInLove-926dcd4b278ff6cac4f4c8a99b99eda1.jpg");
+
+/***/ },
+
+/***/ 11016
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/gemini01-6935bbd558b80b2c41fc4a28216ecc9f.jpg");
+
+/***/ },
+
 /***/ 11139
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -5839,6 +5851,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     code: "code",
     h1: "h1",
     h2: "h2",
@@ -5947,7 +5960,7 @@ function _createMdxContent(props) {
       children: "這些資訊可以在 Sound Module 的 Data Sheet 找到，以 XS8 的資訊如下："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(80522)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(56748)/* ["default"] */ .A) + "",
         width: "1574",
         height: "652"
       })
@@ -5979,7 +5992,7 @@ function _createMdxContent(props) {
       children: "以 XS8 為例，直接切換到琴上 Sequencer Mode 的 Song 模式，Pattern 也可以，如下圖："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(93713)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(55779)/* ["default"] */ .A) + "",
         width: "2936",
         height: "1364"
       })
@@ -5989,7 +6002,7 @@ function _createMdxContent(props) {
       }), "："]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(17268)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(38586)/* ["default"] */ .A) + "",
         width: "2913",
         height: "2378"
       })
@@ -6006,7 +6019,7 @@ function _createMdxContent(props) {
       children: "我使用的 DAW 是 Logic Pro，依照你的 DAW 找到 MIDI 的 Event View。Logic Pro 是在畫面的右上角的，如下圖："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(2954)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(47316)/* ["default"] */ .A) + "",
         width: "2911",
         height: "1463"
       })
@@ -6022,7 +6035,7 @@ function _createMdxContent(props) {
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(85315)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(12797)/* ["default"] */ .A) + "",
         width: "902",
         height: "792"
       })
@@ -6038,8 +6051,8 @@ function _createMdxContent(props) {
               children: "Bank MSB"
             }), " 與 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
               children: "Bank LSB"
-            }), "。注意 LSB 選擇 32 (選單中沒有編號的)，如下圖：\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-              src: (__webpack_require__(65693)/* ["default"] */ .A) + "",
+            }), "。注意 LSB 選擇 32 (選單中沒有編號的)，如下圖：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
+              src: (__webpack_require__(43503)/* ["default"] */ .A) + "",
               width: "1132",
               height: "396"
             })]
@@ -6057,7 +6070,7 @@ function _createMdxContent(props) {
       children: "這時候回到琴上面，查看 Sequencer 的 Patch 會發現前面三個 Channel 音色已經改成如我們想要的音色了，如下圖："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(80227)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(17389)/* ["default"] */ .A) + "",
         width: "2973",
         height: "2443"
       })
@@ -6112,6 +6125,17 @@ function MDXContent(props = {}) {
 
 /***/ },
 
+/***/ 11158
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/SummerNight-9f647068463c1b0e023007408c51224c.jpg");
+
+/***/ },
+
 /***/ 11536
 (module) {
 
@@ -6143,17 +6167,6 @@ function invariant(condition, message) {
 
 
 
-
-/***/ },
-
-/***/ 11686
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -6240,11 +6253,33 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ },
 
+/***/ 12200
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Letter-for-Anna-b401b23a8d39d9b6973ed856cc114782.jpg");
+
+/***/ },
+
 /***/ 12338
 (module) {
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Modal Interchange","permalink":"/tags/modal-interchange","allTagsPath":"/tags","count":1,"items":[{"id":"theory/modal-interchange","title":"調式內轉 (Modal Interchange)","description":"調式內轉 (Modal Interchange，也有書本翻譯成 借用和弦、調式互換) 是一種和聲技巧，簡單說就是大小調和聲的借用、代換技巧。可以讓以調為中心的歌曲在進行中製造出類似轉調的感覺、和張力，但卻不是大段落的轉調。他的感覺不像直接轉調那樣一直延續情緒、卻無法延續張力，但卻讓歌曲有明顯且有效的張力效果。對歌曲來說，可說是有畫龍點睛的效果。","permalink":"/theory/modal-interchange"}],"unlisted":false}}');
+
+/***/ },
+
+/***/ 12560
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/巴黎日記-31eb4fcd19f6e38654be14784d7fdb3a.jpg");
 
 /***/ },
 
@@ -6438,7 +6473,7 @@ function _createMdxContent(props) {
       })]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(99922)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(47904)/* ["default"] */ .A) + "",
         width: "1079",
         height: "562"
       })
@@ -6515,7 +6550,7 @@ function _createMdxContent(props) {
       children: "讀者可以自行拿紙筆作一下, 把大調音階圖畫出來, 然後把 Fa, Ti 拿掉, 就會得到五聲音階了. 大概會長的像下圖:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(58397)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(51507)/* ["default"] */ .A) + "",
         width: "1094",
         height: "637"
       })
@@ -6529,7 +6564,7 @@ function _createMdxContent(props) {
       children: "五聲音階練習方法和大調音階練習方法都類似, 也可以參考 \"吉他基本功\" 的描述. 很多吉他 Solo Line, 都會以五聲音階為基礎和延伸, 例如 \"五聲音階與調式音階關係\" 的應用. 所以五聲音階對於吉他手來講非常非常非常非常非常非常非常重要, 一定要熟練, 因為:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(80706)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(85796)/* ["default"] */ .A) + "",
         width: "621",
         height: "287"
       })
@@ -6544,7 +6579,7 @@ function _createMdxContent(props) {
       children: "間接指型: 把位平移, 也就是利用相同音階指型, 但是不同根音的特性來彈奏, 如下圖:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(39323)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(88361)/* ["default"] */ .A) + "",
         width: "619",
         height: "422"
       })
@@ -6554,7 +6589,7 @@ function _createMdxContent(props) {
       children: "直接指型: 同一個把位, 但是不同指型直接轉換."
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(84341)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(56035)/* ["default"] */ .A) + "",
         width: "588",
         height: "453"
       })
@@ -6602,7 +6637,7 @@ function _createMdxContent(props) {
       children: "不管是音階還是和弦, 鼓勵同學學習的過程作一些簡單的想像, 手邊沒吉他的時候, 拿起紙筆塗鴉, 天馬行空, 找個人來教. 附上我過去的學習足跡, 或許能夠拋磚引玉 ~"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(99471)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(71425)/* ["default"] */ .A) + "",
         width: "728",
         height: "447"
       })
@@ -6668,6 +6703,17 @@ function MDXContent(props = {}) {
 }
 
 
+
+/***/ },
+
+/***/ 12797
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/logic-pro-message-f27d3e1826620b25301303db825d187b.png");
 
 /***/ },
 
@@ -7029,6 +7075,17 @@ function CodeInline(props){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPO
 
 /***/ },
 
+/***/ 13505
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_advance2_secondary-dominant_c-major-a2ad6ddfa857461332695b76a38b45b6.png");
+
+/***/ },
+
 /***/ 13558
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -7114,6 +7171,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     code: "code",
     h2: "h2",
     h3: "h3",
@@ -7189,8 +7247,8 @@ function _createMdxContent(props) {
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
         children: "會有一組順階和弦 (以七和弦為例) 為："
       }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Level | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ  | 備註/說明\n-------|---|---|---|---|---|---|---|---|---|\n順階和弦 | Cmaj7 | Dm7 | Em7 | Fmaj7 | G7 | Am7 | Bm7-5 | 不斷反覆"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Level | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ  | 備註/說明", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "-------|---|---|---|---|---|---|---|---|---|", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "順階和弦 | Cmaj7 | Dm7 | Em7 | Fmaj7 | G7 | Am7 | Bm7-5 | 不斷反覆"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "所以，我們一般在說一首曲子是什麼調時，會說： \"C 大調\"，或者 \"A 小調\"。\"A 小調\" 就等於告訴大家歌曲的基本訊息為："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ol, {
@@ -7217,28 +7275,28 @@ function _createMdxContent(props) {
       }), " 是以 \"調\" 的觀念為基礎，但是從不同角度理解的概念。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "先看一般的理解方式，大部分都會從有一樣的音階音群來看，像是 C 大調跟 G Mixolydian 為例，他們有著同樣的音階音群，但是他們的根音分別為： C 跟 G。他們使用同樣的音，但是這些音有著不同的次序："
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Mode | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | 備註/說明\n-------|---|---|---|---|---|---|---|---|---|\nC Ionian | C | D | E | F | G | A | B | 或者說是 C Major\nG Mixolydian | G | A | B | C | D | E | F |"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Mode | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | 備註/說明", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "-------|---|---|---|---|---|---|---|---|---|", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Ionian | C | D | E | F | G | A | B | 或者說是 C Major", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "G Mixolydian | G | A | B | C | D | E | F |"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "使用到的 \"音\" 相同，但是次序不同，所以就表面上而言，他們似乎一樣，但是實際上，他們卻有不同的音程關係："
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Mode | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | 音程 (Interval)\n-------|---|---|---|---|---|---|---|---|---|\nC Ionain | 1 | 2 | 3 | 4 | 5 | 6 | 7 | WWHWWWH\nG Mixolydian | 1 | 2 | 3 | 4 | 5 | 6 | b7 | WWHWWHW"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Mode | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | 音程 (Interval)", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "-------|---|---|---|---|---|---|---|---|---|", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Ionain | 1 | 2 | 3 | 4 | 5 | 6 | 7 | WWHWWWH", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "G Mixolydian | 1 | 2 | 3 | 4 | 5 | 6 | b7 | WWHWWHW"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "在聆聽時，我們應該是聽的是音程關係，然後配合加上終止式，然後來決定歌曲到底是哪一個調式。類似的例子可以參考 \"GNR - Sweet Child O' Mine\" 的實例分析。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "另外一個最常見的例子就是關係大小調，Ex："
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Scale | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | 備註\n-------|---|---|---|---|---|---|---|---|---|\nC Ionain | C | D | E | F | G | A | B | C Major\nA Aeolian | A | B | C | D | E | F | G | A Minor"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Scale | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | 備註", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "-------|---|---|---|---|---|---|---|---|---|", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Ionain | C | D | E | F | G | A | B | C Major", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "A Aeolian | A | B | C | D | E | F | G | A Minor"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "他們也有相同的音群，但是卻有著不同的根音，他們的音程關係卻是完全不一樣。如下表："
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Mode | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | 音程 (Interval)\n-------|---|---|---|---|---|---|---|---|---|\nC Ionain | 1 | 2 | 3 | 4 | 5 | 6 | 7 | WWHWWWH\nA Aeolian | 1 | 2 | b3 | 4 | 5 | b6 | b7 | WHWWHWW"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Mode | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | 音程 (Interval)", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "-------|---|---|---|---|---|---|---|---|---|", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Ionain | 1 | 2 | 3 | 4 | 5 | 6 | 7 | WWHWWWH", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "A Aeolian | 1 | 2 | b3 | 4 | 5 | b6 | b7 | WHWWHWW"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "關於小調詳細請參閱 \"小調音階 (Minor Scale)\" 的介紹。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "所以不難發現，學習調式的時候，實際上音程的關係是非常重要的，也就是跟一般 \"調性 (Tonality)\" 的差異是在於音程關係的不同。所以把第一段調性提到的 \"構成調姓三個要素\" 的第二個點，以 C Ionain 和 C Aeolian 比較，如下表："
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Mode | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | 音程 (Interval)\n-------|---|---|---|---|---|---|---|---|---|\nC Ionain | 1 / C | 2 / D | 3 / E | 4 / F | 5 / G | 6 / A | 7 / B | WWHWWWH\nC Aeolian | 1 / C | 2 / D | b3 / Eb | 4 / F | 5 / G | b6 / Ab | b7 / Bb | WHWWHWW"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Mode | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | 音程 (Interval)", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "-------|---|---|---|---|---|---|---|---|---|", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Ionain | 1 / C | 2 / D | 3 / E | 4 / F | 5 / G | 6 / A | 7 / B | WWHWWWH", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Aeolian | 1 / C | 2 / D | b3 / Eb | 4 / F | 5 / G | b6 / Ab | b7 / Bb | WHWWHWW"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "這樣就很明顯的發現，跟音一樣，但是音程不一樣。這也就是我們聆聽調式音樂時實際上和調性音樂的差異。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -7292,7 +7350,7 @@ function _createMdxContent(props) {
       children: "熟悉吉他五個基本 Pattern 的人一定會發現一件事情，C 大調 Pattern 1 (Mi型, 如 Fig. 1) 如果把 F 改成 F#，指形就會從 Pattern 1 變成 Pattern 3 (La型, 如 Fig. 2)，形成 G 大調音階。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(23296)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(98810)/* ["default"] */ .A) + "",
         width: "613",
         height: "188"
       })
@@ -7300,7 +7358,7 @@ function _createMdxContent(props) {
       children: "Figure 1. C Major Scale (Pattern 1)"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(45305)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(49587)/* ["default"] */ .A) + "",
         width: "615",
         height: "194"
       })
@@ -7310,7 +7368,7 @@ function _createMdxContent(props) {
       children: "從 G Major 推算 G Mixolydian 只要把 7 降半音，也就是 F# -> F，結果指型又回到了原本 Pattern 1 (Fig. 3)。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(3428)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(64914)/* ["default"] */ .A) + "",
         width: "636",
         height: "194"
       })
@@ -7436,17 +7494,6 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 13845
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/CannotForget-386f0f1c4b98c444dc853542d51415e4.jpg");
-
-/***/ },
-
 /***/ 13888
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -7484,6 +7531,17 @@ module.exports = {
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/major-scale/index","title":"大調音階 (Major Scale)","description":"整理大調音階的概念","source":"@site/docs/theory/major-scale/index.md","sourceDirName":"theory/major-scale","slug":"/theory/major-scale/","permalink":"/theory/major-scale/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★★","permalink":"/tags/★★★★★"},{"inline":true,"label":"樂理","permalink":"/tags/樂理"},{"inline":true,"label":"音階","permalink":"/tags/音階"},{"inline":true,"label":"Interval","permalink":"/tags/interval"},{"inline":true,"label":"Harmony","permalink":"/tags/harmony"},{"inline":true,"label":"Tritone","permalink":"/tags/tritone"}],"version":"current","frontMatter":{"title":"大調音階 (Major Scale)","linkTitle":"大調音階","description":"整理大調音階的概念","date":"2010-10-16T00:00:00.000Z","resources":null,"cover":"keyboard.png","tags":["★★★★★","樂理","音階","Interval","Harmony","Tritone"],"weight":11},"sidebar":"tutorialSidebar","previous":{"title":"再談『首調、固定唱名』與『相對、絕對音感』","permalink":"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch"},"next":{"title":"小調音階 (Minor Scale)","permalink":"/theory/minor-scale/"}}');
+
+/***/ },
+
+/***/ 14108
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/know_a_little2-b34a3e2845c8bbf536c0c43c8d8aa198.jpg");
 
 /***/ },
 
@@ -7547,6 +7605,17 @@ if(index%2===1){const value=values?.[seg.slice(1,-1)];if(value!==undefined){retu
 
 /***/ },
 
+/***/ 14455
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/JohnPetrucci-WarmUp-ef37ae4aea4f46a3fb7b0fc53c83e78b.png");
+
+/***/ },
+
 /***/ 14544
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -7606,6 +7675,7 @@ const toc = [{
 function _createMdxContent(props) {
   const _components = {
     a: "a",
+    br: "br",
     h2: "h2",
     h3: "h3",
     hr: "hr",
@@ -7624,7 +7694,7 @@ function _createMdxContent(props) {
       children: "一般在歌曲中的應用，依歌曲的情緒和需要，很常會在屬七和弦作變化，或者互相代換使用，也就是大調中的五級。有的時候編曲者需要更豐富的，則會選擇繼續往 tension 堆疊。以 G7 來說，如下圖:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(38523)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(65181)/* ["default"] */ .A) + "",
         width: "473",
         height: "151"
       })
@@ -7702,8 +7772,8 @@ function _createMdxContent(props) {
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "G13 大部分會用 G6 or G6/9 來代理，但是 G6/9 不是 Extended Chord，不具備屬七的聲響，所以這邊先不談."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "G7sus2 中的 D F A 剛好是 Dm，所以又可以是 G7sus2 => Dm/G.\nG7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C => Dm7/G，或者 G9sus4"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["G7sus2 中的 D F A 剛好是 Dm，所以又可以是 G7sus2 => Dm/G.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "G7sus4 中，如果把 G11 裡的 A 放進去，會得到 G D F A C => Dm7/G，或者 G9sus4"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "所以 G7 在歌曲中常常會被代換成 G7sus2，G7sus4，G9sus4，Dm/G，Dm7/G."
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -7843,17 +7913,6 @@ const sortedVersions=[...data.versions].sort((a,b)=>{if(a.path===b.path){return 
 
 /***/ },
 
-/***/ 14940
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tools5-5e96bc75a2436fb83e55409efc1f2954.png");
-
-/***/ },
-
 /***/ 14964
 (module) {
 
@@ -7862,14 +7921,25 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"刻意練習","permal
 
 /***/ },
 
-/***/ 15435
+/***/ 15279
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Reason-9112386b265ad6251e24d1cbb9a6088f.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/minor-scale-on-guitar-3e5be50b2e0b7f334c513097f2f2fa3c.png");
+
+/***/ },
+
+/***/ 15552
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FFV_DearFriends-3-e457531e89d1bcb5122bbe878ad3546b.png");
 
 /***/ },
 
@@ -7892,47 +7962,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"刻意練習","permal
 
 /***/ },
 
-/***/ 15634
+/***/ 16647
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Gmaj7_Arp_on_56_Strings-2847b26240f7d2ae0c610364d2130ad6.png");
-
-/***/ },
-
-/***/ 15770
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/MuiscScaleLearningMap-2a7e789eeba0dbfe62257cd1f692986c.png");
-
-/***/ },
-
-/***/ 16079
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/q-a15b0c71f1ba1cf2f4975e77e5b0620f.jpg");
-
-/***/ },
-
-/***/ 16138
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/CannotForget-386f0f1c4b98c444dc853542d51415e4.jpg");
 
 /***/ },
 
@@ -7988,6 +8025,28 @@ function CodeBlockJSX({children,className}){return/*#__PURE__*/(0,react_jsx_runt
 
 /***/ },
 
+/***/ 16998
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Somewhere-Out-There-1aef1272d231d67237b84db8cc30296f.jpg");
+
+/***/ },
+
+/***/ 17038
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/workable01-80b325089a5e9fb5d9146914a25dc099.png");
+
+/***/ },
+
 /***/ 17065
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -8006,13 +8065,10 @@ const DEFAULT_PLUGIN_ID='default';
 /***/ },
 
 /***/ 17079
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+(module) {
 
 "use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/xtl_mark-2744f2252a9161a5f5cd4a11a4079e12.png");
+module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/memory-in-ff-music","title":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","description":"整理電玩雜誌對作曲家植松伸夫訪談紀錄","source":"@site/docs/gossip/memory-in-ff-music.md","sourceDirName":"gossip","slug":"/gossip/memory-in-ff-music","permalink":"/gossip/memory-in-ff-music","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"},{"inline":true,"label":"Final Fantasy","permalink":"/tags/final-fantasy"}],"version":"current","frontMatter":{"title":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","date":"2007-07-23T00:00:00.000Z","description":"整理電玩雜誌對作曲家植松伸夫訪談紀錄","tags":["★","聊天","Final Fantasy"]},"sidebar":"tutorialSidebar","previous":{"title":"數學問題?","permalink":"/gossip/mathematics"},"next":{"title":"怎麼彈和彈什麼","permalink":"/gossip/play-what-and-how-to-play"}}');
 
 /***/ },
 
@@ -8061,14 +8117,14 @@ const DEFAULT_PLUGIN_ID='default';
 
 /***/ },
 
-/***/ 17268
+/***/ 17389
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/before-4e93d55c347cae3ca4300ec9d63c454a.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/after-2235c728e2d09a89b5e0afabe702e39e.png");
 
 /***/ },
 
@@ -8337,6 +8393,17 @@ function MDXContent(props = {}) {
 
 /***/ },
 
+/***/ 17511
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+
+/***/ },
+
 /***/ 17559
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -8380,17 +8447,6 @@ module.exports = {
 
 /***/ },
 
-/***/ 17958
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Knowledge_Experience-1ff0dac51d640e8851ba2fbed516cca6.png");
-
-/***/ },
-
 /***/ 18009
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -8429,17 +8485,6 @@ Details:_theme_MDXComponents_Details__WEBPACK_IMPORTED_MODULE_5__/* ["default"] 
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/files/one-night-in-bejian-109a646596af79234a8698736e6d5402.mp3");
-
-/***/ },
-
-/***/ 18400
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/TheHeavyMemory-e36d59dc6aeef49935375a81f97f5d5f.jpg");
 
 /***/ },
 
@@ -8578,6 +8623,7 @@ const toc = [{
 function _createMdxContent(props) {
   const _components = {
     a: "a",
+    br: "br",
     code: "code",
     h3: "h3",
     img: "img",
@@ -8624,11 +8670,11 @@ function _createMdxContent(props) {
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(46198)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(11016)/* ["default"] */ .A) + "",
         width: "1550",
         height: "1298"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(95809)/* ["default"] */ .A) + "",
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
+        src: (__webpack_require__(21943)/* ["default"] */ .A) + "",
         width: "1514",
         height: "1472"
       })]
@@ -8636,11 +8682,11 @@ function _createMdxContent(props) {
       children: "搞定之後，最後 MacOS 就可以正常識別 mk4 了！相關的工具也都可以正常運作，可以開工了 XD"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(34176)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(17038)/* ["default"] */ .A) + "",
         width: "720",
         height: "650"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(61299)/* ["default"] */ .A) + "",
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
+        src: (__webpack_require__(65845)/* ["default"] */ .A) + "",
         width: "2048",
         height: "1127"
       })]
@@ -8694,6 +8740,17 @@ function MDXContent(props = {}) {
 
 /***/ },
 
+/***/ 19217
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Crying-9eb3dbb7afab9082664a501a9a27bd64.jpg");
+
+/***/ },
+
 /***/ 19421
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -8715,14 +8772,14 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 19699
+/***/ 19451
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_advance2_secondary-dominant_c-major-a2ad6ddfa857461332695b76a38b45b6.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Night-277e97ea8a4a12d77a508d0eefde891a.jpg");
 
 /***/ },
 
@@ -8854,17 +8911,6 @@ function MDXContent(props = {}) {
 
 }(Prism));
 
-
-/***/ },
-
-/***/ 19970
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Arp-Am7_D7-738a0c108cc44f0927510b0333e6bc01.png");
 
 /***/ },
 
@@ -9422,6 +9468,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     code: "code",
     h2: "h2",
     h3: "h3",
@@ -9532,11 +9579,11 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "『了解自己』還有一點很重要，就是要很慎重、很認真的思考一件事情："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-        children: "練琴、或者說音樂這件事情，對你的人生很重要嗎？\n他在你的人生中，在你的心裡，是什麼位置？\n過客？一時興起？玩玩而已？要靠它吃飯？"
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+        children: ["練琴、或者說音樂這件事情，對你的人生很重要嗎？", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "他在你的人生中，在你的心裡，是什麼位置？", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "過客？一時興起？玩玩而已？要靠它吃飯？"]
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["如果你覺得在人生中他是一件事情，\n那麼就要認真的看待它，認真的看待 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+      children: ["如果你覺得在人生中他是一件事情，", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "那麼就要認真的看待它，認真的看待 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
         children: "練習"
       }), " 這件事情。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
@@ -9544,10 +9591,10 @@ function _createMdxContent(props) {
       children: "三、安排時間，養成習慣"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "回到主題，以上班族為例來說，目標是：『每天下班練琴兩個小時』"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "我在『吉他基本功』最後有提到：時間管理\n這就是其中主要的要點之一：重要性、優先權。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "每個人對於事情的重要性和優先權定義不一樣。\n很多人下班大概行程都是這樣："
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["我在『吉他基本功』最後有提到：時間管理", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "這就是其中主要的要點之一：重要性、優先權。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["每個人對於事情的重要性和優先權定義不一樣。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "很多人下班大概行程都是這樣："]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
       children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
         children: "下班吃飯、洗澡"
@@ -9593,8 +9640,8 @@ function _createMdxContent(props) {
       children: "找一個可以激勵自己的方法，可以是外在的人事物，或者自我的實踐。那時候常常會這樣鼓勵自己："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "我想買設備，例如效果器、或者錄音界面、琴 (包含吉他 or Keyboard)，但是不可以用上班的薪水買，所以就接很多學生教、接表演；或者找一些很難的歌來挑戰，在過程中，就是很努力練琴，很努力 k 一些音樂書、分析歌曲結構、寫 Blog 唬爛，或者找設備的使用手冊 (效果器或者 keyboard 的手冊都有) 來 k ..."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "我每天都有睡前閱讀的習慣，通常睡覺前會在床上看書一到半小時，大部分是看金庸武俠小說、程式相關的書籍 (到現在還是)。\n但是有一段時間我是在電腦前面看設備的使用手冊，所以才有 \"數位器材、音樂製作專有名詞對照表\" 的整理。這些手冊包含 Keyboard、吉他效果器、或者一音樂使相關的書 (搖滾音樂史、藍調故事、爵士音樂史) ... 這些故事是我上課或者跟朋友唬爛的來源 XDD"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["我每天都有睡前閱讀的習慣，通常睡覺前會在床上看書一到半小時，大部分是看金庸武俠小說、程式相關的書籍 (到現在還是)。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "但是有一段時間我是在電腦前面看設備的使用手冊，所以才有 \"數位器材、音樂製作專有名詞對照表\" 的整理。這些手冊包含 Keyboard、吉他效果器、或者一音樂使相關的書 (搖滾音樂史、藍調故事、爵士音樂史) ... 這些故事是我上課或者跟朋友唬爛的來源 XDD"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "通常一段時間之後，錢存夠了、歌大概也練好了、手冊也 k 的很熟了，就買設備來玩。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -9602,8 +9649,8 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
       id: "結語",
       children: "結語"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "自從兩年前 (2013) 我換工作後，我就更忙了，碰琴時間相對少很多。\n偶爾還是會練練團，有時候也會有以前的團員找我做場子，或者上課的教會問我有沒空，可否回去教琴。\n但是一個人體力時間都有限，所以我只能用其他方式保持我的熱忱。\n像是偶爾去練團室走走、在 FB 的社團和朋友交換想法 ...."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["自從兩年前 (2013) 我換工作後，我就更忙了，碰琴時間相對少很多。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "偶爾還是會練練團，有時候也會有以前的團員找我做場子，或者上課的教會問我有沒空，可否回去教琴。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "但是一個人體力時間都有限，所以我只能用其他方式保持我的熱忱。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "像是偶爾去練團室走走、在 FB 的社團和朋友交換想法 ...."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "這篇可能沒講到啥如何安排練習的細節，不過分享了我個人曾經的過去給大家做參考。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -9678,17 +9725,6 @@ function MDXContent(props = {}) {
 }
 
 
-
-/***/ },
-
-/***/ 21350
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/digital-audio-system-eda49dbffe9319011ec110963df09514.png");
 
 /***/ },
 
@@ -9947,6 +9983,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"音程","permalink":"
 
 /***/ },
 
+/***/ 21586
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FFV_DearFriends-1-0be38711f8880de9fc2f44b56aee36aa.png");
+
+/***/ },
+
 /***/ 21745
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -10144,7 +10191,7 @@ function _createMdxContent(props) {
       }), ")："]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(6490)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(95996)/* ["default"] */ .A) + "",
         width: "737",
         height: "245"
       })
@@ -10363,6 +10410,17 @@ module.exports = {
 
 /***/ },
 
+/***/ 21943
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/gemini02-ccd20534ec5e9f9715e3fb0250094140.jpg");
+
+/***/ },
+
 /***/ 22065
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -10440,6 +10498,17 @@ return false;}}),/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.
  */// Should we have a custom details/summary comp in Infima instead of reusing
 // alert classes?
 const InfimaClasses='alert alert--info';function Details({...props}){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(_docusaurus_theme_common_Details__WEBPACK_IMPORTED_MODULE_2__/* .Details */ .B,{...props,className:(0,clsx__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)(InfimaClasses,(_styles_module_css__WEBPACK_IMPORTED_MODULE_3___default().details),props.className)});}
+
+/***/ },
+
+/***/ 22450
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/BalladePourAdeline-692adce61ccf8d7ada6ad58a6f80edf2.jpg");
 
 /***/ },
 
@@ -10695,25 +10764,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"echo","permalink":"/t
 
 /***/ },
 
-/***/ 23296
+/***/ 23345
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/fig1_CMajor-P1-73809d58895977637e24efdc736f0746.png");
-
-/***/ },
-
-/***/ 23341
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_advance1_line-cliches-92d1eacbe0e9f9a8e3296396e9eecc93.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/04-2-c33dd64ba69cfb5cee01758d63b12825.JPG");
 
 /***/ },
 
@@ -10775,6 +10833,17 @@ return imageClassName?/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE
 const fallbackAlt=navbarTitle?'':title;// Use logo alt text if provided (including empty string),
 // and provide a sensible fallback otherwise.
 const alt=logo?.alt??fallbackAlt;return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxs)(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A,{to:logoLink,...propsRest,...(logo?.target&&{target:logo.target}),children:[logo&&/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(LogoThemedImage,{logo:logo,alt:alt,imageClassName:imageClassName}),navbarTitle!=null&&/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)("b",{className:titleClassName,children:navbarTitle})]});}
+
+/***/ },
+
+/***/ 23475
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic2_7th_c-major-add908330fc4c81c85b36de315bd9f08.png");
 
 /***/ },
 
@@ -10857,17 +10926,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/suspended-chord","title"
 
 /***/ },
 
-/***/ 24056
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tools1-ee81124b7ad1518bbabd19157e55aeba.png");
-
-/***/ },
-
 /***/ 24180
 (module) {
 
@@ -10876,14 +10934,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"N":"localStorage","M":""}');
 
 /***/ },
 
-/***/ 24423
+/***/ 24202
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/G-Major-Scale+Arpeggios-5abef719ae0669f88eef0a812ff8c1d7.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic1_with-bass_number-notation-def503f68acc142c9d7ba4599bcf5f2a.png");
 
 /***/ },
 
@@ -10920,17 +10978,6 @@ const DesktopBreakpoint=996;function getWindowSize(desktopBreakpoint){if(!_docus
 
 /***/ },
 
-/***/ 24703
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/keyboard-5c4cf5d15b9d509218a5495b21f896c1.png");
-
-/***/ },
-
 /***/ 24745
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -10947,17 +10994,6 @@ const DesktopBreakpoint=996;function getWindowSize(desktopBreakpoint){if(!_docus
  * LICENSE file in the root directory of this source tree.
  */// Pass-through components that users can swizzle and customize
 function CodeBlockLineToken({line,token,...props}){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("span",{...props});}
-
-/***/ },
-
-/***/ 25095
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FFV_DearFriends-2-2c3e813257a14e5aea2cc789497a5eaa.png");
 
 /***/ },
 
@@ -10996,11 +11032,44 @@ module.exports = {
 
 /***/ },
 
+/***/ 25502
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Hand-94e0dcb78f9728ae4d54d22f853103fc.jpg");
+
+/***/ },
+
 /***/ 25545
 (module) {
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"本質","permalink":"/tags/本質","allTagsPath":"/tags","count":1,"items":[{"id":"theory/essence-of-musical-scales","title":"音階的本質","description":"在學習音階的過程中，我心裡一直有個疑惑，為什麼要叫做自然大調音階？自然小調音階？為啥是自然的？不是人工的？為啥又會有調式這種東西存在？","permalink":"/theory/essence-of-musical-scales"}],"unlisted":false}}');
+
+/***/ },
+
+/***/ 25570
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/closed-voicing_on-g-b-210019c90986bc4e02f751dab6a466e1.png");
+
+/***/ },
+
+/***/ 25623
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_advance2_secondary-dominant-c32cc2a36ff408eba93348721f75313d.png");
 
 /***/ },
 
@@ -11132,6 +11201,17 @@ module.exports = {
 	"tag": `tag_Nnez`
 };
 
+
+/***/ },
+
+/***/ 26225
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/07-1-f541ccfc0e73c32c18849fa03f506acf.png");
 
 /***/ },
 
@@ -11467,6 +11547,28 @@ return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(ErrorR
 
 /***/ },
 
+/***/ 26620
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Knowledge_Experience-1ff0dac51d640e8851ba2fbed516cca6.png");
+
+/***/ },
+
+/***/ 26684
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic5-bf7a8915368b7950326f361e590451ff.png");
+
+/***/ },
+
 /***/ 26820
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -11626,14 +11728,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"name":"docusaurus-plugin-content-doc
 
 /***/ },
 
-/***/ 28117
+/***/ 27877
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/closed-voicing-b6320b450b396dea1a968d531ec563f4.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_advance3_modal-interchange-33a5900c1e66d4c4d9400bf4e1ac6d87.png");
 
 /***/ },
 
@@ -11977,7 +12079,7 @@ function _createMdxContent(props) {
       }), " 的概念，簡單說，C 和弦在鍵盤上基本的會有三種排列組合 (如圖):"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(2345)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(89747)/* ["default"] */ .A) + "",
         width: "428",
         height: "179"
       })
@@ -11993,7 +12095,7 @@ function _createMdxContent(props) {
       children: "同理，七和弦會有四種基本的轉位。例如 Cmaj7 來看:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(16138)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(59612)/* ["default"] */ .A) + "",
         width: "383",
         height: "168"
       })
@@ -12018,7 +12120,7 @@ function _createMdxContent(props) {
       children: "同樣的概念，如果跨越了八度音，就會有更多的排列組合，同時會不同於密集聲位，組成音之間不見得會比鄰，或者依序排列，例如:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(65257)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(17511)/* ["default"] */ .A) + "",
         width: "406",
         height: "322"
       })
@@ -12062,7 +12164,7 @@ function _createMdxContent(props) {
       })]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(56844)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(41050)/* ["default"] */ .A) + "",
         width: "441",
         height: "320"
       })
@@ -12139,7 +12241,7 @@ function _createMdxContent(props) {
       }), "，而是表示鍵盤上第幾個八度，中央 C 為第四個八度，寫成 C4。由左到右的所有的 C 分別用 C1、C2、C3、C5 ..。etc 表示，如下圖 ："]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(1627)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(77261)/* ["default"] */ .A) + "",
         width: "1600",
         height: "287"
       })
@@ -12197,7 +12299,7 @@ function _createMdxContent(props) {
       children: "吉他指板有五個基本和弦指型，它們通常就是：CGDAE (如下圖)。其中 C、A、E 我把他們叫做基本指型，因為 D、G 指型都可以分別用 C、A 透過指型簡化 + 空弦應用的方式推出來，這在後面會提到."
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(61004)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(74098)/* ["default"] */ .A) + "",
         width: "825",
         height: "297"
       })
@@ -12210,7 +12312,7 @@ function _createMdxContent(props) {
       children: "上述五種指型都可以用簡化指型的概念來做出基本的變化，最基本的觀念就是省略某幾根弦不按所形成的新的簡易指型。五六弦是最常見的被省略方式，像是剛開始學 F 時，實際上是從 F 的 E 指型簡化來的，如下圖:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(57834)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(88564)/* ["default"] */ .A) + "",
         width: "347",
         height: "232"
       })
@@ -12218,7 +12320,7 @@ function _createMdxContent(props) {
       children: "除了 F，另一個常見的例子就是 D 和弦的由來:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(11686)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(8900)/* ["default"] */ .A) + "",
         width: "368",
         height: "353"
       })
@@ -12231,7 +12333,7 @@ function _createMdxContent(props) {
       children: "七和弦的簡化指型概念跟三和弦一樣。一樣先從五個基本三和弦指型找到七和弦，以屬七和弦 (Dominant Seventh，X7) 做例子:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(9073)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(96543)/* ["default"] */ .A) + "",
         width: "832",
         height: "300"
       })
@@ -12241,7 +12343,7 @@ function _createMdxContent(props) {
       children: "舉一些變化的想法，例如：Emaj7sus2 簡化 (省略五六弦) 後會變成 B。E 和 B 剛好是 I - Ⅴ 的關係，以這兩個的變化出發，就可以玩出很多東西了."
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(99861)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(451)/* ["default"] */ .A) + "",
         width: "593",
         height: "260"
       })
@@ -12253,7 +12355,7 @@ function _createMdxContent(props) {
       children: "另一個例子，Fmaj7 簡化五六弦會得到 Am ."
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(45204)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(31662)/* ["default"] */ .A) + "",
         width: "369",
         height: "291"
       })
@@ -12263,7 +12365,7 @@ function _createMdxContent(props) {
       children: "或者改變簡化的方式，例如 E 型的 A 和弦，保留第六弦 (用拇指按)，省略四五弦，像 A 和弦:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(76718)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(29920)/* ["default"] */ .A) + "",
         width: "608",
         height: "515"
       })
@@ -12415,6 +12517,28 @@ module.exports = {
 
 /***/ },
 
+/***/ 29102
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+
+/***/ },
+
+/***/ 29220
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Arp-Am7_D7-738a0c108cc44f0927510b0333e6bc01.png");
+
+/***/ },
+
 /***/ 29241
 (module) {
 
@@ -12453,14 +12577,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/simple-complex","title":
 
 /***/ },
 
-/***/ 29646
+/***/ 29605
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/diatonic-chords-in-circle-of-5ths_v1.3-e4331d72a06aa15561bb25387964b2b1.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tools2-3fac8cef0a5c9762e5d071ba526d0474.png");
 
 /***/ },
 
@@ -13089,6 +13213,17 @@ exports.version = "19.2.3";
 
 /***/ },
 
+/***/ 29920
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/A_Amaj7-f926cbb366a58e20f734ad9c7e63946a.png");
+
+/***/ },
+
 /***/ 30032
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -13204,6 +13339,7 @@ const toc = [{
 function _createMdxContent(props) {
   const _components = {
     a: "a",
+    br: "br",
     code: "code",
     h2: "h2",
     h3: "h3",
@@ -13256,7 +13392,7 @@ function _createMdxContent(props) {
       }), " 也就是五線譜上高低音譜表上升降記號數，也就是一般流行歌曲的 Key，他代表整個歌曲大範圍的調性，如下圖 (From Memorizes of Lightwave) 有兩個降記號，調號為 Bb or Gm 調:"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(40495)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(79169)/* ["default"] */ .A) + "",
         width: "684",
         height: "246"
       })
@@ -13264,7 +13400,7 @@ function _createMdxContent(props) {
       children: "\"臨時記號\" 代表一小節以內臨時的變化。但是要留意原本調號已經改變的音符。如下圖: (From Memorizes of Lightwave) 表 Bb or Gm 調裡，小節裡有一些音符作了暫時性的變化，譜中第一小節改變的有: Cb、Gb、Db"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(61151)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(99725)/* ["default"] */ .A) + "",
         width: "1126",
         height: "270"
       })
@@ -13329,7 +13465,7 @@ function _createMdxContent(props) {
       children: "另外會出現這種重升降的地方，就是在一些調號不是 C/Am 的歌曲裡，像是和聲小調裡，要把自然小調音階第七個音升半音，為了要表示這個 \"升\" 的概念，加上如果本來的第七個音已經標升號了，這時候就會用到重升記號了。如下圖，為 G# 和聲小調音階:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(47420)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(29102)/* ["default"] */ .A) + "",
         width: "745",
         height: "188"
       })
@@ -13342,10 +13478,10 @@ function _createMdxContent(props) {
       children: "只要提到音程概念，有時候就會遇到這樣的問題:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "我: \"B 升半音是啥?\""
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "同學 A: \"升 B 阿\"\n同學 B: \"不對，就是 C 啦!!~~\""
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "同學 A 的回答錯嗎?\n當然也對，只是是否適切而已."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["同學 A: \"升 B 阿\"", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "同學 B: \"不對，就是 C 啦!!~~\""]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["同學 A 的回答錯嗎?", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "當然也對，只是是否適切而已."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "問題也常會換成: \"E 升半音是啥? \"  或者 \"F 降半音是啥?\""
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -13611,25 +13747,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/guthrie-govan-live-2015"
 
 /***/ },
 
-/***/ 30603
+/***/ 30805
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/05-3-c179d72baf999bf3fd076244dcaf1522.JPG");
-
-/***/ },
-
-/***/ 30954
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tools3-f7971d8f4b09ac090809b59acf8d189d.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/xtl_mark-2744f2252a9161a5f5cd4a11a4079e12.png");
 
 /***/ },
 
@@ -13653,17 +13778,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/guthrie-govan-live-2015"
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */function CloseButton(){const mobileSidebar=(0,_docusaurus_theme_common_internal__WEBPACK_IMPORTED_MODULE_1__/* .useNavbarMobileSidebar */ .M)();return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)("button",{type:"button","aria-label":(0,_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_2__/* .translate */ .T)({id:'theme.docs.sidebar.closeSidebarButtonAriaLabel',message:'Close navigation bar',description:'The ARIA label for close button of mobile sidebar'}),className:"clean-btn navbar-sidebar__close",onClick:()=>mobileSidebar.toggle(),children:/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(_theme_Icon_Close__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .A,{color:"var(--ifm-color-emphasis-600)"})});}function NavbarMobileSidebarHeader(){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsxs)("div",{className:"navbar-sidebar__brand",children:[/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(_theme_Navbar_Logo__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A,{}),/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(_theme_Navbar_ColorModeToggle__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A,{className:"margin-right--md"}),/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(CloseButton,{})]});}
-
-/***/ },
-
-/***/ 31303
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/01-3-47b87cbee66a710514c4b0b735c86746.JPG");
 
 /***/ },
 
@@ -13703,17 +13817,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"defaultLocale":"en","locales":["en"]
 
 /***/ },
 
-/***/ 31531
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/ExpressLetter-e78b5845115e8ac724d491952b1f4021.jpg");
-
-/***/ },
-
 /***/ 31533
 (module) {
 
@@ -13742,6 +13845,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/form-framework-history",
  */function DocSidebar(props){const windowSize=(0,_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_1__/* .useWindowSize */ .l)();// Desktop sidebar visible on hydration: need SSR rendering
 const shouldRenderSidebarDesktop=windowSize==='desktop'||windowSize==='ssr';// Mobile sidebar not visible on hydration: can avoid SSR rendering
 const shouldRenderSidebarMobile=windowSize==='mobile';return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.Fragment,{children:[shouldRenderSidebarDesktop&&/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(_theme_DocSidebar_Desktop__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A,{...props}),shouldRenderSidebarMobile&&/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(_theme_DocSidebar_Mobile__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A,{...props})]});}
+
+/***/ },
+
+/***/ 31600
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Cut-Love-af52e6958104fec9ae61e7e8e6a01485.jpg");
 
 /***/ },
 
@@ -14198,6 +14312,17 @@ function __rewriteRelativeImportExtension(path, preserveJsx) {
 
 /***/ },
 
+/***/ 31662
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+
+/***/ },
+
 /***/ 31682
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -14248,6 +14373,30 @@ function groupBy(items,keySelector){const result={};let index=0;for(const item o
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */function MDXHeading(props){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)(_theme_Heading__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A,{...props});}
+
+/***/ },
+
+/***/ 31911
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */const clientModule={onRouteDidUpdate({location,previousLocation}){if(previousLocation&&(location.pathname!==previousLocation.pathname||location.search!==previousLocation.search||location.hash!==previousLocation.hash)){// Normally, the document title is updated in the next tick due to how
+// `react-helmet-async` updates it. We want to send the current document's
+// title to gtag instead of the old one's, so we use `setTimeout` to defer
+// execution to the next tick.
+// See: https://github.com/facebook/docusaurus/issues/7420
+setTimeout(()=>{// Always refer to the variable on window in case it gets overridden
+// elsewhere.
+window.gtag('set','page_path',location.pathname+location.search+location.hash);window.gtag('event','page_view');});}}};/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (clientModule);
 
 /***/ },
 
@@ -14498,7 +14647,7 @@ function _createMdxContent(props) {
       }), " 這兩首。聽海也是我第一次用 Keyboard 表演的曲子之一。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(40696)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(33142)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14511,7 +14660,7 @@ function _createMdxContent(props) {
       children: "那時候也剛開始在玩 MIDI 編曲，正在自己學著練鍵盤。後來在網路開始流行了，在蒐集 MIDI 作品的網站，認識一個編曲高手，他編了這首曲子，我很多編曲技巧以及鋼琴的手法，都是從這首學來的。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(95018)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(31600)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14527,7 +14676,7 @@ function _createMdxContent(props) {
       }), " 是當時很紅的歌曲，正在學琴的時候，練習採譜必要的曲子。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(81500)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(80466)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14544,7 +14693,7 @@ function _createMdxContent(props) {
       }), " Demo 原創專輯附贈的吉他和弦譜。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(8517)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(19451)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14555,7 +14704,7 @@ function _createMdxContent(props) {
       children: "那時候社團有個學長歌聲很像張學友，只要他一唱歌所有的女同學就圍過來了，我就是幫忙伴奏的那個人，所以練了很多當時張學友的主打歌。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(13845)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(16647)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14566,7 +14715,7 @@ function _createMdxContent(props) {
       }), " 的中文主題曲。那時候我其實不是很喜歡這首歌 （但很喜歡電影以及原聲帶的配樂，還有買原版 VCD），但是那時候很紅，學長又喜歡唱，加上那時候能彈這首歌的前奏在社團裡是個指標，所以硬是把他練起來 ..."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(47751)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(54877)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14576,7 +14725,7 @@ function _createMdxContent(props) {
       children: "譜上的有兩個調，那時候我還不知道那叫做轉調，只知道加幾個半音，就可以變成另一組和弦彈一樣的歌曲。曲名上面記錄那時候伴奏琴的節奏形態編號。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(15435)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(55933)/* ["default"] */ .A) + "",
         width: "1600",
         height: "1200"
       })
@@ -14587,7 +14736,7 @@ function _createMdxContent(props) {
       children: "國民歌王的愛相隨那時候剛出來時，大家搶著「抓歌」。然後那時候歌聲像張學友的那個學長，也超愛唱，所以我也就幫他伴奏了 XD"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(56568)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(7674)/* ["default"] */ .A) + "",
         width: "1600",
         height: "1200"
       })
@@ -14595,7 +14744,7 @@ function _createMdxContent(props) {
       children: "超級國民歌「朋友」，迎新晚會我擔任 keyboard 彈這首。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(91936)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(77470)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14606,31 +14755,31 @@ function _createMdxContent(props) {
       children: "伍佰的歌就多了， 這篇 「2014 伍佰無盡閃亮的高雄小巨蛋演唱會 - 觀後感 + 聊聊記憶中的伍佰」有很多過去的記憶。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(89240)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(40874)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(82615)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(19217)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(31531)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(52881)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(56272)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(11158)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(89414)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(50128)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14658,7 +14807,7 @@ function _createMdxContent(props) {
       }), " 不知道哪一張專輯 B 面最後一首，一把吉他伴奏而已。很喜歡這首曲子的詞，後來透過同學凹到一手的譜，不過他需要調弦，我很懶就自己改成不要調的 XD"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(18400)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(72846)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14669,7 +14818,7 @@ function _createMdxContent(props) {
       children: "同樣的也是愛唱歌的學長要的 .... 所以有個愛唱歌的學長，會讓你練了很多莫名其妙的歌 XD"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(42128)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(25502)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14687,7 +14836,7 @@ function _createMdxContent(props) {
       children: "這首歌的鋼琴伴奏手法、音色，都是後來我編曲的參考指標之一，歌曲的間奏電吉他 Solo，也是剛開始學電吉他時，試著練過的，雖然那時根本練不起來 XD"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(96796)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(75154)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14710,7 +14859,7 @@ function _createMdxContent(props) {
       }), " ... 最喜歡的還是這首。比較特別的是，這首有一段是填中文詞。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(41066)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(10936)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14724,7 +14873,7 @@ function _createMdxContent(props) {
       }), "。他還有好多首好聽的歌，不過歌聲跟他的臉對不太起來就對了 XD。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(9964)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(45118)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -14961,6 +15110,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     code: "code",
     h2: "h2",
     h3: "h3",
@@ -15009,7 +15159,7 @@ function _createMdxContent(props) {
       }), " 是最常練習的方式之一，如下 Gmaj7："]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(45593)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(983)/* ["default"] */ .A) + "",
         width: "984",
         height: "155"
       })
@@ -15031,7 +15181,7 @@ function _createMdxContent(props) {
       }), " 的配置。也可以以某『一個音』為基準，做反覆的 sequence (模進)，像以下的練習："]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(28117)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(807)/* ["default"] */ .A) + "",
         width: "614",
         height: "138"
       })
@@ -15039,7 +15189,7 @@ function _createMdxContent(props) {
       children: "也可以用『兩個音』做基礎造句，下面的例子就是用『GB』和『BD』做基礎，像是這樣："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(39856)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(25570)/* ["default"] */ .A) + "",
         width: "888",
         height: "188"
       })
@@ -15054,7 +15204,7 @@ function _createMdxContent(props) {
       }), "。同樣是 G B D F# 四個音，每次彈都可以把其中某一個高八度、或者低八度練習，這樣會有很多種排列組合，以下的例子就是 G B D F# 的次序，然後改變八度音的變化，像這樣："]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(97368)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(88042)/* ["default"] */ .A) + "",
         width: "1095",
         height: "302"
       })
@@ -15142,20 +15292,20 @@ function _createMdxContent(props) {
         children: "用腦袋驅動手指頭"
       }), "』。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-        children: "註一：此練習先不使用空弦音，空弦音應用參見下一段介紹\n註二：此練習左手需要相當擴張 (左手五格以上的距離)，所以沒有練過基本的爬格子，不要勉強。手無法擴張，直接的替代方式，可以利用滑音的方式。"
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+        children: ["註一：此練習先不使用空弦音，空弦音應用參見下一段介紹", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "註二：此練習左手需要相當擴張 (左手五格以上的距離)，所以沒有練過基本的爬格子，不要勉強。手無法擴張，直接的替代方式，可以利用滑音的方式。"]
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "第一、二個是固定在兩根弦上做練習，從低把位移動到高把位，然後反覆。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(15634)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(46392)/* ["default"] */ .A) + "",
         width: "1107",
         height: "128"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(60130)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(33612)/* ["default"] */ .A) + "",
         width: "1073",
         height: "111"
       })
@@ -15163,7 +15313,7 @@ function _createMdxContent(props) {
       children: "第三個則是在各兩組弦間移動，因為版面關係，譜的例子只放四小節，有興趣的朋友可以自行擴張其他把位，找出其他音的位置。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(6393)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(58780)/* ["default"] */ .A) + "",
         width: "1078",
         height: "144"
       })
@@ -15174,7 +15324,7 @@ function _createMdxContent(props) {
       children: "Gmaj7 搭配 G 大調音階，吉他基本功裡面提到的各個把位，配合上下行的基本練習，把琶音放進去。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(24423)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(71605)/* ["default"] */ .A) + "",
         width: "1071",
         height: "143"
       })
@@ -15184,7 +15334,7 @@ function _createMdxContent(props) {
       children: "除了大調音階，當然吉他手要很熟的五聲音階也可以拿來一起玩。把原本琶音內容加上二、六度音 (A 和 E) 就可以是五聲音階了，組成音會變成：G (A) B D (E) F#"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(1993)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(41375)/* ["default"] */ .A) + "",
         width: "1083",
         height: "140"
       })
@@ -15203,25 +15353,25 @@ function _createMdxContent(props) {
       children: "一些思考的方式：第一種是搭配空弦音應用，找出不同的 Gmaj7 按法，製造出具空間感的聲響，這是利用吉他特性的變化。第二種是利用轉位和弦，加上簡化和弦的概念，而形成的按法，利用這兩個想法，可以找出很多不同的按法，如下："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(55087)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(33497)/* ["default"] */ .A) + "",
         width: "146",
         height: "189"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(49972)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(85314)/* ["default"] */ .A) + "",
         width: "162",
         height: "190"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(71101)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(6443)/* ["default"] */ .A) + "",
         width: "160",
         height: "190"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(9378)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(60532)/* ["default"] */ .A) + "",
         width: "157",
         height: "188"
       })
@@ -15289,10 +15439,10 @@ function _createMdxContent(props) {
       children: "下圖是出自漫畫家 Hugh MacLeod 在 Twitter 上的一張圖，簡單表達了資訊與知識、知識與經驗的差異，而我的 blog 實際上很多時候都把這些已知的資訊或知識重新整理，然後連結成為我個人的知識。而每次我也都會回去反覆思考過去寫的東西，並且試圖將他們連結。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(17958)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(26620)/* ["default"] */ .A) + "",
         width: "1126",
         height: "887"
-      }), "\nPhoto Credit: Hugh MacLeod"]
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Photo Credit: Hugh MacLeod"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "在本文討論的資訊，也就是 Hugh MacLeod 圖中的每一個點，可以是和弦的一個音符、或者一個和弦、一組和弦進行，他們連接起來之後，就會變成和弦、句子、節奏、段落、歌曲 ..."
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -15370,17 +15520,6 @@ function MDXContent(props = {}) {
 }
 
 
-
-/***/ },
-
-/***/ 32368
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic1_with-bass_number-notation-def503f68acc142c9d7ba4599bcf5f2a.png");
 
 /***/ },
 
@@ -15690,6 +15829,17 @@ function MDXContent(props = {}) {
 
 /***/ },
 
+/***/ 33142
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Listen-Sea-0dbecb41909da28c93fce82f45c28b3e.jpg");
+
+/***/ },
+
 /***/ 33327
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -15731,6 +15881,17 @@ if(item.type==='category'&&item.href){mobileSidebar.toggle();}if(item.type==='li
  */function useBreadcrumbsStructuredData({breadcrumbs}){const{siteConfig}=(0,_docusaurus_useDocusaurusContext__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)();return{'@context':'https://schema.org','@type':'BreadcrumbList',itemListElement:breadcrumbs// We filter breadcrumb items without links, they are not allowed
 // See also https://github.com/facebook/docusaurus/issues/9319#issuecomment-2643560845
 .filter(breadcrumb=>breadcrumb.href).map((breadcrumb,index)=>({'@type':'ListItem',position:index+1,name:breadcrumb.label,item:`${siteConfig.url}${breadcrumb.href}`}))};}
+
+/***/ },
+
+/***/ 33420
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/IMG_7388-93d13939a8bade5ea58270b26cbd8f44.jpg");
 
 /***/ },
 
@@ -16328,6 +16489,28 @@ function MDXContent(props = {}) {
 
 /***/ },
 
+/***/ 33497
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+
+/***/ },
+
+/***/ 33612
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Gmaj7_Arp_on_45_Strings-94986ce835c3c792615ddfe856ce5dd8.png");
+
+/***/ },
+
 /***/ 33685
 (module) {
 
@@ -16363,28 +16546,6 @@ module.exports = {
 
 /***/ },
 
-/***/ 33935
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_advance3_modal-interchange-33a5900c1e66d4c4d9400bf4e1ac6d87.png");
-
-/***/ },
-
-/***/ 34154
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/know_a_little2-b34a3e2845c8bbf536c0c43c8d8aa198.jpg");
-
-/***/ },
-
 /***/ 34164
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -16394,28 +16555,6 @@ module.exports = {
 /* harmony export */ });
 /* unused harmony export clsx */
 function r(e){var t,f,n="";if("string"==typeof e||"number"==typeof e)n+=e;else if("object"==typeof e)if(Array.isArray(e)){var o=e.length;for(t=0;t<o;t++)e[t]&&(f=r(e[t]))&&(n&&(n+=" "),n+=f)}else for(f in e)e[f]&&(n&&(n+=" "),n+=f);return n}function clsx(){for(var e,t,f=0,n="",o=arguments.length;f<o;f++)(e=arguments[f])&&(t=r(e))&&(n&&(n+=" "),n+=t);return n}/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (clsx);
-
-/***/ },
-
-/***/ 34176
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/workable01-80b325089a5e9fb5d9146914a25dc099.png");
-
-/***/ },
-
-/***/ 34231
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/07-1-f541ccfc0e73c32c18849fa03f506acf.png");
 
 /***/ },
 
@@ -16642,6 +16781,28 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/thriteenth-chord","title
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/some-tips-and-suggestions-for-practicing-guitar","title":"一些練習吉他的提醒和建議","description":"在 Youtube 的 Next level guitar 看到這段『十個練習吉他的提醒和建議』，不管是什麼樣的吉他手，都是一個不錯的自我修練的參考。","source":"@site/docs/guitar/some-tips-and-suggestions-for-practicing-guitar.md","sourceDirName":"guitar","slug":"/guitar/some-tips-and-suggestions-for-practicing-guitar","permalink":"/guitar/some-tips-and-suggestions-for-practicing-guitar","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"吉他","permalink":"/tags/吉他"}],"version":"current","frontMatter":{"title":"一些練習吉他的提醒和建議","date":"2011-04-30T00:00:00.000Z","tags":["★★★★","吉他"]},"sidebar":"tutorialSidebar","previous":{"title":"吉他琶音練習 - 以 Gmaj7 為例","permalink":"/guitar/practice-arpeggios-g-major7/"},"next":{"title":"如何安排練習 - 以上班族為例","permalink":"/guitar/time-for-practice-guitar/"}}');
+
+/***/ },
+
+/***/ 35140
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/digital-audio-system-eda49dbffe9319011ec110963df09514.png");
+
+/***/ },
+
+/***/ 35241
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/q-a15b0c71f1ba1cf2f4975e77e5b0620f.jpg");
 
 /***/ },
 
@@ -17087,14 +17248,14 @@ function pathToRegexp (path, keys, options) {
 
 /***/ },
 
-/***/ 35318
+/***/ 35443
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/巴黎日記-31eb4fcd19f6e38654be14784d7fdb3a.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Love-is-Blue-4153b727fc0029e536640701232b884b.jpg");
 
 /***/ },
 
@@ -17228,6 +17389,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     h2: "h2",
     h3: "h3",
     hr: "hr",
@@ -17257,19 +17419,19 @@ function _createMdxContent(props) {
       children: "剛開始不會想太多，反正就是手寫，也沒什麼排版概念，和弦、段落、Solo、Tempo/Key 大概標記一下，就這樣。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(65269)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(58483)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(84522)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(6852)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(31303)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(9473)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -17285,7 +17447,7 @@ function _createMdxContent(props) {
       children: "五線譜樣板很好找，但是吉他手大部份不會寫豆芽菜，而且五線譜很佔空間，所以實際上，教學比較會用五線譜樣板。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(69906)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(35820)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -17296,13 +17458,13 @@ function _createMdxContent(props) {
       children: "這是大部份會看到的，網路上或者一些做場樂手都會用這種樣板譜。四小節一段、或者八小節一段。可以標記 Key / Tempo / 和弦，或者重點節奏等資訊。這是最常見的樣板，自行製作也很容易，底下是我自己的樣板："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(51843)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(36997)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(56500)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(2810)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -17317,7 +17479,7 @@ function _createMdxContent(props) {
       children: "最初版：延續前個樣板，做更精細的調教，特別是段落的排版、重點節奏表示。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(8224)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(40454)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -17325,13 +17487,13 @@ function _createMdxContent(props) {
       children: "第二版：再進化，支援多個聲部、與旋律表示。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(39311)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(23345)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(52818)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(87156)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -17364,19 +17526,19 @@ function _createMdxContent(props) {
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(84409)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(82103)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(46414)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(66472)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(30603)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(78149)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -17384,18 +17546,18 @@ function _createMdxContent(props) {
       children: "除了教學，也有是因個人喜歡，手寫的："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(84022)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(65360)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
       id: "演奏曲",
       children: "演奏曲"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "演奏曲大部份是教學、或者我自己練功而寫。寫的細膩度就看投入多少時間。\nJack Thammarat - Emotive Ballad"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["演奏曲大部份是教學、或者我自己練功而寫。寫的細膩度就看投入多少時間。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Jack Thammarat - Emotive Ballad"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(34231)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(26225)/* ["default"] */ .A) + "",
         width: "1505",
         height: "1329"
       })
@@ -17403,7 +17565,7 @@ function _createMdxContent(props) {
       children: "吉他編曲：自己編的演奏曲"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(2340)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(89066)/* ["default"] */ .A) + "",
         width: "1200",
         height: "1600"
       })
@@ -17554,6 +17716,17 @@ module.exports = {
 
 /***/ },
 
+/***/ 35820
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/02-1-f5c6f8776d35181159783feda88992ec.JPG");
+
+/***/ },
+
 /***/ 36128
 (module) {
 
@@ -17661,14 +17834,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"band/about-score/index","title"
 
 /***/ },
 
-/***/ 37078
+/***/ 36997
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/IMG_7388-93d13939a8bade5ea58270b26cbd8f44.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/03-1-aa363e35e0c3adfba86c9194af684d48.JPG");
 
 /***/ },
 
@@ -17736,6 +17909,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     del: "del",
     h2: "h2",
     h3: "h3",
@@ -17820,8 +17994,8 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "當你像電影 - \"頭文字 D\" 中，拓海一樣，發現以前覺得很快的東西，好像變慢了，那表示你已經跟上某一個速度了，可以耳朵可以抓住那一些拍子了：這表示你已經進入歌曲的狀況了；時候就可以好好的去詮釋你的音符，不管是什麼樣的表情或技巧，放入你的情感，盡情的詮釋。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-        children: "音樂不是比賽，你不會因為比別人撥出更多的音符而得到更高的分數，速度只是技巧的副產品。一首曲子如果速度對的話，就像一部配備良好的車子，在駕駛完全掌握下流暢的轉彎前進。\n--- 摘自：當吉他手遇見禪 序"
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+        children: ["音樂不是比賽，你不會因為比別人撥出更多的音符而得到更高的分數，速度只是技巧的副產品。一首曲子如果速度對的話，就像一部配備良好的車子，在駕駛完全掌握下流暢的轉彎前進。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "--- 摘自：當吉他手遇見禪 序"]
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "速度是一種技能，用來詮釋音樂的方式、技巧、基本功，這跟清朝人能寫八股文就能當官、打字很快電腦就很厲害、書唸的很高就能賺很多錢、車子能開很快就是好車、電腦 CPU 很快就是 Powerful、相機很好就能拍出好照片 … 都是很不客觀的標準。"
@@ -17922,17 +18096,6 @@ headings.forEach(heading=>{const{parentIndex,...rest}=heading;if(parentIndex>=0)
  * min=3, max=4, but should rather be "[h3, h4]" (since the h2 heading has split
  * the two headings and they are not parent-children)
  */function useFilteredAndTreeifiedTOC({toc,minHeadingLevel,maxHeadingLevel}){return (0,react__WEBPACK_IMPORTED_MODULE_0__.useMemo)(()=>filterTOC({toc:treeifyTOC(toc),minHeadingLevel,maxHeadingLevel}),[toc,minHeadingLevel,maxHeadingLevel]);}
-
-/***/ },
-
-/***/ 37406
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FFV_DearFriends-3-e457531e89d1bcb5122bbe878ad3546b.png");
 
 /***/ },
 
@@ -18090,6 +18253,17 @@ module.exports = {
 
 /***/ },
 
+/***/ 37937
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/IMG_7392-637b0ba8daecc14b950f581ac254774a.jpg");
+
+/***/ },
+
 /***/ 37983
 (module) {
 
@@ -18136,14 +18310,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/tritone","title":"三全
 
 /***/ },
 
-/***/ 38523
+/***/ 38586
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/altered-chords-9aee742932e946eff97356503e0381be.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/before-4e93d55c347cae3ca4300ec9d63c454a.png");
 
 /***/ },
 
@@ -18349,7 +18523,7 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
         alt: "Roland SPD-S / 數位打擊版",
-        src: (__webpack_require__(41692)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(3298)/* ["default"] */ .A) + "",
         width: "500",
         height: "500"
       })
@@ -18357,7 +18531,7 @@ function _createMdxContent(props) {
       children: "Roland SPD-S / 數位打擊版 (圖片引用自 Roland 官方網站)"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(16079)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(35241)/* ["default"] */ .A) + "",
         width: "604",
         height: "453"
       })
@@ -18438,7 +18612,7 @@ function _createMdxContent(props) {
       children: "現場表演配器的安排以及 Loop 的配置"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(98266)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(44432)/* ["default"] */ .A) + "",
         width: "1111",
         height: "322"
       })
@@ -18656,47 +18830,6 @@ module.exports = require("util");
 
 /***/ },
 
-/***/ 39311
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/04-2-c33dd64ba69cfb5cee01758d63b12825.JPG");
-
-/***/ },
-
-/***/ 39323
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/minor-pent-to-major-pent_shift-postition-29fce8b7aa2685db57a9dd7b0aed6177.png");
-
-/***/ },
-
-/***/ 39455
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/RecuerdosDeLaAlhambra-aabe244ed756276d514ba53e90228b73.jpg");
-
-/***/ },
-
-/***/ 39460
-(module) {
-
-"use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/memory-in-ff-music","title":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","description":"整理電玩雜誌對作曲家植松伸夫訪談紀錄","source":"@site/docs/gossip/memory-in-ff-music.md","sourceDirName":"gossip","slug":"/gossip/memory-in-ff-music","permalink":"/gossip/memory-in-ff-music","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"},{"inline":true,"label":"Final Fantasy","permalink":"/tags/final-fantasy"}],"version":"current","frontMatter":{"title":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","date":"2007-07-23T00:00:00.000Z","description":"整理電玩雜誌對作曲家植松伸夫訪談紀錄","tags":["★","聊天","Final Fantasy"]},"sidebar":"tutorialSidebar","previous":{"title":"數學問題?","permalink":"/gossip/mathematics"},"next":{"title":"怎麼彈和彈什麼","permalink":"/gossip/play-what-and-how-to-play"}}');
-
-/***/ },
-
 /***/ 39644
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -18728,17 +18861,6 @@ const isBrowser=(0,_docusaurus_useIsBrowser__WEBPACK_IMPORTED_MODULE_1__/* ["def
 
 /***/ },
 
-/***/ 39856
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/closed-voicing_on-g-b-210019c90986bc4e02f751dab6a466e1.png");
-
-/***/ },
-
 /***/ 40230
 (module) {
 
@@ -18747,36 +18869,36 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/further-discussion-on-mo
 
 /***/ },
 
-/***/ 40268
+/***/ 40454
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FFV_DearFriends-1-0be38711f8880de9fc2f44b56aee36aa.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/04-1-fa60899acc4d37ce6c73d8b8392291ff.JPG");
 
 /***/ },
 
-/***/ 40495
+/***/ 40757
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Memorizes_of_Lightwave_Signature-25d24df295515f1bb4ebf241985a2b92.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/minor-key-applied-e9a411e67f1af6d4d96654899cc593bd.png");
 
 /***/ },
 
-/***/ 40696
+/***/ 40874
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Listen-Sea-0dbecb41909da28c93fce82f45c28b3e.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Forest-9b6d8df918b98212a2e57b765432c3ae.jpg");
 
 /***/ },
 
@@ -18817,25 +18939,14 @@ if (true) {
 
 /***/ },
 
-/***/ 41066
+/***/ 41050
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/CantHelpFallingInLove-926dcd4b278ff6cac4f4c8a99b99eda1.jpg");
-
-/***/ },
-
-/***/ 41096
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/LoveStory-8306959bc4efaaad5209371a8818ccf8.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -18890,14 +19001,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"IRs","permalink":"/ta
 
 /***/ },
 
-/***/ 41372
+/***/ 41375
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic2_7th_number-notation-e1eacc35b2f92e10576e4bc7d3007712.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/G-Pent-Scale-Arpeggios-e0ef88456018a5aae8ceae61cce48eec.png");
 
 /***/ },
 
@@ -18977,28 +19088,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"production/using-external-midi-
 
 /***/ },
 
-/***/ 41664
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic4_number-notation-58b687070d7a5444f2b81547d566f719.png");
-
-/***/ },
-
-/***/ 41692
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Roland_SPD-S-6b124715d670b80f37c0c8fc3bae7724.jpg");
-
-/***/ },
-
 /***/ 41871
 (module) {
 
@@ -19036,17 +19125,6 @@ module.exports = {
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"私房歌","permalink":"/tags/私房歌","allTagsPath":"/tags","count":8,"items":[{"id":"gossip/pubking-wubai","title":"2014 伍佰無盡閃亮的高雄小巨蛋演唱會 - 觀後感 + 聊聊記憶中的伍佰","description":"聊聊記憶中的 Pub King 伍佰","permalink":"/gossip/pubking-wubai"},{"id":"songs/FFV_Dear-Friends/index","title":"FFV - Dear Friends","description":"一張深埋在心裡，最喜歡的專輯之一：FFV - Dear Friends","permalink":"/songs/FFV_Dear-Friends/"},{"id":"songs/Jack-Thammarat_Emotive-Ballad/index","title":"Jack Thammarat - Emotive Ballad","description":"原曲是 Guthrie Govan (GG) 的作品，算是抒情小品，但我更喜歡 Jack Thammarat 即興的版本。","permalink":"/songs/Jack-Thammarat_Emotive-Ballad/"},{"id":"songs/Jack-Thammarat_Falling-in-Love-Again/index","title":"Jack Thammarat - Falling in Love Again","description":"這首 Falling in Love Again 吉他演奏曲是由 2009 Guitar Idol Winner - Jack Thammarat (泰國人) 譜曲 & 演奏","permalink":"/songs/Jack-Thammarat_Falling-in-Love-Again/"},{"id":"songs/Zelda-Trailer-2017E3/index","title":"Zelda - Breath of the Wild | Story Trailer Theme (2017)","description":"薩爾達傳說 曠野之息 2017 的 宣傳影片主題曲，很久沒看到這麼感動的製作，覺得要記錄下來。","permalink":"/songs/Zelda-Trailer-2017E3/"},{"id":"songs/Survival-Dance/index","title":"熱力十七歲","description":"年輕歲月的記憶","permalink":"/songs/Survival-Dance/"},{"id":"songs/Songs-for-Memory/index","title":"過年，想找的就只是回憶而已：那些年練過的流行歌曲","description":"聊聊我自己學琴過程練過的流行歌曲","permalink":"/songs/Songs-for-Memory/"},{"id":"songs/Songs-for-Nylon-Guitar/index","title":"那些年練過的古典吉他歌曲","description":"聊聊我自己的學習途徑，原點學習的是尼龍吉他 (Nylon Guitar)，或稱作『古典吉他』。為啥會選擇古典吉他？因為當時根本不知道吉他還有分尼龍弦、鋼弦、插電的 .... XDD","permalink":"/songs/Songs-for-Nylon-Guitar/"}],"unlisted":false}}');
-
-/***/ },
-
-/***/ 42128
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Hand-94e0dcb78f9728ae4d54d22f853103fc.jpg");
 
 /***/ },
 
@@ -19093,6 +19171,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"�
 
 /***/ },
 
+/***/ 43335
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Lost-0375cf697abcca46816fd0b0b08fb307.jpg");
+
+/***/ },
+
 /***/ 43423
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -19133,6 +19222,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"�
 
 /***/ },
 
+/***/ 43503
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/logic-pro-bank-select-5d8021355d6945ee892e88d00bbd81c4.png");
+
+/***/ },
+
 /***/ 43586
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -19140,7 +19240,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"�
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ([__webpack_require__(93302),__webpack_require__(93074),__webpack_require__(46725),__webpack_require__(76294),__webpack_require__(83982)]);
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ([__webpack_require__(93302),__webpack_require__(31911),__webpack_require__(93074),__webpack_require__(46725),__webpack_require__(76294),__webpack_require__(83982)]);
 
 /***/ },
 
@@ -19243,17 +19343,6 @@ function UnlistedMetadata(){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMP
 
 /***/ },
 
-/***/ 44191
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/preview-f541ccfc0e73c32c18849fa03f506acf.png");
-
-/***/ },
-
 /***/ 44289
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -19301,7 +19390,7 @@ function TOCItemTree({toc,className,linkClassName,isChild}){if(!toc.length){retu
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"docusaurusVersion":"3.9.2","siteVersion":"0.0.0","pluginVersions":{"docusaurus-plugin-css-cascade-layers":{"type":"package","name":"@docusaurus/plugin-css-cascade-layers","version":"3.9.2"},"docusaurus-plugin-content-docs":{"type":"package","name":"@docusaurus/plugin-content-docs","version":"3.9.2"},"docusaurus-plugin-content-pages":{"type":"package","name":"@docusaurus/plugin-content-pages","version":"3.9.2"},"docusaurus-plugin-sitemap":{"type":"package","name":"@docusaurus/plugin-sitemap","version":"3.9.2"},"docusaurus-plugin-svgr":{"type":"package","name":"@docusaurus/plugin-svgr","version":"3.9.2"},"docusaurus-theme-classic":{"type":"package","name":"@docusaurus/theme-classic","version":"3.9.2"}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"docusaurusVersion":"3.9.2","siteVersion":"0.0.0","pluginVersions":{"docusaurus-plugin-css-cascade-layers":{"type":"package","name":"@docusaurus/plugin-css-cascade-layers","version":"3.9.2"},"docusaurus-plugin-content-docs":{"type":"package","name":"@docusaurus/plugin-content-docs","version":"3.9.2"},"docusaurus-plugin-content-pages":{"type":"package","name":"@docusaurus/plugin-content-pages","version":"3.9.2"},"docusaurus-plugin-google-gtag":{"type":"package","name":"@docusaurus/plugin-google-gtag","version":"3.9.2"},"docusaurus-plugin-sitemap":{"type":"package","name":"@docusaurus/plugin-sitemap","version":"3.9.2"},"docusaurus-plugin-svgr":{"type":"package","name":"@docusaurus/plugin-svgr","version":"3.9.2"},"docusaurus-theme-classic":{"type":"package","name":"@docusaurus/theme-classic","version":"3.9.2"}}}');
 
 /***/ },
 
@@ -19316,6 +19405,17 @@ if (true) {
 } else // removed by dead control flow
 {}
 
+
+/***/ },
+
+/***/ 44432
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/arrangement-c10ad31dc51ddf7f0ebae2ec940cecc8.png");
 
 /***/ },
 
@@ -20320,6 +20420,17 @@ if(As==='h1'||!id){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MOD
 
 /***/ },
 
+/***/ 44896
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/diatonic-chords-in-circle-of-5ths_v1.3-e4331d72a06aa15561bb25387964b2b1.png");
+
+/***/ },
+
 /***/ 44905
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -20374,36 +20485,25 @@ return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)(react
 
 /***/ },
 
-/***/ 44986
+/***/ 44938
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/ask-706e44289e1ba985ef39db88c22a0bfd.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tools5-5e96bc75a2436fb83e55409efc1f2954.png");
 
 /***/ },
 
-/***/ 45204
+/***/ 45118
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
-
-/***/ },
-
-/***/ 45305
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/fig2_GMajor-P3-0d81f896c4d1d4b73324d8bd2b041bbe.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Miss-in-the-night-e23fdb9d08603ef571906372feafa016.jpg");
 
 /***/ },
 
@@ -20449,17 +20549,6 @@ Array.isArray(keywords)?keywords.join(','):keywords})});}/**
  * A very thin wrapper around `HtmlClassNameProvider` that adds the plugin ID +
  * name to the HTML class name.
  */function PluginHtmlClassNameProvider({children}){const routeContext=(0,_docusaurus_useRouteContext__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A)();const nameClass=pluginNameToClassName(routeContext.plugin.name);const idClass=`plugin-id-${routeContext.plugin.id}`;return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(HtmlClassNameProvider,{className:(0,clsx__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)(nameClass,idClass),children:children});}
-
-/***/ },
-
-/***/ 45593
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Gmaj7-GBDFSharp_Seq-7c31852628095de8c10dbf25ab446c8d.png");
 
 /***/ },
 
@@ -20526,47 +20615,25 @@ function useNDocsTaggedPlural(){const{selectMessage}=(0,_docusaurus_theme_common
 
 /***/ },
 
-/***/ 46198
+/***/ 46377
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/gemini01-6935bbd558b80b2c41fc4a28216ecc9f.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/DonaDona-7910ba97516bcf2de44743a7ab851cc2.jpg");
 
 /***/ },
 
-/***/ 46205
+/***/ 46392
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/JohnPetrucci-WarmUp-ef37ae4aea4f46a3fb7b0fc53c83e78b.png");
-
-/***/ },
-
-/***/ 46206
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Letter-for-Anna-b401b23a8d39d9b6973ed856cc114782.jpg");
-
-/***/ },
-
-/***/ 46414
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/05-2-86a4931578594983c783cf27db6ad97d.JPG");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Gmaj7_Arp_on_56_Strings-2847b26240f7d2ae0c610364d2130ad6.png");
 
 /***/ },
 
@@ -20624,14 +20691,14 @@ ${JSON.stringify(item,null,2)}`,{cause:error}),children:/*#__PURE__*/(0,react_js
 
 /***/ },
 
-/***/ 47420
+/***/ 47316
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/logic-pro-event-view-c7aaf23930247aa9e0137957177ea021.png");
 
 /***/ },
 
@@ -20654,25 +20721,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"音階","permalink":"
 
 /***/ },
 
-/***/ 47751
+/***/ 47904
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/LoveLetter-6a638b365773fec1e5cf6ba8785381c7.jpg");
-
-/***/ },
-
-/***/ 47965
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic2_7th_c-major-add908330fc4c81c85b36de315bd9f08.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/pattern1-5-ac037f652b2b3b695ae09e4701f24a3b.png");
 
 /***/ },
 
@@ -20795,6 +20851,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     h2: "h2",
     hr: "hr",
     li: "li",
@@ -20825,8 +20882,8 @@ function _createMdxContent(props) {
       children: "經過這些磨練與成長一段時間後，耳朵已經能夠慢慢的『抓住』以前不習慣的音符和感覺、腦袋也漸漸能夠了解這些音符的『語意』。過程中我也去了解了這些音樂背後的創作動機，找到了源頭之後，以前完全吞不下去的，現在大部份都可以聽得懂，也不會排斥。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "現在我聽比較是心理與心境的選擇，用功能性的角度來聽各種不同類型的音樂。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "※ 版權所有，謝絕轉載，請尊重著作權法 ※\n------- Copyright © 2014 Rick KY Hwang All rights reserved -------"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["※ 版權所有，謝絕轉載，請尊重著作權法 ※", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "------- Copyright © 2014 Rick KY Hwang All rights reserved -------"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "記得剛開始覺英文的時候，老師說英文名詞有單數和複數、可數不可數。。。在人生還沒有啥歷練，也還沒有啥自主的思維的年紀，只能囫圇吞棗。背了一堆單字，什麼字尾加 s / es / ies / 特殊變化.... 等。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -21078,6 +21135,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Secondary Dominant","
 
 /***/ },
 
+/***/ 49587
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/fig2_GMajor-P3-0d81f896c4d1d4b73324d8bd2b041bbe.png");
+
+/***/ },
+
 /***/ 49750
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -21131,14 +21199,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/correctness-efficiency",
 
 /***/ },
 
-/***/ 49972
+/***/ 50007
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_definition_number-notation-4ec89d0a007188dadd18f79e8c5b2eac.jpg");
 
 /***/ },
 
@@ -21163,14 +21231,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/correctness-efficiency",
 
 /***/ },
 
-/***/ 50447
+/***/ 50128
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/minor-key-applied-e9a411e67f1af6d4d96654899cc593bd.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/LastDance-9e00d85156815cce4225af07736cb37a.jpg");
 
 /***/ },
 
@@ -21179,6 +21247,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/correctness-efficiency",
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Comping","permalink":"/tags/comping","allTagsPath":"/tags","count":1,"items":[{"id":"theory/tritone","title":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","permalink":"/theory/tritone"}],"unlisted":false}}');
+
+/***/ },
+
+/***/ 51507
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/pattern1-5_2-d9b9e6a00c3c3230c3a6189b7c6a3814.png");
 
 /***/ },
 
@@ -21249,6 +21328,7 @@ const toc = [{
 function _createMdxContent(props) {
   const _components = {
     a: "a",
+    br: "br",
     code: "code",
     h2: "h2",
     h3: "h3",
@@ -21455,7 +21535,7 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "這種唱名的方式，是學習其他音階時的唱法，主要的還是以自然大調的音程關係做比較，也就是一般 Key Center 的唱法。利用這樣的唱法可以很容易的找到該音階的特徵音符。例如自然小調音階和唱名關係是:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["Natural Minor Scale | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ\n--------------------|---|---|---|---|---|---|---|------\nInterval (音程)  | 1 | 2 | b3 | 4 | 5 | b6 | b7\nC Minor Scale (C 小調音階) | C | D | Eb | F | G | Ab | Bb\n音階唱名 | Do | Re | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+      children: ["Natural Minor Scale | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "--------------------|---|---|---|---|---|---|---|------", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Interval (音程)  | 1 | 2 | b3 | 4 | 5 | b6 | b7", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Minor Scale (C 小調音階) | C | D | Eb | F | G | Ab | Bb", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "音階唱名 | Do | Re | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
         children: "Me"
       }), " | Fa | Sol | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
         children: "Le"
@@ -21469,7 +21549,7 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "同理，要唱出其他的調式音階，例如唱 Locrian:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["音階 | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ\n--------------------|---|---|---|---|---|---|---|------\nLocrian Interval | 1 | b2 | b3 | 4 | b5 | b6 | b7\nC Locrian Scale | C | Db | Eb | F | Gb | Ab | Bb\n音階唱名 | Do | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+      children: ["音階 | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "--------------------|---|---|---|---|---|---|---|------", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Locrian Interval | 1 | b2 | b3 | 4 | b5 | b6 | b7", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Locrian Scale | C | Db | Eb | F | Gb | Ab | Bb", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "音階唱名 | Do | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
         children: "Ra"
       }), " | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
         children: "Me"
@@ -21613,17 +21693,6 @@ function MDXContent(props = {}) {
 }
 
 
-
-/***/ },
-
-/***/ 51843
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/03-1-aa363e35e0c3adfba86c9194af684d48.JPG");
 
 /***/ },
 
@@ -22225,14 +22294,14 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 52818
+/***/ 52881
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/04-3-f6e7f63ddc45164cfd3ce51b8c172758.JPG");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/ExpressLetter-e78b5845115e8ac724d491952b1f4021.jpg");
 
 /***/ },
 
@@ -30973,6 +31042,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/relative-absolute","titl
 
 /***/ },
 
+/***/ 54877
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/LoveLetter-6a638b365773fec1e5cf6ba8785381c7.jpg");
+
+/***/ },
+
 /***/ 54908
 (module) {
 
@@ -31003,17 +31083,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/how-to-practice-a-song",
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Dominant","permalink":"/tags/dominant","allTagsPath":"/tags","count":2,"items":[{"id":"theory/eleventh-chord","title":"十一和弦 (X11 Eleventh Chord)","description":"整理十一和弦的基本概念、組成、複合和弦、應用 ... 等概念。","permalink":"/theory/eleventh-chord"},{"id":"theory/dominant-and-extension-chords/index","title":"屬七和弦與其延伸和弦的代換","description":"屬七和弦 (Dominant 7th) 是屬於大和弦的延伸，也就是以大三和弦 (Major Triad) 為基礎，繼續以三度音往上堆疊。和弦的屬性分類以三度音和七度音作為一個分界點，更詳細請參閱 Guide Tone 或 Shell Chord 的介紹。繼續往上堆疊延伸則會得到所謂的延伸和弦.","permalink":"/theory/dominant-and-extension-chords/"}],"unlisted":false}}');
-
-/***/ },
-
-/***/ 55087
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -31133,6 +31202,17 @@ function CodeBlockString(props){const metadata=useCodeBlockMetadata(props);const
 
 /***/ },
 
+/***/ 55779
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/motif-xs-sequener-mode-c58b7dee8b87a5840799a38715b71686.png");
+
+/***/ },
+
 /***/ 55859
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -31186,14 +31266,25 @@ function CodeBlockButtons({className}){return/*#__PURE__*/(0,react_jsx_runtime__
 
 /***/ },
 
-/***/ 56272
+/***/ 55933
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/SummerNight-9f647068463c1b0e023007408c51224c.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Reason-9112386b265ad6251e24d1cbb9a6088f.jpg");
+
+/***/ },
+
+/***/ 56035
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/minor-pent-to-major-pent_same-postition-c6cf925b0fb90b03b7c9c4ea694d5ba4.png");
 
 /***/ },
 
@@ -32095,25 +32186,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Polychord","permalink
 
 /***/ },
 
-/***/ 56500
+/***/ 56748
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/03-2-9a99538c47723c985e3b8ae26b3c746b.JPG");
-
-/***/ },
-
-/***/ 56568
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FollowLove-a8a282953861644d88c51b19a45fcbbd.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/motif-xs_mbs63-lsb0-d4227e1f6131989f6e633e90247b76f4.png");
 
 /***/ },
 
@@ -32122,17 +32202,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Polychord","permalink
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"id":"band/run-a-band","title":"樂團的經營","description":"經營樂團跟經營公司一樣，怎處理人、事、物，都是學問。","source":"@site/docs/band/run-a-band.md","sourceDirName":"band","slug":"/band/run-a-band","permalink":"/band/run-a-band","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"樂團經營","permalink":"/tags/樂團經營"}],"version":"current","frontMatter":{"title":"樂團的經營","description":"經營樂團跟經營公司一樣，怎處理人、事、物，都是學問。","date":"2008-12-08T00:00:00.000Z","tags":["★★★","樂團經營"]},"sidebar":"tutorialSidebar","previous":{"title":"開歌, 選歌","permalink":"/band/pick-songs"},"next":{"title":"音樂製作","permalink":"/category/音樂製作"}}');
-
-/***/ },
-
-/***/ 56844
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbkAAAFACAIAAACuq5WuAAAAA3NCSVQICAjb4U/gAAAAX3pUWHRSYXcgcHJvZmlsZSB0eXBlIEFQUDEAAAiZ40pPzUstykxWKCjKT8vMSeVSAANjEy4TSxNLo0QDAwMLAwgwNDAwNgSSRkC2OVQo0QAFmJibpQGhuVmymSmIzwUAT7oVaBst2IwAABxNSURBVHic7d17jCRHYcfx6n3dWZHyDyLGhMAcG8JFOuWhRIiX4lnODrM+/oDoFBT+yMO7QVwuASnMYiQSCYKCuNzylA5HYQZQFIkkOgkUcroV5JhxREBJhCKhE7nYOe9gS0HYhMgS9r5mp/NHzfRUd1dPTc/2dFdXfz9/2N6Z7nFVd81vqrurqz3f9wUAYKKFogsAACVAVgKAGVkJAGZkJQCYkZUAYEZWAoAZWQkAZmQlAJiRlQBgRlYCgBlZCQBmZCUAmJGVAGBGVgKAGVkJAGZkJQCYkZUAYEZWAoAZWQkAZmQlAJiRlQBgRlYCgBlZCQBmZCUAmJGVWelueRrr7V7C8r32enThrW6O5QWQhuf7ftFlKLvulre2bVjmvbeO/2LN8+Qfj71vIXmFX/+rJ29uvEJ4o4WD/wBQIPqVJ9Pd8sxBKYT4zhNP9vv9/vHx8de3JgSlEOKr73xl8+v94cKDwWAwGPB7BhSOrDyBXnt9mpwUQgi/f3h4eHh4eKv5wMfU19/7tcPD/f39O595QHnxEw9u3ZKLHx0dkZiADcjKmfXalzZ3Iq89+Oh3f/zj55577kc/+tEPf/jDZ779ibXhG8dH+3v7+0+0rn5KWfqBz9z58OuPjg4PD+/9rY9/ck1559NXW0/sHxwcyLjs9/syK4lLoChk5ay61yJJ+cBn7jx3/R33Hhzs7e298MILzz///Asvetvne73db3z0fjE43Hvh+ecf/89b6ho//zP3HhwcHOzv7+/vv/i1D92vvNX50tce39vb29vb29/fPzw8DOIyj6oBiFkqugBl1b0RPvp+z871d7wk0hMcvvXit3328d8Q4vBg97+/q65Sr71kf39vMJCnJl9036uEeCx487H/enJv76eWlpaOj49lRMpr5b7vc7UHyB9ZOZve3duhv//owdceHBzIrJTZJ0NtYWFhHG0DMVDX8fsH+/t7x8fDM5L3vvwNQvxL8O7g6PDwUL4lhPA8b3FxUX4aWQnkj2Pw2fTuhA7A3/2m1xwejMiMC7JyYWFhGHMve8Wr1ZUe+0r3yYOgK3p8HApS8fhTT/X7R4oggjkSB/JHVs4k0q08v3rf0ZG8ch0cfS8sLCwtLa2srJw+ffrUqVOnT59eWam96tfU1b7xJ+c/+q1RCMb+H54Q4vj4+OjoKOircsoSKArH4FkYDPqjyBsMBrI7uTKytLS0sLDg+/5g8HO/855L7//nR5U1v7D5S1/Qf+arX/5SIQa+PxgMjo+P+/1+v99fXl4eDAah43oAuaBfOZPa6jn1z87jvdHocd/3ZY9yeXn51KlTskd5+vTpe+6555577jn9po+MxxEZLAghfN8fhHEMDhSCrMzEd7/3VOgAeWFhYXl5eXl5eWVlRf3nqVOnfvbhLz/77JfeFVr9dX/6j9/e+eDr1Zfe+Mqflv8RxKU/kkuNAIRwDD6b+kNNsT0eNfTYB/7mXy+8+xeC6znyYs7i4uLi4qI8BhdCyC6nEML31z70gx+8f29vf3//4OCg3+8L8f2vfPWbyue/8c2vvU+IvkxGGZF0KoEC0a+c0f3r7w39/bnf/oMvfV+MRkFK8iK499TnHlp46HPfG/4pD88DS0tLS0tLz/zDRz4YisrGa+7lSg5gEbJyVvXLf/lg6IVvfmj9V/7wy/+jvvTUX7/l1KnFV74zGF/ked7TX3jLT3zgG0Firqys/MenfnH9Q2pSit97+K0vGQzUUeiRfwLIGcfgM/K82sPv++N3fe3joVe/9eELv/xh3eIDX/jDY+iBLz755p/8ZPJHv+HP3v6rg8Hx+Ig7GNPOFXCgKPQrZ+fVrzy/854pF5bDfo6OjvqDiYfVb/zzf/rsxZeOzlGK0UH98HB+5OSFB5AKWTk7z/MW7v/o/33n03Xjog+89f77hoPVj/rJWfn7X3zi87/5soXxTgmuFKlxmUXZAaRDVs5IZtbCwsJi7Xf//plner2/fViz1P0f+/fvP/vss//7d29/8d7Q/lH8Fh1R/9i/Pf30070PvE6NwiAf5RUhmZj0K4FC8AyJ2clhj4eHhwcHBzIH5QAgOTZocXFRXr2RGSeECG5klBNhyNeD4ZPHI/IWHXkRfHFxUd4lKUezy3Ga9C6B/HFtZ3ayiydHUC4vLweXrWUmDgYDmZuyexicf5QxGqw+GF3vDm77EcrFnGAcuxxdFHQtC603UEVk5ezUrFxZWQliTp0QSN4eHu+8B5GnjjMP3lpaWpJxGdztI/un9CiBopCVJyIjb2lpSe0PRuf6VQZFLiqCm3lknkbIZdR+JZ1KoEBk5YnIcBRCLC8vq91M9YA6mMk8SEB512MwyfnCwkK/3w9CMJjyUt7SExx906kECjTDtZ3447Abrd2bG7XMylQ6wUG0jMjjYKrz8JH1QpjMStkDDRaOXPsObirnCjhQrNT9yl77SuQxr43Wo1UOSjHKQd/35ZFyMClvvF8ZXLSR5BXzyARC6uBzeRWIHiVQuLRZ2bt1XbR2/YqHY1yQfepV70ifXds3XFxc1GalKr9qAEiQ8hhcPf5udvyr9TkUqfSCTRrPysh/aJeMLwagcOnu2wk96HV7zfO89XYv2wI5IOgPxk9QRvqJ2iXpTgIWSpOV8VOVQuxsniEuATgvTVbWNm6OzqztthrByzub17qZlwsAbDLj3BkyNjtN+dftu73MCgQAFjrRPEP1q2r/EgCcdcI52WrnLzaEOLday6QwAGCpVFnZ3fI8z9vqhl9ttC7XsysQAFgo1XXwu7eFkGOFhnnZa1+6frHqd+3MEyOHUHbOtOETjEUX3Ag+d55uPjegRJxpw45Uw1XOtDNUljNtmOftAIAZWQkAZmQlAJiRlQBgRlYCgBlZCQBmZCUAmNmRlfLmSSbCBGCr4rOy114f3gu0s3mJtARgpYKzstdeP7O5E/xJWgKwU6FZ2d1Sg1IIwSTrFeHMfAqojuKystdeX4s9vkcIsX2jm3dRAMCgqKzstS9Fu5Si2fF3Ww2xfYXjcACWKSYr40nZaO36V+uitvFIU+xcv9UrpFgAkKCQrOxeiyRlsxNMg1m/3GoQlgAsU0BWxh4z3uxcrY//qp2/SFgCsEz+WRntVIaTUghRWz3HYTgAu+Seld0boU5lLCmFEPULTbFzp5dXiQDAKO+sDEelLimFELWzDXH7bi+fEgGAWc5ZOXwUpJT4sNza6jk6lgBskndW3hmfq2w+MvERkHQsAdijsPt2EjuVItL7BIDiFZWVjYvna4lvqr1PALDA+NG9kekM4o/0Zb4DAJW1lGrpkz8TvbvlrW0L0ez42ivg4yVEo7V7c+IJzSpw5jn0EWWpV1nKaTObt2GqsuV9DF472xBCNM7WEt4f39RzbjVpGat0tzzP2+oWXQzkjP1eObln5eq5Ce8qc2okxykA5C73azuyY6kVmvq3JN1KANWQf1aev9jQDTSPTP1LtxKATfIfM1RbPRcfaB59msTEIUUAkLcCxlfWzkY6lqMr32MVi0r5yN8Irhs4z6X97lJdEhSRlaGOpe6xO4a7H93Ra697nhf8UjQ7fqAj1jxvq9jiYU6M+71baPFSqVAbDiqW9Lq6QPzFmXSaw22629Jc6Gm0djP6/+Sh0xThBjKlcNU1de40k3aEA8pSr+Ryzne/l+M7UP42nKps6caiZ6R2tiE2b7TPXtmMPZ+sGp3K0FkH/bh87ol30NT7fedOT4habuWaRfXacDFZuXpOiO3NTc1bCTNaukRtZIn3L8UeSYSyc2m/u1SXqRXzbLIbugeDC9Fo7bqelMrp2eGjKycvBDe4tN9dqksazJ0BAGbp+pUnPpc6OtkbM8NZcjukOsc/OhmeuHx4+zRaWWxzG5WlXsnlnO9+301d0tw41YZTlS3HY/Beez06jjLYns4fe0tyYs6EaY67W15o+zQ7NzdyKhfmK/V+r+VTrllUtw3ndW0nPt58pHpzr8VvdY9vnQmT1qF8toVwa7+7VJdp5dKvJCiH5MQh2ze6wStyJG946ySfMEc51YQQruz3Crdh9dBd+/psx/Zj2vHmQ1afmJlOyjHJiSdshyKfNOM2t15Z6pVcznT73fg1LNP5eofacKqyzblf2Wuvn9EOsmq0djtN1x5sG70nVnOrWv1qQlsbNjDnfourYIr9LoQ7+72ybViNWO3rs2Ww7/vJP0CyO7nbapTr91Rr1L9IqOtU9UtueOm3uU3KX6/kcqbb7/rPmRQ4ZVPOfZ2qbHPMyoRWND7u7jQdOApXaykrE673xKYfOT8RmnegKYRo2tzOJnCmXsnlTLffI59j3D6hle1W6n1tRVYmnKUMRaMTHcvRN0StmVr5pB+D8s87oOdWvcxZOd1+H38Oc2fYxIKs1CdlbGPutholaRXJZHOIJL7axdD9GIS6IPpfi2ATZl/k+XGuXqasnHa/Dz9n+u1jfxfCiX1dfFZOfR4mmJytvLTHTOpvRax+piCNLJR5iefFxXoZsnLq/S6ESLd9LP9WuLKvi85KXVIm9B4dOArXfmeUTRB5S/k2JfeoQ93yOZR5DhytV8qsTNzvQoh028fmL4VD+zpV2Zg7AwDMsp47Q9Op1P1EThqgnriSleL9i3HdtCdoJ9auTPMOKFytV6p+5aT9bmrVzJ1RjFRly/gYPB6VE0/XmZQgMaPfmfE3RlN4WfeEr0J0wzQ7do9NU7harxRZOXm/i5Tbx2JO7etUZcs2K2M5mHy2bmplaDpBGYMK6kutvXjqT/iJsbmdKVyt19RZadrvCe9N0bWwjlP7OlXZMs3K6OaK/Pik6VGWpgEp35nRF8Z4wlvbHdFuNpvbmcLVek2XlVPs91g7Nmwfizm1r1OVLcusjG6zcMTNnJTxj7LJ6DtjPI2jLD59RW1uZyGO1iu5nOn2e4kbeJxD+zpV2TLMyolRqT36Hj/3Nrx5dQvb2pimGmmWvIphXZvbWYyD9UouZ7r9LkxzZ5SNI/s6Vdnml5WTo1LpoyfcFj65l2qNYaOZU+lsbmdm5ZxPQWXMyin3u/5zXArPZDbv61Rly3BONjm5/EjjbC35vdAMv/UL2snZahs3Q3Gpzi5qk7OtXd/heahmImd/DaZ/Dc2nINY8b6vY4mXiJPvduH262ZUTmVEjVvv61Bkc+pUMdxRDoacfdZjwczrDIa5LTNvcPuWfT0GVVTnHn+PS3BnTsXlfpypbPs8mU7uVjYvna+F3a6vnhLh9t6dbs3553LYSFoE1ulveeGrnZsf34w8I6d29nXOhLDL19nFsEmw3ZJiV8kEcRvGnGona2UZi66idvzj6WBqQ1dSnKjU7CYen3WvaafKrgO1Tcvn0Kw0xWjt/sZHYa6ytnptHkZCpXnt9FATJj6VSFqoetk/ZMXcGAJhlOndGfF593Vu689YTJ2cL1q3exR3zNreCU/MpqDIqp0tzZ6Rm875OVbZMj8HrF8a7fOf6rZ761tWgOUTeEUJMvrwTCA9Dgj3ktbtG63Jd82Z3K/zw6Gbn5kZO5bJFTwiRavvUcigUUsr2fKV61ToaifWro97HzualdugtMfHyTnDlVHNVCBaJ75/ulhfOAdHsVHcoKtun5NTuqPb1lP3VCcfhobd10+/rjz1KMq3+XEy3zQvn1HwKqozK6dLcGanZvK9TlW3Oz5DQ7n79yPSkZ+9UOSqtbmchDs2noMqqnJM3jtut2+Z9XXRWTvfMV/1KsSZjnu/KaTa3sxhH5lNQZZiVVbn9O8bmfV18VvozxaVuDo1h83I8Kcs/x0RaZalXplnptHK24VRlm9dYdHXmi53NM9567GpOfJXo5Z3R0Fx3LwxWYY4JuK1CbViNWO3rs2VwsLnMT1wPhC7vuH6a0q05JtIqS72yKmdZ6ptO+dtwqrLNOyt934/1zyeOyG12xku7mpPT/IIE7TDnouWjLPUiKxM50Ybty8qR6R9N5vIJyqmmmXO8W23z90dFVuq50oZT7Zd85s4Yqm3cnFya4PKOqycomWMCpVfVNszcGQBgluncGSeXfPeOE1LPMbGbY+GyV85xJKqsylmW+k7BqTacar/kegxuVls95/KUvqnnmKjlU66sVWgcSeVUpQ3HWZaVonY2edZfVzg9h0Kvve6NH5TQiD3Aq36hKYRjJ7IqyOk2nMC6rHS6Yynnh1efSCl7YOGz4MknzG3H83bc53obnkA9dNe+PtuxvYZmxJDmnMfEWX/LL+UcE2XiyjgS1UnbfNafYwWH2nCq/ZJXViYOrYxtWN1t4W5xcQ4FZf8m7zxloZJUl6xM4EgbtjErJ/wURb9ajl8Kd1Owf6cKyvJ8q8hKt6XaL/mcr+zeSD6bHz076fYZSzeNTkImXvYMnchMuogK2My2aztDrl8Kd0x1x5GgOpaKLoAej9YpIe04ksiNbq6NI0F1FN+vbF6oh/5mUEn5VHgcCSojn6yU3yWd+HFb784OT7ctmdrGI00hxPaaN6KcnRRCJA22BMojp6yU36VGqxN9LFn0+9NrX9kWjYvnw6/CdvWrk8eR0J9E2aWbZyj+4tR67fUzmzuN1u6k3oVciHNasMTJ2nz2n4NspdovuZ2vrG082mqInc0ziU/eGY4raXYISgC2yfHazvBxZTubZzzPUx9WpsxKQ5cSgJVyOwZXyCPtyIukJOzDMbjbUu2XIrISKAmy0m12nq8EgBIjKwHAjKwEADOyEgDMyEoAMCMrAcCMrAQAM7ISAMzISmDuGIjuALISAMzISgAwIysBwIysBAAzshIAzMhKADAjKwHAjKwEADOyEgDMyEoAMCMrAcCMrAQAM7ISAMzISgAwIysBwIysBAAzshIAzMhKADAjKwHAjKwEADOyEgDMyEoAMCMrAcCMrAQAM7ISAMzISgAwIysBwIysBAAzshIAzMhKADAjKwHAjKwEADOyEgDMyEoAMCMrAcCMrAQAM7ISAMzISgAwIysBwIysBAAzshIAzMhKADAjKwHAjKwEADOyEgDMyEoAMCMrAcCMrAQAM7ISAMzISgAwIysBwIysBGbQ3fI8b6tbdDGQH7ISAMzISgAwIysBwIysBAAzshIAzMhKADAjKwHAjKwEADOyEgDMyEoAMCMrAcCMrAQAM7ISAMzISgAwIysBwIysBAAzshI4oe6WF8IUwE4iK4ET6G553tp2+LXtteniMpqxZQ5al+qSgKwEZrW95q1tC9Fo7fq+32mq79zoTliv1173vHHGNjt+oCPWypUxLtXFIKhY0uvqAvEXAYclt/lRMsqclHZbjeD7o76uUpfRLtVpTljbLuWvS6pMo18JzKzZublRC/6qrZ4L/nvnTi++eHfLO7O5E6zr++raUu/u7aS17eJSXaZDVgKzal6oh/6unW3oFxRCiO7W+MRms+P7V+u6ha4F+WMzl+oyNbISyErvThAOkRjttddH4dJo7eqzRV3IZi7VJQ2yEshI98YoHRqty/XQO6MuVqO1Gz9WFUII0WuvK8e0kQ6rTVyqSypLRRcAcEOvfSXobT0azhB54i56elOhHtPGk9YqLtUlHbISyECvfWnYk9KEiDw2T4iNcLZMCCE7uFSXdMhK4MSCpGx2tOfvtoUQ4txqLfJyNFoS17eJS3VJhfOVwMmMzs4lX+ioCSHC49PlCO5wuCSvb5OaEMKVuqTj+aNR6J7nqW/4sdHpnufFXwQcltzmu1ve2naz41++K4Nycicq8uWKK1EfzLG6TJ9p6bLy5IUDgDJKdww+w11EwV2y6q1OoVtnhWaBatFuDvXG2pIqf72S2/ywblPWZrbvjp0qW5d5nq/stdc9b217mIHqBbH6Vd/3o/eT7mye8bz1dm+OJbKNq/MOuFov1dnWrp9wwwrcpEas9vXZMnj4u2vuK2r6HqXqecyq/PMO6LlVr3Rtfv6fY4PK1mU+WSm/MFN+ITRpGV9TWciBKA1VWV+fYeaUq7LO1YusjKtsXeaRldN2KUfCXRHNFy26QFl6JXpqoCRGxmihkmSK77tZL7IyrrJ1yT4rU/Up1VXClA+Iv12Sb5qGUpfkTaQsVJaaOlovsjKusnXJPCvTdip939eH5fjr5FBWakcFhIVqW5aKulovsjKusnXJ+jq4nGqlcfG8kJdCp3v2hjpJauD23d7w3Y1HQqc0y3s7/jTzDownaClPRV2tF6BQI1b7eqoMHp25b6YcQDm5Y6kuUepzlRM73dFrXGXpe/nu1ot+pUZl6zKf8ZXb27ppPnc2r3XTfErQsRRCiNrGTd/3dTPVl0nyvANedIKWUg3dc7VeQCDfuTNC6afSHoQ786COQE0I4eK8AzUhhIv1AsaYky1PNfmv7TUvaXr9cva7avJfztULGGPuDAAwS9evjAdoTHzKT0Vy70K3WvLzPErL1XntqNcsn6P9rljfA3dpX6eqS+bnK+uXdZe0peSnFI0GnQAVUIW5RdyT/bWd2sbNpCnXkn8vlYeFjoWuqw6bV8UmIoJreu11bzzWtBGbrKh+oSnE9hVauX3mch28ftUPD5lsdmYY7NM4G6ygDGXe2TzDzy7KKTQkX/+lkEdY7g0BccD8xgyNBkT6vnmWP90heOPi+drw3eBhokPq4BSgHNSzk81OwpciePg2rGPFs8l6t67HGsg4KgEHrK8FTw9PGmbaa68nXxdF0ezIyvjZSjUqa+cvRuZkGx+dA+Ugm3jy2I7R0yCFEJOugqIwNmSlnG8jJNyrDF8ucur57KiC3vDfzC1SZhY881Yzysz6MWazcmlsmop6TdT1vLXEPmW0/dve+F3a16nqUvw9jppeJUcgcJB2bpFIN8H2oKyywo/B41HZ7NBa4JSaEIK5Rcqu4GPw0AltIYSTNzYqXDp+UVEv4+dMXqBE/UmX9nWqujB3BgCYpTsGn34O4WnEJkMv9ZznU9FvQ+09oWWaPrxi9crqc8q5fdyvS4Lizlf22pfCR98VHAvk6hwKrtYrKy5tH5fqYqBGrPb12TLYxK1Hfk9tvA3DG0BT/U6zRJvF/Xpl9Tnl3z5u1mWahdXVcsvKaFJa31fPynAbhg5Y9JUfPeVN+6Z1HK9XVp/jxPZxsC5TLqyullNWRpLS5t+drAkhQo0ssRmNFrK4nalcrldWn+PK9nGtLtMvrK6WS1aGTwJXKSh93xdCNMxVV35MLG5nKofrldXnOLN9HKtLioXV1eafleEupcUbcU6m+I0IbaKybCGH65XV5zizfRyrS4qF1dXmnJWhLVixDqW0a2o+Je10u1qvrLLSpe3jUl0szcrS/NTMU2dS84mOUCvRRnK1Xpmdd3Jo+7hUFxuzcqpTwRXQSdgC8YG85dpKrtYr26x0Y/u4VBfbsjL63J0q241thti9S8L2wxYdV+uV8TG4E9vHpbrYlJXluBiWo1ibiirpZnK4Xll9jjPbx7G6TL8wc2cAgFm6uX7jAaqjzGBaoqmmcuHSfFYq6pXP59igsnXJcu6M4V303tp2cL6CoATghAyfIdG9trnj+FS9AKrKgmeTVYmr25B65fM5NqhsXQp/3g4AlABZCQBmZCUAmJGVAGBGVgKAGVkJAGZkJQCYkZUAYMbcGQBg5s4Q/FJw6Z4Hlav1yopL28eluqTCMTgAmJGVAGBGVgKAGVkJAGZkJQCYkZUAYEZWAoAZWQkAZmQlAJiRlQBgRlYCgBlZCQBmZCUAmJGVAGBGVgKAGVkJAGZkJQCYkZUAYPb/tq6IquogshYAAAAASUVORK5CYII=");
 
 /***/ },
 
@@ -32289,6 +32358,17 @@ const arrayJsonString=useHistorySelector(history=>{const values=new URLSearchPar
 
 /***/ },
 
+/***/ 57806
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tools1-ee81124b7ad1518bbabd19157e55aeba.png");
+
+/***/ },
+
 /***/ 57808
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -32314,17 +32394,6 @@ function Root({children}){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPOR
 
 /***/ },
 
-/***/ 57834
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
-
-/***/ },
-
 /***/ 58007
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -32345,6 +32414,17 @@ function Root({children}){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPOR
  */function SecondaryMenuBackButton(props){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("button",{...props,type:"button",className:"clean-btn navbar-sidebar__back",children:/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A,{id:"theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel",description:"The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)",children:"\u2190 Back to main menu"})});}// The secondary menu slides from the right and shows contextual information
 // such as the docs sidebar
 function NavbarMobileSidebarSecondaryMenu(){const isPrimaryMenuEmpty=(0,_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_1__/* .useThemeConfig */ .p)().navbar.items.length===0;const secondaryMenu=(0,_docusaurus_theme_common_internal__WEBPACK_IMPORTED_MODULE_2__/* .useNavbarSecondaryMenu */ .T)();return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.Fragment,{children:[!isPrimaryMenuEmpty&&/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(SecondaryMenuBackButton,{onClick:()=>secondaryMenu.hide()}),secondaryMenu.content]});}
+
+/***/ },
+
+/***/ 58067
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic4_c-major-56e901a8030097cc51d187af8cb04bff.png");
 
 /***/ },
 
@@ -32384,17 +32464,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/willing","title":"意念
 
 /***/ },
 
-/***/ 58397
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/pattern1-5_2-d9b9e6a00c3c3230c3a6189b7c6a3814.png");
-
-/***/ },
-
 /***/ 58455
 (module) {
 
@@ -32403,14 +32472,36 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"★★★★★","per
 
 /***/ },
 
-/***/ 58906
+/***/ 58483
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/know_a_little-e9449aba0c43b3a4b522018f6cffcc3d.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/01-1-aea1532d44093399995b86d78901876d.JPG");
+
+/***/ },
+
+/***/ 58780
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Gmaj7_Arp_on_Various_Strings-75bf1dcec81d80f80581c8adacfa16cc.png");
+
+/***/ },
+
+/***/ 58967
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Asturias-bed2d34f2137f0c5e162fe01ff8c464f.jpg");
 
 /***/ },
 
@@ -32780,7 +32871,7 @@ function _createMdxContent(props) {
       children: "工作之餘我喜歡在樂手相關論壇逛，有時候是在撿便宜、找好康、同時也是在學習、有時候也是在觀察一些社會百態。下是 screenshot 著名效果器大廠 Line6 POD HD 500 上市之後，我觀察到的一個現象："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(17079)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(30805)/* ["default"] */ .A) + "",
         width: "476",
         height: "460"
       })
@@ -32855,7 +32946,18 @@ function MDXContent(props = {}) {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"docusaurus-plugin-content-docs":{"default":{"path":"/","versions":[{"name":"current","label":"Next","isLast":true,"path":"/","mainDocId":"index","docs":[{"id":"band/about-score/index","path":"/band/about-score/","sidebar":"tutorialSidebar"},{"id":"band/getting-started-play-as-band","path":"/band/getting-started-play-as-band","sidebar":"tutorialSidebar"},{"id":"band/pick-songs","path":"/band/pick-songs","sidebar":"tutorialSidebar"},{"id":"band/run-a-band","path":"/band/run-a-band","sidebar":"tutorialSidebar"},{"id":"dict/chord-learning-map/index","path":"/dict/chord-learning-map/","sidebar":"tutorialSidebar"},{"id":"dict/diatonic-chords-in-circle-of-5ths/index","path":"/dict/diatonic-chords-in-circle-of-5ths/","sidebar":"tutorialSidebar"},{"id":"dict/scale-learning-map/index","path":"/dict/scale-learning-map/","sidebar":"tutorialSidebar"},{"id":"gossip/algorithm-for-songs/index","path":"/gossip/algorithm-for-songs/","sidebar":"tutorialSidebar"},{"id":"gossip/as-professional","path":"/gossip/as-professional","sidebar":"tutorialSidebar"},{"id":"gossip/correctness-efficiency","path":"/gossip/correctness-efficiency","sidebar":"tutorialSidebar"},{"id":"gossip/dialogue","path":"/gossip/dialogue","sidebar":"tutorialSidebar"},{"id":"gossip/echo-delay-reverb","path":"/gossip/echo-delay-reverb","sidebar":"tutorialSidebar"},{"id":"gossip/fixed-solfege","path":"/gossip/fixed-solfege","sidebar":"tutorialSidebar"},{"id":"gossip/form-framework-history","path":"/gossip/form-framework-history","sidebar":"tutorialSidebar"},{"id":"gossip/guthrie-govan-live-2015","path":"/gossip/guthrie-govan-live-2015","sidebar":"tutorialSidebar"},{"id":"gossip/how-to-listen-a-song","path":"/gossip/how-to-listen-a-song","sidebar":"tutorialSidebar"},{"id":"gossip/jimi-hendrix","path":"/gossip/jimi-hendrix","sidebar":"tutorialSidebar"},{"id":"gossip/just-getting-started/index","path":"/gossip/just-getting-started/","sidebar":"tutorialSidebar"},{"id":"gossip/learn-to-listen","path":"/gossip/learn-to-listen","sidebar":"tutorialSidebar"},{"id":"gossip/learning","path":"/gossip/learning","sidebar":"tutorialSidebar"},{"id":"gossip/level-of-practice","path":"/gossip/level-of-practice","sidebar":"tutorialSidebar"},{"id":"gossip/mathematics","path":"/gossip/mathematics","sidebar":"tutorialSidebar"},{"id":"gossip/memory-in-ff-music","path":"/gossip/memory-in-ff-music","sidebar":"tutorialSidebar"},{"id":"gossip/play-what-and-how-to-play","path":"/gossip/play-what-and-how-to-play","sidebar":"tutorialSidebar"},{"id":"gossip/protect-your-ears","path":"/gossip/protect-your-ears","sidebar":"tutorialSidebar"},{"id":"gossip/pubking-wubai","path":"/gossip/pubking-wubai","sidebar":"tutorialSidebar"},{"id":"gossip/relative-absolute","path":"/gossip/relative-absolute","sidebar":"tutorialSidebar"},{"id":"gossip/semi-tone-of-solfege","path":"/gossip/semi-tone-of-solfege","sidebar":"tutorialSidebar"},{"id":"gossip/simple-complex","path":"/gossip/simple-complex","sidebar":"tutorialSidebar"},{"id":"gossip/speed","path":"/gossip/speed","sidebar":"tutorialSidebar"},{"id":"gossip/willing","path":"/gossip/willing","sidebar":"tutorialSidebar"},{"id":"guitar/effective-practice-guitar/index","path":"/guitar/effective-practice-guitar/","sidebar":"tutorialSidebar"},{"id":"guitar/guide-to-guitar-scale-patterns/index","path":"/guitar/guide-to-guitar-scale-patterns/","sidebar":"tutorialSidebar"},{"id":"guitar/guitar-chord-voicing/index","path":"/guitar/guitar-chord-voicing/","sidebar":"tutorialSidebar"},{"id":"guitar/guitar-fundation-technical/index","path":"/guitar/guitar-fundation-technical/","sidebar":"tutorialSidebar"},{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","path":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/","sidebar":"tutorialSidebar"},{"id":"guitar/how-to-practice-a-song","path":"/guitar/how-to-practice-a-song","sidebar":"tutorialSidebar"},{"id":"guitar/practice-arpeggios-251-on-g-major/index","path":"/guitar/practice-arpeggios-251-on-g-major/","sidebar":"tutorialSidebar"},{"id":"guitar/practice-arpeggios-g-major7/index","path":"/guitar/practice-arpeggios-g-major7/","sidebar":"tutorialSidebar"},{"id":"guitar/some-tips-and-suggestions-for-practicing-guitar","path":"/guitar/some-tips-and-suggestions-for-practicing-guitar","sidebar":"tutorialSidebar"},{"id":"guitar/time-for-practice-guitar/index","path":"/guitar/time-for-practice-guitar/","sidebar":"tutorialSidebar"},{"id":"index","path":"/","sidebar":"tutorialSidebar"},{"id":"production/basic-concepts-of-sampling","path":"/production/basic-concepts-of-sampling","sidebar":"tutorialSidebar"},{"id":"production/concepts-of-music-technology/index","path":"/production/concepts-of-music-technology/","sidebar":"tutorialSidebar"},{"id":"production/digital-audio-system/index","path":"/production/digital-audio-system/","sidebar":"tutorialSidebar"},{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","path":"/production/loop-concepts-and-application-one-night-in-beijing/","sidebar":"tutorialSidebar"},{"id":"production/motu-mk4-macos/index","path":"/production/motu-mk4-macos/","sidebar":"tutorialSidebar"},{"id":"production/using-external-midi-devices-in-logic-pro/index","path":"/production/using-external-midi-devices-in-logic-pro/","sidebar":"tutorialSidebar"},{"id":"songs/FFV_Dear-Friends/index","path":"/songs/FFV_Dear-Friends/","sidebar":"tutorialSidebar"},{"id":"songs/g5-project","path":"/songs/g5-project","sidebar":"tutorialSidebar"},{"id":"songs/Jack-Thammarat_Emotive-Ballad/index","path":"/songs/Jack-Thammarat_Emotive-Ballad/","sidebar":"tutorialSidebar"},{"id":"songs/Jack-Thammarat_Falling-in-Love-Again/index","path":"/songs/Jack-Thammarat_Falling-in-Love-Again/","sidebar":"tutorialSidebar"},{"id":"songs/Songs-for-Memory/index","path":"/songs/Songs-for-Memory/","sidebar":"tutorialSidebar"},{"id":"songs/Songs-for-Nylon-Guitar/index","path":"/songs/Songs-for-Nylon-Guitar/","sidebar":"tutorialSidebar"},{"id":"songs/Survival-Dance/index","path":"/songs/Survival-Dance/","sidebar":"tutorialSidebar"},{"id":"songs/Zelda-Trailer-2017E3/index","path":"/songs/Zelda-Trailer-2017E3/","sidebar":"tutorialSidebar"},{"id":"theory/canon-chord-progression/index","path":"/theory/canon-chord-progression/","sidebar":"tutorialSidebar"},{"id":"theory/create-a-new-scale","path":"/theory/create-a-new-scale","sidebar":"tutorialSidebar"},{"id":"theory/dominant-and-extension-chords/index","path":"/theory/dominant-and-extension-chords/","sidebar":"tutorialSidebar"},{"id":"theory/eleventh-chord","path":"/theory/eleventh-chord","sidebar":"tutorialSidebar"},{"id":"theory/essence-of-musical-scales","path":"/theory/essence-of-musical-scales","sidebar":"tutorialSidebar"},{"id":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","path":"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","sidebar":"tutorialSidebar"},{"id":"theory/major-scale/index","path":"/theory/major-scale/","sidebar":"tutorialSidebar"},{"id":"theory/minor-scale/index","path":"/theory/minor-scale/","sidebar":"tutorialSidebar"},{"id":"theory/modal-interchange","path":"/theory/modal-interchange","sidebar":"tutorialSidebar"},{"id":"theory/musical-mode","path":"/theory/musical-mode","sidebar":"tutorialSidebar"},{"id":"theory/musical-scale-fundation","path":"/theory/musical-scale-fundation","sidebar":"tutorialSidebar"},{"id":"theory/note-signature/index","path":"/theory/note-signature/","sidebar":"tutorialSidebar"},{"id":"theory/relation-chord","path":"/theory/relation-chord","sidebar":"tutorialSidebar"},{"id":"theory/secondary-dominat/index","path":"/theory/secondary-dominat/","sidebar":"tutorialSidebar"},{"id":"theory/suspended-chord","path":"/theory/suspended-chord","sidebar":"tutorialSidebar"},{"id":"theory/thinkin-mode","path":"/theory/thinkin-mode","sidebar":"tutorialSidebar"},{"id":"theory/thriteenth-chord","path":"/theory/thriteenth-chord","sidebar":"tutorialSidebar"},{"id":"theory/tonality-key-mode/index","path":"/theory/tonality-key-mode/","sidebar":"tutorialSidebar"},{"id":"theory/tritone","path":"/theory/tritone","sidebar":"tutorialSidebar"},{"id":"/category/聊音樂","path":"/category/聊音樂","sidebar":"tutorialSidebar"},{"id":"/category/給吉他手","path":"/category/給吉他手","sidebar":"tutorialSidebar"},{"id":"/category/樂理","path":"/category/樂理","sidebar":"tutorialSidebar"},{"id":"/category/樂團經營","path":"/category/樂團經營","sidebar":"tutorialSidebar"},{"id":"/category/音樂製作","path":"/category/音樂製作","sidebar":"tutorialSidebar"},{"id":"/category/私房歌","path":"/category/私房歌","sidebar":"tutorialSidebar"},{"id":"/category/字典工具","path":"/category/字典工具","sidebar":"tutorialSidebar"}],"draftIds":["gossip/reality-ideal","gossip/tech-and-music","songs/and-life"],"sidebars":{"tutorialSidebar":{"link":{"path":"/category/聊音樂","label":"聊音樂"}}}}],"breadcrumbs":true}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"docusaurus-plugin-content-docs":{"default":{"path":"/","versions":[{"name":"current","label":"Next","isLast":true,"path":"/","mainDocId":"index","docs":[{"id":"band/about-score/index","path":"/band/about-score/","sidebar":"tutorialSidebar"},{"id":"band/getting-started-play-as-band","path":"/band/getting-started-play-as-band","sidebar":"tutorialSidebar"},{"id":"band/pick-songs","path":"/band/pick-songs","sidebar":"tutorialSidebar"},{"id":"band/run-a-band","path":"/band/run-a-band","sidebar":"tutorialSidebar"},{"id":"dict/chord-learning-map/index","path":"/dict/chord-learning-map/","sidebar":"tutorialSidebar"},{"id":"dict/diatonic-chords-in-circle-of-5ths/index","path":"/dict/diatonic-chords-in-circle-of-5ths/","sidebar":"tutorialSidebar"},{"id":"dict/scale-learning-map/index","path":"/dict/scale-learning-map/","sidebar":"tutorialSidebar"},{"id":"gossip/algorithm-for-songs/index","path":"/gossip/algorithm-for-songs/","sidebar":"tutorialSidebar"},{"id":"gossip/as-professional","path":"/gossip/as-professional","sidebar":"tutorialSidebar"},{"id":"gossip/correctness-efficiency","path":"/gossip/correctness-efficiency","sidebar":"tutorialSidebar"},{"id":"gossip/dialogue","path":"/gossip/dialogue","sidebar":"tutorialSidebar"},{"id":"gossip/echo-delay-reverb","path":"/gossip/echo-delay-reverb","sidebar":"tutorialSidebar"},{"id":"gossip/fixed-solfege","path":"/gossip/fixed-solfege","sidebar":"tutorialSidebar"},{"id":"gossip/form-framework-history","path":"/gossip/form-framework-history","sidebar":"tutorialSidebar"},{"id":"gossip/guthrie-govan-live-2015","path":"/gossip/guthrie-govan-live-2015","sidebar":"tutorialSidebar"},{"id":"gossip/how-to-listen-a-song","path":"/gossip/how-to-listen-a-song","sidebar":"tutorialSidebar"},{"id":"gossip/jimi-hendrix","path":"/gossip/jimi-hendrix","sidebar":"tutorialSidebar"},{"id":"gossip/just-getting-started/index","path":"/gossip/just-getting-started/","sidebar":"tutorialSidebar"},{"id":"gossip/learn-to-listen","path":"/gossip/learn-to-listen","sidebar":"tutorialSidebar"},{"id":"gossip/learning","path":"/gossip/learning","sidebar":"tutorialSidebar"},{"id":"gossip/level-of-practice","path":"/gossip/level-of-practice","sidebar":"tutorialSidebar"},{"id":"gossip/mathematics","path":"/gossip/mathematics","sidebar":"tutorialSidebar"},{"id":"gossip/memory-in-ff-music","path":"/gossip/memory-in-ff-music","sidebar":"tutorialSidebar"},{"id":"gossip/play-what-and-how-to-play","path":"/gossip/play-what-and-how-to-play","sidebar":"tutorialSidebar"},{"id":"gossip/protect-your-ears","path":"/gossip/protect-your-ears","sidebar":"tutorialSidebar"},{"id":"gossip/pubking-wubai","path":"/gossip/pubking-wubai","sidebar":"tutorialSidebar"},{"id":"gossip/relative-absolute","path":"/gossip/relative-absolute","sidebar":"tutorialSidebar"},{"id":"gossip/semi-tone-of-solfege","path":"/gossip/semi-tone-of-solfege","sidebar":"tutorialSidebar"},{"id":"gossip/simple-complex","path":"/gossip/simple-complex","sidebar":"tutorialSidebar"},{"id":"gossip/speed","path":"/gossip/speed","sidebar":"tutorialSidebar"},{"id":"gossip/willing","path":"/gossip/willing","sidebar":"tutorialSidebar"},{"id":"guitar/effective-practice-guitar/index","path":"/guitar/effective-practice-guitar/","sidebar":"tutorialSidebar"},{"id":"guitar/guide-to-guitar-scale-patterns/index","path":"/guitar/guide-to-guitar-scale-patterns/","sidebar":"tutorialSidebar"},{"id":"guitar/guitar-chord-voicing/index","path":"/guitar/guitar-chord-voicing/","sidebar":"tutorialSidebar"},{"id":"guitar/guitar-fundation-technical/index","path":"/guitar/guitar-fundation-technical/","sidebar":"tutorialSidebar"},{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","path":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/","sidebar":"tutorialSidebar"},{"id":"guitar/how-to-practice-a-song","path":"/guitar/how-to-practice-a-song","sidebar":"tutorialSidebar"},{"id":"guitar/practice-arpeggios-251-on-g-major/index","path":"/guitar/practice-arpeggios-251-on-g-major/","sidebar":"tutorialSidebar"},{"id":"guitar/practice-arpeggios-g-major7/index","path":"/guitar/practice-arpeggios-g-major7/","sidebar":"tutorialSidebar"},{"id":"guitar/some-tips-and-suggestions-for-practicing-guitar","path":"/guitar/some-tips-and-suggestions-for-practicing-guitar","sidebar":"tutorialSidebar"},{"id":"guitar/time-for-practice-guitar/index","path":"/guitar/time-for-practice-guitar/","sidebar":"tutorialSidebar"},{"id":"index","path":"/","sidebar":"tutorialSidebar"},{"id":"production/basic-concepts-of-sampling","path":"/production/basic-concepts-of-sampling","sidebar":"tutorialSidebar"},{"id":"production/concepts-of-music-technology/index","path":"/production/concepts-of-music-technology/","sidebar":"tutorialSidebar"},{"id":"production/digital-audio-system/index","path":"/production/digital-audio-system/","sidebar":"tutorialSidebar"},{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","path":"/production/loop-concepts-and-application-one-night-in-beijing/","sidebar":"tutorialSidebar"},{"id":"production/motu-mk4-macos/index","path":"/production/motu-mk4-macos/","sidebar":"tutorialSidebar"},{"id":"production/using-external-midi-devices-in-logic-pro/index","path":"/production/using-external-midi-devices-in-logic-pro/","sidebar":"tutorialSidebar"},{"id":"songs/FFV_Dear-Friends/index","path":"/songs/FFV_Dear-Friends/","sidebar":"tutorialSidebar"},{"id":"songs/g5-project","path":"/songs/g5-project","sidebar":"tutorialSidebar"},{"id":"songs/Jack-Thammarat_Emotive-Ballad/index","path":"/songs/Jack-Thammarat_Emotive-Ballad/","sidebar":"tutorialSidebar"},{"id":"songs/Jack-Thammarat_Falling-in-Love-Again/index","path":"/songs/Jack-Thammarat_Falling-in-Love-Again/","sidebar":"tutorialSidebar"},{"id":"songs/Songs-for-Memory/index","path":"/songs/Songs-for-Memory/","sidebar":"tutorialSidebar"},{"id":"songs/Songs-for-Nylon-Guitar/index","path":"/songs/Songs-for-Nylon-Guitar/","sidebar":"tutorialSidebar"},{"id":"songs/Survival-Dance/index","path":"/songs/Survival-Dance/","sidebar":"tutorialSidebar"},{"id":"songs/Zelda-Trailer-2017E3/index","path":"/songs/Zelda-Trailer-2017E3/","sidebar":"tutorialSidebar"},{"id":"theory/canon-chord-progression/index","path":"/theory/canon-chord-progression/","sidebar":"tutorialSidebar"},{"id":"theory/create-a-new-scale","path":"/theory/create-a-new-scale","sidebar":"tutorialSidebar"},{"id":"theory/dominant-and-extension-chords/index","path":"/theory/dominant-and-extension-chords/","sidebar":"tutorialSidebar"},{"id":"theory/eleventh-chord","path":"/theory/eleventh-chord","sidebar":"tutorialSidebar"},{"id":"theory/essence-of-musical-scales","path":"/theory/essence-of-musical-scales","sidebar":"tutorialSidebar"},{"id":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","path":"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","sidebar":"tutorialSidebar"},{"id":"theory/major-scale/index","path":"/theory/major-scale/","sidebar":"tutorialSidebar"},{"id":"theory/minor-scale/index","path":"/theory/minor-scale/","sidebar":"tutorialSidebar"},{"id":"theory/modal-interchange","path":"/theory/modal-interchange","sidebar":"tutorialSidebar"},{"id":"theory/musical-mode","path":"/theory/musical-mode","sidebar":"tutorialSidebar"},{"id":"theory/musical-scale-fundation","path":"/theory/musical-scale-fundation","sidebar":"tutorialSidebar"},{"id":"theory/note-signature/index","path":"/theory/note-signature/","sidebar":"tutorialSidebar"},{"id":"theory/relation-chord","path":"/theory/relation-chord","sidebar":"tutorialSidebar"},{"id":"theory/secondary-dominat/index","path":"/theory/secondary-dominat/","sidebar":"tutorialSidebar"},{"id":"theory/suspended-chord","path":"/theory/suspended-chord","sidebar":"tutorialSidebar"},{"id":"theory/thinkin-mode","path":"/theory/thinkin-mode","sidebar":"tutorialSidebar"},{"id":"theory/thriteenth-chord","path":"/theory/thriteenth-chord","sidebar":"tutorialSidebar"},{"id":"theory/tonality-key-mode/index","path":"/theory/tonality-key-mode/","sidebar":"tutorialSidebar"},{"id":"theory/tritone","path":"/theory/tritone","sidebar":"tutorialSidebar"},{"id":"/category/聊音樂","path":"/category/聊音樂","sidebar":"tutorialSidebar"},{"id":"/category/給吉他手","path":"/category/給吉他手","sidebar":"tutorialSidebar"},{"id":"/category/樂理","path":"/category/樂理","sidebar":"tutorialSidebar"},{"id":"/category/樂團經營","path":"/category/樂團經營","sidebar":"tutorialSidebar"},{"id":"/category/音樂製作","path":"/category/音樂製作","sidebar":"tutorialSidebar"},{"id":"/category/私房歌","path":"/category/私房歌","sidebar":"tutorialSidebar"},{"id":"/category/字典工具","path":"/category/字典工具","sidebar":"tutorialSidebar"}],"draftIds":["gossip/reality-ideal","gossip/tech-and-music","songs/and-life"],"sidebars":{"tutorialSidebar":{"link":{"path":"/category/聊音樂","label":"聊音樂"}}}}],"breadcrumbs":true}},"docusaurus-plugin-google-gtag":{"default":{"trackingID":["G-74MKXCGYFR"],"anonymizeIP":true,"id":"default"}}}');
+
+/***/ },
+
+/***/ 59612
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -32868,6 +32970,17 @@ module.exports = {
 	"anchorTargetHideOnScrollNavbar": `anchorTargetHideOnScrollNavbar_vjPI`
 };
 
+
+/***/ },
+
+/***/ 60006
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic2_7th_number-notation-e1eacc35b2f92e10576e4bc7d3007712.png");
 
 /***/ },
 
@@ -33260,17 +33373,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/how-to-choose-the-ight-d
 
 /***/ },
 
-/***/ 60130
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Gmaj7_Arp_on_45_Strings-94986ce835c3c792615ddfe856ce5dd8.png");
-
-/***/ },
-
 /***/ 60236
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -33293,6 +33395,28 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/how-to-choose-the-ight-d
  * LICENSE file in the root directory of this source tree.
  */function CodeBlockContainer({as:As,...props}){const prismTheme=(0,_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_3__/* .usePrismTheme */ .A)();const prismCssVariables=(0,_docusaurus_theme_common_internal__WEBPACK_IMPORTED_MODULE_4__/* .getPrismCssVariables */ .M$)(prismTheme);return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(As// Polymorphic components are hard to type, without `oneOf` generics
 ,{...props,style:prismCssVariables,className:(0,clsx__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)(props.className,(_styles_module_css__WEBPACK_IMPORTED_MODULE_5___default().codeBlockContainer),_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_2__/* .ThemeClassNames */ .G.common.codeBlock)});}
+
+/***/ },
+
+/***/ 60339
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_advance3_modal-interchange_c-major-94dcd4a6c574ab63bbf1665126355026.png");
+
+/***/ },
+
+/***/ 60532
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -33675,7 +33799,7 @@ function _createMdxContent(props) {
       }), "。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(19970)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(29220)/* ["default"] */ .A) + "",
         width: "1120",
         height: "498"
       })
@@ -33690,7 +33814,7 @@ function _createMdxContent(props) {
       children: "在五、六弦串接這三個和弦，變化很多，下圖是最簡單的例子："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(95731)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(429)/* ["default"] */ .A) + "",
         width: "1085",
         height: "246"
       })
@@ -33844,14 +33968,14 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 61004
+/***/ 60956
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/know_a_little-e9449aba0c43b3a4b522018f6cffcc3d.jpg");
 
 /***/ },
 
@@ -33872,17 +33996,6 @@ function MDXContent(props = {}) {
  * LICENSE file in the root directory of this source tree.
  */const formatter=params=>{// Add your own title formatting logic here!
 return params.defaultFormatter(params);};function ThemeProviderTitleFormatter({children}){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)(_docusaurus_theme_common_internal__WEBPACK_IMPORTED_MODULE_1__/* .TitleFormatterProvider */ .AL,{formatter:formatter,children:children});}
-
-/***/ },
-
-/***/ 61021
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_definition_number-notation-4ec89d0a007188dadd18f79e8c5b2eac.jpg");
 
 /***/ },
 
@@ -34012,17 +34125,6 @@ function MDXContent(props = {}) {
 }
 
 
-
-/***/ },
-
-/***/ 61151
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Memorizes_of_Lightwave_temp-eef157e94e6f2a3954b4ad3c4f4f0b9c.png");
 
 /***/ },
 
@@ -34277,17 +34379,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Arpeggios","permalink
 
 /***/ },
 
-/***/ 61299
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/workable02-9aa9612cbfda421563317db2a48bbf43.jpg");
-
-/***/ },
-
 /***/ 61398
 (module) {
 
@@ -34297,17 +34388,6 @@ module.exports = {
 	"linkLabel": `linkLabel_WmDU`
 };
 
-
-/***/ },
-
-/***/ 61495
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic1_with-bass-5c19e7d079bb7db3200e52d72a56a25c.png");
 
 /***/ },
 
@@ -34383,7 +34463,7 @@ function _createMdxContent(props) {
       children: "下圖是目前常見的音樂音階學習地圖："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(15770)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(81484)/* ["default"] */ .A) + "",
         width: "1163",
         height: "655"
       })
@@ -34619,6 +34699,28 @@ webpackContext.id = 63157;
 
 /***/ },
 
+/***/ 63217
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/SerenadeEspagnole-ac528ab13aa1449d4909950feee41609.jpg");
+
+/***/ },
+
+/***/ 63380
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Because-I-Love-You-f51245a3548ccbc41dc14d910d568b2d.jpg");
+
+/***/ },
+
 /***/ 63662
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -34690,6 +34792,7 @@ const toc = [{
 function _createMdxContent(props) {
   const _components = {
     a: "a",
+    br: "br",
     h2: "h2",
     hr: "hr",
     img: "img",
@@ -34711,15 +34814,15 @@ function _createMdxContent(props) {
       children: "買的時間，已經忘記了，但可以確認的是，那是個 mp3 才剛出現的年代。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(37078)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(33420)/* ["default"] */ .A) + "",
         width: "1600",
         height: "1201"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(65491)/* ["default"] */ .A) + "",
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
+        src: (__webpack_require__(5033)/* ["default"] */ .A) + "",
         width: "1600",
         height: "1201"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(5959)/* ["default"] */ .A) + "",
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
+        src: (__webpack_require__(37937)/* ["default"] */ .A) + "",
         width: "1600",
         height: "1200"
       })]
@@ -34751,15 +34854,15 @@ function _createMdxContent(props) {
       children: "下面的譜，是我很多年前（2005）自己編曲的，當時邊的參考的就是這張 CD 的版本。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(40268)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(21586)/* ["default"] */ .A) + "",
         width: "1131",
         height: "1600"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(25095)/* ["default"] */ .A) + "",
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
+        src: (__webpack_require__(86729)/* ["default"] */ .A) + "",
         width: "1131",
         height: "1600"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(37406)/* ["default"] */ .A) + "",
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
+        src: (__webpack_require__(15552)/* ["default"] */ .A) + "",
         width: "1131",
         height: "1600"
       })]
@@ -34890,6 +34993,17 @@ module.exports = Array.isArray || function (arr) {
 
 /***/ },
 
+/***/ 64685
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/preview-f541ccfc0e73c32c18849fa03f506acf.png");
+
+/***/ },
+
 /***/ 64820
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -34909,6 +35023,17 @@ module.exports = Array.isArray || function (arr) {
  * LICENSE file in the root directory of this source tree.
  */function DocNavbarItem({docId,label:staticLabel,docsPluginId,...props}){const{activeDoc}=(0,_docusaurus_plugin_content_docs_client__WEBPACK_IMPORTED_MODULE_1__/* .useActiveDocContext */ .zK)(docsPluginId);const doc=(0,_docusaurus_plugin_content_docs_client__WEBPACK_IMPORTED_MODULE_2__/* .useLayoutDoc */ .QB)(docId,docsPluginId);const pageActive=activeDoc?.path===doc?.path;// Draft and unlisted items are not displayed in the navbar.
 if(doc===null||doc.unlisted&&!pageActive){return null;}return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(_theme_NavbarItem_DefaultNavbarItem__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A,{exact:true,...props,isActive:()=>pageActive||!!activeDoc?.sidebar&&activeDoc.sidebar===doc.sidebar,label:staticLabel??doc.id,to:doc.path});}
+
+/***/ },
+
+/***/ 64914
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/fig3_GMixo-Lydian-P3-b0db11b39a7d4f436691898f7fadbea9.png");
 
 /***/ },
 
@@ -34943,25 +35068,14 @@ if(viewedId==='annoucement-bar'){viewedId='announcement-bar';}const isNewAnnounc
 
 /***/ },
 
-/***/ 65257
+/***/ 65181
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
-
-/***/ },
-
-/***/ 65269
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/01-1-aea1532d44093399995b86d78901876d.JPG");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/altered-chords-9aee742932e946eff97356503e0381be.png");
 
 /***/ },
 
@@ -34970,6 +35084,17 @@ if(viewedId==='annoucement-bar'){viewedId='announcement-bar';}const isNewAnnounc
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"MacOS","permalink":"/tags/mac-os","allTagsPath":"/tags","count":1,"items":[{"id":"production/motu-mk4-macos/index","title":"在 MacOS 驅動 MOTU UltraLite mk4","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","permalink":"/production/motu-mk4-macos/"}],"unlisted":false}}');
+
+/***/ },
+
+/***/ 65360
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/06-1-f6f68c452b5723c6403d173133bb1901.JPG");
 
 /***/ },
 
@@ -35000,33 +35125,22 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"MacOS","permalink":"/
 
 /***/ },
 
-/***/ 65491
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/IMG_7389-31f76d7125c74980ba5e00378ffc6c36.jpg");
-
-/***/ },
-
-/***/ 65693
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/logic-pro-bank-select-5d8021355d6945ee892e88d00bbd81c4.png");
-
-/***/ },
-
 /***/ 65813
 (module) {
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"id":"production/basic-concepts-of-sampling","title":"取樣的基本概念","description":"這是網友在 鄉民站 Keyboard 版問的問題, 我花了一點時間回答基本的概念.","source":"@site/docs/production/basic-concepts-of-sampling.md","sourceDirName":"production","slug":"/production/basic-concepts-of-sampling","permalink":"/production/basic-concepts-of-sampling","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"音樂製作","permalink":"/tags/音樂製作"},{"inline":true,"label":"MIDI鍵盤","permalink":"/tags/midi鍵盤"}],"version":"current","frontMatter":{"title":"取樣的基本概念","date":"2011-01-11T00:00:00.000Z","tags":["★★★★","音樂製作","MIDI鍵盤"]},"sidebar":"tutorialSidebar","previous":{"title":"音樂製作","permalink":"/category/音樂製作"},"next":{"title":"數位音樂科技概論","permalink":"/production/concepts-of-music-technology/"}}');
+
+/***/ },
+
+/***/ 65845
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/workable02-9aa9612cbfda421563317db2a48bbf43.jpg");
 
 /***/ },
 
@@ -35043,6 +35157,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"dict/scale-learning-map/index",
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/protect-your-ears","title":"保護耳朵","description":"音樂人要好好的保護自己的耳朵。","source":"@site/docs/gossip/protect-your-ears.md","sourceDirName":"gossip","slug":"/gossip/protect-your-ears","permalink":"/gossip/protect-your-ears","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"},{"inline":true,"label":"樂團經營","permalink":"/tags/樂團經營"}],"version":"current","frontMatter":{"title":"保護耳朵","date":"2011-03-13T00:00:00.000Z","description":"音樂人要好好的保護自己的耳朵。","tags":["★","聊天","樂團經營"]},"sidebar":"tutorialSidebar","previous":{"title":"怎麼彈和彈什麼","permalink":"/gossip/play-what-and-how-to-play"},"next":{"title":"2014 伍佰無盡閃亮的高雄小巨蛋演唱會 - 觀後感 + 聊聊記憶中的伍佰","permalink":"/gossip/pubking-wubai"}}');
+
+/***/ },
+
+/***/ 66472
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/05-2-86a4931578594983c783cf27db6ad97d.JPG");
 
 /***/ },
 
@@ -35161,6 +35286,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     h2: "h2",
     hr: "hr",
     li: "li",
@@ -35178,10 +35304,10 @@ function _createMdxContent(props) {
       }), " Keyboard 版問的問題, 我花了一點時間回答基本的概念."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "取樣 (Sample, 有時候也翻譯成 \"採樣\") 的基本的概念大概是這樣:"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "先錄一個鋼琴中央 C, 力度 mf (一般力道), 時間錄個 5 秒,\n這個大小, 44.1k/16bit 的 wav 大概 200k 左右.\n把這個檔案放到琴的記憶卡, 指定到對應的中央 C,\n琴會依據這個取樣音色對應的位置, 利用演算法把其他的音 \"算出來\".\n這是最簡單, 也是最基本的概念."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "如果琴的記憶空間很大, 那麼同樣的一個中央 C,\n可以多錄幾個動態, 例如常見的動態有:"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["先錄一個鋼琴中央 C, 力度 mf (一般力道), 時間錄個 5 秒,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "這個大小, 44.1k/16bit 的 wav 大概 200k 左右.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "把這個檔案放到琴的記憶卡, 指定到對應的中央 C,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "琴會依據這個取樣音色對應的位置, 利用演算法把其他的音 \"算出來\".", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "這是最簡單, 也是最基本的概念."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["如果琴的記憶空間很大, 那麼同樣的一個中央 C,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "可以多錄幾個動態, 例如常見的動態有:"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
       children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
         children: "ppp (非常弱)"
@@ -35202,12 +35328,12 @@ function _createMdxContent(props) {
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
         children: "ffffffff (琴大概爛掉了 XDDDD)"
       }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "不同的動態, 不同的強度,\n好的琴會反映出不同的音色, 表情,\n甚至是所謂的個性/靈性."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["不同的動態, 不同的強度,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "好的琴會反映出不同的音色, 表情,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "甚至是所謂的個性/靈性."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "然後把這些錄好的動態取樣都放到琴裡, 指定動態範圍,"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "一般 KB 都是利用 MIDI 訊號來控制發聲的,\nMIDI 的動態叫 Velocity, 範圍的細膩度有 0 ~ 127, 換句話說可以有這麼多的動態.\n不過實際上, 一個鋼琴手能表現上述的八種動態已經算很不錯了 ...\n所以利用 MIDI Velocity 範圍來指定, 例如:"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["一般 KB 都是利用 MIDI 訊號來控制發聲的,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "MIDI 的動態叫 Velocity, 範圍的細膩度有 0 ~ 127, 換句話說可以有這麼多的動態.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "不過實際上, 一個鋼琴手能表現上述的八種動態已經算很不錯了 ...", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "所以利用 MIDI Velocity 範圍來指定, 例如:"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ol, {
       children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
         children: "0 ~ 15: ppp"
@@ -35226,12 +35352,12 @@ function _createMdxContent(props) {
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
         children: "115 ~127: fff"
       }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "之後一樣, 指定到中央 C, 剩下的由 KB 利用演算法算出來,\n這樣的取樣會比第一個更細膩.\n這樣大概需要 200k * 8 = 1.6M 的空間."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "要注意的是動態 (Dynamic) 和音量 (Volume) 是不一樣的東西;\n前者是包含音色 (Tone) + 音量大小; 後者純粹只是功率的放大.\n功率大小除非到很大的範圍, 例如破音 (Overdrive), 否則一搬來說不會改變音色."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "第三種更細膩的取樣方式, 就是跟第二種一樣,\n錄那麼多動態, 但是除了中央 C, 另外也錄 C0, C1, C2, C3, C4, C5, C6, ..\n然後不同於第二種, 每一個取樣要指定有效範圍,\n例如:"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["之後一樣, 指定到中央 C, 剩下的由 KB 利用演算法算出來,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "這樣的取樣會比第一個更細膩.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "這樣大概需要 200k * 8 = 1.6M 的空間."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["要注意的是動態 (Dynamic) 和音量 (Volume) 是不一樣的東西;", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "前者是包含音色 (Tone) + 音量大小; 後者純粹只是功率的放大.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "功率大小除非到很大的範圍, 例如破音 (Overdrive), 否則一搬來說不會改變音色."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["第三種更細膩的取樣方式, 就是跟第二種一樣,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "錄那麼多動態, 但是除了中央 C, 另外也錄 C0, C1, C2, C3, C4, C5, C6, ..", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "然後不同於第二種, 每一個取樣要指定有效範圍,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "例如:"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
       children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
         children: "C0: A-1 ~ B0"
@@ -35242,26 +35368,26 @@ function _createMdxContent(props) {
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
         children: ".... 類推 ..."
       }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "這樣子弄出來的 \"取樣鋼琴\" 就會更加的細緻,\n更像一架完整的鋼琴."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "更細緻的就是 88 鍵一個一個錄, 每個都錄 8 個動態.\n所以這需要: 200k * 8 * 88 = 140MB"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "有時候為了讓聲音更自然, 同一個聲音, 會用三 ~ 五支麥克風,\n分別在鋼琴不同的位置收音, 例如琴蓋上, 琴後方, 琴前面, 琴蓋全開/半開/關閉的聲音,\n還有鋼琴裡收鋼琴的機械音 (琴搥敲擊聲, 踏板制音器的悶弦音 ... etc),\n然後在錄音環境遠距離的地方收環境音 ....\n這樣算一算, 一個聲音, 同時就有 6 ~ 8 個取樣,\n如果按上述的全部取樣來算, 需要的空間就更可觀了 ~"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["這樣子弄出來的 \"取樣鋼琴\" 就會更加的細緻,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "更像一架完整的鋼琴."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["更細緻的就是 88 鍵一個一個錄, 每個都錄 8 個動態.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "所以這需要: 200k * 8 * 88 = 140MB"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["有時候為了讓聲音更自然, 同一個聲音, 會用三 ~ 五支麥克風,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "分別在鋼琴不同的位置收音, 例如琴蓋上, 琴後方, 琴前面, 琴蓋全開/半開/關閉的聲音,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "還有鋼琴裡收鋼琴的機械音 (琴搥敲擊聲, 踏板制音器的悶弦音 ... etc),", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "然後在錄音環境遠距離的地方收環境音 ....", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "這樣算一算, 一個聲音, 同時就有 6 ~ 8 個取樣,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "如果按上述的全部取樣來算, 需要的空間就更可觀了 ~"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
       children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
         children: "※註：上述很多細節, 像是琴蓋開閉狀態, 環境音, 琴位置的收音, 比較少會真的收到那麼仔細, 大部分都會用 EQ / Reverb / Filter 之類的效果器處裡. 但是如果是在錄所謂的鋼琴演奏專輯, 就會收環境音, 不同的位置等, 讓聲音聽起來更立體 / 飽滿."
       }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "不過, 這是超級大工程,\n而且取樣 (就是錄音啦) 時, 環境很重要,\n這是另一個課題, 同時也是各家的關鍵技術所在."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "所以很多琴都會標榜取樣波形 XXX MB ...\n軟體音源會搞很大, 一架鋼琴用 15G 取樣,\n就是這樣子弄出來的."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "上述的只是基本概念, 各家的琴對於取樣的設定都有不同的方式,\n但是概念是差不多的, 軟體音源也是.\nReason, Ivroy, NI, Komplete  .... 都有類似的概念."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "以前記憶體很貴的年代, 大部分取樣的數量都有限.\n所以一般的 KB, 都會有屬於自己的 \"取樣技術\",\n其實簡單說就是壓縮技術 + D/A: 如何在那麼小的記憶體空間放入那麼多的音色.\n壓縮過的波形檔還原之後, 能夠原音重現, 不失真."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "無聊的話, 也可錄一個貓咪的叫聲, 然後用調音器測看看頻率在哪,\n然後指定到到對應的位置, 剩下的讓琴去算,\n然後就可以彈貓咪歌曲了 ..."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["不過, 這是超級大工程,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "而且取樣 (就是錄音啦) 時, 環境很重要,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "這是另一個課題, 同時也是各家的關鍵技術所在."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["所以很多琴都會標榜取樣波形 XXX MB ...", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "軟體音源會搞很大, 一架鋼琴用 15G 取樣,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "就是這樣子弄出來的."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["上述的只是基本概念, 各家的琴對於取樣的設定都有不同的方式,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "但是概念是差不多的, 軟體音源也是.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Reason, Ivroy, NI, Komplete  .... 都有類似的概念."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["以前記憶體很貴的年代, 大部分取樣的數量都有限.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "所以一般的 KB, 都會有屬於自己的 \"取樣技術\",", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "其實簡單說就是壓縮技術 + D/A: 如何在那麼小的記憶體空間放入那麼多的音色.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "壓縮過的波形檔還原之後, 能夠原音重現, 不失真."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["無聊的話, 也可錄一個貓咪的叫聲, 然後用調音器測看看頻率在哪,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "然後指定到到對應的位置, 剩下的讓琴去算,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "然後就可以彈貓咪歌曲了 ..."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "呃, 也可以錄自己的聲音, 像 yoyo, yaya, wah wo ~~~~~"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -35269,8 +35395,8 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("p", {
       className: "gt-copyright-cliam",
       children: "------- Copyright © 2011 Rick KY Hwang All rights reserved -------"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "話說, 很久以前我取樣了自己家裡的風琴 (小學那種 49 鍵的),\n搞了很多範圍 (A3, A4, A5 ..),\n後來發現我家的老琴因為年代久遠, 音早就不準了 ...\n而且, 我的 KB 裡面本來就有了, 而且還蠻像的 XDD"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["話說, 很久以前我取樣了自己家裡的風琴 (小學那種 49 鍵的),", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "搞了很多範圍 (A3, A4, A5 ..),", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "後來發現我家的老琴因為年代久遠, 音早就不準了 ...", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "而且, 我的 KB 裡面本來就有了, 而且還蠻像的 XDD"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
       id: "延伸閱讀-站內",
       children: "延伸閱讀 (站內)："
@@ -35594,7 +35720,7 @@ function _createMdxContent(props) {
       children: "圖中提到很多軟硬體、訊號流…等概念，可以簡單說明現在市面上流行的產品，像 Reason、Sonar、Nuendo、Cubase … 等在這張圖上的角色﹔同時也可以了解現代音樂製作的大概流程。想要架構自己音樂工作環境的朋友，也可以以此圖為基本概念，然後規劃實際的軟硬體架構。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(21350)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(35140)/* ["default"] */ .A) + "",
         width: "1264",
         height: "902"
       })
@@ -35755,17 +35881,6 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 67963
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/DonaDona-7910ba97516bcf2de44743a7ab851cc2.jpg");
-
-/***/ },
-
 /***/ 68084
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -35797,6 +35912,17 @@ function MDXContent(props = {}) {
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"id":"songs/Jack-Thammarat_Emotive-Ballad/index","title":"Jack Thammarat - Emotive Ballad","description":"原曲是 Guthrie Govan (GG) 的作品，算是抒情小品，但我更喜歡 Jack Thammarat 即興的版本。","source":"@site/docs/songs/Jack-Thammarat_Emotive-Ballad/index.md","sourceDirName":"songs/Jack-Thammarat_Emotive-Ballad","slug":"/songs/Jack-Thammarat_Emotive-Ballad/","permalink":"/songs/Jack-Thammarat_Emotive-Ballad/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"聽音樂","permalink":"/tags/聽音樂"},{"inline":true,"label":"私房歌","permalink":"/tags/私房歌"},{"inline":true,"label":"Jack Thammarat","permalink":"/tags/jack-thammarat"}],"version":"current","frontMatter":{"title":"Jack Thammarat - Emotive Ballad","description":"原曲是 Guthrie Govan (GG) 的作品，算是抒情小品，但我更喜歡 Jack Thammarat 即興的版本。","date":"2014-04-27T00:00:00.000Z","tags":["聽音樂","私房歌","Jack Thammarat"]},"sidebar":"tutorialSidebar","previous":{"title":"FFV - Dear Friends","permalink":"/songs/FFV_Dear-Friends/"},"next":{"title":"Jack Thammarat - Falling in Love Again","permalink":"/songs/Jack-Thammarat_Falling-in-Love-Again/"}}');
+
+/***/ },
+
+/***/ 68469
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/RecuerdosDeLaAlhambra-aabe244ed756276d514ba53e90228b73.jpg");
 
 /***/ },
 
@@ -35881,6 +36007,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     code: "code",
     h2: "h2",
     h3: "h3",
@@ -36009,7 +36136,7 @@ function _createMdxContent(props) {
       children: "頻率分析就是根據『樂器音階頻率表』的定義，分析出目前的音是哪一個。不過必須仰賴數學方法來分析，以 CD 音質 44.1 kHz / 16bit 的規格，每秒的資料有 44.1k 筆，在分析上每秒會同時有很多頻率 (如下圖)，要分析出有哪一些音以及他們的比率關係，辨識出音符。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(3357)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(70095)/* ["default"] */ .A) + "",
         width: "688",
         height: "369"
       })
@@ -36049,23 +36176,23 @@ function _createMdxContent(props) {
       }), " 有興趣可以參考。截一些圖如下："]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(24056)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(57806)/* ["default"] */ .A) + "",
         width: "908",
         height: "368"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(69811)/* ["default"] */ .A) + "",
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
+        src: (__webpack_require__(29605)/* ["default"] */ .A) + "",
         width: "908",
         height: "368"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(30954)/* ["default"] */ .A) + "",
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
+        src: (__webpack_require__(188)/* ["default"] */ .A) + "",
         width: "908",
         height: "368"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(97829)/* ["default"] */ .A) + "",
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
+        src: (__webpack_require__(83795)/* ["default"] */ .A) + "",
         width: "908",
         height: "368"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(14940)/* ["default"] */ .A) + "",
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
+        src: (__webpack_require__(44938)/* ["default"] */ .A) + "",
         width: "908",
         height: "368"
       })]
@@ -36315,28 +36442,6 @@ const stableOptions=(0,_utils_reactUtils__WEBPACK_IMPORTED_MODULE_1__/* .useShal
 
 /***/ },
 
-/***/ 69811
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tools2-3fac8cef0a5c9762e5d071ba526d0474.png");
-
-/***/ },
-
-/***/ 69906
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/02-1-f5c6f8776d35181159783feda88992ec.JPG");
-
-/***/ },
-
 /***/ 69907
 (module) {
 
@@ -36345,6 +36450,17 @@ module.exports = {
 	"dropdownNavbarItemMobile": `dropdownNavbarItemMobile_J0Sd`
 };
 
+
+/***/ },
+
+/***/ 70095
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/freq-analysis-9e5f6d74eaade7360450176e9c63c71b.png");
 
 /***/ },
 
@@ -36468,22 +36584,33 @@ function Translate({children,id,values}){if(children&&typeof children!=='string'
 
 /***/ },
 
-/***/ 71101
+/***/ 71191
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Sound Module","permalink":"/tags/sound-module","allTagsPath":"/tags","count":1,"items":[{"id":"production/using-external-midi-devices-in-logic-pro/index","title":"Using External MIDI Devices in Logic Pro","description":"紀錄如何在 Logic Pro 使用外部音源設備。","permalink":"/production/using-external-midi-devices-in-logic-pro/"}],"unlisted":false}}');
+
+/***/ },
+
+/***/ 71417
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic1_with-bass-5c19e7d079bb7db3200e52d72a56a25c.png");
 
 /***/ },
 
-/***/ 71191
-(module) {
+/***/ 71425
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Sound Module","permalink":"/tags/sound-module","allTagsPath":"/tags","count":1,"items":[{"id":"production/using-external-midi-devices-in-logic-pro/index","title":"Using External MIDI Devices in Logic Pro","description":"紀錄如何在 Logic Pro 使用外部音源設備。","permalink":"/production/using-external-midi-devices-in-logic-pro/"}],"unlisted":false}}');
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/rick-learning-path-b9692c3265ec76aa7bff29dbfe4707eb.jpg");
 
 /***/ },
 
@@ -36495,6 +36622,28 @@ module.exports = {
 	"iconExternalLink": `iconExternalLink_nPIU`
 };
 
+
+/***/ },
+
+/***/ 71604
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/ask-706e44289e1ba985ef39db88c22a0bfd.jpg");
+
+/***/ },
+
+/***/ 71605
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/G-Major-Scale+Arpeggios-5abef719ae0669f88eef0a812ff8c1d7.png");
 
 /***/ },
 
@@ -39905,6 +40054,7 @@ const toc = [{
 function _createMdxContent(props) {
   const _components = {
     a: "a",
+    br: "br",
     h2: "h2",
     h3: "h3",
     hr: "hr",
@@ -39915,39 +40065,39 @@ function _createMdxContent(props) {
     ...props.components
   };
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
-    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "最近因緣際會和音樂圈的老前輩閒話了一番.\n我們交換了很多音樂的想法, 他也給了我很多關於音樂與商業上的經驗與建議.\n也聊了很多過去的回憶以及教學上的心得."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "在這過程中, 我們聊到了蔡依林, 周杰倫, 羅志祥,\n也聊到了五月天, 蘇打綠, 地下樂團 ... 還有最近來台灣的 Steve Vai.\n我們都清楚, 一個成功的 \"商業\" 模式,\n絕對不是只有塑造一個明星而已, 而是背後的經營團隊.\n而從現況看來, 十年後檯面上的可能還是這些人 ....\n因為我們並沒有像韓國那樣, 有計畫性的在栽培新人 ...\n不管是音樂圈, 還是體育界, 藝文屆 ...."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "聊著聊著, 或許對於台灣大環境的不滿,\n他突然語重心長問我: \"台灣的音樂怎麼辦?\""
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "坦白講, 我也不知道怎麼辦.\n因為同樣的問題, 我教學過程中也一直都遭遇著.\n學生聽的東西太狹隘, 稍微有深度的無法接受.\n學生不會思考, 無法舉一反三, 知其然, 不知其所以然."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "身邊的人聽的東西有限, 有深度的聽不懂, 廣度也不夠,\n最近十年流行爵士, 台中有爵士音樂節, 台北有兩廳院有戶外免費的爵士音樂可以聽,\n我試著推廣給朋友, 可是大多也只是視覺上的聆聽 ...\n去到現場, 大多也只是趕流行, 或者跟著文青而已 ..."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "不久前我跟朋友分享音樂與商業的看法,\n我比較直白的結論就是: \"純音樂賣不了錢, 詞要跟愛情有關, 速度不能太快, 曲風不能太純\".\n現實的市場就是這樣."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "對於音樂環境, 我也想過, 我把這一切歸咎於 \"教育\" 因素.\n老師教什麼, 家長聽什麼, 媒體播什麼;\n老師怎麼教, 家長怎麼看待音樂, 媒體怎麼操作 ...\n當然這課題不僅止於 \"音樂\" ... 因該要擴大到 \"文化\" 了."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "我是從古典吉他開始學起的, 那大概是伍佰剛開始紅的時期.\n我的老師那時候會教一些台灣民歌, 像是: \"草蜢弄雞公\", \"丟丟銅\", \"望春風\" .... 等.\n其實那時候我不懂, 為啥老師不教 \"挪威的森林\", \"認錯\", 或者 \"不甘心不放手\" ... etc."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "等到自己有機會教吉他的時候, 每天都在講 \"西洋樂理\" ...\n教學時, 我會談/彈 Rock, Blues, Funk, POP ... 等 ..."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "後來有機會去到日本旅遊, 發現他們會在街上穿著和服,\n他們有自己的音樂風格 J-Rock, J-Fusion ....\n他們重視自己的傳統文化, 建築, 歷史, 飲食."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "然後我意會到, 我們台灣自稱是華人圈的音樂重鎮,\n但是我們並沒有屬於自己的音樂文化,\n我們的根在哪卻不知道 ...\n我們的音樂, 從頭到尾都是舶來品,\n軟的也好, 硬的也好 ...."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "我們的文化來自於四面八方的結合,\n不管是吃的, 用的, 穿的, 教育的, 制度的, 政治的, 文化的 .....\n正所謂一條龍 - 四不像 .........."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "我們沒有去思考,\n沒有評估我們自己的民族特性, 條件, 資源, .....\n只是把外來的東西不斷的堆疊 ........"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "坦白講, 聊到最後我也是覺得很絕望的.\n但是就像老前輩說的, 只要能持續的影響十分之一人,\n三年後就能影響超過一半的人 ..."
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["最近因緣際會和音樂圈的老前輩閒話了一番.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "我們交換了很多音樂的想法, 他也給了我很多關於音樂與商業上的經驗與建議.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "也聊了很多過去的回憶以及教學上的心得."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["在這過程中, 我們聊到了蔡依林, 周杰倫, 羅志祥,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "也聊到了五月天, 蘇打綠, 地下樂團 ... 還有最近來台灣的 Steve Vai.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "我們都清楚, 一個成功的 \"商業\" 模式,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "絕對不是只有塑造一個明星而已, 而是背後的經營團隊.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "而從現況看來, 十年後檯面上的可能還是這些人 ....", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "因為我們並沒有像韓國那樣, 有計畫性的在栽培新人 ...", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "不管是音樂圈, 還是體育界, 藝文屆 ...."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["聊著聊著, 或許對於台灣大環境的不滿,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "他突然語重心長問我: \"台灣的音樂怎麼辦?\""]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["坦白講, 我也不知道怎麼辦.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "因為同樣的問題, 我教學過程中也一直都遭遇著.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "學生聽的東西太狹隘, 稍微有深度的無法接受.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "學生不會思考, 無法舉一反三, 知其然, 不知其所以然."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["身邊的人聽的東西有限, 有深度的聽不懂, 廣度也不夠,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "最近十年流行爵士, 台中有爵士音樂節, 台北有兩廳院有戶外免費的爵士音樂可以聽,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "我試著推廣給朋友, 可是大多也只是視覺上的聆聽 ...", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "去到現場, 大多也只是趕流行, 或者跟著文青而已 ..."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["不久前我跟朋友分享音樂與商業的看法,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "我比較直白的結論就是: \"純音樂賣不了錢, 詞要跟愛情有關, 速度不能太快, 曲風不能太純\".", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "現實的市場就是這樣."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["對於音樂環境, 我也想過, 我把這一切歸咎於 \"教育\" 因素.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "老師教什麼, 家長聽什麼, 媒體播什麼;", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "老師怎麼教, 家長怎麼看待音樂, 媒體怎麼操作 ...", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "當然這課題不僅止於 \"音樂\" ... 因該要擴大到 \"文化\" 了."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["我是從古典吉他開始學起的, 那大概是伍佰剛開始紅的時期.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "我的老師那時候會教一些台灣民歌, 像是: \"草蜢弄雞公\", \"丟丟銅\", \"望春風\" .... 等.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "其實那時候我不懂, 為啥老師不教 \"挪威的森林\", \"認錯\", 或者 \"不甘心不放手\" ... etc."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["等到自己有機會教吉他的時候, 每天都在講 \"西洋樂理\" ...", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "教學時, 我會談/彈 Rock, Blues, Funk, POP ... 等 ..."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["後來有機會去到日本旅遊, 發現他們會在街上穿著和服,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "他們有自己的音樂風格 J-Rock, J-Fusion ....", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "他們重視自己的傳統文化, 建築, 歷史, 飲食."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["然後我意會到, 我們台灣自稱是華人圈的音樂重鎮,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "但是我們並沒有屬於自己的音樂文化,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "我們的根在哪卻不知道 ...", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "我們的音樂, 從頭到尾都是舶來品,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "軟的也好, 硬的也好 ...."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["我們的文化來自於四面八方的結合,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "不管是吃的, 用的, 穿的, 教育的, 制度的, 政治的, 文化的 .....", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "正所謂一條龍 - 四不像 .........."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["我們沒有去思考,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "沒有評估我們自己的民族特性, 條件, 資源, .....", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "只是把外來的東西不斷的堆疊 ........"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["坦白講, 聊到最後我也是覺得很絕望的.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "但是就像老前輩說的, 只要能持續的影響十分之一人,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "三年後就能影響超過一半的人 ..."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("p", {
       className: "gt-copyright-cliam",
       children: "------- Copyright © 2011-2015 Rick KY Hwang All rights reserved -------"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "一直以來,\n教育是我覺得要提升人民素質唯一的方法.\n教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 ...\n教育是要我們的下一代能夠有 \"獨立思考\", \"明辨是非\", \"培養創造力\", \"解決問題\" ..."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["一直以來,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "教育是我覺得要提升人民素質唯一的方法.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 ...", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "教育是要我們的下一代能夠有 \"獨立思考\", \"明辨是非\", \"培養創造力\", \"解決問題\" ..."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "而 \"音樂教育\" 是我的方法而已 ..."
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
@@ -40265,6 +40415,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"MSB","permalink":"/ta
 
 /***/ },
 
+/***/ 72846
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/TheHeavyMemory-e36d59dc6aeef49935375a81f97f5d5f.jpg");
+
+/***/ },
+
 /***/ 72873
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -40285,17 +40446,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"MSB","permalink":"/ta
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */function Footer(){const{footer}=(0,_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_1__/* .useThemeConfig */ .p)();if(!footer){return null;}const{copyright,links,logo,style}=footer;return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(_theme_Footer_Layout__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .A,{style:style,links:links&&links.length>0&&/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(_theme_Footer_Links__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A,{links:links}),logo:logo&&/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(_theme_Footer_Logo__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A,{logo:logo}),copyright:copyright&&/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_6__.jsx)(_theme_Footer_Copyright__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .A,{copyright:copyright})});}/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.memo(Footer));
-
-/***/ },
-
-/***/ 72980
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/BalladePourAdeline-692adce61ccf8d7ada6ad58a6f80edf2.jpg");
 
 /***/ },
 
@@ -40327,17 +40477,6 @@ module.exports = {
 	"codeLineContent": `codeLineContent_feaV`
 };
 
-
-/***/ },
-
-/***/ 73193
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_advance3_modal-interchange_c-major-94dcd4a6c574ab63bbf1665126355026.png");
 
 /***/ },
 
@@ -40394,6 +40533,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/echo-delay-reverb","titl
 
 /***/ },
 
+/***/ 74098
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+
+/***/ },
+
 /***/ 74140
 (module) {
 
@@ -40434,6 +40584,17 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ },
 
+/***/ 74726
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic4_number-notation-58b687070d7a5444f2b81547d566f719.png");
+
+/***/ },
+
 /***/ 74848
 (module, __unused_webpack_exports, __webpack_require__) {
 
@@ -40455,8 +40616,8 @@ if (true) {
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(29867);
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"00f3246a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(51552))),"@site/docs/gossip/semi-tone-of-solfege.md",/*require.resolve*/(51552)],"01004f01":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21470))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音程-64d.json",/*require.resolve*/(21470)],"03181aef":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77826))),"@site/src/pages/my-markdown-page.md",/*require.resolve*/(77826)],"06610195":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(95753))),"@generated/docusaurus-plugin-content-docs/default/p/tags-substitute-chord-a5b.json",/*require.resolve*/(95753)],"0668808e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(14544))),"@site/docs/theory/dominant-and-extension-chords/index.md",/*require.resolve*/(14544)],"09c85861":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(33433))),"@site/docs/theory/eleventh-chord.md",/*require.resolve*/(33433)],"0bffc9b7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41329))),"@generated/docusaurus-plugin-content-docs/default/p/tags-i-rs-a90.json",/*require.resolve*/(41329)],"0e539989":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(81937))),"@site/docs/theory/musical-mode.md",/*require.resolve*/(81937)],"10b2f1c4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41993))),"@generated/docusaurus-plugin-content-docs/default/p/tags-私房歌-825.json",/*require.resolve*/(41993)],"14eb3368":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68780))),"@theme/DocCategoryGeneratedIndexPage",/*require.resolve*/(68780)],"15cc8d7b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(53174))),"@site/docs/gossip/correctness-efficiency.md",/*require.resolve*/(53174)],"17896441":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(66915))),"@theme/DocItem",/*require.resolve*/(66915)],"1827dc15":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32295))),"@site/docs/guitar/practice-arpeggios-g-major7/index.md",/*require.resolve*/(32295)],"1916df2a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68956))),"@generated/docusaurus-plugin-content-docs/default/p/tags-和弦-394.json",/*require.resolve*/(68956)],"1f391b9e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84250))),"@theme/MDXPage",/*require.resolve*/(84250)],"219bd1f3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83130))),"@site/docs/dict/diatonic-chords-in-circle-of-5ths/index.md",/*require.resolve*/(83130)],"2298341a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49163))),"@site/docs/gossip/willing.md",/*require.resolve*/(49163)],"22dd74f7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55226))),"@generated/docusaurus-plugin-content-docs/default/p/index-466.json",/*require.resolve*/(55226)],"24348a5e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(71839))),"@site/docs/gossip/how-to-listen-a-song.md",/*require.resolve*/(71839)],"2455be05":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(37557))),"@site/docs/gossip/mathematics.md",/*require.resolve*/(37557)],"2603587c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(78811))),"@generated/docusaurus-plugin-content-docs/default/p/category-音樂製作-07c.json",/*require.resolve*/(78811)],"2776dd36":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8576))),"@generated/docusaurus-plugin-content-docs/default/p/tags-interval-5bb.json",/*require.resolve*/(8576)],"2d36cbcb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(25545))),"@generated/docusaurus-plugin-content-docs/default/p/tags-本質-cff.json",/*require.resolve*/(25545)],"31087c4c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94531))),"@generated/docusaurus-plugin-content-docs/default/p/category-樂理-b97.json",/*require.resolve*/(94531)],"32147d15":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13122))),"@site/docs/theory/tritone.md",/*require.resolve*/(13122)],"3563154e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(3793))),"@generated/docusaurus-plugin-content-docs/default/p/tags-zelda-f0a.json",/*require.resolve*/(3793)],"35710a4a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(91313))),"@generated/docusaurus-plugin-content-docs/default/p/tags-五聲音階-d84.json",/*require.resolve*/(91313)],"3720c009":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12194))),"@theme/DocTagsListPage",/*require.resolve*/(12194)],"388a6d45":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12338))),"@generated/docusaurus-plugin-content-docs/default/p/tags-modal-interchange-549.json",/*require.resolve*/(12338)],"393be207":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75943))),"@site/src/pages/markdown-page.md",/*require.resolve*/(75943)],"3a23291b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72067))),"@site/docs/gossip/dialogue.mdx",/*require.resolve*/(72067)],"3bbf71fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(54800))),"@generated/docusaurus-plugin-content-docs/default/p/tags-唱名-750.json",/*require.resolve*/(54800)],"3ce948fd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55069))),"@generated/docusaurus-plugin-content-docs/default/p/tags-dominant-207.json",/*require.resolve*/(55069)],"3eadd4d2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(70283))),"@generated/docusaurus-plugin-content-docs/default/p/tags-how-to-a2d.json",/*require.resolve*/(70283)],"41dfd778":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21145))),"@site/docs/guitar/time-for-practice-guitar/index.md",/*require.resolve*/(21145)],"43cae74f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85057))),"@site/docs/theory/create-a-new-scale.md",/*require.resolve*/(85057)],"45158fe1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(92614))),"@site/docs/gossip/protect-your-ears.md",/*require.resolve*/(92614)],"454aab79":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12867))),"@generated/docusaurus-plugin-content-docs/default/p/tags-數學-ee5.json",/*require.resolve*/(12867)],"4599de8a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(47739))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音階-fe9.json",/*require.resolve*/(47739)],"45d71abc":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84514))),"@site/docs/theory/canon-chord-progression/index.md",/*require.resolve*/(84514)],"488109a4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(48503))),"@site/docs/gossip/learn-to-listen.md",/*require.resolve*/(48503)],"48d3a866":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9159))),"@generated/docusaurus-plugin-content-docs/default/p/tags-tritone-92e.json",/*require.resolve*/(9159)],"495757da":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(33440))),"@site/docs/gossip/play-what-and-how-to-play.md",/*require.resolve*/(33440)],"4992f4a8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(89285))),"@generated/docusaurus-plugin-content-docs/default/p/tags-passing-tone-388.json",/*require.resolve*/(89285)],"4a68c1b2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(98623))),"@site/docs/gossip/fixed-solfege.md",/*require.resolve*/(98623)],"4c3cc1d9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(70527))),"@generated/docusaurus-plugin-content-docs/default/p/category-聊音樂-86e.json",/*require.resolve*/(70527)],"4d711081":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(28856))),"@site/docs/guitar/guitar-chord-voicing/index.md",/*require.resolve*/(28856)],"4e00f8fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21745))),"@site/docs/theory/secondary-dominat/index.md",/*require.resolve*/(21745)],"4e07e22f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(66647))),"@generated/docusaurus-plugin-content-docs/default/p/tags-樂理-1a5.json",/*require.resolve*/(66647)],"520fb30b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68556))),"@site/docs/gossip/algorithm-for-songs/index.md",/*require.resolve*/(68556)],"544ffd2f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55113))),"@generated/docusaurus-plugin-content-docs/default/p/tags-motu-431.json",/*require.resolve*/(55113)],"547c0595":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72757))),"@generated/docusaurus-plugin-content-docs/default/p/tags-msb-117.json",/*require.resolve*/(72757)],"5678974b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(58455))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★★★-cfa.json",/*require.resolve*/(58455)],"59af61a6":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(5332))),"@generated/docusaurus-plugin-content-docs/default/p/tags-b9f.json",/*require.resolve*/(5332)],"5b178ce3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(31625))),"@generated/docusaurus-plugin-content-docs/default/p/tags-樂團經營-67b.json",/*require.resolve*/(31625)],"5e95c892":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(7121))),"@theme/DocsRoot",/*require.resolve*/(7121)],"5e9f5e1a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4784))),"@generated/docusaurus.config",/*require.resolve*/(4784)],"5f9c3504":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84190))),"@site/docs/songs/g5-project.md",/*require.resolve*/(84190)],"619780f9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(57040))),"@generated/docusaurus-plugin-content-docs/default/p/tags-bichord-5b0.json",/*require.resolve*/(57040)],"62a26766":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(89045))),"@site/docs/theory/suspended-chord.md",/*require.resolve*/(89045)],"64cac739":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(80529))),"@generated/docusaurus-plugin-content-docs/default/p/tags-midi鍵盤-dd9.json",/*require.resolve*/(80529)],"64f457bd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67601))),"@site/docs/songs/Survival-Dance/index.md",/*require.resolve*/(67601)],"669a9296":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(19072))),"@generated/docusaurus-plugin-content-docs/default/p/category-樂團經營-71c.json",/*require.resolve*/(19072)],"67ec076f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(59369))),"@site/docs/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index.md",/*require.resolve*/(59369)],"6bcabe35":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(17489))),"@site/docs/gossip/guthrie-govan-live-2015.md",/*require.resolve*/(17489)],"6c5f2d61":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13558))),"@site/docs/theory/tonality-key-mode/index.md",/*require.resolve*/(13558)],"70cfd2fd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(35692))),"@site/docs/band/about-score/index.md",/*require.resolve*/(35692)],"729eb257":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(63978))),"@site/docs/songs/FFV_Dear-Friends/index.md",/*require.resolve*/(63978)],"72f879f0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(3010))),"@site/docs/theory/essence-of-musical-scales.md",/*require.resolve*/(3010)],"73beb38d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(6813))),"@site/docs/guitar/some-tips-and-suggestions-for-practicing-guitar.md",/*require.resolve*/(6813)],"746d00c8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61157))),"@site/docs/gossip/relative-absolute.md",/*require.resolve*/(61157)],"752d998c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(92744))),"@generated/docusaurus-plugin-content-docs/default/p/tags-daw-484.json",/*require.resolve*/(92744)],"78b2ca1c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77654))),"@site/docs/theory/minor-scale/index.md",/*require.resolve*/(77654)],"7cf79e5c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75926))),"@generated/docusaurus-plugin-content-docs/default/p/tags-open-voicing-ca4.json",/*require.resolve*/(75926)],"7d3fe123":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(1811))),"@generated/docusaurus-plugin-content-docs/default/p/tags-closed-voicing-edf.json",/*require.resolve*/(1811)],"7f84096f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(69421))),"@generated/docusaurus-plugin-content-docs/default/p/tags-jack-thammarat-385.json",/*require.resolve*/(69421)],"7ff305a2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75195))),"@site/docs/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch.md",/*require.resolve*/(75195)],"80398d32":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(56396))),"@generated/docusaurus-plugin-content-docs/default/p/tags-delay-36d.json",/*require.resolve*/(56396)],"83387aa1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94631))),"@generated/docusaurus-plugin-content-docs/default/p/tags-midi-628.json",/*require.resolve*/(94631)],"84f0d58d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4893))),"@site/docs/gossip/memory-in-ff-music.md",/*require.resolve*/(4893)],"875d921a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(79979))),"@generated/docusaurus-plugin-content-docs/default/p/tags-guide-tone-26b.json",/*require.resolve*/(79979)],"8e3d99ec":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(10291))),"@generated/docusaurus-plugin-content-docs/default/p/tags-練習-171.json",/*require.resolve*/(10291)],"9007ebbb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(22667))),"@generated/docusaurus-plugin-content-docs/default/p/tags-和聲-bcb.json",/*require.resolve*/(22667)],"91d4e9b3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(71191))),"@generated/docusaurus-plugin-content-docs/default/p/tags-sound-module-7bd.json",/*require.resolve*/(71191)],"933ee70b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(76354))),"@site/docs/theory/thinkin-mode.md",/*require.resolve*/(76354)],"9360ef66":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41195))),"@generated/docusaurus-plugin-content-docs/default/p/tags-lsb-efe.json",/*require.resolve*/(41195)],"9a7a6827":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4538))),"@site/docs/theory/major-scale/index.md",/*require.resolve*/(4538)],"9b335e39":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(56477))),"@generated/docusaurus-plugin-content-docs/default/p/tags-polychord-818.json",/*require.resolve*/(56477)],"9c7f1a53":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61137))),"@site/docs/gossip/jimi-hendrix.md",/*require.resolve*/(61137)],"9dbc87ed":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67873))),"@site/docs/production/digital-audio-system/index.md",/*require.resolve*/(67873)],"9fa7d172":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32980))),"@site/docs/guitar/how-to-practice-a-song.md",/*require.resolve*/(32980)],"a023366f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(80549))),"@site/docs/gossip/echo-delay-reverb.md",/*require.resolve*/(80549)],"a09bd0f7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93254))),"@generated/docusaurus-plugin-content-docs/default/p/tags-harmony-42f.json",/*require.resolve*/(93254)],"a0c6d5d0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94938))),"@site/docs/songs/Zelda-Trailer-2017E3/index.md",/*require.resolve*/(94938)],"a2dbe853":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97558))),"@site/docs/songs/Jack-Thammarat_Falling-in-Love-Again/index.md",/*require.resolve*/(97558)],"a3f59da0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77862))),"@site/docs/production/concepts-of-music-technology/index.md",/*require.resolve*/(77862)],"a6383854":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(14964))),"@generated/docusaurus-plugin-content-docs/default/p/tags-刻意練習-4a9.json",/*require.resolve*/(14964)],"a7456010":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(88552))),"@generated/docusaurus-plugin-content-pages/default/__plugin.json",/*require.resolve*/(88552)],"a7bd4aaa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(74532))),"@theme/DocVersionRoot",/*require.resolve*/(74532)],"a83fb154":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21461))),"@site/docs/guitar/effective-practice-guitar/index.md",/*require.resolve*/(21461)],"a94703ab":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8944))),"@theme/DocRoot",/*require.resolve*/(8944)],"a9f0d007":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67253))),"@site/docs/production/basic-concepts-of-sampling.md",/*require.resolve*/(67253)],"aa4a21d9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85308))),"@site/docs/guitar/guitar-fundation-technical/index.md",/*require.resolve*/(85308)],"ab0de171":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(62475))),"@site/docs/dict/scale-learning-map/index.md",/*require.resolve*/(62475)],"aba21aa0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(27093))),"@generated/docusaurus-plugin-content-docs/default/__plugin.json",/*require.resolve*/(27093)],"aca4e32b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(43649))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★-8f9.json",/*require.resolve*/(43649)],"ad8289d7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8571))),"@generated/docusaurus-plugin-content-docs/default/p/tags-motif-xs-8-b58.json",/*require.resolve*/(8571)],"ae5e7060":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(23114))),"@generated/docusaurus-plugin-content-docs/default/p/tags-echo-605.json",/*require.resolve*/(23114)],"b02775e2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(90376))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★★-a0c.json",/*require.resolve*/(90376)],"b0e641ea":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87827))),"@site/docs/gossip/just-getting-started/index.md",/*require.resolve*/(87827)],"b11cd6cd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97096))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★-b74.json",/*require.resolve*/(97096)],"b14f7e2a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12773))),"@site/docs/guitar/guide-to-guitar-scale-patterns/index.md",/*require.resolve*/(12773)],"b4244436":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(11139))),"@site/docs/production/using-external-midi-devices-in-logic-pro/index.md",/*require.resolve*/(11139)],"b4a1af84":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(38662))),"@site/docs/production/loop-concepts-and-application-one-night-in-beijing/index.mdx",/*require.resolve*/(38662)],"b4a2439b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93955))),"@site/docs/band/pick-songs.md",/*require.resolve*/(93955)],"b6117871":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49824))),"@generated/docusaurus-plugin-content-docs/default/p/category-給吉他手-da2.json",/*require.resolve*/(49824)],"b65fc5c5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(26280))),"@site/docs/gossip/simple-complex.md",/*require.resolve*/(26280)],"b835dda1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(60057))),"@site/docs/gossip/level-of-practice.md",/*require.resolve*/(60057)],"bb18a448":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(82916))),"@generated/docusaurus-plugin-content-docs/default/p/tags-basetone-852.json",/*require.resolve*/(82916)],"bb4f65cd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83057))),"@site/docs/gossip/form-framework-history.md",/*require.resolve*/(83057)],"be046359":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61193))),"@generated/docusaurus-plugin-content-docs/default/p/tags-arpeggios-ee4.json",/*require.resolve*/(61193)],"c208fb7d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(91940))),"@site/docs/theory/relation-chord.md",/*require.resolve*/(91940)],"c272ffaf":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72627))),"@site/docs/gossip/as-professional.md",/*require.resolve*/(72627)],"c2bbaef0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(30087))),"@site/docs/theory/note-signature/index.md",/*require.resolve*/(30087)],"c3758c06":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(6625))),"@site/docs/theory/thriteenth-chord.md",/*require.resolve*/(6625)],"c377a04b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(48321))),"@site/docs/index.md",/*require.resolve*/(48321)],"c5b1e2a3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49562))),"@generated/docusaurus-plugin-content-docs/default/p/tags-secondary-dominant-2f3.json",/*require.resolve*/(49562)],"c7030adb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(19104))),"@site/docs/production/motu-mk4-macos/index.md",/*require.resolve*/(19104)],"c8172173":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(82677))),"@site/docs/songs/Jack-Thammarat_Emotive-Ballad/index.md",/*require.resolve*/(82677)],"c889ff72":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75134))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音樂製作-e1b.json",/*require.resolve*/(75134)],"cabe4fc0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(53971))),"@generated/docusaurus-plugin-content-docs/default/p/tags-聊天-105.json",/*require.resolve*/(53971)],"cb2d06fe":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(1989))),"@generated/docusaurus-plugin-content-docs/default/p/tags-調式-6ef.json",/*require.resolve*/(1989)],"cb6965f2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94671))),"@site/docs/dict/chord-learning-map/index.md",/*require.resolve*/(94671)],"cc324f10":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(37200))),"@site/docs/gossip/speed.md",/*require.resolve*/(37200)],"cc84ab41":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(25692))),"@generated/docusaurus-plugin-content-docs/default/p/tags-final-fantasy-728.json",/*require.resolve*/(25692)],"cd0a223c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9369))),"@generated/docusaurus-plugin-content-docs/default/p/tags-augmented-d05.json",/*require.resolve*/(9369)],"cd34d918":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83493))),"@site/docs/theory/modal-interchange.md",/*require.resolve*/(83493)],"cdcc5aee":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87944))),"@generated/docusaurus-plugin-content-docs/default/p/tags-reverb-11d.json",/*require.resolve*/(87944)],"ce767eaa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(65327))),"@generated/docusaurus-plugin-content-docs/default/p/tags-mac-os-3bb.json",/*require.resolve*/(65327)],"d1bc1dd4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75781))),"@site/docs/gossip/learning.md",/*require.resolve*/(75781)],"d245a67f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97786))),"@site/docs/gossip/pubking-wubai.md",/*require.resolve*/(97786)],"d2ab1831":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(34405))),"@generated/docusaurus-plugin-content-docs/default/p/tags-overtone-f8a.json",/*require.resolve*/(34405)],"d472b6e9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(20441))),"@generated/docusaurus-plugin-content-docs/default/p/tags-原子習慣-2fa.json",/*require.resolve*/(20441)],"d6e5bbc8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(60639))),"@site/docs/guitar/practice-arpeggios-251-on-g-major/index.md",/*require.resolve*/(60639)],"dd972d00":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75582))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★-869.json",/*require.resolve*/(75582)],"de1e7d19":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72145))),"@generated/docusaurus-plugin-content-docs/default/p/tags-聽音樂-7a1.json",/*require.resolve*/(72145)],"de5662b5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32257))),"@site/docs/songs/Songs-for-Memory/index.md",/*require.resolve*/(32257)],"df13cb96":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(52603))),"@site/docs/theory/musical-scale-fundation.md",/*require.resolve*/(52603)],"df203c0f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(45921))),"@theme/DocTagDocListPage",/*require.resolve*/(45921)],"e35b0c8d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9381))),"@site/docs/songs/Songs-for-Nylon-Guitar/index.md",/*require.resolve*/(9381)],"e3cfb130":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(74471))),"@generated/docusaurus-plugin-content-docs/default/p/tags-吉他-f5c.json",/*require.resolve*/(74471)],"e43a2153":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85501))),"@generated/docusaurus-plugin-content-docs/default/p/tags-suspended-06f.json",/*require.resolve*/(85501)],"e70651fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87921))),"@generated/docusaurus-plugin-content-docs/default/p/tags-musical-tone-f44.json",/*require.resolve*/(87921)],"e8ac9372":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(28390))),"@generated/docusaurus-plugin-content-docs/default/p/tags-shell-chord-e44.json",/*require.resolve*/(28390)],"eb4ee1a8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13179))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音感-290.json",/*require.resolve*/(13179)],"edce2f46":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(58364))),"@generated/docusaurus-plugin-content-docs/default/p/tags-chord-voicing-ccd.json",/*require.resolve*/(58364)],"f1884e56":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(50934))),"@generated/docusaurus-plugin-content-docs/default/p/tags-comping-b2e.json",/*require.resolve*/(50934)],"f32e392d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(86212))),"@generated/docusaurus-plugin-content-docs/default/p/category-字典工具-2bf.json",/*require.resolve*/(86212)],"f4b4a775":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(20041))),"@site/docs/band/getting-started-play-as-band.md",/*require.resolve*/(20041)],"f533cec5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(36543))),"@generated/docusaurus-plugin-content-docs/default/p/tags-tritone-substitute-2e6.json",/*require.resolve*/(36543)],"f8551aab":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(81976))),"@site/src/pages/my-react-page.js",/*require.resolve*/(81976)],"f9629f28":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(96032))),"@site/docs/band/run-a-band.md",/*require.resolve*/(96032)],"fbe01978":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(42741))),"@generated/docusaurus-plugin-content-docs/default/p/category-私房歌-d2f.json",/*require.resolve*/(42741)],"fe5d3305":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_rickmidi_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93690))),"@generated/docusaurus-plugin-content-docs/default/p/tags-diminished-ed3.json",/*require.resolve*/(93690)]});
+/* harmony import */ var _Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(29867);
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"00f3246a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(51552))),"@site/docs/gossip/semi-tone-of-solfege.md",/*require.resolve*/(51552)],"01004f01":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21470))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音程-64d.json",/*require.resolve*/(21470)],"03181aef":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77826))),"@site/src/pages/my-markdown-page.md",/*require.resolve*/(77826)],"06610195":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(95753))),"@generated/docusaurus-plugin-content-docs/default/p/tags-substitute-chord-a5b.json",/*require.resolve*/(95753)],"0668808e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(14544))),"@site/docs/theory/dominant-and-extension-chords/index.md",/*require.resolve*/(14544)],"09c85861":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(33433))),"@site/docs/theory/eleventh-chord.md",/*require.resolve*/(33433)],"0bffc9b7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41329))),"@generated/docusaurus-plugin-content-docs/default/p/tags-i-rs-a90.json",/*require.resolve*/(41329)],"0e539989":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(81937))),"@site/docs/theory/musical-mode.md",/*require.resolve*/(81937)],"10b2f1c4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41993))),"@generated/docusaurus-plugin-content-docs/default/p/tags-私房歌-825.json",/*require.resolve*/(41993)],"14eb3368":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68780))),"@theme/DocCategoryGeneratedIndexPage",/*require.resolve*/(68780)],"15cc8d7b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(53174))),"@site/docs/gossip/correctness-efficiency.md",/*require.resolve*/(53174)],"17896441":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(66915))),"@theme/DocItem",/*require.resolve*/(66915)],"1827dc15":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32295))),"@site/docs/guitar/practice-arpeggios-g-major7/index.md",/*require.resolve*/(32295)],"1916df2a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68956))),"@generated/docusaurus-plugin-content-docs/default/p/tags-和弦-394.json",/*require.resolve*/(68956)],"1f391b9e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84250))),"@theme/MDXPage",/*require.resolve*/(84250)],"219bd1f3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83130))),"@site/docs/dict/diatonic-chords-in-circle-of-5ths/index.md",/*require.resolve*/(83130)],"2298341a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49163))),"@site/docs/gossip/willing.md",/*require.resolve*/(49163)],"22dd74f7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55226))),"@generated/docusaurus-plugin-content-docs/default/p/index-466.json",/*require.resolve*/(55226)],"24348a5e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(71839))),"@site/docs/gossip/how-to-listen-a-song.md",/*require.resolve*/(71839)],"2455be05":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(37557))),"@site/docs/gossip/mathematics.md",/*require.resolve*/(37557)],"2603587c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(78811))),"@generated/docusaurus-plugin-content-docs/default/p/category-音樂製作-07c.json",/*require.resolve*/(78811)],"2776dd36":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8576))),"@generated/docusaurus-plugin-content-docs/default/p/tags-interval-5bb.json",/*require.resolve*/(8576)],"2d36cbcb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(25545))),"@generated/docusaurus-plugin-content-docs/default/p/tags-本質-cff.json",/*require.resolve*/(25545)],"31087c4c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94531))),"@generated/docusaurus-plugin-content-docs/default/p/category-樂理-b97.json",/*require.resolve*/(94531)],"32147d15":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13122))),"@site/docs/theory/tritone.md",/*require.resolve*/(13122)],"3563154e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(3793))),"@generated/docusaurus-plugin-content-docs/default/p/tags-zelda-f0a.json",/*require.resolve*/(3793)],"35710a4a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(91313))),"@generated/docusaurus-plugin-content-docs/default/p/tags-五聲音階-d84.json",/*require.resolve*/(91313)],"3720c009":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12194))),"@theme/DocTagsListPage",/*require.resolve*/(12194)],"388a6d45":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12338))),"@generated/docusaurus-plugin-content-docs/default/p/tags-modal-interchange-549.json",/*require.resolve*/(12338)],"393be207":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75943))),"@site/src/pages/markdown-page.md",/*require.resolve*/(75943)],"3a23291b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72067))),"@site/docs/gossip/dialogue.mdx",/*require.resolve*/(72067)],"3bbf71fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(54800))),"@generated/docusaurus-plugin-content-docs/default/p/tags-唱名-750.json",/*require.resolve*/(54800)],"3ce948fd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55069))),"@generated/docusaurus-plugin-content-docs/default/p/tags-dominant-207.json",/*require.resolve*/(55069)],"3eadd4d2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(70283))),"@generated/docusaurus-plugin-content-docs/default/p/tags-how-to-a2d.json",/*require.resolve*/(70283)],"41dfd778":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21145))),"@site/docs/guitar/time-for-practice-guitar/index.md",/*require.resolve*/(21145)],"43cae74f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85057))),"@site/docs/theory/create-a-new-scale.md",/*require.resolve*/(85057)],"45158fe1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(92614))),"@site/docs/gossip/protect-your-ears.md",/*require.resolve*/(92614)],"454aab79":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12867))),"@generated/docusaurus-plugin-content-docs/default/p/tags-數學-ee5.json",/*require.resolve*/(12867)],"4599de8a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(47739))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音階-fe9.json",/*require.resolve*/(47739)],"45d71abc":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84514))),"@site/docs/theory/canon-chord-progression/index.md",/*require.resolve*/(84514)],"488109a4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(48503))),"@site/docs/gossip/learn-to-listen.md",/*require.resolve*/(48503)],"48d3a866":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9159))),"@generated/docusaurus-plugin-content-docs/default/p/tags-tritone-92e.json",/*require.resolve*/(9159)],"495757da":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(33440))),"@site/docs/gossip/play-what-and-how-to-play.md",/*require.resolve*/(33440)],"4992f4a8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(89285))),"@generated/docusaurus-plugin-content-docs/default/p/tags-passing-tone-388.json",/*require.resolve*/(89285)],"4a68c1b2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(98623))),"@site/docs/gossip/fixed-solfege.md",/*require.resolve*/(98623)],"4c3cc1d9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(70527))),"@generated/docusaurus-plugin-content-docs/default/p/category-聊音樂-86e.json",/*require.resolve*/(70527)],"4d711081":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(28856))),"@site/docs/guitar/guitar-chord-voicing/index.md",/*require.resolve*/(28856)],"4e00f8fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21745))),"@site/docs/theory/secondary-dominat/index.md",/*require.resolve*/(21745)],"4e07e22f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(66647))),"@generated/docusaurus-plugin-content-docs/default/p/tags-樂理-1a5.json",/*require.resolve*/(66647)],"520fb30b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68556))),"@site/docs/gossip/algorithm-for-songs/index.md",/*require.resolve*/(68556)],"544ffd2f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55113))),"@generated/docusaurus-plugin-content-docs/default/p/tags-motu-431.json",/*require.resolve*/(55113)],"547c0595":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72757))),"@generated/docusaurus-plugin-content-docs/default/p/tags-msb-117.json",/*require.resolve*/(72757)],"5678974b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(58455))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★★★-cfa.json",/*require.resolve*/(58455)],"59af61a6":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(5332))),"@generated/docusaurus-plugin-content-docs/default/p/tags-b9f.json",/*require.resolve*/(5332)],"5b178ce3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(31625))),"@generated/docusaurus-plugin-content-docs/default/p/tags-樂團經營-67b.json",/*require.resolve*/(31625)],"5e95c892":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(7121))),"@theme/DocsRoot",/*require.resolve*/(7121)],"5e9f5e1a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4784))),"@generated/docusaurus.config",/*require.resolve*/(4784)],"5f9c3504":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84190))),"@site/docs/songs/g5-project.md",/*require.resolve*/(84190)],"619780f9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(57040))),"@generated/docusaurus-plugin-content-docs/default/p/tags-bichord-5b0.json",/*require.resolve*/(57040)],"62a26766":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(89045))),"@site/docs/theory/suspended-chord.md",/*require.resolve*/(89045)],"64cac739":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(80529))),"@generated/docusaurus-plugin-content-docs/default/p/tags-midi鍵盤-dd9.json",/*require.resolve*/(80529)],"64f457bd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67601))),"@site/docs/songs/Survival-Dance/index.md",/*require.resolve*/(67601)],"669a9296":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(19072))),"@generated/docusaurus-plugin-content-docs/default/p/category-樂團經營-71c.json",/*require.resolve*/(19072)],"67ec076f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(59369))),"@site/docs/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index.md",/*require.resolve*/(59369)],"6bcabe35":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(17489))),"@site/docs/gossip/guthrie-govan-live-2015.md",/*require.resolve*/(17489)],"6c5f2d61":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13558))),"@site/docs/theory/tonality-key-mode/index.md",/*require.resolve*/(13558)],"70cfd2fd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(35692))),"@site/docs/band/about-score/index.md",/*require.resolve*/(35692)],"729eb257":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(63978))),"@site/docs/songs/FFV_Dear-Friends/index.md",/*require.resolve*/(63978)],"72f879f0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(3010))),"@site/docs/theory/essence-of-musical-scales.md",/*require.resolve*/(3010)],"73beb38d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(6813))),"@site/docs/guitar/some-tips-and-suggestions-for-practicing-guitar.md",/*require.resolve*/(6813)],"746d00c8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61157))),"@site/docs/gossip/relative-absolute.md",/*require.resolve*/(61157)],"752d998c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(92744))),"@generated/docusaurus-plugin-content-docs/default/p/tags-daw-484.json",/*require.resolve*/(92744)],"78b2ca1c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77654))),"@site/docs/theory/minor-scale/index.md",/*require.resolve*/(77654)],"7cf79e5c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75926))),"@generated/docusaurus-plugin-content-docs/default/p/tags-open-voicing-ca4.json",/*require.resolve*/(75926)],"7d3fe123":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(1811))),"@generated/docusaurus-plugin-content-docs/default/p/tags-closed-voicing-edf.json",/*require.resolve*/(1811)],"7f84096f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(69421))),"@generated/docusaurus-plugin-content-docs/default/p/tags-jack-thammarat-385.json",/*require.resolve*/(69421)],"7ff305a2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75195))),"@site/docs/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch.md",/*require.resolve*/(75195)],"80398d32":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(56396))),"@generated/docusaurus-plugin-content-docs/default/p/tags-delay-36d.json",/*require.resolve*/(56396)],"83387aa1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94631))),"@generated/docusaurus-plugin-content-docs/default/p/tags-midi-628.json",/*require.resolve*/(94631)],"84f0d58d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4893))),"@site/docs/gossip/memory-in-ff-music.md",/*require.resolve*/(4893)],"875d921a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(79979))),"@generated/docusaurus-plugin-content-docs/default/p/tags-guide-tone-26b.json",/*require.resolve*/(79979)],"8e3d99ec":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(10291))),"@generated/docusaurus-plugin-content-docs/default/p/tags-練習-171.json",/*require.resolve*/(10291)],"9007ebbb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(22667))),"@generated/docusaurus-plugin-content-docs/default/p/tags-和聲-bcb.json",/*require.resolve*/(22667)],"91d4e9b3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(71191))),"@generated/docusaurus-plugin-content-docs/default/p/tags-sound-module-7bd.json",/*require.resolve*/(71191)],"933ee70b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(76354))),"@site/docs/theory/thinkin-mode.md",/*require.resolve*/(76354)],"9360ef66":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41195))),"@generated/docusaurus-plugin-content-docs/default/p/tags-lsb-efe.json",/*require.resolve*/(41195)],"9a7a6827":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4538))),"@site/docs/theory/major-scale/index.md",/*require.resolve*/(4538)],"9b335e39":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(56477))),"@generated/docusaurus-plugin-content-docs/default/p/tags-polychord-818.json",/*require.resolve*/(56477)],"9c7f1a53":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61137))),"@site/docs/gossip/jimi-hendrix.md",/*require.resolve*/(61137)],"9dbc87ed":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67873))),"@site/docs/production/digital-audio-system/index.md",/*require.resolve*/(67873)],"9fa7d172":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32980))),"@site/docs/guitar/how-to-practice-a-song.md",/*require.resolve*/(32980)],"a023366f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(80549))),"@site/docs/gossip/echo-delay-reverb.md",/*require.resolve*/(80549)],"a09bd0f7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93254))),"@generated/docusaurus-plugin-content-docs/default/p/tags-harmony-42f.json",/*require.resolve*/(93254)],"a0c6d5d0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94938))),"@site/docs/songs/Zelda-Trailer-2017E3/index.md",/*require.resolve*/(94938)],"a2dbe853":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97558))),"@site/docs/songs/Jack-Thammarat_Falling-in-Love-Again/index.md",/*require.resolve*/(97558)],"a3f59da0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77862))),"@site/docs/production/concepts-of-music-technology/index.md",/*require.resolve*/(77862)],"a6383854":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(14964))),"@generated/docusaurus-plugin-content-docs/default/p/tags-刻意練習-4a9.json",/*require.resolve*/(14964)],"a7456010":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(88552))),"@generated/docusaurus-plugin-content-pages/default/__plugin.json",/*require.resolve*/(88552)],"a7bd4aaa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(74532))),"@theme/DocVersionRoot",/*require.resolve*/(74532)],"a83fb154":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21461))),"@site/docs/guitar/effective-practice-guitar/index.md",/*require.resolve*/(21461)],"a94703ab":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8944))),"@theme/DocRoot",/*require.resolve*/(8944)],"a9f0d007":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67253))),"@site/docs/production/basic-concepts-of-sampling.md",/*require.resolve*/(67253)],"aa4a21d9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85308))),"@site/docs/guitar/guitar-fundation-technical/index.md",/*require.resolve*/(85308)],"ab0de171":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(62475))),"@site/docs/dict/scale-learning-map/index.md",/*require.resolve*/(62475)],"aba21aa0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(27093))),"@generated/docusaurus-plugin-content-docs/default/__plugin.json",/*require.resolve*/(27093)],"aca4e32b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(43649))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★-8f9.json",/*require.resolve*/(43649)],"ad8289d7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8571))),"@generated/docusaurus-plugin-content-docs/default/p/tags-motif-xs-8-b58.json",/*require.resolve*/(8571)],"ae5e7060":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(23114))),"@generated/docusaurus-plugin-content-docs/default/p/tags-echo-605.json",/*require.resolve*/(23114)],"b02775e2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(90376))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★★-a0c.json",/*require.resolve*/(90376)],"b0e641ea":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87827))),"@site/docs/gossip/just-getting-started/index.md",/*require.resolve*/(87827)],"b11cd6cd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97096))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★-b74.json",/*require.resolve*/(97096)],"b14f7e2a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12773))),"@site/docs/guitar/guide-to-guitar-scale-patterns/index.md",/*require.resolve*/(12773)],"b4244436":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(11139))),"@site/docs/production/using-external-midi-devices-in-logic-pro/index.md",/*require.resolve*/(11139)],"b4a1af84":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(38662))),"@site/docs/production/loop-concepts-and-application-one-night-in-beijing/index.mdx",/*require.resolve*/(38662)],"b4a2439b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93955))),"@site/docs/band/pick-songs.md",/*require.resolve*/(93955)],"b6117871":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49824))),"@generated/docusaurus-plugin-content-docs/default/p/category-給吉他手-da2.json",/*require.resolve*/(49824)],"b65fc5c5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(26280))),"@site/docs/gossip/simple-complex.md",/*require.resolve*/(26280)],"b835dda1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(60057))),"@site/docs/gossip/level-of-practice.md",/*require.resolve*/(60057)],"bb18a448":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(82916))),"@generated/docusaurus-plugin-content-docs/default/p/tags-basetone-852.json",/*require.resolve*/(82916)],"bb4f65cd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83057))),"@site/docs/gossip/form-framework-history.md",/*require.resolve*/(83057)],"be046359":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61193))),"@generated/docusaurus-plugin-content-docs/default/p/tags-arpeggios-ee4.json",/*require.resolve*/(61193)],"c208fb7d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(91940))),"@site/docs/theory/relation-chord.md",/*require.resolve*/(91940)],"c272ffaf":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72627))),"@site/docs/gossip/as-professional.md",/*require.resolve*/(72627)],"c2bbaef0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(30087))),"@site/docs/theory/note-signature/index.md",/*require.resolve*/(30087)],"c3758c06":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(6625))),"@site/docs/theory/thriteenth-chord.md",/*require.resolve*/(6625)],"c377a04b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(48321))),"@site/docs/index.md",/*require.resolve*/(48321)],"c5b1e2a3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49562))),"@generated/docusaurus-plugin-content-docs/default/p/tags-secondary-dominant-2f3.json",/*require.resolve*/(49562)],"c7030adb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(19104))),"@site/docs/production/motu-mk4-macos/index.md",/*require.resolve*/(19104)],"c8172173":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(82677))),"@site/docs/songs/Jack-Thammarat_Emotive-Ballad/index.md",/*require.resolve*/(82677)],"c889ff72":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75134))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音樂製作-e1b.json",/*require.resolve*/(75134)],"cabe4fc0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(53971))),"@generated/docusaurus-plugin-content-docs/default/p/tags-聊天-105.json",/*require.resolve*/(53971)],"cb2d06fe":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(1989))),"@generated/docusaurus-plugin-content-docs/default/p/tags-調式-6ef.json",/*require.resolve*/(1989)],"cb6965f2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94671))),"@site/docs/dict/chord-learning-map/index.md",/*require.resolve*/(94671)],"cc324f10":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(37200))),"@site/docs/gossip/speed.md",/*require.resolve*/(37200)],"cc84ab41":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(25692))),"@generated/docusaurus-plugin-content-docs/default/p/tags-final-fantasy-728.json",/*require.resolve*/(25692)],"cd0a223c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9369))),"@generated/docusaurus-plugin-content-docs/default/p/tags-augmented-d05.json",/*require.resolve*/(9369)],"cd34d918":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83493))),"@site/docs/theory/modal-interchange.md",/*require.resolve*/(83493)],"cdcc5aee":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87944))),"@generated/docusaurus-plugin-content-docs/default/p/tags-reverb-11d.json",/*require.resolve*/(87944)],"ce767eaa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(65327))),"@generated/docusaurus-plugin-content-docs/default/p/tags-mac-os-3bb.json",/*require.resolve*/(65327)],"d1bc1dd4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75781))),"@site/docs/gossip/learning.md",/*require.resolve*/(75781)],"d245a67f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97786))),"@site/docs/gossip/pubking-wubai.md",/*require.resolve*/(97786)],"d2ab1831":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(34405))),"@generated/docusaurus-plugin-content-docs/default/p/tags-overtone-f8a.json",/*require.resolve*/(34405)],"d472b6e9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(20441))),"@generated/docusaurus-plugin-content-docs/default/p/tags-原子習慣-2fa.json",/*require.resolve*/(20441)],"d6e5bbc8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(60639))),"@site/docs/guitar/practice-arpeggios-251-on-g-major/index.md",/*require.resolve*/(60639)],"dd972d00":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75582))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★-869.json",/*require.resolve*/(75582)],"de1e7d19":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72145))),"@generated/docusaurus-plugin-content-docs/default/p/tags-聽音樂-7a1.json",/*require.resolve*/(72145)],"de5662b5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32257))),"@site/docs/songs/Songs-for-Memory/index.md",/*require.resolve*/(32257)],"df13cb96":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(52603))),"@site/docs/theory/musical-scale-fundation.md",/*require.resolve*/(52603)],"df203c0f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(45921))),"@theme/DocTagDocListPage",/*require.resolve*/(45921)],"e35b0c8d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9381))),"@site/docs/songs/Songs-for-Nylon-Guitar/index.md",/*require.resolve*/(9381)],"e3cfb130":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(74471))),"@generated/docusaurus-plugin-content-docs/default/p/tags-吉他-f5c.json",/*require.resolve*/(74471)],"e43a2153":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85501))),"@generated/docusaurus-plugin-content-docs/default/p/tags-suspended-06f.json",/*require.resolve*/(85501)],"e70651fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87921))),"@generated/docusaurus-plugin-content-docs/default/p/tags-musical-tone-f44.json",/*require.resolve*/(87921)],"e8ac9372":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(28390))),"@generated/docusaurus-plugin-content-docs/default/p/tags-shell-chord-e44.json",/*require.resolve*/(28390)],"eb4ee1a8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13179))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音感-290.json",/*require.resolve*/(13179)],"edce2f46":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(58364))),"@generated/docusaurus-plugin-content-docs/default/p/tags-chord-voicing-ccd.json",/*require.resolve*/(58364)],"f1884e56":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(50934))),"@generated/docusaurus-plugin-content-docs/default/p/tags-comping-b2e.json",/*require.resolve*/(50934)],"f32e392d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(86212))),"@generated/docusaurus-plugin-content-docs/default/p/category-字典工具-2bf.json",/*require.resolve*/(86212)],"f4b4a775":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(20041))),"@site/docs/band/getting-started-play-as-band.md",/*require.resolve*/(20041)],"f533cec5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(36543))),"@generated/docusaurus-plugin-content-docs/default/p/tags-tritone-substitute-2e6.json",/*require.resolve*/(36543)],"f8551aab":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(81976))),"@site/src/pages/my-react-page.js",/*require.resolve*/(81976)],"f9629f28":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(96032))),"@site/docs/band/run-a-band.md",/*require.resolve*/(96032)],"fbe01978":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(42741))),"@generated/docusaurus-plugin-content-docs/default/p/category-私房歌-d2f.json",/*require.resolve*/(42741)],"fe5d3305":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93690))),"@generated/docusaurus-plugin-content-docs/default/p/tags-diminished-ed3.json",/*require.resolve*/(93690)]});
 
 /***/ },
 
@@ -40508,6 +40669,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"音樂製作","permal
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */function Navbar(){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(_theme_Navbar_Layout__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A,{children:/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)(_theme_Navbar_Content__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A,{})});}
+
+/***/ },
+
+/***/ 75154
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Make-the-Mistake-441a3c6599b73351e061b41596141f2a.jpg");
 
 /***/ },
 
@@ -41250,6 +41422,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     code: "code",
     h2: "h2",
     h3: "h3",
@@ -41335,18 +41508,18 @@ function _createMdxContent(props) {
       children: "一首曲子出現 G 大調, 還是 D Mixolydian, 一般會從和聲、旋律線、和段落的關係來判斷。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "和聲看終止在哪，終止式不管是什麼調式, 都會以兩個和弦的變化參考點."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "像是 Ⅴ-I (註), I 可以是大和弦, 小和弦,\n但是 Ⅴ 會期望出現三全音 (tritone), 通常是屬七."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "第一個和弦就是終止和弦, 有各種變化, 但不管怎麼變化, 就是要有三全音.\n第二個和弦通常會拿來被定義成所謂的 \"調\"."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "這樣的過程, 從 \"緊張\" 到 \"舒服\",\n在聽人類的聽覺感官上形成了結束 / 段落的感覺，專業術語稱為解決 (Resolved)。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["像是 Ⅴ-I (註), I 可以是大和弦, 小和弦,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "但是 Ⅴ 會期望出現三全音 (tritone), 通常是屬七."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["第一個和弦就是終止和弦, 有各種變化, 但不管怎麼變化, 就是要有三全音.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "第二個和弦通常會拿來被定義成所謂的 \"調\"."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["這樣的過程, 從 \"緊張\" 到 \"舒服\",", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "在聽人類的聽覺感官上形成了結束 / 段落的感覺，專業術語稱為解決 (Resolved)。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
       children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
         children: "所以調在哪裡? 哪裡有終止, 調就在哪裡."
       }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "確立終止, 就知道調的屬性: 大調或者是小調.\n再來看和弦進行, 就可以找到對應的 \"調式\".\n有些調式根據上述 \"終止感\" 的描述,"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["確立終止, 就知道調的屬性: 大調或者是小調.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "再來看和弦進行, 就可以找到對應的 \"調式\".", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "有些調式根據上述 \"終止感\" 的描述,"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "要注意的是, 一首歌不會只有一種調. 當代流行音樂裡, 一首歌出現兩, 三個調是很普通的, 出現兩三種調式也不是很特殊，爵士樂一小節一個調更是司空見慣. 但是不管多少調, 都還是圍繞自然大調/自然小調為中心, 然後作延伸發展."
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
@@ -41457,17 +41630,6 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 76718
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/A_Amaj7-f926cbb366a58e20f734ad9c7e63946a.png");
-
-/***/ },
-
 /***/ 76982
 (module) {
 
@@ -41484,6 +41646,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/mathematics","title":"�
 
 /***/ },
 
+/***/ 77261
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Keyboard_C-5c4cf5d15b9d509218a5495b21f896c1.png");
+
+/***/ },
+
 /***/ 77387
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -41497,6 +41670,17 @@ function _inheritsLoose(t, o) {
   t.prototype = Object.create(o.prototype), t.prototype.constructor = t, (0,_setPrototypeOf_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(t, o);
 }
 
+
+/***/ },
+
+/***/ 77470
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Friends-e7dbebf4bfe2b9b1342253db3e17aa44.jpg");
 
 /***/ },
 
@@ -41607,6 +41791,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     code: "code",
     h2: "h2",
     h3: "h3",
@@ -41661,8 +41846,8 @@ function _createMdxContent(props) {
       }), "。除非特別聲明，否則大部分口語上的小調音階都是指自然小調。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "自然小調的基本音程和順階和弦關係如下表:"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "| Natural Minor Scale (自然小音階) | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ\n|--------------------------------|---|---|---|---|---|---|---|---|\n| Interval (音程) | 1 | 2 | b3 | 4 | 5 | b6 | b7\n| C Minor Scale (C 小調音階音名) | C | D | Eb | F | G | Ab | Bb\n| 音階唱名 | Do | Re | Me | Fa | Sol | Le | Te\n| Diatonic Harmony (C 小調順階七和弦) | Cm7 | Dm7-5 | Ebmaj7 | Fm7 | Gm7 | Abmaj7 | Bb7"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["| Natural Minor Scale (自然小音階) | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "|--------------------------------|---|---|---|---|---|---|---|---|", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "| Interval (音程) | 1 | 2 | b3 | 4 | 5 | b6 | b7", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "| C Minor Scale (C 小調音階音名) | C | D | Eb | F | G | Ab | Bb", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "| 音階唱名 | Do | Re | Me | Fa | Sol | Le | Te", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "| Diatonic Harmony (C 小調順階七和弦) | Cm7 | Dm7-5 | Ebmaj7 | Fm7 | Gm7 | Abmaj7 | Bb7"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "表格中順階和弦的部份，三個降音級數 (III、VI、VII) 剛好都是屬於大和弦，同時因為這三個音的是降音記號，與大調音階比較之下，使它們造成音階聽起來有 minor 感覺的因素。而其他沒有降音記號的，都是屬於小和弦。記憶時，可以掌握這些基本原則。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -41711,7 +41896,7 @@ function _createMdxContent(props) {
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
         children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
           children: "調式內轉"
-        }), "：大小調的順階可以彼此借用，這就是音樂家玩出來的理論技巧 - 調式內轉 (Modal Interchange)。詳細介紹請參閱 調式內轉 (Modal Interchange)\n上面描述的東西，簡單說，在大小調裡很常見，可以想見兩者的關係是相當密切的，很多想法是可以相互借用的，很多音樂家就以這樣的概念做很多應用。"]
+        }), "：大小調的順階可以彼此借用，這就是音樂家玩出來的理論技巧 - 調式內轉 (Modal Interchange)。詳細介紹請參閱 調式內轉 (Modal Interchange)", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "上面描述的東西，簡單說，在大小調裡很常見，可以想見兩者的關係是相當密切的，很多想法是可以相互借用的，很多音樂家就以這樣的概念做很多應用。"]
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
       id: "關係大小調",
@@ -42003,7 +42188,7 @@ function _createMdxContent(props) {
       children: "最常見的應用就是，已知大調音階，要找其平行小調音階，或者已知小調音階，要找其平行大調音階，可以透過關係大小調來聯想。下圖表示一般流行歌曲常用的技巧之一，歌曲主要的調性假設是 C 大調 或者 A 小調。如果歌曲進行中進行轉調（通常在 Bridge、男女對唱），則會有以下的選擇："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(50447)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(40757)/* ["default"] */ .A) + "",
         width: "1452",
         height: "334"
       })
@@ -42027,8 +42212,8 @@ function _createMdxContent(props) {
       children: "和聲小音階和旋律小音階"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "由於自然小調的 Ⅶ 級是 b7，所以在聽覺上沒有解決 (resolved) 到根音的感覺。為了滿足解決的需求，音樂家們借用了自然大調的導音 (7) 給自然小調使用，而形成了和聲小音階 (Harmonic Minor Scale, 縮寫成 Harm.)："
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Scale \\ Level | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ\n|---------|----|----|----|-----|---|----|----|---------|----\n| C Minor Scale | C | D | Eb | F | G | A | \tBb\n| C Harmonic Scale| C | D | Eb | F | G | Ab | B\n| C Melodic Scale (ascending) | C | D | Eb | F | G | A | B"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Scale \\ Level | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "|---------|----|----|----|-----|---|----|----|---------|----", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "| C Minor Scale | C | D | Eb | F | G | A | \tBb", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "| C Harmonic Scale| C | D | Eb | F | G | Ab | B", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "| C Melodic Scale (ascending) | C | D | Eb | F | G | A | B"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "C Harm. 改變了 Ⅶ 級，製造了導音解決到 I 級，但同時也造成了 Ab - B 有了增二度 (A2) 的效果。增二度是一個不和諧的音程，但卻也是 Harm. 特有的聲響效果。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
@@ -42056,7 +42241,7 @@ function _createMdxContent(props) {
       children: "吉他的彈奏，簡單說可以找到大調音階的 La (6) 開始唱/彈，就可以彈出小調的感覺。但是如果你已經是一個熟悉吉他音階指型的吉他手，建議嘗試用 1 2 b3 4 5 b6 b7 思考，然後留意那三個降音記號的位置，因為它們正是讓你正在演奏的音階有小調的感覺。上述的描述方式，原則上都是以所謂的 Key Center 思考，Jazz 的學習者，要開始習慣用用 Note Name、Interval、Chord Tone、Tension Notes 思考。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(2157)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(15279)/* ["default"] */ .A) + "",
         width: "512",
         height: "423"
       })
@@ -42177,6 +42362,17 @@ function MDXContent(props = {}) {
 }
 
 
+
+/***/ },
+
+/***/ 77810
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Cap66-ce3ff6661f7fe8842a1126501be1023e.jpg");
 
 /***/ },
 
@@ -42356,7 +42552,7 @@ function _createMdxContent(props) {
       children: "相信很多人修完之後對於計算機概論的感覺都是："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(58906)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(60956)/* ["default"] */ .A) + "",
         width: "393",
         height: "268"
       })
@@ -42510,7 +42706,7 @@ function _createMdxContent(props) {
       children: "看我鬼扯這麼多，其實跟一開頭提到的計概一樣，我也只是："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(34154)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(14108)/* ["default"] */ .A) + "",
         width: "640",
         height: "427"
       })
@@ -42636,14 +42832,14 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 78001
+/***/ 78149
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Lost-0375cf697abcca46816fd0b0b08fb307.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/05-3-c179d72baf999bf3fd076244dcaf1522.JPG");
 
 /***/ },
 
@@ -42712,6 +42908,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"songs/g5-project","title":"G5 P
 
 /***/ },
 
+/***/ 79053
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic3_number-notation-88ea2382da28191c61c166871c50e7d4.png");
+
+/***/ },
+
 /***/ 79083
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -42733,6 +42940,28 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"songs/g5-project","title":"G5 P
 // See https://github.com/facebook/docusaurus/pull/6003
 // There's probably a better solution though...
 ,href:props.to?undefined:'#',className:(0,clsx__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('navbar__link',className),...props,onClick:props.to?undefined:e=>e.preventDefault(),onKeyDown:e=>{if(e.key==='Enter'){e.preventDefault();setShowDropdown(!showDropdown);}},children:props.children??props.label}),/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("ul",{className:"dropdown__menu",children:items.map((childItemProps,i)=>/*#__PURE__*/(0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_theme_NavbarItem__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A,{isDropdownItem:true,activeClassName:"dropdown__link--active",...childItemProps,key:i}))})]});}
+
+/***/ },
+
+/***/ 79165
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/ChordLearningMap-25acf5d0c021e4d9bdcb47d60a5bb8e9.png");
+
+/***/ },
+
+/***/ 79169
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Memorizes_of_Lightwave_Signature-25d24df295515f1bb4ebf241985a2b92.png");
 
 /***/ },
 
@@ -42800,17 +43029,6 @@ module.exports = {
 
 /***/ },
 
-/***/ 80227
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/after-2235c728e2d09a89b5e0afabe702e39e.png");
-
-/***/ },
-
 /***/ 80253
 (__unused_webpack_module, exports) {
 
@@ -42819,14 +43037,14 @@ Object.defineProperty(exports, "__esModule", ({value:true}));exports.getErrorCau
 
 /***/ },
 
-/***/ 80522
+/***/ 80466
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/motif-xs_mbs63-lsb0-d4227e1f6131989f6e633e90247b76f4.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/YourEyes-469c88944128ea22037fe38898a610d3.jpg");
 
 /***/ },
 
@@ -43054,36 +43272,14 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 80647
+/***/ 80716
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/ChordLearningMap-25acf5d0c021e4d9bdcb47d60a5bb8e9.png");
-
-/***/ },
-
-/***/ 80706
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/as-a-rocker-871a7d3826923e4589c9555c08143000.png");
-
-/***/ },
-
-/***/ 81152
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/SerenadeEspagnole-ac528ab13aa1449d4909950feee41609.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic3_c-major-658d4e20714c3eda65126d9a70e06d29.png");
 
 /***/ },
 
@@ -43124,14 +43320,14 @@ codeElement.style.overflowWrap='anywhere';}setIsEnabled(value=>!value);},[codeBl
 
 /***/ },
 
-/***/ 81500
+/***/ 81484
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/YourEyes-469c88944128ea22037fe38898a610d3.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/MuiscScaleLearningMap-2a7e789eeba0dbfe62257cd1f692986c.png");
 
 /***/ },
 
@@ -43686,6 +43882,17 @@ function MyReactPage(){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED
 
 /***/ },
 
+/***/ 82103
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/05-1-e707d9ee13c4fe8b5d077bc149219d84.JPG");
+
+/***/ },
+
 /***/ 82105
 (module) {
 
@@ -43716,6 +43923,17 @@ module.exports = {
  * LICENSE file in the root directory of this source tree.
  */function MDXA(props){// MDX Footnotes have ids such as <a id="user-content-fn-1-953011" ...>
 const anchorTargetClassName=(0,_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_3__/* .useAnchorTargetClassName */ .v)(props.id);return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .A,{...props,className:(0,clsx__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)(anchorTargetClassName,props.className)});}
+
+/***/ },
+
+/***/ 82187
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_advance1_line-cliches-92d1eacbe0e9f9a8e3296396e9eecc93.png");
 
 /***/ },
 
@@ -43820,17 +44038,6 @@ module.exports = {
 
 /***/ },
 
-/***/ 82615
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Crying-9eb3dbb7afab9082664a501a9a27bd64.jpg");
-
-/***/ },
-
 /***/ 82677
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -43927,7 +44134,7 @@ function _createMdxContent(props) {
       }), " (PDF)"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(44191)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(64685)/* ["default"] */ .A) + "",
         width: "1505",
         height: "1329"
       })
@@ -44243,7 +44450,7 @@ function _createMdxContent(props) {
       }), " 的排列來整理，並非以 C D E F .. 順階大調來排列。主要是可以更清楚五度圈如何實際應用在記憶各調的各級順階和弦。所以參考此表格時，請配合五度圈使用。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(29646)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(44896)/* ["default"] */ .A) + "",
         width: "1296",
         height: "691"
       })
@@ -44388,6 +44595,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     code: "code",
     h2: "h2",
     h3: "h3",
@@ -44415,14 +44623,14 @@ function _createMdxContent(props) {
       children: "基本概念"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "以自然大調的角度來看，相對應的是平行小調："
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "級數 | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ\n----|---|----|-----|-----|---|---|---|---\nC 大調順階 | Cmaj7 | Dm7 | Em7 | Fmaj7 | G7 | Am7 | Bm7-5\nC 小調順階 | Cm7 | Dm7-5 | Ebmaj7 | Fm7 | Gm7 | Abmaj7 | Am7-5 | Bb7 | Bdim7"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["級數 | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "----|---|----|-----|-----|---|---|---|---", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C 大調順階 | Cmaj7 | Dm7 | Em7 | Fmaj7 | G7 | Am7 | Bm7-5", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C 小調順階 | Cm7 | Dm7-5 | Ebmaj7 | Fm7 | Gm7 | Abmaj7 | Am7-5 | Bb7 | Bdim7"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "其中六七級除了原本小調可以代換，有書還另外寫出 Am7-5 和 Bdim7 兩個可以代換的和弦。就代理和弦 (Substitute Chord) 的和聲技巧來看，這兩個是可以跟原本的 Am7 、 Bm7-5 代換的。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "以自然小調的角度來看，相對應的就是平行大調："
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "級數 | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ\n----|---|----|-----|-----|---|---|---|---\nA 小調順階 | Am7 | Bm7-5 | Cmaj7 | Dm7 | Em7 | Fmaj7 | G7\nA 大調順階 | Amaj7 | Bm7 | C#m7 | Dmaj7 | E7 | F#m7 | G#m7-5"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["級數 | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "----|---|----|-----|-----|---|---|---|---", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "A 小調順階 | Am7 | Bm7-5 | Cmaj7 | Dm7 | Em7 | Fmaj7 | G7", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "A 大調順階 | Amaj7 | Bm7 | C#m7 | Dmaj7 | E7 | F#m7 | G#m7-5"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "這種應用技巧在流行歌曲當中最常看到的例子就是："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ol, {
@@ -44557,6 +44765,17 @@ function MDXContent(props = {}) {
 
 /***/ },
 
+/***/ 83795
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tools4-4f9455c20124fcf2ed6190e723a8a728.png");
+
+/***/ },
+
 /***/ 83828
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -44582,17 +44801,6 @@ function MDXContent(props = {}) {
 () {
 
 
-
-/***/ },
-
-/***/ 84022
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/06-1-f6f68c452b5723c6403d173133bb1901.JPG");
 
 /***/ },
 
@@ -44714,6 +44922,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     h2: "h2",
     hr: "hr",
     li: "li",
@@ -44796,8 +45005,8 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
       id: "fragile-seasons-by-takajii",
       children: "Fragile Seasons by Takajii"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "G5 2013 年的專輯，同樣的 Takajii 的作品: \"Fragile Seasons\"\n同樣是很有畫面的旋律與編曲，跟主題非常搭，很適合現在的季節。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["G5 2013 年的專輯，同樣的 Takajii 的作品: \"Fragile Seasons\"", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "同樣是很有畫面的旋律與編曲，跟主題非常搭，很適合現在的季節。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "演奏用很多搖桿技巧。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -44921,28 +45130,6 @@ module.exports = {
 	"wordWrapButtonEnabled": `wordWrapButtonEnabled_uzNF`
 };
 
-
-/***/ },
-
-/***/ 84341
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/minor-pent-to-major-pent_same-postition-c6cf925b0fb90b03b7c9c4ea694d5ba4.png");
-
-/***/ },
-
-/***/ 84409
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/05-1-e707d9ee13c4fe8b5d077bc149219d84.JPG");
 
 /***/ },
 
@@ -45126,7 +45313,7 @@ function _createMdxContent(props) {
       children: "卡農進行基本形"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(61021)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(50007)/* ["default"] */ .A) + "",
         width: "960",
         height: "284"
       })
@@ -45134,7 +45321,7 @@ function _createMdxContent(props) {
       children: "舉例:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(61021)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(50007)/* ["default"] */ .A) + "",
         width: "960",
         height: "284"
       })
@@ -45145,7 +45332,7 @@ function _createMdxContent(props) {
       children: "基本應用一: 增加降冪 Bass Line"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(32368)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(24202)/* ["default"] */ .A) + "",
         width: "870",
         height: "283"
       })
@@ -45153,7 +45340,7 @@ function _createMdxContent(props) {
       children: "舉例:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(61495)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(71417)/* ["default"] */ .A) + "",
         width: "868",
         height: "267"
       })
@@ -45164,7 +45351,7 @@ function _createMdxContent(props) {
       children: "基本應用二: 把順階三和弦換成順階七和弦"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(41372)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(60006)/* ["default"] */ .A) + "",
         width: "895",
         height: "255"
       })
@@ -45172,7 +45359,7 @@ function _createMdxContent(props) {
       children: "舉例:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(47965)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(23475)/* ["default"] */ .A) + "",
         width: "882",
         height: "256"
       })
@@ -45183,7 +45370,7 @@ function _createMdxContent(props) {
       children: "基本應用三: 順階七和弦和順階 Bass Line 搭配而改變的和弦代換"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(3547)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(79053)/* ["default"] */ .A) + "",
         width: "886",
         height: "401"
       })
@@ -45199,7 +45386,7 @@ function _createMdxContent(props) {
       children: "舉例:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(5094)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(80716)/* ["default"] */ .A) + "",
         width: "879",
         height: "404"
       })
@@ -45208,7 +45395,7 @@ function _createMdxContent(props) {
       children: "基本應用四: 其他 TSD 代換"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(41664)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(74726)/* ["default"] */ .A) + "",
         width: "892",
         height: "275"
       })
@@ -45216,7 +45403,7 @@ function _createMdxContent(props) {
       children: "這可以換的就很多了，這裡舉的例子是最常見的，後四小節本來聽起來是降冪的，變成升冪的感覺. 其中 2m 代 4，3m7 代 1M7，4 代 2m 應該不難理解."
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(96017)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(58067)/* ["default"] */ .A) + "",
         width: "855",
         height: "301"
       })
@@ -45229,7 +45416,7 @@ function _createMdxContent(props) {
       children: "我們提到這個基本形的時候，並沒有特別去強調和弦的位置和拍子的關係，但是當同樣的組合，當每小節有兩個和弦時 (通常是慢歌)，我們做一個拍子上的位置變化，改成如下:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(99966)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(26684)/* ["default"] */ .A) + "",
         width: "1033",
         height: "304"
       })
@@ -45245,7 +45432,7 @@ function _createMdxContent(props) {
       children: "進階應用一 - Line Cliches"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(23341)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(82187)/* ["default"] */ .A) + "",
         width: "763",
         height: "354"
       })
@@ -45262,7 +45449,7 @@ function _createMdxContent(props) {
       children: "上述提及的基本應用的進行，都可以利用次屬和弦做和弦代換，舉例:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(1797)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(25623)/* ["default"] */ .A) + "",
         width: "736",
         height: "232"
       })
@@ -45270,7 +45457,7 @@ function _createMdxContent(props) {
       children: "C 大調："
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(19699)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(13505)/* ["default"] */ .A) + "",
         width: "735",
         height: "224"
       })
@@ -45281,7 +45468,7 @@ function _createMdxContent(props) {
       children: "同樣的，上述提及的基本應用的進行，都可以這樣套，例如:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(33935)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(27877)/* ["default"] */ .A) + "",
         width: "771",
         height: "343"
       })
@@ -45289,7 +45476,7 @@ function _createMdxContent(props) {
       children: "舉例:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(73193)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(60339)/* ["default"] */ .A) + "",
         width: "754",
         height: "345"
       })
@@ -45430,17 +45617,6 @@ function MDXContent(props = {}) {
 }
 
 
-
-/***/ },
-
-/***/ 84522
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/01-2-c193ea1348691efdd9783e783606b02b.JPG");
 
 /***/ },
 
@@ -45819,6 +45995,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     h2: "h2",
     h3: "h3",
     hr: "hr",
@@ -45843,13 +46020,13 @@ function _createMdxContent(props) {
       children: "另外本文不是啥教學文, 這只是一些心得歸納, 大部分項目的詳細內容, 網路上都找的到. 如果說是教學文的話, 套句總舵主陳定南的話:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(98499)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(87709)/* ["default"] */ .A) + "",
         width: "400",
         height: "300"
       })
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(96692)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(77810)/* ["default"] */ .A) + "",
         width: "400",
         height: "300"
       })
@@ -45904,7 +46081,7 @@ function _createMdxContent(props) {
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(46205)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(14455)/* ["default"] */ .A) + "",
         width: "400",
         height: "163"
       })
@@ -46161,8 +46338,8 @@ function _createMdxContent(props) {
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "所以草草整理了一些我自己的學習心得想法, 這些東西怎麼有效的吸收, 怎麼有效的練習, 我想這關係到每個人對於面對事務的處裡態度, 紀律, 哲學, 習慣, 思維, 時間管理, 自我約束 ... 等, 都有關係. 說白一點, 寫出這些東西不是重點, 怎麼有效率, 有紀律的執行練習, 才是重點."
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-        children: "練樂器, 要腳踏實地, 一步一腳印, 未來一定會有成果.\n切記, 不要囫圇吞棗, 貪多嚼不爛, 捷徑最遠!!"
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+        children: ["練樂器, 要腳踏實地, 一步一腳印, 未來一定會有成果.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "切記, 不要囫圇吞棗, 貪多嚼不爛, 捷徑最遠!!"]
       }), "\n"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "最後附上一些大師基本功的教學:"
@@ -46316,14 +46493,14 @@ module.exports = {
 
 /***/ },
 
-/***/ 85315
+/***/ 85314
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/logic-pro-message-f27d3e1826620b25301303db825d187b.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -46355,6 +46532,17 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Suspended","permalink
  */// See also https://github.com/facebook/react/issues/31134
 // See also https://github.com/facebook/docusaurus/issues/9985#issuecomment-2396367797
 async function renderToHtml(app){return new Promise((resolve,reject)=>{const passThrough=new node_stream__WEBPACK_IMPORTED_MODULE_1__.PassThrough();const{pipe}=(0,react_dom_server__WEBPACK_IMPORTED_MODULE_0__.renderToPipeableStream)(app,{onError(error){reject(error);},onAllReady(){pipe(passThrough);(0,node_stream_consumers__WEBPACK_IMPORTED_MODULE_2__.text)(passThrough).then(resolve,reject);}});});}
+
+/***/ },
+
+/***/ 85796
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/as-a-rocker-871a7d3826923e4589c9555c08143000.png");
 
 /***/ },
 
@@ -46474,6 +46662,17 @@ module.exports = {
 
 /***/ },
 
+/***/ 86729
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/FFV_DearFriends-2-2c3e813257a14e5aea2cc789497a5eaa.png");
+
+/***/ },
+
 /***/ 86907
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -46559,14 +46758,25 @@ const matchedRoutes=(0,react_router_config__WEBPACK_IMPORTED_MODULE_0__/* .match
 
 /***/ },
 
-/***/ 87229
+/***/ 87156
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Asturias-bed2d34f2137f0c5e162fe01ff8c464f.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/04-3-f6e7f63ddc45164cfd3ce51b8c172758.JPG");
+
+/***/ },
+
+/***/ 87709
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Cap65-b595192d08927426022b4db2039a8c15.jpg");
 
 /***/ },
 
@@ -46618,6 +46828,7 @@ function _createMdxContent(props) {
   const _components = {
     a: "a",
     blockquote: "blockquote",
+    br: "br",
     h2: "h2",
     hr: "hr",
     img: "img",
@@ -46654,10 +46865,10 @@ function _createMdxContent(props) {
       children: "這問題我很想這樣回答：『施主，這問題你應該問自己。』"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
       children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(44986)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(71604)/* ["default"] */ .A) + "",
         width: "320",
         height: "240"
-      }), "\n取自：電影『食神』"]
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "取自：電影『食神』"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "金庸小說裡的一些絕世武功動不動都是要二三十年才能達到頂尖，通常十年都只是小成而已。這段話讓我想到一個老師跟我說過：音樂的理論不難懂，花個兩三年大概就能夠讀懂。但是要把那些理論 Apply (應用) 到手上的樂器，然後可以彈出成熟有生命的東西，五到十年只能說還在入門、摸索階段，十年大概可以看出個雛形，二十年才能算有個樣子。而且上述都是只持續不間斷的練習。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -46786,6 +46997,28 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"reverb","permalink":"
 
 /***/ },
 
+/***/ 88042
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/open-voicing_Gmaj7-GBDFsharp_8av-a967410dfd2c6f9274bcdcbb193b11b3.png");
+
+/***/ },
+
+/***/ 88361
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/minor-pent-to-major-pent_shift-postition-29fce8b7aa2685db57a9dd7b0aed6177.png");
+
+/***/ },
+
 /***/ 88473
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -46832,6 +47065,17 @@ function extractMDXAdmonitionTitle(children){const items=react__WEBPACK_IMPORTED
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}');
+
+/***/ },
+
+/***/ 88564
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -47127,14 +47371,14 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 89240
+/***/ 89066
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Forest-9b6d8df918b98212a2e57b765432c3ae.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/08-1-ff96af30b092c7755453a812ae279e89.JPG");
 
 /***/ },
 
@@ -47143,17 +47387,6 @@ function MDXContent(props = {}) {
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Passing Tone","permalink":"/tags/passing-tone","allTagsPath":"/tags","count":1,"items":[{"id":"theory/tritone","title":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","permalink":"/theory/tritone"}],"unlisted":false}}');
-
-/***/ },
-
-/***/ 89414
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/LastDance-9e00d85156815cce4225af07736cb37a.jpg");
 
 /***/ },
 
@@ -47338,6 +47571,17 @@ return({children})=>/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"id":"dict/diatonic-chords-in-circle-of-5ths/index","title":"五度圈順階和弦表","description":"用五度圈作為主軸，整理各調的順階和弦表。\\n","source":"@site/docs/dict/diatonic-chords-in-circle-of-5ths/index.md","sourceDirName":"dict/diatonic-chords-in-circle-of-5ths","slug":"/dict/diatonic-chords-in-circle-of-5ths/","permalink":"/dict/diatonic-chords-in-circle-of-5ths/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"和弦","permalink":"/tags/和弦"},{"inline":true,"label":"音程","permalink":"/tags/音程"}],"version":"current","frontMatter":{"title":"五度圈順階和弦表","linkTitle":"五度圈順階和弦表","description":"用五度圈作為主軸，整理各調的順階和弦表。\\n","date":"2008-12-28T00:00:00.000Z","tags":["★★★★","和弦","音程"]},"sidebar":"tutorialSidebar","previous":{"title":"和弦學習地圖","permalink":"/dict/chord-learning-map/"},"next":{"title":"音階學習地圖","permalink":"/dict/scale-learning-map/"}}');
+
+/***/ },
+
+/***/ 89747
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -47529,17 +47773,6 @@ module.exports = {
  * See https://github.com/facebook/docusaurus/issues/11232
  * See also headings case https://x.com/JoshWComeau/status/1332015868725891076
  */function useAnchorTargetClassName(id){const{navbar:{hideOnScroll}}=(0,_useThemeConfig__WEBPACK_IMPORTED_MODULE_0__/* .useThemeConfig */ .p)();if(typeof id==='undefined'){return undefined;}return hideOnScroll?(_anchorUtils_module_css__WEBPACK_IMPORTED_MODULE_1___default().anchorTargetHideOnScrollNavbar):(_anchorUtils_module_css__WEBPACK_IMPORTED_MODULE_1___default().anchorTargetStickyNavbar);}
-
-/***/ },
-
-/***/ 91936
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Friends-e7dbebf4bfe2b9b1342253db3e17aa44.jpg");
 
 /***/ },
 
@@ -47863,6 +48096,7 @@ const toc = [{
 function _createMdxContent(props) {
   const _components = {
     a: "a",
+    br: "br",
     h2: "h2",
     hr: "hr",
     li: "li",
@@ -47873,12 +48107,12 @@ function _createMdxContent(props) {
     ...props.components
   };
   return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
-    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "現在隨身聆聽設備很方便,\n不管是隨身的 player 還是一般隨身通訊設備 (手機),\n幾乎都可以播放音樂, 使的不管在路上, 還是辦公室裡,\n很常會看到大家帶著耳機聽著自己的音樂."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "樂手是真的需要大量聆聽的, 一方面吸收新資訊,\n一方面聆聽好的作品, 對於提升音樂的素養是非常重要的.\n因為 \"CD 是最好的老師\" ...\n不過 ......."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "就因為現在聽音樂太方便了, 無時無刻,\n不管什麼地點幾乎都可以聽, 都可以沉溺在屬於自己的旋律世界裡 ....\n漸漸的這樣現象就開始出來了:"
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["現在隨身聆聽設備很方便,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "不管是隨身的 player 還是一般隨身通訊設備 (手機),", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "幾乎都可以播放音樂, 使的不管在路上, 還是辦公室裡,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "很常會看到大家帶著耳機聽著自己的音樂."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["樂手是真的需要大量聆聽的, 一方面吸收新資訊,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "一方面聆聽好的作品, 對於提升音樂的素養是非常重要的.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "因為 \"CD 是最好的老師\" ...", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "不過 ......."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["就因為現在聽音樂太方便了, 無時無刻,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "不管什麼地點幾乎都可以聽, 都可以沉溺在屬於自己的旋律世界裡 ....", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "漸漸的這樣現象就開始出來了:"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ol, {
       children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
         children: "音量不自主的越開越大聲 (有些大到我距離兩個人的位置都知道他在聽啥歌)"
@@ -47889,16 +48123,16 @@ function _createMdxContent(props) {
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
         children: "如此, 惡性循環 ..."
       }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "年紀小可能還沒關係, 但是長時間累積下來對於耳朵的傷害是無形的,\n甚至是永久性的傷害."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "我曾經為了作音樂, 長時間戴耳機,\n或者持續在音壓很大的地方作音樂.\n後來漸漸感覺耳朵有刺痛感, 對於 \"音量\" 靈敏度降地很多.\n當我意識到的這事態的嚴重之後,\n我開始自律, 盡量不戴耳機, 除非必要,\n否則音量一定要限制."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "吉他手很多時候, 為了 tone 的課題, 需要把音量開很大.\n但以現代的技術來看, 已經不像以前那樣.\n以前為了要取得所謂的自然破音 (Overdrive),\n需要真的把前級音量推到炸掉, 然後得到吉他手最想要的破音音色."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "不過現在數位科技發達, 很多產品可以不用開很大聲就可以作出對應的效果.\n所以吉他手要專注的, 應該是如何用耳朵判斷出音色的動態, 特性等,\n掌握其特性之後, 學習如何善用現有的設備,\n像 EQ/Comp/Limit/Reverb/Delay/Gate ... 等,\n還有最重要的就是吉他手本真的演奏技術,\n達到所需要的音色效果."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "但是這一切都要靠一對能夠精準判斷的耳朵,\n所以把耳朵 \"養好\", 是非常重要的."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["年紀小可能還沒關係, 但是長時間累積下來對於耳朵的傷害是無形的,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "甚至是永久性的傷害."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["我曾經為了作音樂, 長時間戴耳機,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "或者持續在音壓很大的地方作音樂.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "後來漸漸感覺耳朵有刺痛感, 對於 \"音量\" 靈敏度降地很多.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "當我意識到的這事態的嚴重之後,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "我開始自律, 盡量不戴耳機, 除非必要,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "否則音量一定要限制."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["吉他手很多時候, 為了 tone 的課題, 需要把音量開很大.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "但以現代的技術來看, 已經不像以前那樣.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "以前為了要取得所謂的自然破音 (Overdrive),", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "需要真的把前級音量推到炸掉, 然後得到吉他手最想要的破音音色."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["不過現在數位科技發達, 很多產品可以不用開很大聲就可以作出對應的效果.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "所以吉他手要專注的, 應該是如何用耳朵判斷出音色的動態, 特性等,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "掌握其特性之後, 學習如何善用現有的設備,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "像 EQ/Comp/Limit/Reverb/Delay/Gate ... 等,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "還有最重要的就是吉他手本真的演奏技術,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "達到所需要的音色效果."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["但是這一切都要靠一對能夠精準判斷的耳朵,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "所以把耳朵 \"養好\", 是非常重要的."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "我去一些 Live House 聽音樂時, 發現都有一個特性就是, 通常低頻都很多, 我猜可能有幾個因素:"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ol, {
@@ -47911,20 +48145,20 @@ function _createMdxContent(props) {
       }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
         children: "PA 大哥 or 樂手長期在那樣的工作環境之下, 聽力已經受傷了, 所以要開很大的音量才聽的到."
       }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "如果是最後一點那就真的有點注意了.\n畢竟我們不是貝多芬, 只剩一隻耳朵還能寫出曠世鉅作.\n要是樂手耳朵受傷了, 不要說彈琴,\n可以能連平常要聆聽自己喜歡的音樂都會有問題 ...."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["如果是最後一點那就真的有點注意了.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "畢竟我們不是貝多芬, 只剩一隻耳朵還能寫出曠世鉅作.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "要是樂手耳朵受傷了, 不要說彈琴,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "可以能連平常要聆聽自己喜歡的音樂都會有問題 ...."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "另外玩 Rock/Metal, 和鼓手通常也是耳朵傷害的高危險群."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "如果不可避免的要長時間戴耳機聽音樂, 我的方式是這樣的.\n自從那次的經驗之後, 我開始試著把音量越開越小聲,\n讓耳朵即使在很微量的音量中, 或者在很吵雜的環境當中,\n還能夠清楚的聽到想要的音樂."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "除了依舊可以聽自己喜歡的音樂,\n另外就是保護耳朵不需要長時間承受大音壓.\n特別是在室外的時候, 像是坐公車, 捷運等公共場所,\n這種地方通常都很吵, 機械運作的音量就很大,\n戴耳機聽音樂的時候, 很容易不自主的樂開越大聲,\n在這樣的環境就要越特別去控制音量."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "長期這樣 \"訓練\" 下來, 因為耳朵能夠聽到高動態範圍,\n對於音樂製作的混音來講, 對於 Comp/EQ 的應用, 應該是有幫助的."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "另外, 在練團室的音量控制, 就複雜的多.\n比較簡單的就是戴耳塞, 作基本的保護.\n然後選擇空間大一點, 吸音好一點的練團室."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "有心的話, 加強樂手們的基本概念和認知,\n認識聲音的物理特性, 還有 Comp/EQ 的應用,\n如果有固定的練團室, 大家可一起嘗試調整, 實驗,\n找到最佳的音量數據, 人員位置, FX 設定 ... 等\n而不是一直把音量一直堆大, 如此只會惡性循環."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["如果不可避免的要長時間戴耳機聽音樂, 我的方式是這樣的.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "自從那次的經驗之後, 我開始試著把音量越開越小聲,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "讓耳朵即使在很微量的音量中, 或者在很吵雜的環境當中,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "還能夠清楚的聽到想要的音樂."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["除了依舊可以聽自己喜歡的音樂,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "另外就是保護耳朵不需要長時間承受大音壓.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "特別是在室外的時候, 像是坐公車, 捷運等公共場所,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "這種地方通常都很吵, 機械運作的音量就很大,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "戴耳機聽音樂的時候, 很容易不自主的樂開越大聲,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "在這樣的環境就要越特別去控制音量."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["長期這樣 \"訓練\" 下來, 因為耳朵能夠聽到高動態範圍,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "對於音樂製作的混音來講, 對於 Comp/EQ 的應用, 應該是有幫助的."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["另外, 在練團室的音量控制, 就複雜的多.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "比較簡單的就是戴耳塞, 作基本的保護.", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "然後選擇空間大一點, 吸音好一點的練團室."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["有心的話, 加強樂手們的基本概念和認知,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "認識聲音的物理特性, 還有 Comp/EQ 的應用,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "如果有固定的練團室, 大家可一起嘗試調整, 實驗,", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "找到最佳的音量數據, 人員位置, FX 設定 ... 等", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "而不是一直把音量一直堆大, 如此只會惡性循環."]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)("p", {
       className: "gt-copyright-cliam",
       children: "------- Copyright © 2011-2015 Rick KY Hwang All rights reserved -------"
@@ -48049,17 +48283,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Harmony","permalink":
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Diminished","permalink":"/tags/diminished","allTagsPath":"/tags","count":1,"items":[{"id":"theory/tritone","title":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","permalink":"/theory/tritone"}],"unlisted":false}}');
-
-/***/ },
-
-/***/ 93713
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/motif-xs-sequener-mode-c58b7dee8b87a5840799a38715b71686.png");
 
 /***/ },
 
@@ -48371,7 +48594,7 @@ function _createMdxContent(props) {
       children: "下圖是我個人在記憶、推算和弦時的地圖。記憶的方式就是循序漸進，一次只增加或變化一個音，慢慢推演。這個好處就是著於學習者能夠很清楚的理解每一個和弦的由來以及聲響的差異，對於之後學習 Shell Chords、推算 Extended Chords、Altered Chords、或者練習 Arpeggios 時，都有不錯的幫助。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.img, {
-        src: (__webpack_require__(80647)/* ["default"] */ .A) + "",
+        src: (__webpack_require__(79165)/* ["default"] */ .A) + "",
         width: "1600",
         height: "1122"
       })
@@ -48537,6 +48760,7 @@ const toc = [{
 function _createMdxContent(props) {
   const _components = {
     a: "a",
+    br: "br",
     code: "code",
     h2: "h2",
     h3: "h3",
@@ -48719,8 +48943,8 @@ function _createMdxContent(props) {
       children: "畫面把百年前四英傑帶出場"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "與一百年後的四少英傑"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "最後\n百年前的國王對林克說，請保護我的女兒\n林克力戰到最後"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["最後", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "百年前的國王對林克說，請保護我的女兒", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "林克力戰到最後"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
       id: "0330",
       children: "03:30"
@@ -48839,17 +49063,6 @@ function MDXContent(props = {}) {
 
 /***/ },
 
-/***/ 95018
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Cut-Love-af52e6958104fec9ae61e7e8e6a01485.jpg");
-
-/***/ },
-
 /***/ 95293
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -48901,17 +49114,6 @@ setColorModeState(newSystemColorMode);ColorModeAttribute.set(newSystemColorMode)
 
 /***/ },
 
-/***/ 95461
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Love-is-Blue-4153b727fc0029e536640701232b884b.jpg");
-
-/***/ },
-
 /***/ 95521
 (module) {
 
@@ -48923,17 +49125,6 @@ module.exports = {
 
 /***/ },
 
-/***/ 95731
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Arp-251_G-Major-ee985a464bc31ab25836665c06b384b7.png");
-
-/***/ },
-
 /***/ 95753
 (module) {
 
@@ -48942,25 +49133,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Substitute Chord","pe
 
 /***/ },
 
-/***/ 95809
+/***/ 95996
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/gemini02-ccd20534ec5e9f9715e3fb0250094140.jpg");
-
-/***/ },
-
-/***/ 96017
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic4_c-major-56e901a8030097cc51d187af8cb04bff.png");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Hotel-California-cee2f7bd6910f27f732dc8e7edc80464.png");
 
 /***/ },
 
@@ -49468,25 +49648,14 @@ if (true) {
 
 /***/ },
 
-/***/ 96692
+/***/ 96543
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Cap66-ce3ff6661f7fe8842a1126501be1023e.jpg");
-
-/***/ },
-
-/***/ 96796
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Make-the-Mistake-441a3c6599b73351e061b41596141f2a.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
 
 /***/ },
 
@@ -56259,28 +56428,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/tonality-key-mode/index"
 
 /***/ },
 
-/***/ 97368
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/open-voicing_Gmaj7-GBDFsharp_8av-a967410dfd2c6f9274bcdcbb193b11b3.png");
-
-/***/ },
-
-/***/ 97406
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Because-I-Love-You-f51245a3548ccbc41dc14d910d568b2d.jpg");
-
-/***/ },
-
 /***/ 97422
 (module, __unused_webpack_exports, __webpack_require__) {
 
@@ -56695,6 +56842,7 @@ const toc = [{
 function _createMdxContent(props) {
   const _components = {
     a: "a",
+    br: "br",
     h2: "h2",
     h3: "h3",
     hr: "hr",
@@ -56732,10 +56880,10 @@ function _createMdxContent(props) {
       children: "Band: China Blue"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "樂手部分："
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "大貓很多 Loop 做的很漂亮，現場放一檯 MBP + M-Audio MIDI Controller，搭得非常順。\n被動好像彈得太多次，有點在亂彈 XDD\nUnplugged 口琴搭的很有味道，很隨性的感覺。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Dino 看起來老很多，比夏夜晚風演唱會時看起來肚皮大很多 XDDDD\nUnplugged 拍肚皮那段很有梗\n有些段落的過門進得太早，不過都有跟上。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["大貓很多 Loop 做的很漂亮，現場放一檯 MBP + M-Audio MIDI Controller，搭得非常順。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "被動好像彈得太多次，有點在亂彈 XDD", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Unplugged 口琴搭的很有味道，很隨性的感覺。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Dino 看起來老很多，比夏夜晚風演唱會時看起來肚皮大很多 XDDDD", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Unplugged 拍肚皮那段很有梗", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "有些段落的過門進得太早，不過都有跟上。"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
       children: ["Bass 小朱的造型一直讓我誤以為是看到了", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
         href: "",
@@ -56744,8 +56892,8 @@ function _createMdxContent(props) {
         href: "https://www.youtube.com/watch?v=b1DzRb4DHGw",
         children: "https://www.youtube.com/watch?v=b1DzRb4DHGw"
       }), ") XDD"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Guest Guitarist 秀秀是濁水溪公社前吉他手，徐千秀。\nSolo 很猛，不過很可惜，都沒被 take 到什麼鏡頭。\n剛出場時，我以為他是陳漢典 XDDDD"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Guest Guitarist 秀秀是濁水溪公社前吉他手，徐千秀。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Solo 很猛，不過很可惜，都沒被 take 到什麼鏡頭。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "剛出場時，我以為他是陳漢典 XDDDD"]
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "Unplugged session 是我最喜歡的段落，換成木吉他、空心 Bass、手風琴、Cajon，重新詮釋經典，很有味道的段落。其中 Dino Solo 時很搞笑的拍肚皮、拍嘴巴、Rap 等方式，然後在舞台上彷彿相聲般的跟團員對話，真的很有趣。挪威的森林改編成 Unplugged 有讓人驚豔的感覺，這首歌對我來說可是既熟悉又陌生 (後述)。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
@@ -56876,39 +57024,6 @@ function MDXContent(props = {}) {
 }
 
 
-
-/***/ },
-
-/***/ 97829
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/tools4-4f9455c20124fcf2ed6190e723a8a728.png");
-
-/***/ },
-
-/***/ 98266
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/arrangement-c10ad31dc51ddf7f0ebae2ec940cecc8.png");
-
-/***/ },
-
-/***/ 98330
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/楊柳-6b9499259f597037256a09f59d8bbd0b.jpg");
 
 /***/ },
 
@@ -57372,17 +57487,6 @@ if (true) {
 
 /***/ },
 
-/***/ 98499
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Cap65-b595192d08927426022b4db2039a8c15.jpg");
-
-/***/ },
-
 /***/ 98587
 (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -57776,6 +57880,17 @@ function MDXContent(props = {}) {
 
 /***/ },
 
+/***/ 98810
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/fig1_CMajor-P1-73809d58895977637e24efdc736f0746.png");
+
+/***/ },
+
 /***/ 99079
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -57836,14 +57951,25 @@ module.exports = {
 
 /***/ },
 
-/***/ 99471
+/***/ 99457
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/rick-learning-path-b9692c3265ec76aa7bff29dbfe4707eb.jpg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/keyboard-5c4cf5d15b9d509218a5495b21f896c1.png");
+
+/***/ },
+
+/***/ 99725
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/Memorizes_of_Lightwave_temp-eef157e94e6f2a3954b4ad3c4f4f0b9c.png");
 
 /***/ },
 
@@ -57858,44 +57984,11 @@ module.exports = {
 
 /***/ },
 
-/***/ 99861
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
-
-/***/ },
-
 /***/ 99889
 (module) {
 
 "use strict";
 module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/algorithm-for-songs/index","title":"概述『和聲分析』演算法","description":"討論對於透過和聲分析概念，做成演算法的想法","source":"@site/docs/gossip/algorithm-for-songs/index.md","sourceDirName":"gossip/algorithm-for-songs","slug":"/gossip/algorithm-for-songs/","permalink":"/gossip/algorithm-for-songs/","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{"title":"概述『和聲分析』演算法","weight":1,"description":"討論對於透過和聲分析概念，做成演算法的想法","date":"2014-09-27T00:00:00.000Z"},"sidebar":"tutorialSidebar","previous":{"title":"聊音樂","permalink":"/category/聊音樂"},"next":{"title":"拿音樂當飯吃","permalink":"/gossip/as-professional"}}');
-
-/***/ },
-
-/***/ 99922
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/pattern1-5-ac037f652b2b3b695ae09e4701f24a3b.png");
-
-/***/ },
-
-/***/ 99966
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic5-bf7a8915368b7950326f361e590451ff.png");
 
 /***/ },
 
