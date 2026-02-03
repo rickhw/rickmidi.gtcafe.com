@@ -410,7 +410,7 @@ module.exports = function() {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"production/motu-mk4-macos/index","title":"在 MacOS 驅動 MOTU UltraLite mk4","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","source":"@site/docs/production/motu-mk4-macos/index.md","sourceDirName":"production/motu-mk4-macos","slug":"/production/motu-mk4-macos/","permalink":"/production/motu-mk4-macos/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"DAW","permalink":"/tags/daw"},{"inline":true,"label":"MIDI","permalink":"/tags/midi"},{"inline":true,"label":"MOTU","permalink":"/tags/motu"},{"inline":true,"label":"MacOS","permalink":"/tags/mac-os"}],"version":"current","frontMatter":{"title":"在 MacOS 驅動 MOTU UltraLite mk4","weight":1,"description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","date":"2025-12-20T00:00:00.000Z","tags":["★★★★","DAW","MIDI","MOTU","MacOS"]},"sidebar":"tutorialSidebar","previous":{"title":"Loop 的概念與應用實例 - One Night in 北京","permalink":"/production/loop-concepts-and-application-one-night-in-beijing/"},"next":{"title":"Using External MIDI Devices in Logic Pro","permalink":"/production/using-external-midi-devices-in-logic-pro/"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"production/motu-mk4-macos/index","title":"在 MacOS 驅動 MOTU UltraLite mk4","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","source":"@site/docs/production/motu-mk4-macos/index.md","sourceDirName":"production/motu-mk4-macos","slug":"/production/motu-mk4-macos/","permalink":"/production/motu-mk4-macos/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"DAW","permalink":"/tags/daw"},{"inline":true,"label":"MIDI","permalink":"/tags/midi"},{"inline":true,"label":"MOTU","permalink":"/tags/motu"},{"inline":true,"label":"MacOS","permalink":"/tags/mac-os"}],"version":"current","frontMatter":{"title":"在 MacOS 驅動 MOTU UltraLite mk4","weight":1,"description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","date":"2025-12-20T00:00:00.000Z","tags":["★★★★","DAW","MIDI","MOTU","MacOS"]},"sidebar":"tutorialSidebar","previous":{"title":"Loop 的概念與應用實例 - One Night in 北京","permalink":"/production/loop-concepts-and-application-one-night-in-beijing/"},"next":{"title":"襯底 PAD 的基本概念","permalink":"/production/pad-basics"}}');
 
 /***/ },
 
@@ -665,7 +665,7 @@ function MDXContent(props = {}) {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","title":"Loop 的概念與應用實例 - One Night in 北京","description":"Loop 字面上 的意思是: 循環, 反覆, 迴路, 橡皮圈 .... etc. 在音樂製作中, 中文可以翻譯成 \\"循環樂句\\", 或者 \\"反覆段落\\". 簡單說就是一段一直反覆播放的 \\"樂音\\".","source":"@site/docs/production/loop-concepts-and-application-one-night-in-beijing/index.mdx","sourceDirName":"production/loop-concepts-and-application-one-night-in-beijing","slug":"/production/loop-concepts-and-application-one-night-in-beijing/","permalink":"/production/loop-concepts-and-application-one-night-in-beijing/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"音樂製作","permalink":"/tags/音樂製作"},{"inline":true,"label":"樂團經營","permalink":"/tags/樂團經營"}],"version":"current","frontMatter":{"title":"Loop 的概念與應用實例 - One Night in 北京","weight":1,"date":"2010-08-28T00:00:00.000Z","tags":["★★★★","音樂製作","樂團經營"]},"sidebar":"tutorialSidebar","previous":{"title":"Digital Audio System","permalink":"/production/digital-audio-system/"},"next":{"title":"在 MacOS 驅動 MOTU UltraLite mk4","permalink":"/production/motu-mk4-macos/"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","title":"Loop 的概念與應用實例 - One Night in 北京","description":"Loop 字面上 的意思是: 循環, 反覆, 迴路, 橡皮圈 .... etc. 在音樂製作中, 中文可以翻譯成 \\"循環樂句\\", 或者 \\"反覆段落\\". 簡單說就是一段一直反覆播放的 \\"樂音\\".","source":"@site/docs/production/loop-concepts-and-application-one-night-in-beijing/index.mdx","sourceDirName":"production/loop-concepts-and-application-one-night-in-beijing","slug":"/production/loop-concepts-and-application-one-night-in-beijing/","permalink":"/production/loop-concepts-and-application-one-night-in-beijing/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"音樂製作","permalink":"/tags/音樂製作"},{"inline":true,"label":"樂團經營","permalink":"/tags/樂團經營"}],"version":"current","frontMatter":{"title":"Loop 的概念與應用實例 - One Night in 北京","weight":1,"date":"2010-08-28T00:00:00.000Z","tags":["★★★★","音樂製作","樂團經營"]},"sidebar":"tutorialSidebar","previous":{"title":"聊聊即時與立即 - Echo / Delay / Reverb","permalink":"/production/echo-delay-reverb"},"next":{"title":"在 MacOS 驅動 MOTU UltraLite mk4","permalink":"/production/motu-mk4-macos/"}}');
 
 /***/ },
 
@@ -2877,7 +2877,7 @@ function MDXContent(props = {}) {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tags":[{"label":"★★","permalink":"/tags/★★","count":5},{"label":"樂團經營","permalink":"/tags/樂團經營","count":7},{"label":"★★★","permalink":"/tags/★★★","count":15},{"label":"★★★★","permalink":"/tags/★★★★","count":17},{"label":"音階","permalink":"/tags/音階","count":11},{"label":"音程","permalink":"/tags/音程","count":10},{"label":"和弦","permalink":"/tags/和弦","count":8},{"label":"★","permalink":"/tags/★","count":19},{"label":"聊天","permalink":"/tags/聊天","count":20},{"label":"echo","permalink":"/tags/echo","count":1},{"label":"delay","permalink":"/tags/delay","count":1},{"label":"reverb","permalink":"/tags/reverb","count":1},{"label":"IRs","permalink":"/tags/i-rs","count":1},{"label":"Overtone","permalink":"/tags/overtone","count":1},{"label":"Basetone","permalink":"/tags/basetone","count":1},{"label":"Musical Tone","permalink":"/tags/musical-tone","count":1},{"label":"聽音樂","permalink":"/tags/聽音樂","count":9},{"label":"練習","permalink":"/tags/練習","count":1},{"label":"數學","permalink":"/tags/數學","count":1},{"label":"Final Fantasy","permalink":"/tags/final-fantasy","count":2},{"label":"吉他","permalink":"/tags/吉他","count":11},{"label":"私房歌","permalink":"/tags/私房歌","count":8},{"label":"音感","permalink":"/tags/音感","count":1},{"label":"唱名","permalink":"/tags/唱名","count":1},{"label":"How-to","permalink":"/tags/how-to","count":5},{"label":"刻意練習","permalink":"/tags/刻意練習","count":4},{"label":"五聲音階","permalink":"/tags/五聲音階","count":1},{"label":"★★★★★","permalink":"/tags/★★★★★","count":6},{"label":"Chord Voicing","permalink":"/tags/chord-voicing","count":1},{"label":"原子習慣","permalink":"/tags/原子習慣","count":2},{"label":"Arpeggios","permalink":"/tags/arpeggios","count":3},{"label":"音樂製作","permalink":"/tags/音樂製作","count":2},{"label":"MIDI鍵盤","permalink":"/tags/midi鍵盤","count":1},{"label":"DAW","permalink":"/tags/daw","count":3},{"label":"MIDI","permalink":"/tags/midi","count":3},{"label":"MOTU","permalink":"/tags/motu","count":1},{"label":"MacOS","permalink":"/tags/mac-os","count":1},{"label":"MSB","permalink":"/tags/msb","count":1},{"label":"LSB","permalink":"/tags/lsb","count":1},{"label":"MotifXS8","permalink":"/tags/motif-xs-8","count":1},{"label":"Sound Module","permalink":"/tags/sound-module","count":1},{"label":"Jack Thammarat","permalink":"/tags/jack-thammarat","count":2},{"label":"Zelda","permalink":"/tags/zelda","count":1},{"label":"樂理","permalink":"/tags/樂理","count":10},{"label":"和聲","permalink":"/tags/和聲","count":3},{"label":"Dominant","permalink":"/tags/dominant","count":2},{"label":"Polychord","permalink":"/tags/polychord","count":1},{"label":"Bichord","permalink":"/tags/bichord","count":1},{"label":"Suspended","permalink":"/tags/suspended","count":1},{"label":"Open Voicing","permalink":"/tags/open-voicing","count":1},{"label":"Closed Voicing","permalink":"/tags/closed-voicing","count":1},{"label":"本質","permalink":"/tags/本質","count":1},{"label":"Interval","permalink":"/tags/interval","count":2},{"label":"Harmony","permalink":"/tags/harmony","count":1},{"label":"Tritone","permalink":"/tags/tritone","count":1},{"label":"調式","permalink":"/tags/調式","count":5},{"label":"Modal Interchange","permalink":"/tags/modal-interchange","count":1},{"label":"Substitute Chord","permalink":"/tags/substitute-chord","count":1},{"label":"Secondary Dominant","permalink":"/tags/secondary-dominant","count":2},{"label":"Passing Tone","permalink":"/tags/passing-tone","count":1},{"label":"Augmented","permalink":"/tags/augmented","count":1},{"label":"Diminished","permalink":"/tags/diminished","count":1},{"label":"Shell Chord","permalink":"/tags/shell-chord","count":1},{"label":"Guide Tone\\"","permalink":"/tags/guide-tone","count":1},{"label":"Comping","permalink":"/tags/comping","count":1},{"label":"Tritone Substitute","permalink":"/tags/tritone-substitute","count":1}]}');
+module.exports = /*#__PURE__*/JSON.parse('{"tags":[{"label":"★★","permalink":"/tags/★★","count":5},{"label":"樂團經營","permalink":"/tags/樂團經營","count":7},{"label":"★★★","permalink":"/tags/★★★","count":17},{"label":"★★★★","permalink":"/tags/★★★★","count":19},{"label":"音階","permalink":"/tags/音階","count":11},{"label":"音程","permalink":"/tags/音程","count":10},{"label":"和弦","permalink":"/tags/和弦","count":9},{"label":"★","permalink":"/tags/★","count":19},{"label":"聊天","permalink":"/tags/聊天","count":20},{"label":"聽音樂","permalink":"/tags/聽音樂","count":9},{"label":"練習","permalink":"/tags/練習","count":1},{"label":"數學","permalink":"/tags/數學","count":1},{"label":"Final Fantasy","permalink":"/tags/final-fantasy","count":2},{"label":"吉他","permalink":"/tags/吉他","count":11},{"label":"私房歌","permalink":"/tags/私房歌","count":8},{"label":"音感","permalink":"/tags/音感","count":1},{"label":"How-to","permalink":"/tags/how-to","count":5},{"label":"刻意練習","permalink":"/tags/刻意練習","count":4},{"label":"五聲音階","permalink":"/tags/五聲音階","count":1},{"label":"★★★★★","permalink":"/tags/★★★★★","count":6},{"label":"Chord Voicing","permalink":"/tags/chord-voicing","count":1},{"label":"原子習慣","permalink":"/tags/原子習慣","count":2},{"label":"Arpeggios","permalink":"/tags/arpeggios","count":3},{"label":"音樂製作","permalink":"/tags/音樂製作","count":5},{"label":"聲學","permalink":"/tags/聲學","count":1},{"label":"取樣","permalink":"/tags/取樣","count":1},{"label":"泛音","permalink":"/tags/泛音","count":1},{"label":"共鳴","permalink":"/tags/共鳴","count":1},{"label":"MIDI鍵盤","permalink":"/tags/midi鍵盤","count":1},{"label":"DAW","permalink":"/tags/daw","count":3},{"label":"MIDI","permalink":"/tags/midi","count":3},{"label":"echo","permalink":"/tags/echo","count":1},{"label":"delay","permalink":"/tags/delay","count":1},{"label":"reverb","permalink":"/tags/reverb","count":1},{"label":"IRs","permalink":"/tags/i-rs","count":1},{"label":"Overtone","permalink":"/tags/overtone","count":1},{"label":"Basetone","permalink":"/tags/basetone","count":1},{"label":"Musical Tone","permalink":"/tags/musical-tone","count":1},{"label":"MOTU","permalink":"/tags/motu","count":1},{"label":"MacOS","permalink":"/tags/mac-os","count":1},{"label":"編曲","permalink":"/tags/編曲","count":1},{"label":"Pad","permalink":"/tags/pad","count":1},{"label":"襯底","permalink":"/tags/襯底","count":1},{"label":"弦樂","permalink":"/tags/弦樂","count":1},{"label":"錄音","permalink":"/tags/錄音","count":1},{"label":"鼓","permalink":"/tags/鼓","count":1},{"label":"混音","permalink":"/tags/混音","count":1},{"label":"MSB","permalink":"/tags/msb","count":1},{"label":"LSB","permalink":"/tags/lsb","count":1},{"label":"MotifXS8","permalink":"/tags/motif-xs-8","count":1},{"label":"Sound Module","permalink":"/tags/sound-module","count":1},{"label":"Jack Thammarat","permalink":"/tags/jack-thammarat","count":2},{"label":"Zelda","permalink":"/tags/zelda","count":1},{"label":"樂理","permalink":"/tags/樂理","count":11},{"label":"和聲","permalink":"/tags/和聲","count":3},{"label":"Dominant","permalink":"/tags/dominant","count":2},{"label":"Polychord","permalink":"/tags/polychord","count":1},{"label":"Bichord","permalink":"/tags/bichord","count":1},{"label":"Suspended","permalink":"/tags/suspended","count":1},{"label":"Open Voicing","permalink":"/tags/open-voicing","count":1},{"label":"Closed Voicing","permalink":"/tags/closed-voicing","count":1},{"label":"本質","permalink":"/tags/本質","count":1},{"label":"Interval","permalink":"/tags/interval","count":2},{"label":"Harmony","permalink":"/tags/harmony","count":1},{"label":"Tritone","permalink":"/tags/tritone","count":1},{"label":"調式","permalink":"/tags/調式","count":5},{"label":"Modal Interchange","permalink":"/tags/modal-interchange","count":1},{"label":"Substitute Chord","permalink":"/tags/substitute-chord","count":1},{"label":"Secondary Dominant","permalink":"/tags/secondary-dominant","count":2},{"label":"唱名","permalink":"/tags/唱名","count":1},{"label":"Passing Tone","permalink":"/tags/passing-tone","count":1},{"label":"Augmented","permalink":"/tags/augmented","count":1},{"label":"Diminished","permalink":"/tags/diminished","count":1},{"label":"Shell Chord","permalink":"/tags/shell-chord","count":1},{"label":"Guide Tone\\"","permalink":"/tags/guide-tone","count":1},{"label":"Comping","permalink":"/tags/comping","count":1},{"label":"Tritone Substitute","permalink":"/tags/tritone-substitute","count":1},{"label":"Chord Substitution","permalink":"/tags/chord-substitution","count":1},{"label":"ii-V-I","permalink":"/tags/ii-v-i","count":1},{"label":"Cadence","permalink":"/tags/cadence","count":1},{"label":"五度圈","permalink":"/tags/五度圈","count":1}]}');
 
 /***/ },
 
@@ -5208,6 +5208,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/just-getting-started/ind
 
 /***/ },
 
+/***/ 9138
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Chord Substitution","permalink":"/tags/chord-substitution","allTagsPath":"/tags","count":1,"items":[{"id":"theory/tsd-chord-substitution","title":"TSD 和聲代換","description":"調性的順階和弦中，主和弦、下屬和弦、屬和弦各有其聲響特性。了解 TSD 代換原理，可以讓和弦進行更加豐富。\\n","permalink":"/theory/tsd-chord-substitution"}],"unlisted":false}}');
+
+/***/ },
+
 /***/ 9159
 (module) {
 
@@ -5734,7 +5742,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"練習","permalink":"
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/guitar-fundation-technical/index","title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","source":"@site/docs/guitar/guitar-fundation-technical/index.md","sourceDirName":"guitar/guitar-fundation-technical","slug":"/guitar/guitar-fundation-technical/","permalink":"/guitar/guitar-fundation-technical/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"吉他","permalink":"/tags/吉他"},{"inline":true,"label":"How-to","permalink":"/tags/how-to"}],"version":"current","frontMatter":{"title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","date":"2009-08-16T00:00:00.000Z","tags":["★★★","吉他","How-to"]},"sidebar":"tutorialSidebar","previous":{"title":"吉他的和弦聲位基本概念 (Chord Voicing)","permalink":"/guitar/guitar-chord-voicing/"},"next":{"title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","permalink":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/guitar-fundation-technical/index","title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","source":"@site/docs/guitar/guitar-fundation-technical/index.md","sourceDirName":"guitar/guitar-fundation-technical","slug":"/guitar/guitar-fundation-technical/","permalink":"/guitar/guitar-fundation-technical/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"吉他","permalink":"/tags/吉他"},{"inline":true,"label":"How-to","permalink":"/tags/how-to"}],"version":"current","frontMatter":{"title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","date":"2009-08-16T00:00:00.000Z","tags":["★★★","吉他","How-to"]},"sidebar":"tutorialSidebar","previous":{"title":"吉他的和弦聲位基本概念","permalink":"/guitar/guitar-chord-voicing/"},"next":{"title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","permalink":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/"}}');
 
 /***/ },
 
@@ -7526,6 +7534,363 @@ module.exports = {
 
 /***/ },
 
+/***/ 14046
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   assets: () => (/* binding */ assets),
+/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
+/* harmony export */   "default": () => (/* binding */ MDXContent),
+/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
+/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_production_pad_basics_md_26e_json__WEBPACK_IMPORTED_MODULE_0__),
+/* harmony export */   toc: () => (/* binding */ toc)
+/* harmony export */ });
+/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_production_pad_basics_md_26e_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(80311);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(74848);
+/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(28453);
+
+
+const frontMatter = {
+	title: '襯底 PAD 的基本概念',
+	description: '襯底 (Pad) 是音樂裡製造流動感、呼吸感的長音元素。了解 Pad 的類型與編曲技巧，可以讓音樂更有層次與氛圍。\n',
+	date: new Date('2007-06-21T00:00:00.000Z'),
+	tags: [
+		'★★★★',
+		'音樂製作',
+		'編曲',
+		'Pad',
+		'襯底',
+		'弦樂'
+	]
+};
+const contentTitle = undefined;
+
+const assets = {
+
+};
+
+
+
+const toc = [{
+  "value": "Pad 的層次分配",
+  "id": "pad-的層次分配",
+  "level": 2
+}, {
+  "value": "Pad 音色常用的種類",
+  "id": "pad-音色常用的種類",
+  "level": 2
+}, {
+  "value": "Traditional（傳統樂器、原音音色）",
+  "id": "traditional傳統樂器原音音色",
+  "level": 3
+}, {
+  "value": "Orchestra（管弦樂團編制）",
+  "id": "orchestra管弦樂團編制",
+  "level": 3
+}, {
+  "value": "Soft Pad",
+  "id": "soft-pad",
+  "level": 3
+}, {
+  "value": "Bright Pad",
+  "id": "bright-pad",
+  "level": 3
+}, {
+  "value": "Synth",
+  "id": "synth",
+  "level": 3
+}, {
+  "value": "Effect Pad（Vox、FX、Loop）",
+  "id": "effect-padvoxfxloop",
+  "level": 3
+}, {
+  "value": "Pad 編曲時的使用技巧",
+  "id": "pad-編曲時的使用技巧",
+  "level": 2
+}, {
+  "value": "建立層次感",
+  "id": "建立層次感",
+  "level": 3
+}, {
+  "value": "流動、呼吸感",
+  "id": "流動呼吸感",
+  "level": 3
+}, {
+  "value": "弦樂技巧",
+  "id": "弦樂技巧",
+  "level": 3
+}, {
+  "value": "其他",
+  "id": "其他",
+  "level": 3
+}, {
+  "value": "樂團 Pad 的使用",
+  "id": "樂團-pad-的使用",
+  "level": 2
+}, {
+  "value": "鍵盤手",
+  "id": "鍵盤手",
+  "level": 3
+}, {
+  "value": "吉他手",
+  "id": "吉他手",
+  "level": 3
+}, {
+  "value": "鼓手",
+  "id": "鼓手",
+  "level": 3
+}, {
+  "value": "現場演出重點",
+  "id": "現場演出重點",
+  "level": 3
+}, {
+  "value": "更新紀錄",
+  "id": "更新紀錄",
+  "level": 2
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h2: "h2",
+    h3: "h3",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    table: "table",
+    tbody: "tbody",
+    td: "td",
+    th: "th",
+    thead: "thead",
+    tr: "tr",
+    ul: "ul",
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "襯底 (Pad) 大部分指的是音樂裡的一些長音、流動的聲音。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "主要的功能就是製造出音樂的呼吸、流動感，和構成音樂的面，讓聆聽者可以進入一種氛圍、氣氛之中。通常襯底會出現在慢歌或者情緒轉折處，或者點不多的音樂中。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "襯底通常是一個和弦長音背景，最常見的就是用弦樂，或者合成樂器。另外一種就是用具有戲劇效果的「音效」作襯底，例如自然音樂裡常常出現的蟲鳴鳥叫聲、流水聲。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "pad-的層次分配",
+      children: "Pad 的層次分配"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "在編曲時，可以將襯底分成幾個部份："
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.table, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.thead, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "類型"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "功能"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "Pan 位置"
+          })]
+        })
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tbody, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+              children: "High Pad"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "高音，讓 pad 更有空間感。可使用和弦外音、Tension note 等製造緊張的音程"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "L / R"
+          })]
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+              children: "Middle Pad"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "定義和弦，如果已經有 Low Pad，可以省略和弦根音、五度音。三度音、七度音不可省略"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "L / R（可多個）"
+          })]
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+              children: "Low Pad"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "定義低音"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Center"
+          })]
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+              children: "Bass"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "比 Low pad 低一個八度"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Center"
+          })]
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+              children: "FX Pad"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "效果襯底，各種合成音色、取樣音效等"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "L / R"
+          })]
+        })]
+      })]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "pad-音色常用的種類",
+      children: "Pad 音色常用的種類"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "traditional傳統樂器原音音色",
+      children: "Traditional（傳統樂器、原音音色）"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "Organ、E-Piano、Acoustic Guitar、String、Wind 等。音樂聽起來比較傳統、古典、一般。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "orchestra管弦樂團編制",
+      children: "Orchestra（管弦樂團編制）"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "音樂聽起來華麗、磅礡。不過編管弦樂團該具備的知識是要有的。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "soft-pad",
+      children: "Soft Pad"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "比較沈澱、安定、安靜。聽起來有安定的感覺。通常 New Age 的音樂使用的最多。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "bright-pad",
+      children: "Bright Pad"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "比較亮的襯底。感覺是亮麗、愉悅的。New Age 也用的很多。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "synth",
+      children: "Synth"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "現代感、新、科技、時尚感。90 年代的音樂常用。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "effect-padvoxfxloop",
+      children: "Effect Pad（Vox、FX、Loop）"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "特效、效果、音效等。營造特殊氣氛、環境 ... 電影配樂常用。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "pad-編曲時的使用技巧",
+      children: "Pad 編曲時的使用技巧"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "建立層次感",
+      children: "建立層次感"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "注意出現的依序"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "同類型的 Pad 可使用多個，每個分別用在不同的音程上"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "調整不同的 Pan 跟 Volume，建立層次感"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "流動呼吸感",
+      children: "流動、呼吸感"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: ["使用 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+          children: "CC#07"
+        }), " 或 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+          children: "CC#11"
+        }), " 製造流動、呼吸感"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "注意音與音之間的連續性 (Legato)、流動感 (Flow)、呼吸 (Breath)"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "弦樂技巧",
+      children: "弦樂技巧"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "如果使用 Strings 的音色 (GM 49, 50)，中間可以再疊一把小提琴。弦樂整體感覺會更厚實、更真實"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "High String"
+        }), "：經常使用 Counterpoint（對位法）、Harmony（和聲）編"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "其他",
+      children: "其他"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "搭配 Loop 使用，穿插適當的 Percussion"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "樂團-pad-的使用",
+      children: "樂團 Pad 的使用"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "鍵盤手",
+      children: "鍵盤手"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "最常負責 Pad 的是鍵盤手，Full Strings 是最常用的。Piano 跟 String、Vox、Soft pad 都是經常看到的組合。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "伴奏時"
+        }), "：使用 Piano + String 以 7:3 的音量比例彈奏。同時演奏時注意 Sustain 的使用時機，避免 String 過多糊成一團"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "Solo 時"
+        }), "：視歌曲狀況，Piano + String 可以是 7:3 或 5:5 或 3:7"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "吉他手",
+      children: "吉他手"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "若要幫忙彈 Pad，一般就是 Clean + Chorus + Delay，注意 Pick 彈奏角度。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "鼓手",
+      children: "鼓手"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "用輪鼓製造出面的感覺。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "現場演出重點",
+      children: "現場演出重點"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "現場樂團彈奏慢歌的成敗：主唱本身的 fu，再來就是 Pad 的控制。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "更新紀錄",
+      children: "更新紀錄"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: ["原文網址：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "https://rickmidi.blogspot.com/2007/06/pad.html",
+          children: "https://rickmidi.blogspot.com/2007/06/pad.html"
+        })]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "2007/06/21：初版"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "2026/02/01：搬移新站"
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
+    ...props,
+    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
+
+/***/ },
+
 /***/ 14093
 (module) {
 
@@ -7913,6 +8278,14 @@ const sortedVersions=[...data.versions].sort((a,b)=>{if(a.path===b.path){return 
 
 /***/ },
 
+/***/ 14752
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"混音","permalink":"/tags/混音","allTagsPath":"/tags","count":1,"items":[{"id":"production/recording-drums-basics","title":"錄鼓的一些基本概念","description":"鼓的錄音是音樂製作中的一項大工程，需要具備基礎知識、技術與設備。本文整理錄鼓所需的認知與注意事項。\\n","permalink":"/production/recording-drums-basics"}],"unlisted":false}}');
+
+/***/ },
+
 /***/ 14964
 (module) {
 
@@ -7994,7 +8367,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"刻意練習","permal
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/secondary-dominat/index","title":"次屬和弦 (Secondary Dominant)","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","source":"@site/docs/theory/secondary-dominat/index.md","sourceDirName":"theory/secondary-dominat","slug":"/theory/secondary-dominat/","permalink":"/theory/secondary-dominat/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★★","permalink":"/tags/★★★★★"},{"inline":true,"label":"樂理","permalink":"/tags/樂理"},{"inline":true,"label":"和弦","permalink":"/tags/和弦"},{"inline":true,"label":"和聲","permalink":"/tags/和聲"},{"inline":true,"label":"Secondary Dominant","permalink":"/tags/secondary-dominant"}],"version":"current","frontMatter":{"title":"次屬和弦 (Secondary Dominant)","linkTitle":"次屬和弦","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","date":"2009-04-01T00:00:00.000Z","tags":["★★★★★","樂理","和弦","和聲","Secondary Dominant"],"weight":30},"sidebar":"tutorialSidebar","previous":{"title":"關係和弦？","permalink":"/theory/relation-chord"},"next":{"title":"掛留和弦 (Suspended Chord)","permalink":"/theory/suspended-chord"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/secondary-dominat/index","title":"次屬和弦 (Secondary Dominant)","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","source":"@site/docs/theory/secondary-dominat/index.md","sourceDirName":"theory/secondary-dominat","slug":"/theory/secondary-dominat/","permalink":"/theory/secondary-dominat/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★★","permalink":"/tags/★★★★★"},{"inline":true,"label":"樂理","permalink":"/tags/樂理"},{"inline":true,"label":"和弦","permalink":"/tags/和弦"},{"inline":true,"label":"和聲","permalink":"/tags/和聲"},{"inline":true,"label":"Secondary Dominant","permalink":"/tags/secondary-dominant"}],"version":"current","frontMatter":{"title":"次屬和弦 (Secondary Dominant)","linkTitle":"次屬和弦","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","date":"2009-04-01T00:00:00.000Z","tags":["★★★★★","樂理","和弦","和聲","Secondary Dominant"],"weight":30},"sidebar":"tutorialSidebar","previous":{"title":"關係和弦？","permalink":"/theory/relation-chord"},"next":{"title":"關於半音階的唱名","permalink":"/theory/semi-tone-of-solfege"}}');
 
 /***/ },
 
@@ -8560,19 +8933,11 @@ webpackContext.id = 18692;
 
 /***/ },
 
-/***/ 18736
-(module) {
-
-"use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/semi-tone-of-solfege","title":"關於半音階的唱名","description":"唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\\n","source":"@site/docs/gossip/semi-tone-of-solfege.md","sourceDirName":"gossip","slug":"/gossip/semi-tone-of-solfege","permalink":"/gossip/semi-tone-of-solfege","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"唱名","permalink":"/tags/唱名"}],"version":"current","frontMatter":{"title":"關於半音階的唱名","description":"唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\\n","date":"2008-08-07T00:00:00.000Z","tags":["★★★","唱名"]},"sidebar":"tutorialSidebar","previous":{"title":"相對、絕對音感","permalink":"/gossip/relative-absolute"},"next":{"title":"簡單、複雜","permalink":"/gossip/simple-complex"}}');
-
-/***/ },
-
 /***/ 19072
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"樂團經營","description":"樂團經營的心得.","slug":"/category/樂團經營","permalink":"/category/樂團經營","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"三全音","permalink":"/theory/tritone"},"next":{"title":"關於寫譜","permalink":"/band/about-score/"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"樂團經營","description":"樂團經營的心得.","slug":"/category/樂團經營","permalink":"/category/樂團經營","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"TSD 和聲代換","permalink":"/theory/tsd-chord-substitution"},"next":{"title":"關於寫譜","permalink":"/band/about-score/"}}}}');
 
 /***/ },
 
@@ -8911,6 +9276,14 @@ function MDXContent(props = {}) {
 
 }(Prism));
 
+
+/***/ },
+
+/***/ 19872
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"泛音","permalink":"/tags/泛音","allTagsPath":"/tags","count":1,"items":[{"id":"production/basic-acoustics-and-digital-music-production","title":"基礎聲學與數位音樂製作","description":"對於 \\"聲音\\" 的物理現象，很多物理學、音響或 PA 相關的書都會提到一些基本概念，這些概念對於音樂製作上，尤其要做出比較有豐富聲響的音樂，基礎的聲音理論更是要有相當的瞭解。\\n","permalink":"/production/basic-acoustics-and-digital-music-production"}],"unlisted":false}}');
 
 /***/ },
 
@@ -10659,6 +11032,14 @@ function renderRoutes(routes, extraProps, switchProps) {
 
 /***/ },
 
+/***/ 22915
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"弦樂","permalink":"/tags/弦樂","allTagsPath":"/tags","count":1,"items":[{"id":"production/pad-basics","title":"襯底 PAD 的基本概念","description":"襯底 (Pad) 是音樂裡製造流動感、呼吸感的長音元素。了解 Pad 的類型與編曲技巧，可以讓音樂更有層次與氛圍。\\n","permalink":"/production/pad-basics"}],"unlisted":false}}');
+
+/***/ },
+
 /***/ 23025
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -10760,7 +11141,7 @@ const supportsNativeSmoothScrolling=isBrowser&&getComputedStyle(document.documen
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"echo","permalink":"/tags/echo","allTagsPath":"/tags","count":1,"items":[{"id":"gossip/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/gossip/echo-delay-reverb"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"echo","permalink":"/tags/echo","allTagsPath":"/tags","count":1,"items":[{"id":"production/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/production/echo-delay-reverb"}],"unlisted":false}}');
 
 /***/ },
 
@@ -10918,11 +11299,19 @@ const alt=logo?.alt??fallbackAlt;return/*#__PURE__*/(0,react_jsx_runtime__WEBPAC
 
 /***/ },
 
+/***/ 23839
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"ii-V-I","permalink":"/tags/ii-v-i","allTagsPath":"/tags","count":1,"items":[{"id":"theory/tsd-chord-substitution","title":"TSD 和聲代換","description":"調性的順階和弦中，主和弦、下屬和弦、屬和弦各有其聲響特性。了解 TSD 代換原理，可以讓和弦進行更加豐富。\\n","permalink":"/theory/tsd-chord-substitution"}],"unlisted":false}}');
+
+/***/ },
+
 /***/ 23842
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/suspended-chord","title":"掛留和弦 (Suspended Chord)","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","source":"@site/docs/theory/suspended-chord.md","sourceDirName":"theory","slug":"/theory/suspended-chord","permalink":"/theory/suspended-chord","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"樂理","permalink":"/tags/樂理"},{"inline":true,"label":"和弦","permalink":"/tags/和弦"}],"version":"current","frontMatter":{"title":"掛留和弦 (Suspended Chord)","linkTitle":"掛留和弦","date":"2009-06-27T00:00:00.000Z","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","tags":["★★★","樂理","和弦"],"weight":22},"sidebar":"tutorialSidebar","previous":{"title":"次屬和弦 (Secondary Dominant)","permalink":"/theory/secondary-dominat/"},"next":{"title":"調式學習的思考","permalink":"/theory/thinkin-mode"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/suspended-chord","title":"掛留和弦 (Suspended Chord)","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","source":"@site/docs/theory/suspended-chord.md","sourceDirName":"theory","slug":"/theory/suspended-chord","permalink":"/theory/suspended-chord","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"樂理","permalink":"/tags/樂理"},{"inline":true,"label":"和弦","permalink":"/tags/和弦"}],"version":"current","frontMatter":{"title":"掛留和弦 (Suspended Chord)","linkTitle":"掛留和弦","date":"2009-06-27T00:00:00.000Z","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","tags":["★★★","樂理","和弦"],"weight":22},"sidebar":"tutorialSidebar","previous":{"title":"關於半音階的唱名","permalink":"/theory/semi-tone-of-solfege"},"next":{"title":"調式學習的思考","permalink":"/theory/thinkin-mode"}}');
 
 /***/ },
 
@@ -11947,8 +12336,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const frontMatter = {
-	title: '吉他的和弦聲位基本概念 (Chord Voicing)',
-	linkTitle: '吉他的和弦聲位基本概念',
+	title: '吉他的和弦聲位基本概念',
 	description: '摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。',
 	date: new Date('2010-04-17T00:00:00.000Z'),
 	tags: [
@@ -12551,7 +12939,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/minor-scale/index","titl
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/simple-complex","title":"簡單、複雜","description":"聊聊我個人對於現實與理想、簡單與複雜之間差距的心得與體悟。\\n","source":"@site/docs/gossip/simple-complex.md","sourceDirName":"gossip","slug":"/gossip/simple-complex","permalink":"/gossip/simple-complex","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"}],"version":"current","frontMatter":{"title":"簡單、複雜","date":"2015-01-10T00:00:00.000Z","description":"聊聊我個人對於現實與理想、簡單與複雜之間差距的心得與體悟。\\n","tags":["★","聊天"]},"sidebar":"tutorialSidebar","previous":{"title":"關於半音階的唱名","permalink":"/gossip/semi-tone-of-solfege"},"next":{"title":"關於速度","permalink":"/gossip/speed"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/simple-complex","title":"簡單、複雜","description":"聊聊我個人對於現實與理想、簡單與複雜之間差距的心得與體悟。\\n","source":"@site/docs/gossip/simple-complex.md","sourceDirName":"gossip","slug":"/gossip/simple-complex","permalink":"/gossip/simple-complex","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"}],"version":"current","frontMatter":{"title":"簡單、複雜","date":"2015-01-10T00:00:00.000Z","description":"聊聊我個人對於現實與理想、簡單與複雜之間差距的心得與體悟。\\n","tags":["★","聊天"]},"sidebar":"tutorialSidebar","previous":{"title":"相對、絕對音感","permalink":"/gossip/relative-absolute"},"next":{"title":"關於速度","permalink":"/gossip/speed"}}');
 
 /***/ },
 
@@ -13755,6 +14143,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/guthrie-govan-live-2015"
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/xtl_mark-2744f2252a9161a5f5cd4a11a4079e12.png");
+
+/***/ },
+
+/***/ 30966
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/tsd-chord-substitution","title":"TSD 和聲代換","description":"調性的順階和弦中，主和弦、下屬和弦、屬和弦各有其聲響特性。了解 TSD 代換原理，可以讓和弦進行更加豐富。\\n","source":"@site/docs/theory/tsd-chord-substitution.md","sourceDirName":"theory","slug":"/theory/tsd-chord-substitution","permalink":"/theory/tsd-chord-substitution","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"樂理","permalink":"/tags/樂理"},{"inline":true,"label":"和弦","permalink":"/tags/和弦"},{"inline":true,"label":"Chord Substitution","permalink":"/tags/chord-substitution"},{"inline":true,"label":"ii-V-I","permalink":"/tags/ii-v-i"},{"inline":true,"label":"Cadence","permalink":"/tags/cadence"},{"inline":true,"label":"五度圈","permalink":"/tags/五度圈"}],"version":"current","frontMatter":{"title":"TSD 和聲代換","description":"調性的順階和弦中，主和弦、下屬和弦、屬和弦各有其聲響特性。了解 TSD 代換原理，可以讓和弦進行更加豐富。\\n","date":"2007-11-15T00:00:00.000Z","tags":["★★★★","樂理","和弦","Chord Substitution","ii-V-I","Cadence","五度圈"]},"sidebar":"tutorialSidebar","previous":{"title":"三全音","permalink":"/theory/tritone"},"next":{"title":"樂團經營","permalink":"/category/樂團經營"}}');
 
 /***/ },
 
@@ -16742,7 +17138,442 @@ function resolvePathname(to, from) {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Overtone","permalink":"/tags/overtone","allTagsPath":"/tags","count":1,"items":[{"id":"gossip/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/gossip/echo-delay-reverb"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Overtone","permalink":"/tags/overtone","allTagsPath":"/tags","count":1,"items":[{"id":"production/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/production/echo-delay-reverb"}],"unlisted":false}}');
+
+/***/ },
+
+/***/ 34612
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   assets: () => (/* binding */ assets),
+/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
+/* harmony export */   "default": () => (/* binding */ MDXContent),
+/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
+/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_theory_semi_tone_of_solfege_md_0bb_json__WEBPACK_IMPORTED_MODULE_0__),
+/* harmony export */   toc: () => (/* binding */ toc)
+/* harmony export */ });
+/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_theory_semi_tone_of_solfege_md_0bb_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(78390);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(74848);
+/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(28453);
+
+
+const frontMatter = {
+	title: '關於半音階的唱名',
+	description: '唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\n',
+	date: new Date('2008-08-07T00:00:00.000Z'),
+	tags: [
+		'★★★',
+		'唱名'
+	]
+};
+const contentTitle = undefined;
+
+const assets = {
+
+};
+
+
+
+const toc = [{
+  "value": "半音唱名",
+  "id": "半音唱名",
+  "level": 2
+}, {
+  "value": "音名與唱名",
+  "id": "音名與唱名",
+  "level": 2
+}, {
+  "value": "結論",
+  "id": "結論",
+  "level": 2
+}, {
+  "value": "延伸閱讀",
+  "id": "延伸閱讀",
+  "level": 2
+}, {
+  "value": "站內資料",
+  "id": "站內資料",
+  "level": 3
+}, {
+  "value": "參考資料",
+  "id": "參考資料",
+  "level": 3
+}, {
+  "value": "更新紀錄",
+  "id": "更新紀錄",
+  "level": 2
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    br: "br",
+    code: "code",
+    h2: "h2",
+    h3: "h3",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    table: "table",
+    tbody: "tbody",
+    td: "td",
+    th: "th",
+    thead: "thead",
+    tr: "tr",
+    ul: "ul",
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "關於音階唱名 (特別是半音階) 我用首調唱名法來說明相關的應用概念."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "半音唱名",
+      children: "半音唱名"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["首調唱名主要以 \"自然大調音階\" 的音程關係為基礎，也就是 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "1 2 3 4 5 6 7 1"
+      }), " 表示了大調的音程關係: ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "全全半全全全半"
+      }), "。簡譜數字 (1~7) 常常會跟唱名 Do、Re、Mi ⋯⋯ 互通使用，分別表示寫法跟讀法。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "但是當唱到降音記號 (b) 的時候，會將母音改唱成 'e' 的音; 唱到升音記號 (#) 的時候，將母音改唱成 'i' 的音。如下："
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.table, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.thead, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "音階唱名"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "1"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "2"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "3"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "4"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "5"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "6"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "7"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "8"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "9"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "10"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "11"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "12"
+          })]
+        })
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tbody, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "上行半音"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "1"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+              children: "#1"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "2"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "#2"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "3"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "4"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "#4"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "5"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "#5"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "6"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "#6"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "7"
+          })]
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "上行唱名"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Do"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+              children: "Di"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Re"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+              children: "Ri"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Mi"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Fa"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+              children: "Fi"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Sol"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+              children: "Si"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "La"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+              children: "Li"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Ti"
+          })]
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "下行半音"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "1"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "7"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "b7"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "6"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "b6"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "5"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "b5"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "4"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "3"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "b3"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "2"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "b2"
+          })]
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "下行唱名"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Do"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Ti"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Te"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "La"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Le"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Sol"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Se"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Fa"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Mi"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Me"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Re"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Ra"
+          })]
+        })]
+      })]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["要注意的是，以往 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Ti (7)"
+      }), " 的發音大部分都是發 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "注音符號 (ㄒ，Si)"
+      }), " 的音，但是如果要配合上下行半音的唱名，因為會和 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "#5 => Si"
+      }), " 發音一樣，所以我們習慣將 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Ti"
+      }), " 發成字母的 '", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "T"
+      }), "' 的音。上表也可以在 Wiki 百科找到參考資料: \"Solfege\""]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "另外一個要注意的就是 b2 的發音，降音記號是把母音改成 e 的音，但是 Re 本身就已經是 e 的音了，所以 b2 就改成發 a 的音，變成 Ra."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "這種唱名的方式，是學習其他音階時的唱法，主要的還是以自然大調的音程關係做比較，也就是一般 Key Center 的唱法。利用這樣的唱法可以很容易的找到該音階的特徵音符。例如自然小調音階和唱名關係是:"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Natural Minor Scale | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "--------------------|---|---|---|---|---|---|---|------", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Interval (音程)  | 1 | 2 | b3 | 4 | 5 | b6 | b7", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Minor Scale (C 小調音階) | C | D | Eb | F | G | Ab | Bb", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "音階唱名 | Do | Re | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Me"
+      }), " | Fa | Sol | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Le"
+      }), " | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Te"
+      })]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["這樣在唱小調音階的時候，就可以很清楚明確的知道有哪些降音記號，跟自然大調到底差別在哪，憂鬱感在哪裡。如果以傳統的固定唱名 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "6 7 1 2 3 4 5 6"
+      }), " 這樣的唱法來學小調音階，會不容易知道跟大調之間的差別在哪。只會感覺好像跟大調差不多。因為並不是以 Key Center 唱，而是以關係大小調作參考。以 Key Center 唱第一個音一定為 1 開頭."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "同理，要唱出其他的調式音階，例如唱 Locrian:"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["音階 | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "--------------------|---|---|---|---|---|---|---|------", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Locrian Interval | 1 | b2 | b3 | 4 | b5 | b6 | b7", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Locrian Scale | C | Db | Eb | F | Gb | Ab | Bb", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "音階唱名 | Do | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Ra"
+      }), " | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Me"
+      }), " | Fa | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Se"
+      }), " | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Le"
+      }), " | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Te"
+      })]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["所以同樣的，也不建議用 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "7 1 2 3 4 5 6 7"
+      }), " 這種唱法，因為唱了半天，還是不知道重點在哪。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "音名與唱名",
+      children: "音名與唱名"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["這邊我描述的唱名基本上跟數字簡譜是畫上等號的。但是唱名跟音名是不等的，他們是互相參考的關係。音名是固定的，他就是在一個固定的位置不會改變，會改變的是音名跟音名之間的關係。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+        children: "C 跟 E 的關係是大三度，G 跟 C 的關係是完全四度，Ab 跟 Eb 的關係是完全五度"
+      }), "，但是 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+        children: "只有寫一個 D 是無法知道他代表什麼 \"關係\" 意思"
+      }), "。(關係很重要，特別在人的世界裡 XDD)"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["上述的例子 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+        children: "G 和 C 的關係是完全四度，音程 \"完全四度\" 則可以用唱名 4 來表示"
+      }), " 就可以了."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "音名與唱名兩者在音樂學習的過程中都是很重要的基礎概念。唱名大多用在練習 Key Center 的歌曲，只要轉調不多的歌曲，用數字都 ok。另外是表示音程關係，會和音名一起使用在和弦推算，命名等。音名是音樂符號最基本的代號名稱，任何地方都會看到他：各調音階、和弦推算、命名、琶音、音程、順階和弦 ...等。兩者經常會混用."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["以和弦來看例如 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "F#m7-9"
+      }), ":"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "音名 (F) 代表的根音位置，也可以說是代表著音階的根音 (主詞)"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "升記號 (#) 我把他看成修飾根音的部分，當他是形容詞子句好了"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "大小和弦 (Major、Minor) 則用來表示和弦的性質 (動詞)"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "數字則用在修飾和弦 (形容詞，副詞)."
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "上述只是我個人的一些聯想，大家可以各自用自己熟悉的領域去聯想這些東西，我相信都是有共通性的."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "結論",
+      children: "結論"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["有朋友一定會問，學習音樂時，是否需要學習這種唱名方式? 我覺得不見得每個人都需要，因人而異。有些人可以很快的瞭解音名，音程，音階，調性之間的關係，所以可以直接利用音名去記憶和弦，音階組成，推演各種樂理。但是有些人沒辦法一下子把 E7-9 的組成音說出來，但是卻知道他的音程關係是 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "1 3 5 b7 b9"
+      }), "。或許這樣的人可以嘗試這種唱名."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "就像是我們學英文，老外是不需要 KK 音標這種東西的。但是非英語系的我們需要藉由音標來幫助發音。而音標除了幫助記憶發音，他還可以幫助記憶單字的拼音."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "同樣的唱名，最基本的功能就是拿來唱音階用的，另外一個功能就是因為唱名的慣例是以自然大調音程為主，所以相對的，唱出音階的過程，其實也就間接唱出了音程關係了."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "和用音名不同的是，音名是絕對的名稱 (當然也可以把音名的 ABC 字母當成唱名來唱，只是遇到 F# 這種要怎麼唱? 很繞舌的 ...)，他很直接的告訴演奏者的訊息是一個絕對的位置。至於所謂的音程，音階，和弦必須由演奏者腦袋裡的資料庫自行判斷，比對，分析."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "音名和唱名就像我們的中文和注音一樣。中文字表達的是一個具象的訊息，注音只是一個音。但是同樣的一個音可能包含了好幾個字，所以注音可以說是一個抽象的符號."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+        children: "音名是一個具象的名詞，C 就是 C，nothing else，除非他跟其他的音放在一起，才會有關係，例如 C G 放在一起，才可能會有完全五度 (C->G) or 完全四度 (G->C) 的關係。"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+        children: "但是唱名就不是這樣，唱出一個 Sol 就是很清楚的告訴 Player 這是一個完全五度，但是他可能是任意調的完全五度."
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "扯了一堆，只是想讓告訴大家，音樂是很多面向的藝術，同樣的東西，可以從很多角度去思考的。終點是一樣，但是過程卻是截然不同的."
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "延伸閱讀",
+      children: "延伸閱讀"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "站內資料",
+      children: "站內資料"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "相對、絕對音感"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "固定唱名？還是首調唱名？"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "再談『首調、固定唱名』與『相對、絕對音感』"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "音階基礎"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "調式概念"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "調、調式及轉調"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "淺談 Modal Harmony (調式和聲)"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "大調音階 (Major Scale)"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "參考資料",
+      children: "參考資料"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://en.wikipedia.org/wiki/Solfege",
+          children: "Solfege"
+        }), " (Wiki)"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://www.music.vt.edu/musicdictionary/appendix/scales/solmization/syllables.html",
+          children: "Scales Syllables"
+        }), " (各國音階唱名)"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "../brain-psy13.pdf",
+          children: "音樂認知心理學"
+        }), " - 蔡振家"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "更新紀錄",
+      children: "更新紀錄"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: ["原文網址：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "https://rickmidi.blogspot.com/2008/08/blog-post.html",
+          children: "https://rickmidi.blogspot.com/2008/08/blog-post.html"
+        })]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "初版：2008/08/07"
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
+    ...props,
+    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
 
 /***/ },
 
@@ -18306,7 +19137,7 @@ module.exports = require("node:stream/consumers");
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/tritone","title":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","source":"@site/docs/theory/tritone.md","sourceDirName":"theory","slug":"/theory/tritone","permalink":"/theory/tritone","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"音程","permalink":"/tags/音程"},{"inline":true,"label":"Passing Tone","permalink":"/tags/passing-tone"},{"inline":true,"label":"Augmented","permalink":"/tags/augmented"},{"inline":true,"label":"Diminished","permalink":"/tags/diminished"},{"inline":true,"label":"Shell Chord","permalink":"/tags/shell-chord"},{"inline":true,"label":"Guide Tone\\"","permalink":"/tags/guide-tone"},{"inline":true,"label":"Comping","permalink":"/tags/comping"},{"inline":true,"label":"Tritone Substitute","permalink":"/tags/tritone-substitute"},{"inline":true,"label":"Arpeggios","permalink":"/tags/arpeggios"}],"version":"current","frontMatter":{"title":"三全音","linkTitle":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","date":"2009-02-05T00:00:00.000Z","tags":["★★★★","音程","Passing Tone","Augmented","Diminished","Shell Chord","Guide Tone\\"","Comping","Tritone Substitute","Arpeggios"],"weight":5},"sidebar":"tutorialSidebar","previous":{"title":"調、調式及轉調","permalink":"/theory/tonality-key-mode/"},"next":{"title":"樂團經營","permalink":"/category/樂團經營"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/tritone","title":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","source":"@site/docs/theory/tritone.md","sourceDirName":"theory","slug":"/theory/tritone","permalink":"/theory/tritone","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"音程","permalink":"/tags/音程"},{"inline":true,"label":"Passing Tone","permalink":"/tags/passing-tone"},{"inline":true,"label":"Augmented","permalink":"/tags/augmented"},{"inline":true,"label":"Diminished","permalink":"/tags/diminished"},{"inline":true,"label":"Shell Chord","permalink":"/tags/shell-chord"},{"inline":true,"label":"Guide Tone\\"","permalink":"/tags/guide-tone"},{"inline":true,"label":"Comping","permalink":"/tags/comping"},{"inline":true,"label":"Tritone Substitute","permalink":"/tags/tritone-substitute"},{"inline":true,"label":"Arpeggios","permalink":"/tags/arpeggios"}],"version":"current","frontMatter":{"title":"三全音","linkTitle":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","date":"2009-02-05T00:00:00.000Z","tags":["★★★★","音程","Passing Tone","Augmented","Diminished","Shell Chord","Guide Tone\\"","Comping","Tritone Substitute","Arpeggios"],"weight":5},"sidebar":"tutorialSidebar","previous":{"title":"調、調式及轉調","permalink":"/theory/tonality-key-mode/"},"next":{"title":"TSD 和聲代換","permalink":"/theory/tsd-chord-substitution"}}');
 
 /***/ },
 
@@ -18318,6 +19149,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/tritone","title":"三全
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/before-4e93d55c347cae3ca4300ec9d63c454a.png");
+
+/***/ },
+
+/***/ 38631
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"id":"production/basic-acoustics-and-digital-music-production","title":"基礎聲學與數位音樂製作","description":"對於 \\"聲音\\" 的物理現象，很多物理學、音響或 PA 相關的書都會提到一些基本概念，這些概念對於音樂製作上，尤其要做出比較有豐富聲響的音樂，基礎的聲音理論更是要有相當的瞭解。\\n","source":"@site/docs/production/basic-acoustics-and-digital-music-production.md","sourceDirName":"production","slug":"/production/basic-acoustics-and-digital-music-production","permalink":"/production/basic-acoustics-and-digital-music-production","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"音樂製作","permalink":"/tags/音樂製作"},{"inline":true,"label":"聲學","permalink":"/tags/聲學"},{"inline":true,"label":"取樣","permalink":"/tags/取樣"},{"inline":true,"label":"泛音","permalink":"/tags/泛音"},{"inline":true,"label":"共鳴","permalink":"/tags/共鳴"}],"version":"current","frontMatter":{"title":"基礎聲學與數位音樂製作","description":"對於 \\"聲音\\" 的物理現象，很多物理學、音響或 PA 相關的書都會提到一些基本概念，這些概念對於音樂製作上，尤其要做出比較有豐富聲響的音樂，基礎的聲音理論更是要有相當的瞭解。\\n","date":"2007-11-03T00:00:00.000Z","tags":["★★★","音樂製作","聲學","取樣","泛音","共鳴"]},"sidebar":"tutorialSidebar","previous":{"title":"音樂製作","permalink":"/category/音樂製作"},"next":{"title":"取樣的基本概念","permalink":"/production/basic-concepts-of-sampling"}}');
 
 /***/ },
 
@@ -18997,7 +19836,7 @@ toggleCollapsed();},children:props.children??props.label}),/*#__PURE__*/(0,react
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"IRs","permalink":"/tags/i-rs","allTagsPath":"/tags","count":1,"items":[{"id":"gossip/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/gossip/echo-delay-reverb"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"IRs","permalink":"/tags/i-rs","allTagsPath":"/tags","count":1,"items":[{"id":"production/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/production/echo-delay-reverb"}],"unlisted":false}}');
 
 /***/ },
 
@@ -19084,7 +19923,7 @@ const language=locale;return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"production/using-external-midi-devices-in-logic-pro/index","title":"Using External MIDI Devices in Logic Pro","description":"紀錄如何在 Logic Pro 使用外部音源設備。","source":"@site/docs/production/using-external-midi-devices-in-logic-pro/index.md","sourceDirName":"production/using-external-midi-devices-in-logic-pro","slug":"/production/using-external-midi-devices-in-logic-pro/","permalink":"/production/using-external-midi-devices-in-logic-pro/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"DAW","permalink":"/tags/daw"},{"inline":true,"label":"MIDI","permalink":"/tags/midi"},{"inline":true,"label":"MSB","permalink":"/tags/msb"},{"inline":true,"label":"LSB","permalink":"/tags/lsb"},{"inline":true,"label":"MotifXS8","permalink":"/tags/motif-xs-8"},{"inline":true,"label":"Sound Module","permalink":"/tags/sound-module"}],"version":"current","frontMatter":{"title":"Using External MIDI Devices in Logic Pro","weight":1,"description":"紀錄如何在 Logic Pro 使用外部音源設備。","date":"2022-05-01T00:00:00.000Z","tags":["★★★★","DAW","MIDI","MSB","LSB","MotifXS8","Sound Module"]},"sidebar":"tutorialSidebar","previous":{"title":"在 MacOS 驅動 MOTU UltraLite mk4","permalink":"/production/motu-mk4-macos/"},"next":{"title":"私房歌","permalink":"/category/私房歌"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"production/using-external-midi-devices-in-logic-pro/index","title":"Using External MIDI Devices in Logic Pro","description":"紀錄如何在 Logic Pro 使用外部音源設備。","source":"@site/docs/production/using-external-midi-devices-in-logic-pro/index.md","sourceDirName":"production/using-external-midi-devices-in-logic-pro","slug":"/production/using-external-midi-devices-in-logic-pro/","permalink":"/production/using-external-midi-devices-in-logic-pro/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"DAW","permalink":"/tags/daw"},{"inline":true,"label":"MIDI","permalink":"/tags/midi"},{"inline":true,"label":"MSB","permalink":"/tags/msb"},{"inline":true,"label":"LSB","permalink":"/tags/lsb"},{"inline":true,"label":"MotifXS8","permalink":"/tags/motif-xs-8"},{"inline":true,"label":"Sound Module","permalink":"/tags/sound-module"}],"version":"current","frontMatter":{"title":"Using External MIDI Devices in Logic Pro","weight":1,"description":"紀錄如何在 Logic Pro 使用外部音源設備。","date":"2022-05-01T00:00:00.000Z","tags":["★★★★","DAW","MIDI","MSB","LSB","MotifXS8","Sound Module"]},"sidebar":"tutorialSidebar","previous":{"title":"錄鼓的一些基本概念","permalink":"/production/recording-drums-basics"},"next":{"title":"私房歌","permalink":"/category/私房歌"}}');
 
 /***/ },
 
@@ -19383,6 +20222,344 @@ function UnlistedMetadata(){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMP
 function TOCItemTree({toc,className,linkClassName,isChild}){if(!toc.length){return null;}return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("ul",{className:isChild?undefined:className,children:toc.map(heading=>/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("li",{children:[/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)(_docusaurus_Link__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A,{to:`#${heading.id}`,className:linkClassName??undefined// Developer provided the HTML, so assume it's safe.
 ,dangerouslySetInnerHTML:{__html:heading.value}}),/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)(TOCItemTree,{isChild:true,toc:heading.children,className:className,linkClassName:linkClassName})]},heading.id))});}// Memo only the tree root is enough
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.memo(TOCItemTree));
+
+/***/ },
+
+/***/ 44344
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   assets: () => (/* binding */ assets),
+/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
+/* harmony export */   "default": () => (/* binding */ MDXContent),
+/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
+/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_production_recording_drums_basics_md_ee7_json__WEBPACK_IMPORTED_MODULE_0__),
+/* harmony export */   toc: () => (/* binding */ toc)
+/* harmony export */ });
+/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_production_recording_drums_basics_md_ee7_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(64861);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(74848);
+/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(28453);
+
+
+const frontMatter = {
+	title: '錄鼓的一些基本概念',
+	description: '鼓的錄音是音樂製作中的一項大工程，需要具備基礎知識、技術與設備。本文整理錄鼓所需的認知與注意事項。\n',
+	date: new Date('2007-12-10T00:00:00.000Z'),
+	tags: [
+		'★★★',
+		'音樂製作',
+		'錄音',
+		'鼓',
+		'混音'
+	]
+};
+const contentTitle = undefined;
+
+const assets = {
+
+};
+
+
+
+const toc = [{
+  "value": "對鼓的認識（基本知識）",
+  "id": "對鼓的認識基本知識",
+  "level": 2
+}, {
+  "value": "期望的成果（設定目標）",
+  "id": "期望的成果設定目標",
+  "level": 2
+}, {
+  "value": "錄音時必須準備的（成本問題）",
+  "id": "錄音時必須準備的成本問題",
+  "level": 2
+}, {
+  "value": "錄音時該注意些什麼（技術問題）",
+  "id": "錄音時該注意些什麼技術問題",
+  "level": 2
+}, {
+  "value": "鼓手應該有的 Skills（技術問題）",
+  "id": "鼓手應該有的-skills技術問題",
+  "level": 2
+}, {
+  "value": "穩定的 Tempo",
+  "id": "穩定的-tempo",
+  "level": 3
+}, {
+  "value": "紮實的基本功",
+  "id": "紮實的基本功",
+  "level": 3
+}, {
+  "value": "錄好後要做的事 - 混音（技術問題）",
+  "id": "錄好後要做的事---混音技術問題",
+  "level": 2
+}, {
+  "value": "結論",
+  "id": "結論",
+  "level": 2
+}, {
+  "value": "延伸閱讀",
+  "id": "延伸閱讀",
+  "level": 2
+}, {
+  "value": "站內資料",
+  "id": "站內資料",
+  "level": 3
+}, {
+  "value": "參考資料",
+  "id": "參考資料",
+  "level": 3
+}, {
+  "value": "著名的鼓音源",
+  "id": "著名的鼓音源",
+  "level": 3
+}, {
+  "value": "更新紀錄",
+  "id": "更新紀錄",
+  "level": 2
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h2: "h2",
+    h3: "h3",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "最近這幾年關於音樂製作的資訊大量在網路上流通，加上訪間相關的音樂教室開始一間一間的開，所以很多獨立製作音樂的工作室如與後春筍般出現。這是很棒的現象，表示以往很難獨立製作音樂，現在，全民都可以在家自己 DIY。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "很多人（包含我自己）都期望一首曲子，所有的東西都自己來，自己寫的詞曲、編曲、演奏、配唱、錄音、混音、後製等。但是一般來說，鍵盤、吉他、Bass … 等樂器，錄音還可以 Line-in 錄，講究一點的會去找錄音室收音。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "但是鼓就不一樣了，錄音就非得要用麥克風收音，而且必須要相當的成本、技術、觀念、經驗。除非是用電子鼓錄 MIDI 點，再用一些 BFD、Artist Drums、DFH 等高檔音源過帶，否則錄鼓，其實是一項大工程。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "對鼓的認識基本知識",
+      children: "對鼓的認識（基本知識）"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "很多自己獨立製作音樂的人，可能是玩 Keyboard、GT、Bass、或者是 Vocal 出身的，或許沒真的學過鼓，像我只學過一個月、只會用鍵盤打簡單的。不過製作啥東西都一樣，瞭解該東西的基本特性是很重要的。想要用 KB 作 GT，最少要懂得吉他的基本彈奏概念，鼓也是。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "期望的成果設定目標",
+      children: "期望的成果（設定目標）"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "品質"
+        }), "：錄音品質取決於錄音介面、麥克風收音方式、錄音環境，當然鼓手、鼓組也都是很重要的因素"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "後製彈性"
+        }), "：分軌作業、修改"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "錄音時必須準備的成本問題",
+      children: "錄音時必須準備的（成本問題）"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "收音環境"
+        }), "：殘響比率、空間大小"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "麥克風"
+        }), "：指向性、麥克風效應（串音問題）、失真率、數量（少則兩隻、多則十多隻）"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "錄音介面"
+        }), "：取樣比率、A/D、D/A 轉換、IO 數（依據分軌作業的數量而定）"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "錄音工作以及後製處理環境"
+        }), "：人事（錄音師鍾點）和後置（混音師鍾點）成本"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "監聽環境"
+        }), "：跟收音環境對比"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "錄音時該注意些什麼技術問題",
+      children: "錄音時該注意些什麼（技術問題）"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "調整鼓的音色"
+        }), "：使用適合的尺寸鼓組，調整適合曲風的音色"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "麥克風收音角度"
+        }), "：收音是否正確，大鼓會需要前後都收音。要測試看看是否串音的太嚴重"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "Compressor、Limiter、EQ 的應用"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "鼓調音"
+        }), "：調成跟歌曲的 Key 一樣。這是很講究的作法，一般鼓我們把他當成噪音樂器，換句話說，就是沒有音階的東西。但是，嚴格來說，鼓（不管是大鼓、小鼓），他還是有比較穩定的頻率，所以一些很講究的鼓手，在錄音室會作這樣的準備工作"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "鼓手應該有的-skills技術問題",
+      children: "鼓手應該有的 Skills（技術問題）"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "穩定的-tempo",
+      children: "穩定的 Tempo"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "這是最最最最基本的。一般練過團的人都知道，鼓手不一定會打很花、或者會很快的雙踏，但是拍子一定要穩。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "紮實的基本功",
+      children: "紮實的基本功"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "力度 (Velocity)"
+        }), "：每一次打的小鼓力道差不多。一個基本功紮實的鼓手，除了穩定的拍子，另外就是力道的控制。這些錄音時都會很清楚的再螢幕上秀出來。"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "律動 (Groove)"
+        }), "：跟著音樂走、不是打爽的"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "錄好後要做的事---混音技術問題",
+      children: "錄好後要做的事 - 混音（技術問題）"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "錄好的鼓都是 mono 的東西、每個音量都差不多、都是乾的 (Dry Sound)，所以接下來要做的就是混音："
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "Compressor"
+        }), "：鼓的音量落差很大，如果鼓手力度掌握的不好，可以利用 Comp 控制到適當的範圍"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "EQ"
+        }), "：調整適當的頻寬範圍，不要和其他樂器、Vocal 打架"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "Gate"
+        }), "：過濾調不必要的雜訊"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "Reverb"
+        }), "：小鼓會另外指定 Reverb。Eric Clapton 的名曲 Layla 現場最後結束時，小鼓的 Reverb 又大又深，那是現場調整的"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "Pan"
+        }), "：調整每個組件面對觀眾時的位置，還原鼓的真實位置", "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+          children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+            children: "中間：小鼓、大鼓"
+          }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+            children: "按實際鼓的擺設調整：Hi-Hat、Tom、Cymbal"
+          }), "\n"]
+        }), "\n"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "附帶一題：大型演唱會現場收音，上述的東西大部分都會具備，同時會有多組工程人員作獨立監控。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "結論",
+      children: "結論"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "如果上述的東西都不是問題，那您一定是相當有經驗的前輩，同時有相當經濟能力、或者有相當環境的人，基本上我個人覺得大可開始動工開始做了。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "如果上述的東西看不懂，那就多 Google 、多看、多作、多想、多問。"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "如果上述的東西看得懂，但是覺得也許短時間辦不到，那就用 Sampling 吧，現在的 Sampling 都做的很好，編曲者只要專注鼓的打法跟節奏的律動，另外多看看一些跟鼓有關的資料，多聽一些有 Groove 的音樂。"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "延伸閱讀",
+      children: "延伸閱讀"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "站內資料",
+      children: "站內資料"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "/docs/production/basic-acoustics-and-digital-music-production",
+          children: "基礎聲學與數位音樂製作"
+        })
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "參考資料",
+      children: "參考資料"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://www.saecollege.de/reference_material/titles/Recording_Drums.htm",
+          children: "SAE - Recording Drums"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://www.drumnet.tw/",
+          children: "鼓動福音"
+        })
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "著名的鼓音源",
+      children: "著名的鼓音源"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://www.fxpansion.com/index.php?page=3&tab=25",
+          children: "BFD Deluxe Collection"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://www.toontrack.com/ezdrummer.asp",
+          children: "DFH EZDrummer"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://www.xlnaudio.com/",
+          children: "XLN Audio Addictive Drums"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://www.native-instruments.com/index.php?id=studiodrums",
+          children: "Native Instrument - Battery Studio Drums"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://www.rolandus.com/products/productdetails.aspx?ObjectId=384",
+          children: "Roland SRX-01 Dynamic Drum Kits"
+        })
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "更新紀錄",
+      children: "更新紀錄"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: ["原文網址：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "https://rickmidi.blogspot.com/2007/12/blog-post_10.html",
+          children: "https://rickmidi.blogspot.com/2007/12/blog-post_10.html"
+        })]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "2007/12/10：初版"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "2026/02/01：搬移新站"
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
+    ...props,
+    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
 
 /***/ },
 
@@ -20507,6 +21684,14 @@ return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxs)(react
 
 /***/ },
 
+/***/ 45227
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"id":"production/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","source":"@site/docs/production/echo-delay-reverb.md","sourceDirName":"production","slug":"/production/echo-delay-reverb","permalink":"/production/echo-delay-reverb","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"},{"inline":true,"label":"echo","permalink":"/tags/echo"},{"inline":true,"label":"delay","permalink":"/tags/delay"},{"inline":true,"label":"reverb","permalink":"/tags/reverb"},{"inline":true,"label":"IRs","permalink":"/tags/i-rs"},{"inline":true,"label":"Overtone","permalink":"/tags/overtone"},{"inline":true,"label":"Basetone","permalink":"/tags/basetone"},{"inline":true,"label":"Musical Tone","permalink":"/tags/musical-tone"}],"version":"current","frontMatter":{"title":"聊聊即時與立即 - Echo / Delay / Reverb","date":"2019-08-24T00:00:00.000Z","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","tags":["★","聊天","echo","delay","reverb","IRs","Overtone","Basetone","Musical Tone"]},"sidebar":"tutorialSidebar","previous":{"title":"Digital Audio System","permalink":"/production/digital-audio-system/"},"next":{"title":"Loop 的概念與應用實例 - One Night in 北京","permalink":"/production/loop-concepts-and-application-one-night-in-beijing/"}}');
+
+/***/ },
+
 /***/ 45379
 (module) {
 
@@ -20691,6 +21876,14 @@ ${JSON.stringify(item,null,2)}`,{cause:error}),children:/*#__PURE__*/(0,react_js
 
 /***/ },
 
+/***/ 47268
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"編曲","permalink":"/tags/編曲","allTagsPath":"/tags","count":1,"items":[{"id":"production/pad-basics","title":"襯底 PAD 的基本概念","description":"襯底 (Pad) 是音樂裡製造流動感、呼吸感的長音元素。了解 Pad 的類型與編曲技巧，可以讓音樂更有層次與氛圍。\\n","permalink":"/production/pad-basics"}],"unlisted":false}}');
+
+/***/ },
+
 /***/ 47316
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -20740,6 +21933,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"type":"mdx","permalink":"/my-markdow
 
 /***/ },
 
+/***/ 48177
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"聲學","permalink":"/tags/聲學","allTagsPath":"/tags","count":1,"items":[{"id":"production/basic-acoustics-and-digital-music-production","title":"基礎聲學與數位音樂製作","description":"對於 \\"聲音\\" 的物理現象，很多物理學、音響或 PA 相關的書都會提到一些基本概念，這些概念對於音樂製作上，尤其要做出比較有豐富聲響的音樂，基礎的聲音理論更是要有相當的瞭解。\\n","permalink":"/production/basic-acoustics-and-digital-music-production"}],"unlisted":false}}');
+
+/***/ },
+
 /***/ 48321
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -20770,10 +21971,22 @@ const assets = {
 
 
 
-const toc = [];
+const toc = [{
+  "value": "異動紀錄",
+  "id": "異動紀錄",
+  "level": 2
+}, {
+  "value": "2026-01-26",
+  "id": "2026-01-26",
+  "level": 3
+}];
 function _createMdxContent(props) {
   const _components = {
+    h2: "h2",
+    h3: "h3",
+    li: "li",
     p: "p",
+    ul: "ul",
     ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
     ...props.components
   };
@@ -20782,6 +21995,16 @@ function _createMdxContent(props) {
       children: "@Since 2006：音樂學習心得筆記，範圍包含：音樂理論、吉他、鍵盤、MIDI、編曲、音樂製作 … 等技術層次議題，內容深淺不一，僅是個人學習的心得筆記、想法，非教學，歡迎同好交流指教。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
       children: "文圖除非註明轉載、出處，否則均由 Rick KY Hwang (瑞克) 撰寫、繪製，未經允許，請勿私自以各種方式捷取、轉載。如有任何不當引用圖文，還請告知。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "異動紀錄",
+      children: "異動紀錄"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "2026-01-26",
+      children: "2026-01-26"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "SSG (Static Site Generator) 從 Hugo 遷移到 Docusaurus，推出第一個版本。"
+      }), "\n"]
     })]
   });
 }
@@ -20966,6 +22189,259 @@ function MDXContent(props = {}) {
 
 /***/ },
 
+/***/ 49161
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   assets: () => (/* binding */ assets),
+/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
+/* harmony export */   "default": () => (/* binding */ MDXContent),
+/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
+/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_production_basic_acoustics_and_digital_music_production_md_c09_json__WEBPACK_IMPORTED_MODULE_0__),
+/* harmony export */   toc: () => (/* binding */ toc)
+/* harmony export */ });
+/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_production_basic_acoustics_and_digital_music_production_md_c09_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(38631);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(74848);
+/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(28453);
+
+
+const frontMatter = {
+	title: '基礎聲學與數位音樂製作',
+	description: '對於 "聲音" 的物理現象，很多物理學、音響或 PA 相關的書都會提到一些基本概念，這些概念對於音樂製作上，尤其要做出比較有豐富聲響的音樂，基礎的聲音理論更是要有相當的瞭解。\n',
+	date: new Date('2007-11-03T00:00:00.000Z'),
+	tags: [
+		'★★★',
+		'音樂製作',
+		'聲學',
+		'取樣',
+		'泛音',
+		'共鳴'
+	]
+};
+const contentTitle = undefined;
+
+const assets = {
+
+};
+
+
+
+const toc = [{
+  "value": "前言",
+  "id": "前言",
+  "level": 2
+}, {
+  "value": "聲音的種類",
+  "id": "聲音的種類",
+  "level": 2
+}, {
+  "value": "純音 (Pure Tone)",
+  "id": "純音-pure-tone",
+  "level": 3
+}, {
+  "value": "樂音 (Musical Tone)",
+  "id": "樂音-musical-tone",
+  "level": 3
+}, {
+  "value": "噪音 (Noise)",
+  "id": "噪音-noise",
+  "level": 3
+}, {
+  "value": "泛音 (Overtone)",
+  "id": "泛音-overtone",
+  "level": 3
+}, {
+  "value": "共鳴 (Resonance)",
+  "id": "共鳴-resonance",
+  "level": 3
+}, {
+  "value": "數位音樂製作",
+  "id": "數位音樂製作",
+  "level": 2
+}, {
+  "value": "Dry Sound vs Wet Sound",
+  "id": "dry-sound-vs-wet-sound",
+  "level": 3
+}, {
+  "value": "結論",
+  "id": "結論",
+  "level": 2
+}, {
+  "value": "延伸閱讀",
+  "id": "延伸閱讀",
+  "level": 2
+}, {
+  "value": "站內資料",
+  "id": "站內資料",
+  "level": 3
+}, {
+  "value": "參考資料／線上資源",
+  "id": "參考資料線上資源",
+  "level": 3
+}, {
+  "value": "更新紀錄",
+  "id": "更新紀錄",
+  "level": 2
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h2: "h2",
+    h3: "h3",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "前言",
+      children: "前言"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "對於 \"聲音\" 的物理現象，很多物理學、音響或 PA 相關的書都會提到一些基本概念，這些概念我覺得對於音樂製作上，尤其要做出比較有豐富聲響的音樂，基礎的聲音理論更是要有相當的瞭解。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "聲音的種類",
+      children: "聲音的種類"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "純音-pure-tone",
+      children: "純音 (Pure Tone)"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["單一波形的聲音，一般來說就是正弦波的形式，沒有泛音，為聲音最基本的單元。理論上來說，自然界不會有聲音是以純音的形式存在（因為自然界的聲音都會有", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "http://en.wikipedia.org/wiki/Overtone",
+        children: "泛音"
+      }), "存在），只能以儀器做出接近純音的聲音，像是用程式產生的 440 Hz 正弦波聽到的勉強可以算純音。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "樂音-musical-tone",
+      children: "樂音 (Musical Tone)"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["有固定頻率、波形、同時會有一定", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "http://en.wikipedia.org/wiki/Overtone",
+        children: "泛音"
+      }), "。人聲、樂器均屬於樂音。樂音的波形可以由純音組成，這也是合成器的理論基礎。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "噪音-noise",
+      children: "噪音 (Noise)"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "沒有固定頻率、也沒有固定波形。一般來說打擊樂器可以說是噪音樂器，但是不完全是噪音，像鼓的銅拔雖然是噪音，但是他卻也有樂音的泛音特性，也因為有泛音的存在，使的該噪音更自然、更豐富。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "噪音在一般樂器裡也是很重要的，像吉他手指擦弦的聲音、鋼琴琴搥機械聲、吉他 Pick 與弦觸動時的聲音…等。所以沒有噪音的樂器是不存在的，也因為有噪音，聽起來才會有自然的感覺。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "泛音-overtone",
+      children: "泛音 (Overtone)"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "簡單說就是，一種隨基頻頻率倍數關係共震的現象。以 A4 = 440Hz ，會共震的就是 220Hz、880Hz、1760Hz ... 音樂之所以會悅耳，就是除了有基頻音之外，還有泛音和基音一起混合產生的聲響，造成不斷的相互緊密的共震關係，最後形成我們聽到的聲音。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "共鳴-resonance",
+      children: "共鳴 (Resonance)"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "或稱為共震。以樂器來說，具備相同基頻震動頻率的物質頻率能量傳遞，所造成的共同震動現象。最常見的例子就是吉他調音，利用共震的現象，可以檢視不同的兩弦是否有接近的基頻頻率。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "數位音樂製作",
+      children: "數位音樂製作"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "瞭解了聲音的種類之後，接下來就是這些在音樂製作時所扮演的角色。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "瞭解基礎聲學還有另一個目的，就是使用數位音樂製作音樂的時候，可以更瞭解："
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "為什麼鍵盤的取樣要那樣作"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "為什麼取樣音源是沒有殘響、無反射的聲音"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "為什麼錄音室必須要達到無反射、能吸音等條件才合格"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "... 等"
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "dry-sound-vs-wet-sound",
+      children: "Dry Sound vs Wet Sound"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["很多音源提供的取樣 (Sample ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "http://en.wikipedia.org/wiki/Waveform",
+        children: "Waveform"
+      }), ") 是所謂的 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+        children: "Dry Sound"
+      }), "，也就是乾的音色。意思是說，該音色並沒有沒有任何的空間殘饗效果，同時可能也沒有樂器該有的自然噪音、演奏時產生的噪音（EX: 撥弦聲）、共鳴。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "因為沒有空間感、噪音，所以很多人聽到的 MIDI 直覺就是假。其實並不是假，那是太真、太乾淨。那些聲音幾乎沒有因為自然環境的作用，產生該有的環境聲響（就是上述的空間殘想、演奏樂器產生的自然噪音、泛音、共鳴、反射），所以聽到的就是那樣。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["而數位音樂重點就是要可以編輯、可以做彈性的修改，所以把這些東西都分開，讓製作人隨時可以修改、增加音樂的各種特性。在音樂製作的不同階段，會陸續把殘響、自然噪音放進去，最後得到 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+        children: "Wet Sound"
+      }), "，也就是經過空氣傳道耳朵的真實聲音。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "所以音樂能否做的像，那就是如何在 Dry Sound 變成 Wet Sound 的過程中加工，這就看整個團隊的功力了。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "結論",
+      children: "結論"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "數位音樂提供音樂製作另一種排列組合的可能，尤其在電子音樂上，更是突破很多傳統樂器沒有的概念。但是數位音樂製作原聲樂器時，原聲樂器原有的物理特性，以及演奏手法，都是編曲、錄音、混音時所必須思考的。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "延伸閱讀",
+      children: "延伸閱讀"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "站內資料",
+      children: "站內資料"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "/docs/dict/note-frequency-table",
+          children: "樂器音階頻率對應表"
+        })
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "參考資料線上資源",
+      children: "參考資料／線上資源"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://en.wikipedia.org/wiki/Overtone",
+          children: "泛音 Overtone"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://en.wikipedia.org/wiki/Resonance",
+          children: "共鳴 Resonance"
+        })
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "更新紀錄",
+      children: "更新紀錄"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: ["原文網址：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "https://rickmidi.blogspot.com/2007/11/blog-post.html",
+          children: "https://rickmidi.blogspot.com/2007/11/blog-post.html"
+        })]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "2007/11/03：初版"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "2026/02/01：搬移新站"
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
+    ...props,
+    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
+
+/***/ },
+
 /***/ 49163
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -21146,6 +22622,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Secondary Dominant","
 
 /***/ },
 
+/***/ 49617
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Pad","permalink":"/tags/pad","allTagsPath":"/tags","count":1,"items":[{"id":"production/pad-basics","title":"襯底 PAD 的基本概念","description":"襯底 (Pad) 是音樂裡製造流動感、呼吸感的長音元素。了解 Pad 的類型與編曲技巧，可以讓音樂更有層次與氛圍。\\n","permalink":"/production/pad-basics"}],"unlisted":false}}');
+
+/***/ },
+
 /***/ 49750
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -21258,441 +22742,6 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Comping","permalink":
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/pattern1-5_2-d9b9e6a00c3c3230c3a6189b7c6a3814.png");
-
-/***/ },
-
-/***/ 51552
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   assets: () => (/* binding */ assets),
-/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_gossip_semi_tone_of_solfege_md_00f_json__WEBPACK_IMPORTED_MODULE_0__),
-/* harmony export */   toc: () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_gossip_semi_tone_of_solfege_md_00f_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(18736);
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(74848);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(28453);
-
-
-const frontMatter = {
-	title: '關於半音階的唱名',
-	description: '唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\n',
-	date: new Date('2008-08-07T00:00:00.000Z'),
-	tags: [
-		'★★★',
-		'唱名'
-	]
-};
-const contentTitle = undefined;
-
-const assets = {
-
-};
-
-
-
-const toc = [{
-  "value": "半音唱名",
-  "id": "半音唱名",
-  "level": 2
-}, {
-  "value": "音名與唱名",
-  "id": "音名與唱名",
-  "level": 2
-}, {
-  "value": "結論",
-  "id": "結論",
-  "level": 2
-}, {
-  "value": "延伸閱讀",
-  "id": "延伸閱讀",
-  "level": 2
-}, {
-  "value": "站內資料",
-  "id": "站內資料",
-  "level": 3
-}, {
-  "value": "參考資料",
-  "id": "參考資料",
-  "level": 3
-}, {
-  "value": "更新紀錄",
-  "id": "更新紀錄",
-  "level": 2
-}];
-function _createMdxContent(props) {
-  const _components = {
-    a: "a",
-    br: "br",
-    code: "code",
-    h2: "h2",
-    h3: "h3",
-    hr: "hr",
-    li: "li",
-    p: "p",
-    strong: "strong",
-    table: "table",
-    tbody: "tbody",
-    td: "td",
-    th: "th",
-    thead: "thead",
-    tr: "tr",
-    ul: "ul",
-    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
-    ...props.components
-  };
-  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
-    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "關於音階唱名 (特別是半音階) 我用首調唱名法來說明相關的應用概念."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
-      id: "半音唱名",
-      children: "半音唱名"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["首調唱名主要以 \"自然大調音階\" 的音程關係為基礎，也就是 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "1 2 3 4 5 6 7 1"
-      }), " 表示了大調的音程關係: ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "全全半全全全半"
-      }), "。簡譜數字 (1~7) 常常會跟唱名 Do、Re、Mi ⋯⋯ 互通使用，分別表示寫法跟讀法。"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "但是當唱到降音記號 (b) 的時候，會將母音改唱成 'e' 的音; 唱到升音記號 (#) 的時候，將母音改唱成 'i' 的音。如下："
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.table, {
-      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.thead, {
-        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
-          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "音階唱名"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "1"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "2"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "3"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "4"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "5"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "6"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "7"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "8"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "9"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "10"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "11"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
-            children: "12"
-          })]
-        })
-      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tbody, {
-        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
-          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "上行半音"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "1"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-              children: "#1"
-            })
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "2"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "#2"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "3"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "4"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "#4"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "5"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "#5"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "6"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "#6"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "7"
-          })]
-        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
-          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "上行唱名"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Do"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-              children: "Di"
-            })
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Re"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-              children: "Ri"
-            })
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Mi"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Fa"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-              children: "Fi"
-            })
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Sol"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-              children: "Si"
-            })
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "La"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-              children: "Li"
-            })
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Ti"
-          })]
-        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
-          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "下行半音"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "1"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "7"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "b7"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "6"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "b6"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "5"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "b5"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "4"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "3"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "b3"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "2"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "b2"
-          })]
-        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
-          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "下行唱名"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Do"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Ti"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Te"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "La"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Le"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Sol"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Se"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Fa"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Mi"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Me"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Re"
-          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
-            children: "Ra"
-          })]
-        })]
-      })]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["要注意的是，以往 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Ti (7)"
-      }), " 的發音大部分都是發 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "注音符號 (ㄒ，Si)"
-      }), " 的音，但是如果要配合上下行半音的唱名，因為會和 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "#5 => Si"
-      }), " 發音一樣，所以我們習慣將 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Ti"
-      }), " 發成字母的 '", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "T"
-      }), "' 的音。上表也可以在 Wiki 百科找到參考資料: \"Solfege\""]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "另外一個要注意的就是 b2 的發音，降音記號是把母音改成 e 的音，但是 Re 本身就已經是 e 的音了，所以 b2 就改成發 a 的音，變成 Ra."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "這種唱名的方式，是學習其他音階時的唱法，主要的還是以自然大調的音程關係做比較，也就是一般 Key Center 的唱法。利用這樣的唱法可以很容易的找到該音階的特徵音符。例如自然小調音階和唱名關係是:"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["Natural Minor Scale | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "--------------------|---|---|---|---|---|---|---|------", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Interval (音程)  | 1 | 2 | b3 | 4 | 5 | b6 | b7", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Minor Scale (C 小調音階) | C | D | Eb | F | G | Ab | Bb", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "音階唱名 | Do | Re | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Me"
-      }), " | Fa | Sol | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Le"
-      }), " | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Te"
-      })]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["這樣在唱小調音階的時候，就可以很清楚明確的知道有哪些降音記號，跟自然大調到底差別在哪，憂鬱感在哪裡。如果以傳統的固定唱名 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "6 7 1 2 3 4 5 6"
-      }), " 這樣的唱法來學小調音階，會不容易知道跟大調之間的差別在哪。只會感覺好像跟大調差不多。因為並不是以 Key Center 唱，而是以關係大小調作參考。以 Key Center 唱第一個音一定為 1 開頭."]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "同理，要唱出其他的調式音階，例如唱 Locrian:"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["音階 | I | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "--------------------|---|---|---|---|---|---|---|------", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "Locrian Interval | 1 | b2 | b3 | 4 | b5 | b6 | b7", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "C Locrian Scale | C | Db | Eb | F | Gb | Ab | Bb", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.br, {}), "\n", "音階唱名 | Do | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Ra"
-      }), " | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Me"
-      }), " | Fa | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Se"
-      }), " | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Le"
-      }), " | ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Te"
-      })]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["所以同樣的，也不建議用 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "7 1 2 3 4 5 6 7"
-      }), " 這種唱法，因為唱了半天，還是不知道重點在哪。"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
-      id: "音名與唱名",
-      children: "音名與唱名"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["這邊我描述的唱名基本上跟數字簡譜是畫上等號的。但是唱名跟音名是不等的，他們是互相參考的關係。音名是固定的，他就是在一個固定的位置不會改變，會改變的是音名跟音名之間的關係。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
-        children: "C 跟 E 的關係是大三度，G 跟 C 的關係是完全四度，Ab 跟 Eb 的關係是完全五度"
-      }), "，但是 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
-        children: "只有寫一個 D 是無法知道他代表什麼 \"關係\" 意思"
-      }), "。(關係很重要，特別在人的世界裡 XDD)"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["上述的例子 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
-        children: "G 和 C 的關係是完全四度，音程 \"完全四度\" 則可以用唱名 4 來表示"
-      }), " 就可以了."]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "音名與唱名兩者在音樂學習的過程中都是很重要的基礎概念。唱名大多用在練習 Key Center 的歌曲，只要轉調不多的歌曲，用數字都 ok。另外是表示音程關係，會和音名一起使用在和弦推算，命名等。音名是音樂符號最基本的代號名稱，任何地方都會看到他：各調音階、和弦推算、命名、琶音、音程、順階和弦 ...等。兩者經常會混用."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["以和弦來看例如 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "F#m7-9"
-      }), ":"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "音名 (F) 代表的根音位置，也可以說是代表著音階的根音 (主詞)"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "升記號 (#) 我把他看成修飾根音的部分，當他是形容詞子句好了"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "大小和弦 (Major、Minor) 則用來表示和弦的性質 (動詞)"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "數字則用在修飾和弦 (形容詞，副詞)."
-      }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "上述只是我個人的一些聯想，大家可以各自用自己熟悉的領域去聯想這些東西，我相信都是有共通性的."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
-      id: "結論",
-      children: "結論"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["有朋友一定會問，學習音樂時，是否需要學習這種唱名方式? 我覺得不見得每個人都需要，因人而異。有些人可以很快的瞭解音名，音程，音階，調性之間的關係，所以可以直接利用音名去記憶和弦，音階組成，推演各種樂理。但是有些人沒辦法一下子把 E7-9 的組成音說出來，但是卻知道他的音程關係是 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "1 3 5 b7 b9"
-      }), "。或許這樣的人可以嘗試這種唱名."]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "就像是我們學英文，老外是不需要 KK 音標這種東西的。但是非英語系的我們需要藉由音標來幫助發音。而音標除了幫助記憶發音，他還可以幫助記憶單字的拼音."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "同樣的唱名，最基本的功能就是拿來唱音階用的，另外一個功能就是因為唱名的慣例是以自然大調音程為主，所以相對的，唱出音階的過程，其實也就間接唱出了音程關係了."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "和用音名不同的是，音名是絕對的名稱 (當然也可以把音名的 ABC 字母當成唱名來唱，只是遇到 F# 這種要怎麼唱? 很繞舌的 ...)，他很直接的告訴演奏者的訊息是一個絕對的位置。至於所謂的音程，音階，和弦必須由演奏者腦袋裡的資料庫自行判斷，比對，分析."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "音名和唱名就像我們的中文和注音一樣。中文字表達的是一個具象的訊息，注音只是一個音。但是同樣的一個音可能包含了好幾個字，所以注音可以說是一個抽象的符號."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
-        children: "音名是一個具象的名詞，C 就是 C，nothing else，除非他跟其他的音放在一起，才會有關係，例如 C G 放在一起，才可能會有完全五度 (C->G) or 完全四度 (G->C) 的關係。"
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
-        children: "但是唱名就不是這樣，唱出一個 Sol 就是很清楚的告訴 Player 這是一個完全五度，但是他可能是任意調的完全五度."
-      })
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "扯了一堆，只是想讓告訴大家，音樂是很多面向的藝術，同樣的東西，可以從很多角度去思考的。終點是一樣，但是過程卻是截然不同的."
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
-      id: "延伸閱讀",
-      children: "延伸閱讀"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
-      id: "站內資料",
-      children: "站內資料"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "相對、絕對音感"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "固定唱名？還是首調唱名？"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "再談『首調、固定唱名』與『相對、絕對音感』"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "音階基礎"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "調式概念"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "調、調式及轉調"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "淺談 Modal Harmony (調式和聲)"
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "大調音階 (Major Scale)"
-      }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
-      id: "參考資料",
-      children: "參考資料"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
-        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-          href: "http://en.wikipedia.org/wiki/Solfege",
-          children: "Solfege"
-        }), " (Wiki)"]
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
-        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-          href: "http://www.music.vt.edu/musicdictionary/appendix/scales/solmization/syllables.html",
-          children: "Scales Syllables"
-        }), " (各國音階唱名)"]
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
-        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-          href: "../brain-psy13.pdf",
-          children: "音樂認知心理學"
-        }), " - 蔡振家"]
-      }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
-      id: "更新紀錄",
-      children: "更新紀錄"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
-        children: ["原文網址：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-          href: "https://rickmidi.blogspot.com/2008/08/blog-post.html",
-          children: "https://rickmidi.blogspot.com/2008/08/blog-post.html"
-        })]
-      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-        children: "初版：2008/08/07"
-      }), "\n"]
-    })]
-  });
-}
-function MDXContent(props = {}) {
-  const {wrapper: MDXLayout} = {
-    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
-    ...props.components
-  };
-  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
-    ...props,
-    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
-      ...props
-    })
-  }) : _createMdxContent(props);
-}
-
-
 
 /***/ },
 
@@ -30660,7 +31709,7 @@ const api=(0,react__WEBPACK_IMPORTED_MODULE_0__.useMemo)(()=>{function savePrefe
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"聊天","permalink":"/tags/聊天","allTagsPath":"/tags","count":20,"items":[{"id":"gossip/memory-in-ff-music","title":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","description":"整理電玩雜誌對作曲家植松伸夫訪談紀錄","permalink":"/gossip/memory-in-ff-music"},{"id":"gossip/guthrie-govan-live-2015","title":"2015 Guthrie Govan 西門河岸吉他音樂講座 筆記","description":"昨天 (2015/10/18) 去聽了期待已久的 Guthrie Govan (以下簡稱 GG) 音樂會 + 吉他講座。GG 現場的演奏，真的是大師中的大師，流暢到不可思議！信手捻來 的每個音符、句子、和弦，甚至是隨手彈的馬上疊成 Loop ，好像隨時都可以『噴』出一堆曲子。","permalink":"/gossip/guthrie-govan-live-2015"},{"id":"songs/g5-project","title":"G5 Project","description":"介紹日本吉他演奏專輯","permalink":"/songs/g5-project"},{"id":"gossip/protect-your-ears","title":"保護耳朵","description":"音樂人要好好的保護自己的耳朵。","permalink":"/gossip/protect-your-ears"},{"id":"gossip/just-getting-started/index","title":"十年，不過是入門而已","description":"怎樣才算入門？","permalink":"/gossip/just-getting-started/"},{"id":"gossip/fixed-solfege","title":"固定唱名？還是首調唱名？","description":"探討音程相對、絕對的概念。","permalink":"/gossip/fixed-solfege"},{"id":"gossip/how-to-listen-a-song","title":"如何聽一首歌?","description":"聆聽音樂的層次、角度。如何欣賞音樂，是學音樂必要的修煉。","permalink":"/gossip/how-to-listen-a-song"},{"id":"gossip/learn-to-listen","title":"學習聆聽","description":"探討音程相對、絕對的概念。","permalink":"/gossip/learn-to-listen"},{"id":"gossip/learning","title":"學習雜感","description":"態度與嚴謹造就我們的現況。","permalink":"/gossip/learning"},{"id":"gossip/dialogue","title":"對談","description":"一直以來, 教育是我覺得要提升人民素質唯一的方法 ...\\n教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 …\\n教育育是要我們的下一代能夠有 \\"獨立思考\\", \\"明辨是非\\", \\"培養創造力\\", \\"解決問題\\" …\\n","permalink":"/gossip/dialogue"},{"id":"gossip/play-what-and-how-to-play","title":"怎麼彈和彈什麼","description":"怎麼彈、彈什麼？","permalink":"/gossip/play-what-and-how-to-play"},{"id":"gossip/willing","title":"意念傳達","description":"音樂是一種語言，語言的目的在於傳達想法。","permalink":"/gossip/willing"},{"id":"gossip/mathematics","title":"數學問題?","description":"音樂 vs 數學，理性的科學，與感性的藝術。","permalink":"/gossip/mathematics"},{"id":"gossip/form-framework-history","title":"曲式、歷史背景、框架模式","description":"這幾個背後的本質是類似的。","permalink":"/gossip/form-framework-history"},{"id":"gossip/correctness-efficiency","title":"正確性與速度","description":"幾個月前工作上遇到一個問題，就是 正確性 (Correctness) 與 速度 (其實就是效率 Efficiency) 的課題。","permalink":"/gossip/correctness-efficiency"},{"id":"gossip/relative-absolute","title":"相對、絕對音感","description":"二元論議題，在各個領域都會有的，音樂領域最常討論的就是音感。","permalink":"/gossip/relative-absolute"},{"id":"gossip/simple-complex","title":"簡單、複雜","description":"聊聊我個人對於現實與理想、簡單與複雜之間差距的心得與體悟。\\n","permalink":"/gossip/simple-complex"},{"id":"gossip/level-of-practice","title":"練習的層次","description":"關於練習的 DoD (Definition of Done)，以及學習的階段。","permalink":"/gossip/level-of-practice"},{"id":"gossip/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/gossip/echo-delay-reverb"},{"id":"gossip/speed","title":"關於速度","description":"天下武功，唯快不破！","permalink":"/gossip/speed"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"聊天","permalink":"/tags/聊天","allTagsPath":"/tags","count":20,"items":[{"id":"gossip/memory-in-ff-music","title":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","description":"整理電玩雜誌對作曲家植松伸夫訪談紀錄","permalink":"/gossip/memory-in-ff-music"},{"id":"gossip/guthrie-govan-live-2015","title":"2015 Guthrie Govan 西門河岸吉他音樂講座 筆記","description":"昨天 (2015/10/18) 去聽了期待已久的 Guthrie Govan (以下簡稱 GG) 音樂會 + 吉他講座。GG 現場的演奏，真的是大師中的大師，流暢到不可思議！信手捻來 的每個音符、句子、和弦，甚至是隨手彈的馬上疊成 Loop ，好像隨時都可以『噴』出一堆曲子。","permalink":"/gossip/guthrie-govan-live-2015"},{"id":"songs/g5-project","title":"G5 Project","description":"介紹日本吉他演奏專輯","permalink":"/songs/g5-project"},{"id":"gossip/protect-your-ears","title":"保護耳朵","description":"音樂人要好好的保護自己的耳朵。","permalink":"/gossip/protect-your-ears"},{"id":"gossip/just-getting-started/index","title":"十年，不過是入門而已","description":"怎樣才算入門？","permalink":"/gossip/just-getting-started/"},{"id":"gossip/fixed-solfege","title":"固定唱名？還是首調唱名？","description":"探討音程相對、絕對的概念。","permalink":"/gossip/fixed-solfege"},{"id":"gossip/how-to-listen-a-song","title":"如何聽一首歌?","description":"聆聽音樂的層次、角度。如何欣賞音樂，是學音樂必要的修煉。","permalink":"/gossip/how-to-listen-a-song"},{"id":"gossip/learn-to-listen","title":"學習聆聽","description":"探討音程相對、絕對的概念。","permalink":"/gossip/learn-to-listen"},{"id":"gossip/learning","title":"學習雜感","description":"態度與嚴謹造就我們的現況。","permalink":"/gossip/learning"},{"id":"gossip/dialogue","title":"對談","description":"一直以來, 教育是我覺得要提升人民素質唯一的方法 ...\\n教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 …\\n教育育是要我們的下一代能夠有 \\"獨立思考\\", \\"明辨是非\\", \\"培養創造力\\", \\"解決問題\\" …\\n","permalink":"/gossip/dialogue"},{"id":"gossip/play-what-and-how-to-play","title":"怎麼彈和彈什麼","description":"怎麼彈、彈什麼？","permalink":"/gossip/play-what-and-how-to-play"},{"id":"gossip/willing","title":"意念傳達","description":"音樂是一種語言，語言的目的在於傳達想法。","permalink":"/gossip/willing"},{"id":"gossip/mathematics","title":"數學問題?","description":"音樂 vs 數學，理性的科學，與感性的藝術。","permalink":"/gossip/mathematics"},{"id":"gossip/form-framework-history","title":"曲式、歷史背景、框架模式","description":"這幾個背後的本質是類似的。","permalink":"/gossip/form-framework-history"},{"id":"gossip/correctness-efficiency","title":"正確性與速度","description":"幾個月前工作上遇到一個問題，就是 正確性 (Correctness) 與 速度 (其實就是效率 Efficiency) 的課題。","permalink":"/gossip/correctness-efficiency"},{"id":"gossip/relative-absolute","title":"相對、絕對音感","description":"二元論議題，在各個領域都會有的，音樂領域最常討論的就是音感。","permalink":"/gossip/relative-absolute"},{"id":"gossip/simple-complex","title":"簡單、複雜","description":"聊聊我個人對於現實與理想、簡單與複雜之間差距的心得與體悟。\\n","permalink":"/gossip/simple-complex"},{"id":"gossip/level-of-practice","title":"練習的層次","description":"關於練習的 DoD (Definition of Done)，以及學習的階段。","permalink":"/gossip/level-of-practice"},{"id":"production/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/production/echo-delay-reverb"},{"id":"gossip/speed","title":"關於速度","description":"天下武功，唯快不破！","permalink":"/gossip/speed"}],"unlisted":false}}');
 
 /***/ },
 
@@ -31030,7 +32079,7 @@ if (false) // removed by dead control flow
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"唱名","permalink":"/tags/唱名","allTagsPath":"/tags","count":1,"items":[{"id":"gossip/semi-tone-of-solfege","title":"關於半音階的唱名","description":"唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\\n","permalink":"/gossip/semi-tone-of-solfege"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"唱名","permalink":"/tags/唱名","allTagsPath":"/tags","count":1,"items":[{"id":"theory/semi-tone-of-solfege","title":"關於半音階的唱名","description":"唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\\n","permalink":"/theory/semi-tone-of-solfege"}],"unlisted":false}}');
 
 /***/ },
 
@@ -31038,7 +32087,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"唱名","permalink":"
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/relative-absolute","title":"相對、絕對音感","description":"二元論議題，在各個領域都會有的，音樂領域最常討論的就是音感。","source":"@site/docs/gossip/relative-absolute.md","sourceDirName":"gossip","slug":"/gossip/relative-absolute","permalink":"/gossip/relative-absolute","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"},{"inline":true,"label":"音感","permalink":"/tags/音感"}],"version":"current","frontMatter":{"title":"相對、絕對音感","date":"2009-04-10T00:00:00.000Z","description":"二元論議題，在各個領域都會有的，音樂領域最常討論的就是音感。","tags":["★","聊天","音感"]},"sidebar":"tutorialSidebar","previous":{"title":"2014 伍佰無盡閃亮的高雄小巨蛋演唱會 - 觀後感 + 聊聊記憶中的伍佰","permalink":"/gossip/pubking-wubai"},"next":{"title":"關於半音階的唱名","permalink":"/gossip/semi-tone-of-solfege"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/relative-absolute","title":"相對、絕對音感","description":"二元論議題，在各個領域都會有的，音樂領域最常討論的就是音感。","source":"@site/docs/gossip/relative-absolute.md","sourceDirName":"gossip","slug":"/gossip/relative-absolute","permalink":"/gossip/relative-absolute","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"},{"inline":true,"label":"音感","permalink":"/tags/音感"}],"version":"current","frontMatter":{"title":"相對、絕對音感","date":"2009-04-10T00:00:00.000Z","description":"二元論議題，在各個領域都會有的，音樂領域最常討論的就是音感。","tags":["★","聊天","音感"]},"sidebar":"tutorialSidebar","previous":{"title":"2014 伍佰無盡閃亮的高雄小巨蛋演唱會 - 觀後感 + 聊聊記憶中的伍佰","permalink":"/gossip/pubking-wubai"},"next":{"title":"簡單、複雜","permalink":"/gossip/simple-complex"}}');
 
 /***/ },
 
@@ -31132,7 +32181,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"MOTU","permalink":"/t
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"version":{"pluginId":"default","version":"current","label":"Next","banner":null,"badge":false,"noIndex":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"category","label":"聊音樂","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/gossip/algorithm-for-songs/","label":"概述『和聲分析』演算法","docId":"gossip/algorithm-for-songs/index","unlisted":false},{"type":"link","href":"/gossip/as-professional","label":"拿音樂當飯吃","docId":"gossip/as-professional","unlisted":false},{"type":"link","href":"/gossip/correctness-efficiency","label":"正確性與速度","docId":"gossip/correctness-efficiency","unlisted":false},{"type":"link","href":"/gossip/dialogue","label":"對談","docId":"gossip/dialogue","unlisted":false},{"type":"link","href":"/gossip/echo-delay-reverb","label":"聊聊即時與立即 - Echo / Delay / Reverb","docId":"gossip/echo-delay-reverb","unlisted":false},{"type":"link","href":"/gossip/fixed-solfege","label":"固定唱名？還是首調唱名？","docId":"gossip/fixed-solfege","unlisted":false},{"type":"link","href":"/gossip/form-framework-history","label":"曲式、歷史背景、框架模式","docId":"gossip/form-framework-history","unlisted":false},{"type":"link","href":"/gossip/guthrie-govan-live-2015","label":"2015 Guthrie Govan 西門河岸吉他音樂講座 筆記","docId":"gossip/guthrie-govan-live-2015","unlisted":false},{"type":"link","href":"/gossip/how-to-listen-a-song","label":"如何聽一首歌?","docId":"gossip/how-to-listen-a-song","unlisted":false},{"type":"link","href":"/gossip/jimi-hendrix","label":"聊聊 Jimi Hendrix","docId":"gossip/jimi-hendrix","unlisted":false},{"type":"link","href":"/gossip/just-getting-started/","label":"十年，不過是入門而已","docId":"gossip/just-getting-started/index","unlisted":false},{"type":"link","href":"/gossip/learn-to-listen","label":"學習聆聽","docId":"gossip/learn-to-listen","unlisted":false},{"type":"link","href":"/gossip/learning","label":"學習雜感","docId":"gossip/learning","unlisted":false},{"type":"link","href":"/gossip/level-of-practice","label":"練習的層次","docId":"gossip/level-of-practice","unlisted":false},{"type":"link","href":"/gossip/mathematics","label":"數學問題?","docId":"gossip/mathematics","unlisted":false},{"type":"link","href":"/gossip/memory-in-ff-music","label":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","docId":"gossip/memory-in-ff-music","unlisted":false},{"type":"link","href":"/gossip/play-what-and-how-to-play","label":"怎麼彈和彈什麼","docId":"gossip/play-what-and-how-to-play","unlisted":false},{"type":"link","href":"/gossip/protect-your-ears","label":"保護耳朵","docId":"gossip/protect-your-ears","unlisted":false},{"type":"link","href":"/gossip/pubking-wubai","label":"2014 伍佰無盡閃亮的高雄小巨蛋演唱會 - 觀後感 + 聊聊記憶中的伍佰","docId":"gossip/pubking-wubai","unlisted":false},{"type":"link","href":"/gossip/relative-absolute","label":"相對、絕對音感","docId":"gossip/relative-absolute","unlisted":false},{"type":"link","href":"/gossip/semi-tone-of-solfege","label":"關於半音階的唱名","docId":"gossip/semi-tone-of-solfege","unlisted":false},{"type":"link","href":"/gossip/simple-complex","label":"簡單、複雜","docId":"gossip/simple-complex","unlisted":false},{"type":"link","href":"/gossip/speed","label":"關於速度","docId":"gossip/speed","unlisted":false},{"type":"link","href":"/gossip/willing","label":"意念傳達","docId":"gossip/willing","unlisted":false}],"href":"/category/聊音樂"},{"type":"category","label":"給吉他手","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/guitar/effective-practice-guitar/","label":"吉他練習的實踐原則：專心、彈好、彈滿","docId":"guitar/effective-practice-guitar/index","unlisted":false},{"type":"link","href":"/guitar/guide-to-guitar-scale-patterns/","label":"吉他音階學習摘要","docId":"guitar/guide-to-guitar-scale-patterns/index","unlisted":false},{"type":"link","href":"/guitar/guitar-chord-voicing/","label":"吉他的和弦聲位基本概念 (Chord Voicing)","docId":"guitar/guitar-chord-voicing/index","unlisted":false},{"type":"link","href":"/guitar/guitar-fundation-technical/","label":"吉他的基本功","docId":"guitar/guitar-fundation-technical/index","unlisted":false},{"type":"link","href":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/","label":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","docId":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","unlisted":false},{"type":"link","href":"/guitar/how-to-practice-a-song","label":"怎麼練一首曲子","docId":"guitar/how-to-practice-a-song","unlisted":false},{"type":"link","href":"/guitar/practice-arpeggios-251-on-g-major/","label":"吉他琶音練習 - 以 G 大調 251 為例","docId":"guitar/practice-arpeggios-251-on-g-major/index","unlisted":false},{"type":"link","href":"/guitar/practice-arpeggios-g-major7/","label":"吉他琶音練習 - 以 Gmaj7 為例","docId":"guitar/practice-arpeggios-g-major7/index","unlisted":false},{"type":"link","href":"/guitar/some-tips-and-suggestions-for-practicing-guitar","label":"一些練習吉他的提醒和建議","docId":"guitar/some-tips-and-suggestions-for-practicing-guitar","unlisted":false},{"type":"link","href":"/guitar/time-for-practice-guitar/","label":"如何安排練習 - 以上班族為例","docId":"guitar/time-for-practice-guitar/index","unlisted":false}],"href":"/category/給吉他手"},{"type":"category","label":"樂理","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/theory/canon-chord-progression/","label":"卡農進行 (Canon Chord Progression)","docId":"theory/canon-chord-progression/index","unlisted":false},{"type":"link","href":"/theory/create-a-new-scale","label":"可以自行創造音階？","docId":"theory/create-a-new-scale","unlisted":false},{"type":"link","href":"/theory/dominant-and-extension-chords/","label":"屬七和弦與其延伸和弦的代換","docId":"theory/dominant-and-extension-chords/index","unlisted":false},{"type":"link","href":"/theory/eleventh-chord","label":"十一和弦 (X11 Eleventh Chord)","docId":"theory/eleventh-chord","unlisted":false},{"type":"link","href":"/theory/essence-of-musical-scales","label":"音階的本質","docId":"theory/essence-of-musical-scales","unlisted":false},{"type":"link","href":"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","label":"再談『首調、固定唱名』與『相對、絕對音感』","docId":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","unlisted":false},{"type":"link","href":"/theory/major-scale/","label":"大調音階 (Major Scale)","docId":"theory/major-scale/index","unlisted":false},{"type":"link","href":"/theory/minor-scale/","label":"小調音階 (Minor Scale)","docId":"theory/minor-scale/index","unlisted":false},{"type":"link","href":"/theory/modal-interchange","label":"調式內轉 (Modal Interchange)","docId":"theory/modal-interchange","unlisted":false},{"type":"link","href":"/theory/musical-mode","label":"調式概念","docId":"theory/musical-mode","unlisted":false},{"type":"link","href":"/theory/musical-scale-fundation","label":"音階基礎","docId":"theory/musical-scale-fundation","unlisted":false},{"type":"link","href":"/theory/note-signature/","label":"升降記號","docId":"theory/note-signature/index","unlisted":false},{"type":"link","href":"/theory/relation-chord","label":"關係和弦？","docId":"theory/relation-chord","unlisted":false},{"type":"link","href":"/theory/secondary-dominat/","label":"次屬和弦 (Secondary Dominant)","docId":"theory/secondary-dominat/index","unlisted":false},{"type":"link","href":"/theory/suspended-chord","label":"掛留和弦 (Suspended Chord)","docId":"theory/suspended-chord","unlisted":false},{"type":"link","href":"/theory/thinkin-mode","label":"調式學習的思考","docId":"theory/thinkin-mode","unlisted":false},{"type":"link","href":"/theory/thriteenth-chord","label":"十三和弦 (X13 Thirteenth Chord)","docId":"theory/thriteenth-chord","unlisted":false},{"type":"link","href":"/theory/tonality-key-mode/","label":"調、調式及轉調","docId":"theory/tonality-key-mode/index","unlisted":false},{"type":"link","href":"/theory/tritone","label":"三全音","docId":"theory/tritone","unlisted":false}],"href":"/category/樂理"},{"type":"category","label":"樂團經營","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/band/about-score/","label":"關於寫譜","docId":"band/about-score/index","unlisted":false},{"type":"link","href":"/band/getting-started-play-as-band","label":"怎樣的程度才適合組樂團？","docId":"band/getting-started-play-as-band","unlisted":false},{"type":"link","href":"/band/pick-songs","label":"開歌, 選歌","docId":"band/pick-songs","unlisted":false},{"type":"link","href":"/band/run-a-band","label":"樂團的經營","docId":"band/run-a-band","unlisted":false}],"href":"/category/樂團經營"},{"type":"category","label":"音樂製作","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/production/basic-concepts-of-sampling","label":"取樣的基本概念","docId":"production/basic-concepts-of-sampling","unlisted":false},{"type":"link","href":"/production/concepts-of-music-technology/","label":"數位音樂科技概論","docId":"production/concepts-of-music-technology/index","unlisted":false},{"type":"link","href":"/production/digital-audio-system/","label":"Digital Audio System","docId":"production/digital-audio-system/index","unlisted":false},{"type":"link","href":"/production/loop-concepts-and-application-one-night-in-beijing/","label":"Loop 的概念與應用實例 - One Night in 北京","docId":"production/loop-concepts-and-application-one-night-in-beijing/index","unlisted":false},{"type":"link","href":"/production/motu-mk4-macos/","label":"在 MacOS 驅動 MOTU UltraLite mk4","docId":"production/motu-mk4-macos/index","unlisted":false},{"type":"link","href":"/production/using-external-midi-devices-in-logic-pro/","label":"Using External MIDI Devices in Logic Pro","docId":"production/using-external-midi-devices-in-logic-pro/index","unlisted":false}],"href":"/category/音樂製作"},{"type":"category","label":"私房歌","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/songs/FFV_Dear-Friends/","label":"FFV - Dear Friends","docId":"songs/FFV_Dear-Friends/index","unlisted":false},{"type":"link","href":"/songs/Jack-Thammarat_Emotive-Ballad/","label":"Jack Thammarat - Emotive Ballad","docId":"songs/Jack-Thammarat_Emotive-Ballad/index","unlisted":false},{"type":"link","href":"/songs/Jack-Thammarat_Falling-in-Love-Again/","label":"Jack Thammarat - Falling in Love Again","docId":"songs/Jack-Thammarat_Falling-in-Love-Again/index","unlisted":false},{"type":"link","href":"/songs/Songs-for-Memory/","label":"過年，想找的就只是回憶而已：那些年練過的流行歌曲","docId":"songs/Songs-for-Memory/index","unlisted":false},{"type":"link","href":"/songs/Songs-for-Nylon-Guitar/","label":"那些年練過的古典吉他歌曲","docId":"songs/Songs-for-Nylon-Guitar/index","unlisted":false},{"type":"link","href":"/songs/Survival-Dance/","label":"熱力十七歲","docId":"songs/Survival-Dance/index","unlisted":false},{"type":"link","href":"/songs/Zelda-Trailer-2017E3/","label":"Zelda - Breath of the Wild | Story Trailer Theme (2017)","docId":"songs/Zelda-Trailer-2017E3/index","unlisted":false},{"type":"link","href":"/songs/g5-project","label":"G5 Project","docId":"songs/g5-project","unlisted":false}],"href":"/category/私房歌"},{"type":"category","label":"字典工具","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/dict/chord-learning-map/","label":"和弦學習地圖","docId":"dict/chord-learning-map/index","unlisted":false},{"type":"link","href":"/dict/diatonic-chords-in-circle-of-5ths/","label":"五度圈順階和弦表","docId":"dict/diatonic-chords-in-circle-of-5ths/index","unlisted":false},{"type":"link","href":"/dict/scale-learning-map/","label":"音階學習地圖","docId":"dict/scale-learning-map/index","unlisted":false}],"href":"/category/字典工具"},{"type":"link","href":"/","label":"關於","docId":"index","unlisted":false}]},"docs":{"band/about-score/index":{"id":"band/about-score/index","title":"關於寫譜","description":"樂團講求合作，合作就有溝通，溝通就要有效率。樂手、音樂家最有效的溝通方式就是樂譜了 ... 但 ...","sidebar":"tutorialSidebar"},"band/getting-started-play-as-band":{"id":"band/getting-started-play-as-band","title":"怎樣的程度才適合組樂團？","description":"如果是面試，該怎麼設定團員的合格標準？","sidebar":"tutorialSidebar"},"band/pick-songs":{"id":"band/pick-songs","title":"開歌, 選歌","description":"歌唱選秀節目裡, 評審常常給參賽者的評語是:","sidebar":"tutorialSidebar"},"band/run-a-band":{"id":"band/run-a-band","title":"樂團的經營","description":"經營樂團跟經營公司一樣，怎處理人、事、物，都是學問。","sidebar":"tutorialSidebar"},"dict/chord-learning-map/index":{"id":"dict/chord-learning-map/index","title":"和弦學習地圖","description":"整理音階學習地圖全貌。","sidebar":"tutorialSidebar"},"dict/diatonic-chords-in-circle-of-5ths/index":{"id":"dict/diatonic-chords-in-circle-of-5ths/index","title":"五度圈順階和弦表","description":"用五度圈作為主軸，整理各調的順階和弦表。\\n","sidebar":"tutorialSidebar"},"dict/scale-learning-map/index":{"id":"dict/scale-learning-map/index","title":"音階學習地圖","description":"整理音階學習地圖全貌。","sidebar":"tutorialSidebar"},"gossip/algorithm-for-songs/index":{"id":"gossip/algorithm-for-songs/index","title":"概述『和聲分析』演算法","description":"討論對於透過和聲分析概念，做成演算法的想法","sidebar":"tutorialSidebar"},"gossip/as-professional":{"id":"gossip/as-professional","title":"拿音樂當飯吃","description":"去年 (2014) 幾個學生朋友來信問，上班族想轉行做音樂。這是那時候回信的內容。沒有對或錯，單純個人主觀的見解與經驗，也是一些思考的方向。。。","sidebar":"tutorialSidebar"},"gossip/correctness-efficiency":{"id":"gossip/correctness-efficiency","title":"正確性與速度","description":"幾個月前工作上遇到一個問題，就是 正確性 (Correctness) 與 速度 (其實就是效率 Efficiency) 的課題。","sidebar":"tutorialSidebar"},"gossip/dialogue":{"id":"gossip/dialogue","title":"對談","description":"一直以來, 教育是我覺得要提升人民素質唯一的方法 ...\\n教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 …\\n教育育是要我們的下一代能夠有 \\"獨立思考\\", \\"明辨是非\\", \\"培養創造力\\", \\"解決問題\\" …\\n","sidebar":"tutorialSidebar"},"gossip/echo-delay-reverb":{"id":"gossip/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","sidebar":"tutorialSidebar"},"gossip/fixed-solfege":{"id":"gossip/fixed-solfege","title":"固定唱名？還是首調唱名？","description":"探討音程相對、絕對的概念。","sidebar":"tutorialSidebar"},"gossip/form-framework-history":{"id":"gossip/form-framework-history","title":"曲式、歷史背景、框架模式","description":"這幾個背後的本質是類似的。","sidebar":"tutorialSidebar"},"gossip/guthrie-govan-live-2015":{"id":"gossip/guthrie-govan-live-2015","title":"2015 Guthrie Govan 西門河岸吉他音樂講座 筆記","description":"昨天 (2015/10/18) 去聽了期待已久的 Guthrie Govan (以下簡稱 GG) 音樂會 + 吉他講座。GG 現場的演奏，真的是大師中的大師，流暢到不可思議！信手捻來 的每個音符、句子、和弦，甚至是隨手彈的馬上疊成 Loop ，好像隨時都可以『噴』出一堆曲子。","sidebar":"tutorialSidebar"},"gossip/how-to-listen-a-song":{"id":"gossip/how-to-listen-a-song","title":"如何聽一首歌?","description":"聆聽音樂的層次、角度。如何欣賞音樂，是學音樂必要的修煉。","sidebar":"tutorialSidebar"},"gossip/jimi-hendrix":{"id":"gossip/jimi-hendrix","title":"聊聊 Jimi Hendrix","description":"在 70 年代，搖滾音樂的盛事開啟年代之中，有三位非常有才華，但卻同時在 27 歲猝逝的音樂人，他們分別是 Jimi Hendrix (吉米·漢醉克斯、Janis Joplin (珍妮絲 賈普林)、Jim Morrison (吉姆莫里森 The Doors 主唱)，在近代音樂史上，他們被稱為 27 俱樂部 (27 Club) 。","sidebar":"tutorialSidebar"},"gossip/just-getting-started/index":{"id":"gossip/just-getting-started/index","title":"十年，不過是入門而已","description":"怎樣才算入門？","sidebar":"tutorialSidebar"},"gossip/learn-to-listen":{"id":"gossip/learn-to-listen","title":"學習聆聽","description":"探討音程相對、絕對的概念。","sidebar":"tutorialSidebar"},"gossip/learning":{"id":"gossip/learning","title":"學習雜感","description":"態度與嚴謹造就我們的現況。","sidebar":"tutorialSidebar"},"gossip/level-of-practice":{"id":"gossip/level-of-practice","title":"練習的層次","description":"關於練習的 DoD (Definition of Done)，以及學習的階段。","sidebar":"tutorialSidebar"},"gossip/mathematics":{"id":"gossip/mathematics","title":"數學問題?","description":"音樂 vs 數學，理性的科學，與感性的藝術。","sidebar":"tutorialSidebar"},"gossip/memory-in-ff-music":{"id":"gossip/memory-in-ff-music","title":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","description":"整理電玩雜誌對作曲家植松伸夫訪談紀錄","sidebar":"tutorialSidebar"},"gossip/play-what-and-how-to-play":{"id":"gossip/play-what-and-how-to-play","title":"怎麼彈和彈什麼","description":"怎麼彈、彈什麼？","sidebar":"tutorialSidebar"},"gossip/protect-your-ears":{"id":"gossip/protect-your-ears","title":"保護耳朵","description":"音樂人要好好的保護自己的耳朵。","sidebar":"tutorialSidebar"},"gossip/pubking-wubai":{"id":"gossip/pubking-wubai","title":"2014 伍佰無盡閃亮的高雄小巨蛋演唱會 - 觀後感 + 聊聊記憶中的伍佰","description":"聊聊記憶中的 Pub King 伍佰","sidebar":"tutorialSidebar"},"gossip/relative-absolute":{"id":"gossip/relative-absolute","title":"相對、絕對音感","description":"二元論議題，在各個領域都會有的，音樂領域最常討論的就是音感。","sidebar":"tutorialSidebar"},"gossip/semi-tone-of-solfege":{"id":"gossip/semi-tone-of-solfege","title":"關於半音階的唱名","description":"唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\\n","sidebar":"tutorialSidebar"},"gossip/simple-complex":{"id":"gossip/simple-complex","title":"簡單、複雜","description":"聊聊我個人對於現實與理想、簡單與複雜之間差距的心得與體悟。\\n","sidebar":"tutorialSidebar"},"gossip/speed":{"id":"gossip/speed","title":"關於速度","description":"天下武功，唯快不破！","sidebar":"tutorialSidebar"},"gossip/willing":{"id":"gossip/willing","title":"意念傳達","description":"音樂是一種語言，語言的目的在於傳達想法。","sidebar":"tutorialSidebar"},"guitar/effective-practice-guitar/index":{"id":"guitar/effective-practice-guitar/index","title":"吉他練習的實踐原則：專心、彈好、彈滿","description":"聊聊練吉他的方法。","sidebar":"tutorialSidebar"},"guitar/guide-to-guitar-scale-patterns/index":{"id":"guitar/guide-to-guitar-scale-patterns/index","title":"吉他音階學習摘要","description":"吉他手不免要熟悉吉他指板 (技術) 與音階 (理論) 的關係，怎麼有系統、有效的學習呢？","sidebar":"tutorialSidebar"},"guitar/guitar-chord-voicing/index":{"id":"guitar/guitar-chord-voicing/index","title":"吉他的和弦聲位基本概念 (Chord Voicing)","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","sidebar":"tutorialSidebar"},"guitar/guitar-fundation-technical/index":{"id":"guitar/guitar-fundation-technical/index","title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","sidebar":"tutorialSidebar"},"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index":{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"基本上，『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","sidebar":"tutorialSidebar"},"guitar/how-to-practice-a-song":{"id":"guitar/how-to-practice-a-song","title":"怎麼練一首曲子","description":"當好不容易拿到樂譜的時候，發現共 15 頁，250 小節，翻開發現一堆一個小節就佔據一行的篇幅  ... 這時候要怎麼辦？一小節一小節慢慢啃嗎??","sidebar":"tutorialSidebar"},"guitar/practice-arpeggios-251-on-g-major/index":{"id":"guitar/practice-arpeggios-251-on-g-major/index","title":"吉他琶音練習 - 以 G 大調 251 為例","description":"繼續聊聊琶音 (Arpeggios) 練習的方法。","sidebar":"tutorialSidebar"},"guitar/practice-arpeggios-g-major7/index":{"id":"guitar/practice-arpeggios-g-major7/index","title":"吉他琶音練習 - 以 Gmaj7 為例","description":"怎樣練習琶音？琶音跟掃弦有什麼差異？怎麼利用琶音創造樂句？","sidebar":"tutorialSidebar"},"guitar/some-tips-and-suggestions-for-practicing-guitar":{"id":"guitar/some-tips-and-suggestions-for-practicing-guitar","title":"一些練習吉他的提醒和建議","description":"在 Youtube 的 Next level guitar 看到這段『十個練習吉他的提醒和建議』，不管是什麼樣的吉他手，都是一個不錯的自我修練的參考。","sidebar":"tutorialSidebar"},"guitar/time-for-practice-guitar/index":{"id":"guitar/time-for-practice-guitar/index","title":"如何安排練習 - 以上班族為例","description":"很多朋友都會有同樣的問題：怎麼安排時間練習，特別是上班族。","sidebar":"tutorialSidebar"},"index":{"id":"index","title":"關於","description":"@Since 2006：音樂學習心得筆記，範圍包含：音樂理論、吉他、鍵盤、MIDI、編曲、音樂製作 … 等技術層次議題，內容深淺不一，僅是個人學習的心得筆記、想法，非教學，歡迎同好交流指教。","sidebar":"tutorialSidebar"},"production/basic-concepts-of-sampling":{"id":"production/basic-concepts-of-sampling","title":"取樣的基本概念","description":"這是網友在 鄉民站 Keyboard 版問的問題, 我花了一點時間回答基本的概念.","sidebar":"tutorialSidebar"},"production/concepts-of-music-technology/index":{"id":"production/concepts-of-music-technology/index","title":"數位音樂科技概論","description":"我對於 `數位科技 (Concepts of Digital Music Technology)` 在音樂上的應用一直很有興趣，不過這範圍很廣，所以做了一些整理。","sidebar":"tutorialSidebar"},"production/digital-audio-system/index":{"id":"production/digital-audio-system/index","title":"Digital Audio System","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","sidebar":"tutorialSidebar"},"production/loop-concepts-and-application-one-night-in-beijing/index":{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","title":"Loop 的概念與應用實例 - One Night in 北京","description":"Loop 字面上 的意思是: 循環, 反覆, 迴路, 橡皮圈 .... etc. 在音樂製作中, 中文可以翻譯成 \\"循環樂句\\", 或者 \\"反覆段落\\". 簡單說就是一段一直反覆播放的 \\"樂音\\".","sidebar":"tutorialSidebar"},"production/motu-mk4-macos/index":{"id":"production/motu-mk4-macos/index","title":"在 MacOS 驅動 MOTU UltraLite mk4","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","sidebar":"tutorialSidebar"},"production/using-external-midi-devices-in-logic-pro/index":{"id":"production/using-external-midi-devices-in-logic-pro/index","title":"Using External MIDI Devices in Logic Pro","description":"紀錄如何在 Logic Pro 使用外部音源設備。","sidebar":"tutorialSidebar"},"songs/FFV_Dear-Friends/index":{"id":"songs/FFV_Dear-Friends/index","title":"FFV - Dear Friends","description":"一張深埋在心裡，最喜歡的專輯之一：FFV - Dear Friends","sidebar":"tutorialSidebar"},"songs/g5-project":{"id":"songs/g5-project","title":"G5 Project","description":"介紹日本吉他演奏專輯","sidebar":"tutorialSidebar"},"songs/Jack-Thammarat_Emotive-Ballad/index":{"id":"songs/Jack-Thammarat_Emotive-Ballad/index","title":"Jack Thammarat - Emotive Ballad","description":"原曲是 Guthrie Govan (GG) 的作品，算是抒情小品，但我更喜歡 Jack Thammarat 即興的版本。","sidebar":"tutorialSidebar"},"songs/Jack-Thammarat_Falling-in-Love-Again/index":{"id":"songs/Jack-Thammarat_Falling-in-Love-Again/index","title":"Jack Thammarat - Falling in Love Again","description":"這首 Falling in Love Again 吉他演奏曲是由 2009 Guitar Idol Winner - Jack Thammarat (泰國人) 譜曲 & 演奏","sidebar":"tutorialSidebar"},"songs/Songs-for-Memory/index":{"id":"songs/Songs-for-Memory/index","title":"過年，想找的就只是回憶而已：那些年練過的流行歌曲","description":"聊聊我自己學琴過程練過的流行歌曲","sidebar":"tutorialSidebar"},"songs/Songs-for-Nylon-Guitar/index":{"id":"songs/Songs-for-Nylon-Guitar/index","title":"那些年練過的古典吉他歌曲","description":"聊聊我自己的學習途徑，原點學習的是尼龍吉他 (Nylon Guitar)，或稱作『古典吉他』。為啥會選擇古典吉他？因為當時根本不知道吉他還有分尼龍弦、鋼弦、插電的 .... XDD","sidebar":"tutorialSidebar"},"songs/Survival-Dance/index":{"id":"songs/Survival-Dance/index","title":"熱力十七歲","description":"年輕歲月的記憶","sidebar":"tutorialSidebar"},"songs/Zelda-Trailer-2017E3/index":{"id":"songs/Zelda-Trailer-2017E3/index","title":"Zelda - Breath of the Wild | Story Trailer Theme (2017)","description":"薩爾達傳說 曠野之息 2017 的 宣傳影片主題曲，很久沒看到這麼感動的製作，覺得要記錄下來。","sidebar":"tutorialSidebar"},"theory/canon-chord-progression/index":{"id":"theory/canon-chord-progression/index","title":"卡農進行 (Canon Chord Progression)","description":"卡農進行這個和弦進行的歌曲實在很多，從這些整理中去了解常見的應用。\\n","sidebar":"tutorialSidebar"},"theory/create-a-new-scale":{"id":"theory/create-a-new-scale","title":"可以自行創造音階？","description":"以現代西洋音樂的基礎討論如何自行創造一個不一樣的音階。","sidebar":"tutorialSidebar"},"theory/dominant-and-extension-chords/index":{"id":"theory/dominant-and-extension-chords/index","title":"屬七和弦與其延伸和弦的代換","description":"屬七和弦 (Dominant 7th) 是屬於大和弦的延伸，也就是以大三和弦 (Major Triad) 為基礎，繼續以三度音往上堆疊。和弦的屬性分類以三度音和七度音作為一個分界點，更詳細請參閱 Guide Tone 或 Shell Chord 的介紹。繼續往上堆疊延伸則會得到所謂的延伸和弦.","sidebar":"tutorialSidebar"},"theory/eleventh-chord":{"id":"theory/eleventh-chord","title":"十一和弦 (X11 Eleventh Chord)","description":"整理十一和弦的基本概念、組成、複合和弦、應用 ... 等概念。","sidebar":"tutorialSidebar"},"theory/essence-of-musical-scales":{"id":"theory/essence-of-musical-scales","title":"音階的本質","description":"在學習音階的過程中，我心裡一直有個疑惑，為什麼要叫做自然大調音階？自然小調音階？為啥是自然的？不是人工的？為啥又會有調式這種東西存在？","sidebar":"tutorialSidebar"},"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch":{"id":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","title":"再談『首調、固定唱名』與『相對、絕對音感』","description":"以現代西洋音樂的基礎討論如何自行創造一個不一樣的音階。","sidebar":"tutorialSidebar"},"theory/major-scale/index":{"id":"theory/major-scale/index","title":"大調音階 (Major Scale)","description":"整理大調音階的概念","sidebar":"tutorialSidebar"},"theory/minor-scale/index":{"id":"theory/minor-scale/index","title":"小調音階 (Minor Scale)","description":"整理小調音階的概念","sidebar":"tutorialSidebar"},"theory/modal-interchange":{"id":"theory/modal-interchange","title":"調式內轉 (Modal Interchange)","description":"調式內轉 (Modal Interchange，也有書本翻譯成 借用和弦、調式互換) 是一種和聲技巧，簡單說就是大小調和聲的借用、代換技巧。可以讓以調為中心的歌曲在進行中製造出類似轉調的感覺、和張力，但卻不是大段落的轉調。他的感覺不像直接轉調那樣一直延續情緒、卻無法延續張力，但卻讓歌曲有明顯且有效的張力效果。對歌曲來說，可說是有畫龍點睛的效果。","sidebar":"tutorialSidebar"},"theory/musical-mode":{"id":"theory/musical-mode","title":"調式概念","description":"整理一些個人對於調式概念的理解的步驟： 1) 調式的功能 2) 理解與記憶 3) 聽覺分析 4) 歌曲例子\\n","sidebar":"tutorialSidebar"},"theory/musical-scale-fundation":{"id":"theory/musical-scale-fundation","title":"音階基礎","description":"西洋樂理以巴哈十二平均律為基礎。平均律定義了音階的物理關係，將倍數頻率 (ex：220Hz - 440Hz) 以指數關係分成十二個半音，我們又依據聽覺的協和度定義了音程關係，以音程關係加以排列組合，形成各式各樣的聲響特色、顏色，經由先知們整理過後，形成我們目前使用的音階系統。\\n","sidebar":"tutorialSidebar"},"theory/note-signature/index":{"id":"theory/note-signature/index","title":"升降記號","description":"整理升降記號的概念。","sidebar":"tutorialSidebar"},"theory/relation-chord":{"id":"theory/relation-chord","title":"關係和弦？","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","sidebar":"tutorialSidebar"},"theory/secondary-dominat/index":{"id":"theory/secondary-dominat/index","title":"次屬和弦 (Secondary Dominant)","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","sidebar":"tutorialSidebar"},"theory/suspended-chord":{"id":"theory/suspended-chord","title":"掛留和弦 (Suspended Chord)","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","sidebar":"tutorialSidebar"},"theory/thinkin-mode":{"id":"theory/thinkin-mode","title":"調式學習的思考","description":"針對網友提問，整理學習調式音階經常遇到的問題。","sidebar":"tutorialSidebar"},"theory/thriteenth-chord":{"id":"theory/thriteenth-chord","title":"十三和弦 (X13 Thirteenth Chord)","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","sidebar":"tutorialSidebar"},"theory/tonality-key-mode/index":{"id":"theory/tonality-key-mode/index","title":"調、調式及轉調","description":"討論重要的觀念： 調與調式、和轉調之間的差異。","sidebar":"tutorialSidebar"},"theory/tritone":{"id":"theory/tritone","title":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","sidebar":"tutorialSidebar"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"version":{"pluginId":"default","version":"current","label":"Next","banner":null,"badge":false,"noIndex":false,"className":"docs-version-current","isLast":true,"docsSidebars":{"tutorialSidebar":[{"type":"category","label":"聊音樂","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/gossip/algorithm-for-songs/","label":"概述『和聲分析』演算法","docId":"gossip/algorithm-for-songs/index","unlisted":false},{"type":"link","href":"/gossip/as-professional","label":"拿音樂當飯吃","docId":"gossip/as-professional","unlisted":false},{"type":"link","href":"/gossip/correctness-efficiency","label":"正確性與速度","docId":"gossip/correctness-efficiency","unlisted":false},{"type":"link","href":"/gossip/dialogue","label":"對談","docId":"gossip/dialogue","unlisted":false},{"type":"link","href":"/gossip/fixed-solfege","label":"固定唱名？還是首調唱名？","docId":"gossip/fixed-solfege","unlisted":false},{"type":"link","href":"/gossip/form-framework-history","label":"曲式、歷史背景、框架模式","docId":"gossip/form-framework-history","unlisted":false},{"type":"link","href":"/gossip/guthrie-govan-live-2015","label":"2015 Guthrie Govan 西門河岸吉他音樂講座 筆記","docId":"gossip/guthrie-govan-live-2015","unlisted":false},{"type":"link","href":"/gossip/how-to-listen-a-song","label":"如何聽一首歌?","docId":"gossip/how-to-listen-a-song","unlisted":false},{"type":"link","href":"/gossip/jimi-hendrix","label":"聊聊 Jimi Hendrix","docId":"gossip/jimi-hendrix","unlisted":false},{"type":"link","href":"/gossip/just-getting-started/","label":"十年，不過是入門而已","docId":"gossip/just-getting-started/index","unlisted":false},{"type":"link","href":"/gossip/learn-to-listen","label":"學習聆聽","docId":"gossip/learn-to-listen","unlisted":false},{"type":"link","href":"/gossip/learning","label":"學習雜感","docId":"gossip/learning","unlisted":false},{"type":"link","href":"/gossip/level-of-practice","label":"練習的層次","docId":"gossip/level-of-practice","unlisted":false},{"type":"link","href":"/gossip/mathematics","label":"數學問題?","docId":"gossip/mathematics","unlisted":false},{"type":"link","href":"/gossip/memory-in-ff-music","label":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","docId":"gossip/memory-in-ff-music","unlisted":false},{"type":"link","href":"/gossip/play-what-and-how-to-play","label":"怎麼彈和彈什麼","docId":"gossip/play-what-and-how-to-play","unlisted":false},{"type":"link","href":"/gossip/protect-your-ears","label":"保護耳朵","docId":"gossip/protect-your-ears","unlisted":false},{"type":"link","href":"/gossip/pubking-wubai","label":"2014 伍佰無盡閃亮的高雄小巨蛋演唱會 - 觀後感 + 聊聊記憶中的伍佰","docId":"gossip/pubking-wubai","unlisted":false},{"type":"link","href":"/gossip/relative-absolute","label":"相對、絕對音感","docId":"gossip/relative-absolute","unlisted":false},{"type":"link","href":"/gossip/simple-complex","label":"簡單、複雜","docId":"gossip/simple-complex","unlisted":false},{"type":"link","href":"/gossip/speed","label":"關於速度","docId":"gossip/speed","unlisted":false},{"type":"link","href":"/gossip/willing","label":"意念傳達","docId":"gossip/willing","unlisted":false}],"href":"/category/聊音樂"},{"type":"category","label":"給吉他手","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/guitar/effective-practice-guitar/","label":"吉他練習的實踐原則：專心、彈好、彈滿","docId":"guitar/effective-practice-guitar/index","unlisted":false},{"type":"link","href":"/guitar/guide-to-guitar-scale-patterns/","label":"吉他音階學習摘要","docId":"guitar/guide-to-guitar-scale-patterns/index","unlisted":false},{"type":"link","href":"/guitar/guitar-chord-voicing/","label":"吉他的和弦聲位基本概念","docId":"guitar/guitar-chord-voicing/index","unlisted":false},{"type":"link","href":"/guitar/guitar-fundation-technical/","label":"吉他的基本功","docId":"guitar/guitar-fundation-technical/index","unlisted":false},{"type":"link","href":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/","label":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","docId":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","unlisted":false},{"type":"link","href":"/guitar/how-to-practice-a-song","label":"怎麼練一首曲子","docId":"guitar/how-to-practice-a-song","unlisted":false},{"type":"link","href":"/guitar/practice-arpeggios-251-on-g-major/","label":"吉他琶音練習 - 以 G 大調 251 為例","docId":"guitar/practice-arpeggios-251-on-g-major/index","unlisted":false},{"type":"link","href":"/guitar/practice-arpeggios-g-major7/","label":"吉他琶音練習 - 以 Gmaj7 為例","docId":"guitar/practice-arpeggios-g-major7/index","unlisted":false},{"type":"link","href":"/guitar/some-tips-and-suggestions-for-practicing-guitar","label":"一些練習吉他的提醒和建議","docId":"guitar/some-tips-and-suggestions-for-practicing-guitar","unlisted":false},{"type":"link","href":"/guitar/time-for-practice-guitar/","label":"如何安排練習 - 以上班族為例","docId":"guitar/time-for-practice-guitar/index","unlisted":false}],"href":"/category/給吉他手"},{"type":"category","label":"樂理","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/theory/canon-chord-progression/","label":"卡農進行 (Canon Chord Progression)","docId":"theory/canon-chord-progression/index","unlisted":false},{"type":"link","href":"/theory/create-a-new-scale","label":"可以自行創造音階？","docId":"theory/create-a-new-scale","unlisted":false},{"type":"link","href":"/theory/dominant-and-extension-chords/","label":"屬七和弦與其延伸和弦的代換","docId":"theory/dominant-and-extension-chords/index","unlisted":false},{"type":"link","href":"/theory/eleventh-chord","label":"十一和弦 (X11 Eleventh Chord)","docId":"theory/eleventh-chord","unlisted":false},{"type":"link","href":"/theory/essence-of-musical-scales","label":"音階的本質","docId":"theory/essence-of-musical-scales","unlisted":false},{"type":"link","href":"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","label":"再談『首調、固定唱名』與『相對、絕對音感』","docId":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","unlisted":false},{"type":"link","href":"/theory/major-scale/","label":"大調音階 (Major Scale)","docId":"theory/major-scale/index","unlisted":false},{"type":"link","href":"/theory/minor-scale/","label":"小調音階 (Minor Scale)","docId":"theory/minor-scale/index","unlisted":false},{"type":"link","href":"/theory/modal-interchange","label":"調式內轉 (Modal Interchange)","docId":"theory/modal-interchange","unlisted":false},{"type":"link","href":"/theory/musical-mode","label":"調式概念","docId":"theory/musical-mode","unlisted":false},{"type":"link","href":"/theory/musical-scale-fundation","label":"音階基礎","docId":"theory/musical-scale-fundation","unlisted":false},{"type":"link","href":"/theory/note-signature/","label":"升降記號","docId":"theory/note-signature/index","unlisted":false},{"type":"link","href":"/theory/relation-chord","label":"關係和弦？","docId":"theory/relation-chord","unlisted":false},{"type":"link","href":"/theory/secondary-dominat/","label":"次屬和弦 (Secondary Dominant)","docId":"theory/secondary-dominat/index","unlisted":false},{"type":"link","href":"/theory/semi-tone-of-solfege","label":"關於半音階的唱名","docId":"theory/semi-tone-of-solfege","unlisted":false},{"type":"link","href":"/theory/suspended-chord","label":"掛留和弦 (Suspended Chord)","docId":"theory/suspended-chord","unlisted":false},{"type":"link","href":"/theory/thinkin-mode","label":"調式學習的思考","docId":"theory/thinkin-mode","unlisted":false},{"type":"link","href":"/theory/thriteenth-chord","label":"十三和弦 (X13 Thirteenth Chord)","docId":"theory/thriteenth-chord","unlisted":false},{"type":"link","href":"/theory/tonality-key-mode/","label":"調、調式及轉調","docId":"theory/tonality-key-mode/index","unlisted":false},{"type":"link","href":"/theory/tritone","label":"三全音","docId":"theory/tritone","unlisted":false},{"type":"link","href":"/theory/tsd-chord-substitution","label":"TSD 和聲代換","docId":"theory/tsd-chord-substitution","unlisted":false}],"href":"/category/樂理"},{"type":"category","label":"樂團經營","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/band/about-score/","label":"關於寫譜","docId":"band/about-score/index","unlisted":false},{"type":"link","href":"/band/getting-started-play-as-band","label":"怎樣的程度才適合組樂團？","docId":"band/getting-started-play-as-band","unlisted":false},{"type":"link","href":"/band/pick-songs","label":"開歌, 選歌","docId":"band/pick-songs","unlisted":false},{"type":"link","href":"/band/run-a-band","label":"樂團的經營","docId":"band/run-a-band","unlisted":false}],"href":"/category/樂團經營"},{"type":"category","label":"音樂製作","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/production/basic-acoustics-and-digital-music-production","label":"基礎聲學與數位音樂製作","docId":"production/basic-acoustics-and-digital-music-production","unlisted":false},{"type":"link","href":"/production/basic-concepts-of-sampling","label":"取樣的基本概念","docId":"production/basic-concepts-of-sampling","unlisted":false},{"type":"link","href":"/production/concepts-of-music-technology/","label":"數位音樂科技概論","docId":"production/concepts-of-music-technology/index","unlisted":false},{"type":"link","href":"/production/digital-audio-system/","label":"Digital Audio System","docId":"production/digital-audio-system/index","unlisted":false},{"type":"link","href":"/production/echo-delay-reverb","label":"聊聊即時與立即 - Echo / Delay / Reverb","docId":"production/echo-delay-reverb","unlisted":false},{"type":"link","href":"/production/loop-concepts-and-application-one-night-in-beijing/","label":"Loop 的概念與應用實例 - One Night in 北京","docId":"production/loop-concepts-and-application-one-night-in-beijing/index","unlisted":false},{"type":"link","href":"/production/motu-mk4-macos/","label":"在 MacOS 驅動 MOTU UltraLite mk4","docId":"production/motu-mk4-macos/index","unlisted":false},{"type":"link","href":"/production/pad-basics","label":"襯底 PAD 的基本概念","docId":"production/pad-basics","unlisted":false},{"type":"link","href":"/production/recording-drums-basics","label":"錄鼓的一些基本概念","docId":"production/recording-drums-basics","unlisted":false},{"type":"link","href":"/production/using-external-midi-devices-in-logic-pro/","label":"Using External MIDI Devices in Logic Pro","docId":"production/using-external-midi-devices-in-logic-pro/index","unlisted":false}],"href":"/category/音樂製作"},{"type":"category","label":"私房歌","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/songs/FFV_Dear-Friends/","label":"FFV - Dear Friends","docId":"songs/FFV_Dear-Friends/index","unlisted":false},{"type":"link","href":"/songs/Jack-Thammarat_Emotive-Ballad/","label":"Jack Thammarat - Emotive Ballad","docId":"songs/Jack-Thammarat_Emotive-Ballad/index","unlisted":false},{"type":"link","href":"/songs/Jack-Thammarat_Falling-in-Love-Again/","label":"Jack Thammarat - Falling in Love Again","docId":"songs/Jack-Thammarat_Falling-in-Love-Again/index","unlisted":false},{"type":"link","href":"/songs/Songs-for-Memory/","label":"過年，想找的就只是回憶而已：那些年練過的流行歌曲","docId":"songs/Songs-for-Memory/index","unlisted":false},{"type":"link","href":"/songs/Songs-for-Nylon-Guitar/","label":"那些年練過的古典吉他歌曲","docId":"songs/Songs-for-Nylon-Guitar/index","unlisted":false},{"type":"link","href":"/songs/Survival-Dance/","label":"熱力十七歲","docId":"songs/Survival-Dance/index","unlisted":false},{"type":"link","href":"/songs/Zelda-Trailer-2017E3/","label":"Zelda - Breath of the Wild | Story Trailer Theme (2017)","docId":"songs/Zelda-Trailer-2017E3/index","unlisted":false},{"type":"link","href":"/songs/g5-project","label":"G5 Project","docId":"songs/g5-project","unlisted":false}],"href":"/category/私房歌"},{"type":"category","label":"字典工具","collapsible":true,"collapsed":true,"items":[{"type":"link","href":"/dict/chord-learning-map/","label":"和弦學習地圖","docId":"dict/chord-learning-map/index","unlisted":false},{"type":"link","href":"/dict/diatonic-chords-in-circle-of-5ths/","label":"五度圈順階和弦表","docId":"dict/diatonic-chords-in-circle-of-5ths/index","unlisted":false},{"type":"link","href":"/dict/scale-learning-map/","label":"音階學習地圖","docId":"dict/scale-learning-map/index","unlisted":false}],"href":"/category/字典工具"},{"type":"link","href":"/","label":"關於","docId":"index","unlisted":false}]},"docs":{"band/about-score/index":{"id":"band/about-score/index","title":"關於寫譜","description":"樂團講求合作，合作就有溝通，溝通就要有效率。樂手、音樂家最有效的溝通方式就是樂譜了 ... 但 ...","sidebar":"tutorialSidebar"},"band/getting-started-play-as-band":{"id":"band/getting-started-play-as-band","title":"怎樣的程度才適合組樂團？","description":"如果是面試，該怎麼設定團員的合格標準？","sidebar":"tutorialSidebar"},"band/pick-songs":{"id":"band/pick-songs","title":"開歌, 選歌","description":"歌唱選秀節目裡, 評審常常給參賽者的評語是:","sidebar":"tutorialSidebar"},"band/run-a-band":{"id":"band/run-a-band","title":"樂團的經營","description":"經營樂團跟經營公司一樣，怎處理人、事、物，都是學問。","sidebar":"tutorialSidebar"},"dict/chord-learning-map/index":{"id":"dict/chord-learning-map/index","title":"和弦學習地圖","description":"整理音階學習地圖全貌。","sidebar":"tutorialSidebar"},"dict/diatonic-chords-in-circle-of-5ths/index":{"id":"dict/diatonic-chords-in-circle-of-5ths/index","title":"五度圈順階和弦表","description":"用五度圈作為主軸，整理各調的順階和弦表。\\n","sidebar":"tutorialSidebar"},"dict/scale-learning-map/index":{"id":"dict/scale-learning-map/index","title":"音階學習地圖","description":"整理音階學習地圖全貌。","sidebar":"tutorialSidebar"},"gossip/algorithm-for-songs/index":{"id":"gossip/algorithm-for-songs/index","title":"概述『和聲分析』演算法","description":"討論對於透過和聲分析概念，做成演算法的想法","sidebar":"tutorialSidebar"},"gossip/as-professional":{"id":"gossip/as-professional","title":"拿音樂當飯吃","description":"去年 (2014) 幾個學生朋友來信問，上班族想轉行做音樂。這是那時候回信的內容。沒有對或錯，單純個人主觀的見解與經驗，也是一些思考的方向。。。","sidebar":"tutorialSidebar"},"gossip/correctness-efficiency":{"id":"gossip/correctness-efficiency","title":"正確性與速度","description":"幾個月前工作上遇到一個問題，就是 正確性 (Correctness) 與 速度 (其實就是效率 Efficiency) 的課題。","sidebar":"tutorialSidebar"},"gossip/dialogue":{"id":"gossip/dialogue","title":"對談","description":"一直以來, 教育是我覺得要提升人民素質唯一的方法 ...\\n教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 …\\n教育育是要我們的下一代能夠有 \\"獨立思考\\", \\"明辨是非\\", \\"培養創造力\\", \\"解決問題\\" …\\n","sidebar":"tutorialSidebar"},"gossip/fixed-solfege":{"id":"gossip/fixed-solfege","title":"固定唱名？還是首調唱名？","description":"探討音程相對、絕對的概念。","sidebar":"tutorialSidebar"},"gossip/form-framework-history":{"id":"gossip/form-framework-history","title":"曲式、歷史背景、框架模式","description":"這幾個背後的本質是類似的。","sidebar":"tutorialSidebar"},"gossip/guthrie-govan-live-2015":{"id":"gossip/guthrie-govan-live-2015","title":"2015 Guthrie Govan 西門河岸吉他音樂講座 筆記","description":"昨天 (2015/10/18) 去聽了期待已久的 Guthrie Govan (以下簡稱 GG) 音樂會 + 吉他講座。GG 現場的演奏，真的是大師中的大師，流暢到不可思議！信手捻來 的每個音符、句子、和弦，甚至是隨手彈的馬上疊成 Loop ，好像隨時都可以『噴』出一堆曲子。","sidebar":"tutorialSidebar"},"gossip/how-to-listen-a-song":{"id":"gossip/how-to-listen-a-song","title":"如何聽一首歌?","description":"聆聽音樂的層次、角度。如何欣賞音樂，是學音樂必要的修煉。","sidebar":"tutorialSidebar"},"gossip/jimi-hendrix":{"id":"gossip/jimi-hendrix","title":"聊聊 Jimi Hendrix","description":"在 70 年代，搖滾音樂的盛事開啟年代之中，有三位非常有才華，但卻同時在 27 歲猝逝的音樂人，他們分別是 Jimi Hendrix (吉米·漢醉克斯、Janis Joplin (珍妮絲 賈普林)、Jim Morrison (吉姆莫里森 The Doors 主唱)，在近代音樂史上，他們被稱為 27 俱樂部 (27 Club) 。","sidebar":"tutorialSidebar"},"gossip/just-getting-started/index":{"id":"gossip/just-getting-started/index","title":"十年，不過是入門而已","description":"怎樣才算入門？","sidebar":"tutorialSidebar"},"gossip/learn-to-listen":{"id":"gossip/learn-to-listen","title":"學習聆聽","description":"探討音程相對、絕對的概念。","sidebar":"tutorialSidebar"},"gossip/learning":{"id":"gossip/learning","title":"學習雜感","description":"態度與嚴謹造就我們的現況。","sidebar":"tutorialSidebar"},"gossip/level-of-practice":{"id":"gossip/level-of-practice","title":"練習的層次","description":"關於練習的 DoD (Definition of Done)，以及學習的階段。","sidebar":"tutorialSidebar"},"gossip/mathematics":{"id":"gossip/mathematics","title":"數學問題?","description":"音樂 vs 數學，理性的科學，與感性的藝術。","sidebar":"tutorialSidebar"},"gossip/memory-in-ff-music":{"id":"gossip/memory-in-ff-music","title":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","description":"整理電玩雜誌對作曲家植松伸夫訪談紀錄","sidebar":"tutorialSidebar"},"gossip/play-what-and-how-to-play":{"id":"gossip/play-what-and-how-to-play","title":"怎麼彈和彈什麼","description":"怎麼彈、彈什麼？","sidebar":"tutorialSidebar"},"gossip/protect-your-ears":{"id":"gossip/protect-your-ears","title":"保護耳朵","description":"音樂人要好好的保護自己的耳朵。","sidebar":"tutorialSidebar"},"gossip/pubking-wubai":{"id":"gossip/pubking-wubai","title":"2014 伍佰無盡閃亮的高雄小巨蛋演唱會 - 觀後感 + 聊聊記憶中的伍佰","description":"聊聊記憶中的 Pub King 伍佰","sidebar":"tutorialSidebar"},"gossip/relative-absolute":{"id":"gossip/relative-absolute","title":"相對、絕對音感","description":"二元論議題，在各個領域都會有的，音樂領域最常討論的就是音感。","sidebar":"tutorialSidebar"},"gossip/simple-complex":{"id":"gossip/simple-complex","title":"簡單、複雜","description":"聊聊我個人對於現實與理想、簡單與複雜之間差距的心得與體悟。\\n","sidebar":"tutorialSidebar"},"gossip/speed":{"id":"gossip/speed","title":"關於速度","description":"天下武功，唯快不破！","sidebar":"tutorialSidebar"},"gossip/willing":{"id":"gossip/willing","title":"意念傳達","description":"音樂是一種語言，語言的目的在於傳達想法。","sidebar":"tutorialSidebar"},"guitar/effective-practice-guitar/index":{"id":"guitar/effective-practice-guitar/index","title":"吉他練習的實踐原則：專心、彈好、彈滿","description":"聊聊練吉他的方法。","sidebar":"tutorialSidebar"},"guitar/guide-to-guitar-scale-patterns/index":{"id":"guitar/guide-to-guitar-scale-patterns/index","title":"吉他音階學習摘要","description":"吉他手不免要熟悉吉他指板 (技術) 與音階 (理論) 的關係，怎麼有系統、有效的學習呢？","sidebar":"tutorialSidebar"},"guitar/guitar-chord-voicing/index":{"id":"guitar/guitar-chord-voicing/index","title":"吉他的和弦聲位基本概念","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","sidebar":"tutorialSidebar"},"guitar/guitar-fundation-technical/index":{"id":"guitar/guitar-fundation-technical/index","title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","sidebar":"tutorialSidebar"},"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index":{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","sidebar":"tutorialSidebar"},"guitar/how-to-practice-a-song":{"id":"guitar/how-to-practice-a-song","title":"怎麼練一首曲子","description":"當好不容易拿到樂譜的時候，發現共 15 頁，250 小節，翻開發現一堆一個小節就佔據一行的篇幅  ... 這時候要怎麼辦？一小節一小節慢慢啃嗎??","sidebar":"tutorialSidebar"},"guitar/practice-arpeggios-251-on-g-major/index":{"id":"guitar/practice-arpeggios-251-on-g-major/index","title":"吉他琶音練習 - 以 G 大調 251 為例","description":"繼續聊聊琶音 (Arpeggios) 練習的方法。","sidebar":"tutorialSidebar"},"guitar/practice-arpeggios-g-major7/index":{"id":"guitar/practice-arpeggios-g-major7/index","title":"吉他琶音練習 - 以 Gmaj7 為例","description":"怎樣練習琶音？琶音跟掃弦有什麼差異？怎麼利用琶音創造樂句？","sidebar":"tutorialSidebar"},"guitar/some-tips-and-suggestions-for-practicing-guitar":{"id":"guitar/some-tips-and-suggestions-for-practicing-guitar","title":"一些練習吉他的提醒和建議","description":"在 Youtube 的 Next level guitar 看到這段『十個練習吉他的提醒和建議』，不管是什麼樣的吉他手，都是一個不錯的自我修練的參考。","sidebar":"tutorialSidebar"},"guitar/time-for-practice-guitar/index":{"id":"guitar/time-for-practice-guitar/index","title":"如何安排練習 - 以上班族為例","description":"很多朋友都會有同樣的問題：怎麼安排時間練習，特別是上班族。","sidebar":"tutorialSidebar"},"index":{"id":"index","title":"關於","description":"@Since 2006：音樂學習心得筆記，範圍包含：音樂理論、吉他、鍵盤、MIDI、編曲、音樂製作 … 等技術層次議題，內容深淺不一，僅是個人學習的心得筆記、想法，非教學，歡迎同好交流指教。","sidebar":"tutorialSidebar"},"production/basic-acoustics-and-digital-music-production":{"id":"production/basic-acoustics-and-digital-music-production","title":"基礎聲學與數位音樂製作","description":"對於 \\"聲音\\" 的物理現象，很多物理學、音響或 PA 相關的書都會提到一些基本概念，這些概念對於音樂製作上，尤其要做出比較有豐富聲響的音樂，基礎的聲音理論更是要有相當的瞭解。\\n","sidebar":"tutorialSidebar"},"production/basic-concepts-of-sampling":{"id":"production/basic-concepts-of-sampling","title":"取樣的基本概念","description":"這是網友在 鄉民站 Keyboard 版問的問題, 我花了一點時間回答基本的概念.","sidebar":"tutorialSidebar"},"production/concepts-of-music-technology/index":{"id":"production/concepts-of-music-technology/index","title":"數位音樂科技概論","description":"我對於 `數位科技 (Concepts of Digital Music Technology)` 在音樂上的應用一直很有興趣，不過這範圍很廣，所以做了一些整理。","sidebar":"tutorialSidebar"},"production/digital-audio-system/index":{"id":"production/digital-audio-system/index","title":"Digital Audio System","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","sidebar":"tutorialSidebar"},"production/echo-delay-reverb":{"id":"production/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","sidebar":"tutorialSidebar"},"production/loop-concepts-and-application-one-night-in-beijing/index":{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","title":"Loop 的概念與應用實例 - One Night in 北京","description":"Loop 字面上 的意思是: 循環, 反覆, 迴路, 橡皮圈 .... etc. 在音樂製作中, 中文可以翻譯成 \\"循環樂句\\", 或者 \\"反覆段落\\". 簡單說就是一段一直反覆播放的 \\"樂音\\".","sidebar":"tutorialSidebar"},"production/motu-mk4-macos/index":{"id":"production/motu-mk4-macos/index","title":"在 MacOS 驅動 MOTU UltraLite mk4","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","sidebar":"tutorialSidebar"},"production/pad-basics":{"id":"production/pad-basics","title":"襯底 PAD 的基本概念","description":"襯底 (Pad) 是音樂裡製造流動感、呼吸感的長音元素。了解 Pad 的類型與編曲技巧，可以讓音樂更有層次與氛圍。\\n","sidebar":"tutorialSidebar"},"production/recording-drums-basics":{"id":"production/recording-drums-basics","title":"錄鼓的一些基本概念","description":"鼓的錄音是音樂製作中的一項大工程，需要具備基礎知識、技術與設備。本文整理錄鼓所需的認知與注意事項。\\n","sidebar":"tutorialSidebar"},"production/using-external-midi-devices-in-logic-pro/index":{"id":"production/using-external-midi-devices-in-logic-pro/index","title":"Using External MIDI Devices in Logic Pro","description":"紀錄如何在 Logic Pro 使用外部音源設備。","sidebar":"tutorialSidebar"},"songs/FFV_Dear-Friends/index":{"id":"songs/FFV_Dear-Friends/index","title":"FFV - Dear Friends","description":"一張深埋在心裡，最喜歡的專輯之一：FFV - Dear Friends","sidebar":"tutorialSidebar"},"songs/g5-project":{"id":"songs/g5-project","title":"G5 Project","description":"介紹日本吉他演奏專輯","sidebar":"tutorialSidebar"},"songs/Jack-Thammarat_Emotive-Ballad/index":{"id":"songs/Jack-Thammarat_Emotive-Ballad/index","title":"Jack Thammarat - Emotive Ballad","description":"原曲是 Guthrie Govan (GG) 的作品，算是抒情小品，但我更喜歡 Jack Thammarat 即興的版本。","sidebar":"tutorialSidebar"},"songs/Jack-Thammarat_Falling-in-Love-Again/index":{"id":"songs/Jack-Thammarat_Falling-in-Love-Again/index","title":"Jack Thammarat - Falling in Love Again","description":"這首 Falling in Love Again 吉他演奏曲是由 2009 Guitar Idol Winner - Jack Thammarat (泰國人) 譜曲 & 演奏","sidebar":"tutorialSidebar"},"songs/Songs-for-Memory/index":{"id":"songs/Songs-for-Memory/index","title":"過年，想找的就只是回憶而已：那些年練過的流行歌曲","description":"聊聊我自己學琴過程練過的流行歌曲","sidebar":"tutorialSidebar"},"songs/Songs-for-Nylon-Guitar/index":{"id":"songs/Songs-for-Nylon-Guitar/index","title":"那些年練過的古典吉他歌曲","description":"聊聊我自己的學習途徑，原點學習的是尼龍吉他 (Nylon Guitar)，或稱作『古典吉他』。為啥會選擇古典吉他？因為當時根本不知道吉他還有分尼龍弦、鋼弦、插電的 .... XDD","sidebar":"tutorialSidebar"},"songs/Survival-Dance/index":{"id":"songs/Survival-Dance/index","title":"熱力十七歲","description":"年輕歲月的記憶","sidebar":"tutorialSidebar"},"songs/Zelda-Trailer-2017E3/index":{"id":"songs/Zelda-Trailer-2017E3/index","title":"Zelda - Breath of the Wild | Story Trailer Theme (2017)","description":"薩爾達傳說 曠野之息 2017 的 宣傳影片主題曲，很久沒看到這麼感動的製作，覺得要記錄下來。","sidebar":"tutorialSidebar"},"theory/canon-chord-progression/index":{"id":"theory/canon-chord-progression/index","title":"卡農進行 (Canon Chord Progression)","description":"卡農進行這個和弦進行的歌曲實在很多，從這些整理中去了解常見的應用。\\n","sidebar":"tutorialSidebar"},"theory/create-a-new-scale":{"id":"theory/create-a-new-scale","title":"可以自行創造音階？","description":"以現代西洋音樂的基礎討論如何自行創造一個不一樣的音階。","sidebar":"tutorialSidebar"},"theory/dominant-and-extension-chords/index":{"id":"theory/dominant-and-extension-chords/index","title":"屬七和弦與其延伸和弦的代換","description":"屬七和弦 (Dominant 7th) 是屬於大和弦的延伸，也就是以大三和弦 (Major Triad) 為基礎，繼續以三度音往上堆疊。和弦的屬性分類以三度音和七度音作為一個分界點，更詳細請參閱 Guide Tone 或 Shell Chord 的介紹。繼續往上堆疊延伸則會得到所謂的延伸和弦.","sidebar":"tutorialSidebar"},"theory/eleventh-chord":{"id":"theory/eleventh-chord","title":"十一和弦 (X11 Eleventh Chord)","description":"整理十一和弦的基本概念、組成、複合和弦、應用 ... 等概念。","sidebar":"tutorialSidebar"},"theory/essence-of-musical-scales":{"id":"theory/essence-of-musical-scales","title":"音階的本質","description":"在學習音階的過程中，我心裡一直有個疑惑，為什麼要叫做自然大調音階？自然小調音階？為啥是自然的？不是人工的？為啥又會有調式這種東西存在？","sidebar":"tutorialSidebar"},"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch":{"id":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","title":"再談『首調、固定唱名』與『相對、絕對音感』","description":"以現代西洋音樂的基礎討論如何自行創造一個不一樣的音階。","sidebar":"tutorialSidebar"},"theory/major-scale/index":{"id":"theory/major-scale/index","title":"大調音階 (Major Scale)","description":"整理大調音階的概念","sidebar":"tutorialSidebar"},"theory/minor-scale/index":{"id":"theory/minor-scale/index","title":"小調音階 (Minor Scale)","description":"整理小調音階的概念","sidebar":"tutorialSidebar"},"theory/modal-interchange":{"id":"theory/modal-interchange","title":"調式內轉 (Modal Interchange)","description":"調式內轉 (Modal Interchange，也有書本翻譯成 借用和弦、調式互換) 是一種和聲技巧，簡單說就是大小調和聲的借用、代換技巧。可以讓以調為中心的歌曲在進行中製造出類似轉調的感覺、和張力，但卻不是大段落的轉調。他的感覺不像直接轉調那樣一直延續情緒、卻無法延續張力，但卻讓歌曲有明顯且有效的張力效果。對歌曲來說，可說是有畫龍點睛的效果。","sidebar":"tutorialSidebar"},"theory/musical-mode":{"id":"theory/musical-mode","title":"調式概念","description":"整理一些個人對於調式概念的理解的步驟： 1) 調式的功能 2) 理解與記憶 3) 聽覺分析 4) 歌曲例子\\n","sidebar":"tutorialSidebar"},"theory/musical-scale-fundation":{"id":"theory/musical-scale-fundation","title":"音階基礎","description":"西洋樂理以巴哈十二平均律為基礎。平均律定義了音階的物理關係，將倍數頻率 (ex：220Hz - 440Hz) 以指數關係分成十二個半音，我們又依據聽覺的協和度定義了音程關係，以音程關係加以排列組合，形成各式各樣的聲響特色、顏色，經由先知們整理過後，形成我們目前使用的音階系統。\\n","sidebar":"tutorialSidebar"},"theory/note-signature/index":{"id":"theory/note-signature/index","title":"升降記號","description":"整理升降記號的概念。","sidebar":"tutorialSidebar"},"theory/relation-chord":{"id":"theory/relation-chord","title":"關係和弦？","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","sidebar":"tutorialSidebar"},"theory/secondary-dominat/index":{"id":"theory/secondary-dominat/index","title":"次屬和弦 (Secondary Dominant)","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","sidebar":"tutorialSidebar"},"theory/semi-tone-of-solfege":{"id":"theory/semi-tone-of-solfege","title":"關於半音階的唱名","description":"唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\\n","sidebar":"tutorialSidebar"},"theory/suspended-chord":{"id":"theory/suspended-chord","title":"掛留和弦 (Suspended Chord)","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","sidebar":"tutorialSidebar"},"theory/thinkin-mode":{"id":"theory/thinkin-mode","title":"調式學習的思考","description":"針對網友提問，整理學習調式音階經常遇到的問題。","sidebar":"tutorialSidebar"},"theory/thriteenth-chord":{"id":"theory/thriteenth-chord","title":"十三和弦 (X13 Thirteenth Chord)","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","sidebar":"tutorialSidebar"},"theory/tonality-key-mode/index":{"id":"theory/tonality-key-mode/index","title":"調、調式及轉調","description":"討論重要的觀念： 調與調式、和轉調之間的差異。","sidebar":"tutorialSidebar"},"theory/tritone":{"id":"theory/tritone","title":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","sidebar":"tutorialSidebar"},"theory/tsd-chord-substitution":{"id":"theory/tsd-chord-substitution","title":"TSD 和聲代換","description":"調性的順階和弦中，主和弦、下屬和弦、屬和弦各有其聲響特性。了解 TSD 代換原理，可以讓和弦進行更加豐富。\\n","sidebar":"tutorialSidebar"}}}}');
 
 /***/ },
 
@@ -32174,7 +33223,7 @@ if (false) // removed by dead control flow
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"delay","permalink":"/tags/delay","allTagsPath":"/tags","count":1,"items":[{"id":"gossip/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/gossip/echo-delay-reverb"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"delay","permalink":"/tags/delay","allTagsPath":"/tags","count":1,"items":[{"id":"production/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/production/echo-delay-reverb"}],"unlisted":false}}');
 
 /***/ },
 
@@ -32452,7 +33501,7 @@ function _extends() {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Chord Voicing","permalink":"/tags/chord-voicing","allTagsPath":"/tags","count":1,"items":[{"id":"guitar/guitar-chord-voicing/index","title":"吉他的和弦聲位基本概念 (Chord Voicing)","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","permalink":"/guitar/guitar-chord-voicing/"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Chord Voicing","permalink":"/tags/chord-voicing","allTagsPath":"/tags","count":1,"items":[{"id":"guitar/guitar-chord-voicing/index","title":"吉他的和弦聲位基本概念","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","permalink":"/guitar/guitar-chord-voicing/"}],"unlisted":false}}');
 
 /***/ },
 
@@ -32468,7 +33517,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/willing","title":"意念
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"★★★★★","permalink":"/tags/★★★★★","allTagsPath":"/tags","count":6,"items":[{"id":"theory/note-signature/index","title":"升降記號","description":"整理升降記號的概念。","permalink":"/theory/note-signature/"},{"id":"guitar/guitar-chord-voicing/index","title":"吉他的和弦聲位基本概念 (Chord Voicing)","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","permalink":"/guitar/guitar-chord-voicing/"},{"id":"theory/major-scale/index","title":"大調音階 (Major Scale)","description":"整理大調音階的概念","permalink":"/theory/major-scale/"},{"id":"theory/dominant-and-extension-chords/index","title":"屬七和弦與其延伸和弦的代換","description":"屬七和弦 (Dominant 7th) 是屬於大和弦的延伸，也就是以大三和弦 (Major Triad) 為基礎，繼續以三度音往上堆疊。和弦的屬性分類以三度音和七度音作為一個分界點，更詳細請參閱 Guide Tone 或 Shell Chord 的介紹。繼續往上堆疊延伸則會得到所謂的延伸和弦.","permalink":"/theory/dominant-and-extension-chords/"},{"id":"theory/secondary-dominat/index","title":"次屬和弦 (Secondary Dominant)","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","permalink":"/theory/secondary-dominat/"},{"id":"theory/modal-interchange","title":"調式內轉 (Modal Interchange)","description":"調式內轉 (Modal Interchange，也有書本翻譯成 借用和弦、調式互換) 是一種和聲技巧，簡單說就是大小調和聲的借用、代換技巧。可以讓以調為中心的歌曲在進行中製造出類似轉調的感覺、和張力，但卻不是大段落的轉調。他的感覺不像直接轉調那樣一直延續情緒、卻無法延續張力，但卻讓歌曲有明顯且有效的張力效果。對歌曲來說，可說是有畫龍點睛的效果。","permalink":"/theory/modal-interchange"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"★★★★★","permalink":"/tags/★★★★★","allTagsPath":"/tags","count":6,"items":[{"id":"theory/note-signature/index","title":"升降記號","description":"整理升降記號的概念。","permalink":"/theory/note-signature/"},{"id":"guitar/guitar-chord-voicing/index","title":"吉他的和弦聲位基本概念","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","permalink":"/guitar/guitar-chord-voicing/"},{"id":"theory/major-scale/index","title":"大調音階 (Major Scale)","description":"整理大調音階的概念","permalink":"/theory/major-scale/"},{"id":"theory/dominant-and-extension-chords/index","title":"屬七和弦與其延伸和弦的代換","description":"屬七和弦 (Dominant 7th) 是屬於大和弦的延伸，也就是以大三和弦 (Major Triad) 為基礎，繼續以三度音往上堆疊。和弦的屬性分類以三度音和七度音作為一個分界點，更詳細請參閱 Guide Tone 或 Shell Chord 的介紹。繼續往上堆疊延伸則會得到所謂的延伸和弦.","permalink":"/theory/dominant-and-extension-chords/"},{"id":"theory/secondary-dominat/index","title":"次屬和弦 (Secondary Dominant)","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","permalink":"/theory/secondary-dominat/"},{"id":"theory/modal-interchange","title":"調式內轉 (Modal Interchange)","description":"調式內轉 (Modal Interchange，也有書本翻譯成 借用和弦、調式互換) 是一種和聲技巧，簡單說就是大小調和聲的借用、代換技巧。可以讓以調為中心的歌曲在進行中製造出類似轉調的感覺、和張力，但卻不是大段落的轉調。他的感覺不像直接轉調那樣一直延續情緒、卻無法延續張力，但卻讓歌曲有明顯且有效的張力效果。對歌曲來說，可說是有畫龍點睛的效果。","permalink":"/theory/modal-interchange"}],"unlisted":false}}');
 
 /***/ },
 
@@ -32549,7 +33598,7 @@ __webpack_require__.r(__webpack_exports__);
 
 const frontMatter = {
 	title: '如何選擇適合的數位設備 - 以吉他綜合效果器為例',
-	description: '基本上，『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。',
+	description: '『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。',
 	date: new Date('2011-05-22T00:00:00.000Z'),
 	tags: [
 		'★★★',
@@ -32946,7 +33995,7 @@ function MDXContent(props = {}) {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"docusaurus-plugin-content-docs":{"default":{"path":"/","versions":[{"name":"current","label":"Next","isLast":true,"path":"/","mainDocId":"index","docs":[{"id":"band/about-score/index","path":"/band/about-score/","sidebar":"tutorialSidebar"},{"id":"band/getting-started-play-as-band","path":"/band/getting-started-play-as-band","sidebar":"tutorialSidebar"},{"id":"band/pick-songs","path":"/band/pick-songs","sidebar":"tutorialSidebar"},{"id":"band/run-a-band","path":"/band/run-a-band","sidebar":"tutorialSidebar"},{"id":"dict/chord-learning-map/index","path":"/dict/chord-learning-map/","sidebar":"tutorialSidebar"},{"id":"dict/diatonic-chords-in-circle-of-5ths/index","path":"/dict/diatonic-chords-in-circle-of-5ths/","sidebar":"tutorialSidebar"},{"id":"dict/scale-learning-map/index","path":"/dict/scale-learning-map/","sidebar":"tutorialSidebar"},{"id":"gossip/algorithm-for-songs/index","path":"/gossip/algorithm-for-songs/","sidebar":"tutorialSidebar"},{"id":"gossip/as-professional","path":"/gossip/as-professional","sidebar":"tutorialSidebar"},{"id":"gossip/correctness-efficiency","path":"/gossip/correctness-efficiency","sidebar":"tutorialSidebar"},{"id":"gossip/dialogue","path":"/gossip/dialogue","sidebar":"tutorialSidebar"},{"id":"gossip/echo-delay-reverb","path":"/gossip/echo-delay-reverb","sidebar":"tutorialSidebar"},{"id":"gossip/fixed-solfege","path":"/gossip/fixed-solfege","sidebar":"tutorialSidebar"},{"id":"gossip/form-framework-history","path":"/gossip/form-framework-history","sidebar":"tutorialSidebar"},{"id":"gossip/guthrie-govan-live-2015","path":"/gossip/guthrie-govan-live-2015","sidebar":"tutorialSidebar"},{"id":"gossip/how-to-listen-a-song","path":"/gossip/how-to-listen-a-song","sidebar":"tutorialSidebar"},{"id":"gossip/jimi-hendrix","path":"/gossip/jimi-hendrix","sidebar":"tutorialSidebar"},{"id":"gossip/just-getting-started/index","path":"/gossip/just-getting-started/","sidebar":"tutorialSidebar"},{"id":"gossip/learn-to-listen","path":"/gossip/learn-to-listen","sidebar":"tutorialSidebar"},{"id":"gossip/learning","path":"/gossip/learning","sidebar":"tutorialSidebar"},{"id":"gossip/level-of-practice","path":"/gossip/level-of-practice","sidebar":"tutorialSidebar"},{"id":"gossip/mathematics","path":"/gossip/mathematics","sidebar":"tutorialSidebar"},{"id":"gossip/memory-in-ff-music","path":"/gossip/memory-in-ff-music","sidebar":"tutorialSidebar"},{"id":"gossip/play-what-and-how-to-play","path":"/gossip/play-what-and-how-to-play","sidebar":"tutorialSidebar"},{"id":"gossip/protect-your-ears","path":"/gossip/protect-your-ears","sidebar":"tutorialSidebar"},{"id":"gossip/pubking-wubai","path":"/gossip/pubking-wubai","sidebar":"tutorialSidebar"},{"id":"gossip/relative-absolute","path":"/gossip/relative-absolute","sidebar":"tutorialSidebar"},{"id":"gossip/semi-tone-of-solfege","path":"/gossip/semi-tone-of-solfege","sidebar":"tutorialSidebar"},{"id":"gossip/simple-complex","path":"/gossip/simple-complex","sidebar":"tutorialSidebar"},{"id":"gossip/speed","path":"/gossip/speed","sidebar":"tutorialSidebar"},{"id":"gossip/willing","path":"/gossip/willing","sidebar":"tutorialSidebar"},{"id":"guitar/effective-practice-guitar/index","path":"/guitar/effective-practice-guitar/","sidebar":"tutorialSidebar"},{"id":"guitar/guide-to-guitar-scale-patterns/index","path":"/guitar/guide-to-guitar-scale-patterns/","sidebar":"tutorialSidebar"},{"id":"guitar/guitar-chord-voicing/index","path":"/guitar/guitar-chord-voicing/","sidebar":"tutorialSidebar"},{"id":"guitar/guitar-fundation-technical/index","path":"/guitar/guitar-fundation-technical/","sidebar":"tutorialSidebar"},{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","path":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/","sidebar":"tutorialSidebar"},{"id":"guitar/how-to-practice-a-song","path":"/guitar/how-to-practice-a-song","sidebar":"tutorialSidebar"},{"id":"guitar/practice-arpeggios-251-on-g-major/index","path":"/guitar/practice-arpeggios-251-on-g-major/","sidebar":"tutorialSidebar"},{"id":"guitar/practice-arpeggios-g-major7/index","path":"/guitar/practice-arpeggios-g-major7/","sidebar":"tutorialSidebar"},{"id":"guitar/some-tips-and-suggestions-for-practicing-guitar","path":"/guitar/some-tips-and-suggestions-for-practicing-guitar","sidebar":"tutorialSidebar"},{"id":"guitar/time-for-practice-guitar/index","path":"/guitar/time-for-practice-guitar/","sidebar":"tutorialSidebar"},{"id":"index","path":"/","sidebar":"tutorialSidebar"},{"id":"production/basic-concepts-of-sampling","path":"/production/basic-concepts-of-sampling","sidebar":"tutorialSidebar"},{"id":"production/concepts-of-music-technology/index","path":"/production/concepts-of-music-technology/","sidebar":"tutorialSidebar"},{"id":"production/digital-audio-system/index","path":"/production/digital-audio-system/","sidebar":"tutorialSidebar"},{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","path":"/production/loop-concepts-and-application-one-night-in-beijing/","sidebar":"tutorialSidebar"},{"id":"production/motu-mk4-macos/index","path":"/production/motu-mk4-macos/","sidebar":"tutorialSidebar"},{"id":"production/using-external-midi-devices-in-logic-pro/index","path":"/production/using-external-midi-devices-in-logic-pro/","sidebar":"tutorialSidebar"},{"id":"songs/FFV_Dear-Friends/index","path":"/songs/FFV_Dear-Friends/","sidebar":"tutorialSidebar"},{"id":"songs/g5-project","path":"/songs/g5-project","sidebar":"tutorialSidebar"},{"id":"songs/Jack-Thammarat_Emotive-Ballad/index","path":"/songs/Jack-Thammarat_Emotive-Ballad/","sidebar":"tutorialSidebar"},{"id":"songs/Jack-Thammarat_Falling-in-Love-Again/index","path":"/songs/Jack-Thammarat_Falling-in-Love-Again/","sidebar":"tutorialSidebar"},{"id":"songs/Songs-for-Memory/index","path":"/songs/Songs-for-Memory/","sidebar":"tutorialSidebar"},{"id":"songs/Songs-for-Nylon-Guitar/index","path":"/songs/Songs-for-Nylon-Guitar/","sidebar":"tutorialSidebar"},{"id":"songs/Survival-Dance/index","path":"/songs/Survival-Dance/","sidebar":"tutorialSidebar"},{"id":"songs/Zelda-Trailer-2017E3/index","path":"/songs/Zelda-Trailer-2017E3/","sidebar":"tutorialSidebar"},{"id":"theory/canon-chord-progression/index","path":"/theory/canon-chord-progression/","sidebar":"tutorialSidebar"},{"id":"theory/create-a-new-scale","path":"/theory/create-a-new-scale","sidebar":"tutorialSidebar"},{"id":"theory/dominant-and-extension-chords/index","path":"/theory/dominant-and-extension-chords/","sidebar":"tutorialSidebar"},{"id":"theory/eleventh-chord","path":"/theory/eleventh-chord","sidebar":"tutorialSidebar"},{"id":"theory/essence-of-musical-scales","path":"/theory/essence-of-musical-scales","sidebar":"tutorialSidebar"},{"id":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","path":"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","sidebar":"tutorialSidebar"},{"id":"theory/major-scale/index","path":"/theory/major-scale/","sidebar":"tutorialSidebar"},{"id":"theory/minor-scale/index","path":"/theory/minor-scale/","sidebar":"tutorialSidebar"},{"id":"theory/modal-interchange","path":"/theory/modal-interchange","sidebar":"tutorialSidebar"},{"id":"theory/musical-mode","path":"/theory/musical-mode","sidebar":"tutorialSidebar"},{"id":"theory/musical-scale-fundation","path":"/theory/musical-scale-fundation","sidebar":"tutorialSidebar"},{"id":"theory/note-signature/index","path":"/theory/note-signature/","sidebar":"tutorialSidebar"},{"id":"theory/relation-chord","path":"/theory/relation-chord","sidebar":"tutorialSidebar"},{"id":"theory/secondary-dominat/index","path":"/theory/secondary-dominat/","sidebar":"tutorialSidebar"},{"id":"theory/suspended-chord","path":"/theory/suspended-chord","sidebar":"tutorialSidebar"},{"id":"theory/thinkin-mode","path":"/theory/thinkin-mode","sidebar":"tutorialSidebar"},{"id":"theory/thriteenth-chord","path":"/theory/thriteenth-chord","sidebar":"tutorialSidebar"},{"id":"theory/tonality-key-mode/index","path":"/theory/tonality-key-mode/","sidebar":"tutorialSidebar"},{"id":"theory/tritone","path":"/theory/tritone","sidebar":"tutorialSidebar"},{"id":"/category/聊音樂","path":"/category/聊音樂","sidebar":"tutorialSidebar"},{"id":"/category/給吉他手","path":"/category/給吉他手","sidebar":"tutorialSidebar"},{"id":"/category/樂理","path":"/category/樂理","sidebar":"tutorialSidebar"},{"id":"/category/樂團經營","path":"/category/樂團經營","sidebar":"tutorialSidebar"},{"id":"/category/音樂製作","path":"/category/音樂製作","sidebar":"tutorialSidebar"},{"id":"/category/私房歌","path":"/category/私房歌","sidebar":"tutorialSidebar"},{"id":"/category/字典工具","path":"/category/字典工具","sidebar":"tutorialSidebar"}],"draftIds":["gossip/reality-ideal","gossip/tech-and-music","songs/and-life"],"sidebars":{"tutorialSidebar":{"link":{"path":"/category/聊音樂","label":"聊音樂"}}}}],"breadcrumbs":true}},"docusaurus-plugin-google-gtag":{"default":{"trackingID":["G-74MKXCGYFR"],"anonymizeIP":true,"id":"default"}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"docusaurus-plugin-content-docs":{"default":{"path":"/","versions":[{"name":"current","label":"Next","isLast":true,"path":"/","mainDocId":"index","docs":[{"id":"band/about-score/index","path":"/band/about-score/","sidebar":"tutorialSidebar"},{"id":"band/getting-started-play-as-band","path":"/band/getting-started-play-as-band","sidebar":"tutorialSidebar"},{"id":"band/pick-songs","path":"/band/pick-songs","sidebar":"tutorialSidebar"},{"id":"band/run-a-band","path":"/band/run-a-band","sidebar":"tutorialSidebar"},{"id":"dict/chord-learning-map/index","path":"/dict/chord-learning-map/","sidebar":"tutorialSidebar"},{"id":"dict/diatonic-chords-in-circle-of-5ths/index","path":"/dict/diatonic-chords-in-circle-of-5ths/","sidebar":"tutorialSidebar"},{"id":"dict/scale-learning-map/index","path":"/dict/scale-learning-map/","sidebar":"tutorialSidebar"},{"id":"gossip/algorithm-for-songs/index","path":"/gossip/algorithm-for-songs/","sidebar":"tutorialSidebar"},{"id":"gossip/as-professional","path":"/gossip/as-professional","sidebar":"tutorialSidebar"},{"id":"gossip/correctness-efficiency","path":"/gossip/correctness-efficiency","sidebar":"tutorialSidebar"},{"id":"gossip/dialogue","path":"/gossip/dialogue","sidebar":"tutorialSidebar"},{"id":"gossip/fixed-solfege","path":"/gossip/fixed-solfege","sidebar":"tutorialSidebar"},{"id":"gossip/form-framework-history","path":"/gossip/form-framework-history","sidebar":"tutorialSidebar"},{"id":"gossip/guthrie-govan-live-2015","path":"/gossip/guthrie-govan-live-2015","sidebar":"tutorialSidebar"},{"id":"gossip/how-to-listen-a-song","path":"/gossip/how-to-listen-a-song","sidebar":"tutorialSidebar"},{"id":"gossip/jimi-hendrix","path":"/gossip/jimi-hendrix","sidebar":"tutorialSidebar"},{"id":"gossip/just-getting-started/index","path":"/gossip/just-getting-started/","sidebar":"tutorialSidebar"},{"id":"gossip/learn-to-listen","path":"/gossip/learn-to-listen","sidebar":"tutorialSidebar"},{"id":"gossip/learning","path":"/gossip/learning","sidebar":"tutorialSidebar"},{"id":"gossip/level-of-practice","path":"/gossip/level-of-practice","sidebar":"tutorialSidebar"},{"id":"gossip/mathematics","path":"/gossip/mathematics","sidebar":"tutorialSidebar"},{"id":"gossip/memory-in-ff-music","path":"/gossip/memory-in-ff-music","sidebar":"tutorialSidebar"},{"id":"gossip/play-what-and-how-to-play","path":"/gossip/play-what-and-how-to-play","sidebar":"tutorialSidebar"},{"id":"gossip/protect-your-ears","path":"/gossip/protect-your-ears","sidebar":"tutorialSidebar"},{"id":"gossip/pubking-wubai","path":"/gossip/pubking-wubai","sidebar":"tutorialSidebar"},{"id":"gossip/relative-absolute","path":"/gossip/relative-absolute","sidebar":"tutorialSidebar"},{"id":"gossip/simple-complex","path":"/gossip/simple-complex","sidebar":"tutorialSidebar"},{"id":"gossip/speed","path":"/gossip/speed","sidebar":"tutorialSidebar"},{"id":"gossip/willing","path":"/gossip/willing","sidebar":"tutorialSidebar"},{"id":"guitar/effective-practice-guitar/index","path":"/guitar/effective-practice-guitar/","sidebar":"tutorialSidebar"},{"id":"guitar/guide-to-guitar-scale-patterns/index","path":"/guitar/guide-to-guitar-scale-patterns/","sidebar":"tutorialSidebar"},{"id":"guitar/guitar-chord-voicing/index","path":"/guitar/guitar-chord-voicing/","sidebar":"tutorialSidebar"},{"id":"guitar/guitar-fundation-technical/index","path":"/guitar/guitar-fundation-technical/","sidebar":"tutorialSidebar"},{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","path":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/","sidebar":"tutorialSidebar"},{"id":"guitar/how-to-practice-a-song","path":"/guitar/how-to-practice-a-song","sidebar":"tutorialSidebar"},{"id":"guitar/practice-arpeggios-251-on-g-major/index","path":"/guitar/practice-arpeggios-251-on-g-major/","sidebar":"tutorialSidebar"},{"id":"guitar/practice-arpeggios-g-major7/index","path":"/guitar/practice-arpeggios-g-major7/","sidebar":"tutorialSidebar"},{"id":"guitar/some-tips-and-suggestions-for-practicing-guitar","path":"/guitar/some-tips-and-suggestions-for-practicing-guitar","sidebar":"tutorialSidebar"},{"id":"guitar/time-for-practice-guitar/index","path":"/guitar/time-for-practice-guitar/","sidebar":"tutorialSidebar"},{"id":"index","path":"/","sidebar":"tutorialSidebar"},{"id":"production/basic-acoustics-and-digital-music-production","path":"/production/basic-acoustics-and-digital-music-production","sidebar":"tutorialSidebar"},{"id":"production/basic-concepts-of-sampling","path":"/production/basic-concepts-of-sampling","sidebar":"tutorialSidebar"},{"id":"production/concepts-of-music-technology/index","path":"/production/concepts-of-music-technology/","sidebar":"tutorialSidebar"},{"id":"production/digital-audio-system/index","path":"/production/digital-audio-system/","sidebar":"tutorialSidebar"},{"id":"production/echo-delay-reverb","path":"/production/echo-delay-reverb","sidebar":"tutorialSidebar"},{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","path":"/production/loop-concepts-and-application-one-night-in-beijing/","sidebar":"tutorialSidebar"},{"id":"production/motu-mk4-macos/index","path":"/production/motu-mk4-macos/","sidebar":"tutorialSidebar"},{"id":"production/pad-basics","path":"/production/pad-basics","sidebar":"tutorialSidebar"},{"id":"production/recording-drums-basics","path":"/production/recording-drums-basics","sidebar":"tutorialSidebar"},{"id":"production/using-external-midi-devices-in-logic-pro/index","path":"/production/using-external-midi-devices-in-logic-pro/","sidebar":"tutorialSidebar"},{"id":"songs/FFV_Dear-Friends/index","path":"/songs/FFV_Dear-Friends/","sidebar":"tutorialSidebar"},{"id":"songs/g5-project","path":"/songs/g5-project","sidebar":"tutorialSidebar"},{"id":"songs/Jack-Thammarat_Emotive-Ballad/index","path":"/songs/Jack-Thammarat_Emotive-Ballad/","sidebar":"tutorialSidebar"},{"id":"songs/Jack-Thammarat_Falling-in-Love-Again/index","path":"/songs/Jack-Thammarat_Falling-in-Love-Again/","sidebar":"tutorialSidebar"},{"id":"songs/Songs-for-Memory/index","path":"/songs/Songs-for-Memory/","sidebar":"tutorialSidebar"},{"id":"songs/Songs-for-Nylon-Guitar/index","path":"/songs/Songs-for-Nylon-Guitar/","sidebar":"tutorialSidebar"},{"id":"songs/Survival-Dance/index","path":"/songs/Survival-Dance/","sidebar":"tutorialSidebar"},{"id":"songs/Zelda-Trailer-2017E3/index","path":"/songs/Zelda-Trailer-2017E3/","sidebar":"tutorialSidebar"},{"id":"theory/canon-chord-progression/index","path":"/theory/canon-chord-progression/","sidebar":"tutorialSidebar"},{"id":"theory/create-a-new-scale","path":"/theory/create-a-new-scale","sidebar":"tutorialSidebar"},{"id":"theory/dominant-and-extension-chords/index","path":"/theory/dominant-and-extension-chords/","sidebar":"tutorialSidebar"},{"id":"theory/eleventh-chord","path":"/theory/eleventh-chord","sidebar":"tutorialSidebar"},{"id":"theory/essence-of-musical-scales","path":"/theory/essence-of-musical-scales","sidebar":"tutorialSidebar"},{"id":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","path":"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","sidebar":"tutorialSidebar"},{"id":"theory/major-scale/index","path":"/theory/major-scale/","sidebar":"tutorialSidebar"},{"id":"theory/minor-scale/index","path":"/theory/minor-scale/","sidebar":"tutorialSidebar"},{"id":"theory/modal-interchange","path":"/theory/modal-interchange","sidebar":"tutorialSidebar"},{"id":"theory/musical-mode","path":"/theory/musical-mode","sidebar":"tutorialSidebar"},{"id":"theory/musical-scale-fundation","path":"/theory/musical-scale-fundation","sidebar":"tutorialSidebar"},{"id":"theory/note-signature/index","path":"/theory/note-signature/","sidebar":"tutorialSidebar"},{"id":"theory/relation-chord","path":"/theory/relation-chord","sidebar":"tutorialSidebar"},{"id":"theory/secondary-dominat/index","path":"/theory/secondary-dominat/","sidebar":"tutorialSidebar"},{"id":"theory/semi-tone-of-solfege","path":"/theory/semi-tone-of-solfege","sidebar":"tutorialSidebar"},{"id":"theory/suspended-chord","path":"/theory/suspended-chord","sidebar":"tutorialSidebar"},{"id":"theory/thinkin-mode","path":"/theory/thinkin-mode","sidebar":"tutorialSidebar"},{"id":"theory/thriteenth-chord","path":"/theory/thriteenth-chord","sidebar":"tutorialSidebar"},{"id":"theory/tonality-key-mode/index","path":"/theory/tonality-key-mode/","sidebar":"tutorialSidebar"},{"id":"theory/tritone","path":"/theory/tritone","sidebar":"tutorialSidebar"},{"id":"theory/tsd-chord-substitution","path":"/theory/tsd-chord-substitution","sidebar":"tutorialSidebar"},{"id":"/category/聊音樂","path":"/category/聊音樂","sidebar":"tutorialSidebar"},{"id":"/category/給吉他手","path":"/category/給吉他手","sidebar":"tutorialSidebar"},{"id":"/category/樂理","path":"/category/樂理","sidebar":"tutorialSidebar"},{"id":"/category/樂團經營","path":"/category/樂團經營","sidebar":"tutorialSidebar"},{"id":"/category/音樂製作","path":"/category/音樂製作","sidebar":"tutorialSidebar"},{"id":"/category/私房歌","path":"/category/私房歌","sidebar":"tutorialSidebar"},{"id":"/category/字典工具","path":"/category/字典工具","sidebar":"tutorialSidebar"}],"draftIds":["gossip/reality-ideal","gossip/tech-and-music","songs/and-life"],"sidebars":{"tutorialSidebar":{"link":{"path":"/category/聊音樂","label":"聊音樂"}}}}],"breadcrumbs":true}},"docusaurus-plugin-google-gtag":{"default":{"trackingID":["G-74MKXCGYFR"],"anonymizeIP":true,"id":"default"}}}');
 
 /***/ },
 
@@ -33369,7 +34418,7 @@ function MDXContent(props = {}) {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"基本上，『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","source":"@site/docs/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index.md","sourceDirName":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example","slug":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/","permalink":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"吉他","permalink":"/tags/吉他"},{"inline":true,"label":"How-to","permalink":"/tags/how-to"}],"version":"current","frontMatter":{"title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"基本上，『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","date":"2011-05-22T00:00:00.000Z","tags":["★★★","吉他","How-to"]},"sidebar":"tutorialSidebar","previous":{"title":"吉他的基本功","permalink":"/guitar/guitar-fundation-technical/"},"next":{"title":"怎麼練一首曲子","permalink":"/guitar/how-to-practice-a-song"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","source":"@site/docs/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index.md","sourceDirName":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example","slug":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/","permalink":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"吉他","permalink":"/tags/吉他"},{"inline":true,"label":"How-to","permalink":"/tags/how-to"}],"version":"current","frontMatter":{"title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","date":"2011-05-22T00:00:00.000Z","tags":["★★★","吉他","How-to"]},"sidebar":"tutorialSidebar","previous":{"title":"吉他的基本功","permalink":"/guitar/guitar-fundation-technical/"},"next":{"title":"怎麼練一首曲子","permalink":"/guitar/how-to-practice-a-song"}}');
 
 /***/ },
 
@@ -34710,6 +35759,14 @@ webpackContext.id = 63157;
 
 /***/ },
 
+/***/ 63349
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"共鳴","permalink":"/tags/共鳴","allTagsPath":"/tags","count":1,"items":[{"id":"production/basic-acoustics-and-digital-music-production","title":"基礎聲學與數位音樂製作","description":"對於 \\"聲音\\" 的物理現象，很多物理學、音響或 PA 相關的書都會提到一些基本概念，這些概念對於音樂製作上，尤其要做出比較有豐富聲響的音樂，基礎的聲音理論更是要有相當的瞭解。\\n","permalink":"/production/basic-acoustics-and-digital-music-production"}],"unlisted":false}}');
+
+/***/ },
+
 /***/ 63380
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -35026,6 +36083,14 @@ if(doc===null||doc.unlisted&&!pageActive){return null;}return/*#__PURE__*/(0,rea
 
 /***/ },
 
+/***/ 64861
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"id":"production/recording-drums-basics","title":"錄鼓的一些基本概念","description":"鼓的錄音是音樂製作中的一項大工程，需要具備基礎知識、技術與設備。本文整理錄鼓所需的認知與注意事項。\\n","source":"@site/docs/production/recording-drums-basics.md","sourceDirName":"production","slug":"/production/recording-drums-basics","permalink":"/production/recording-drums-basics","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"音樂製作","permalink":"/tags/音樂製作"},{"inline":true,"label":"錄音","permalink":"/tags/錄音"},{"inline":true,"label":"鼓","permalink":"/tags/鼓"},{"inline":true,"label":"混音","permalink":"/tags/混音"}],"version":"current","frontMatter":{"title":"錄鼓的一些基本概念","description":"鼓的錄音是音樂製作中的一項大工程，需要具備基礎知識、技術與設備。本文整理錄鼓所需的認知與注意事項。\\n","date":"2007-12-10T00:00:00.000Z","tags":["★★★","音樂製作","錄音","鼓","混音"]},"sidebar":"tutorialSidebar","previous":{"title":"襯底 PAD 的基本概念","permalink":"/production/pad-basics"},"next":{"title":"Using External MIDI Devices in Logic Pro","permalink":"/production/using-external-midi-devices-in-logic-pro/"}}');
+
+/***/ },
+
 /***/ 64914
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -35034,6 +36099,14 @@ if(doc===null||doc.unlisted&&!pageActive){return null;}return/*#__PURE__*/(0,rea
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/fig3_GMixo-Lydian-P3-b0db11b39a7d4f436691898f7fadbea9.png");
+
+/***/ },
+
+/***/ 64946
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"五度圈","permalink":"/tags/五度圈","allTagsPath":"/tags","count":1,"items":[{"id":"theory/tsd-chord-substitution","title":"TSD 和聲代換","description":"調性的順階和弦中，主和弦、下屬和弦、屬和弦各有其聲響特性。了解 TSD 代換原理，可以讓和弦進行更加豐富。\\n","permalink":"/theory/tsd-chord-substitution"}],"unlisted":false}}');
 
 /***/ },
 
@@ -35125,11 +36198,19 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"MacOS","permalink":"/
 
 /***/ },
 
+/***/ 65501
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Cadence","permalink":"/tags/cadence","allTagsPath":"/tags","count":1,"items":[{"id":"theory/tsd-chord-substitution","title":"TSD 和聲代換","description":"調性的順階和弦中，主和弦、下屬和弦、屬和弦各有其聲響特性。了解 TSD 代換原理，可以讓和弦進行更加豐富。\\n","permalink":"/theory/tsd-chord-substitution"}],"unlisted":false}}');
+
+/***/ },
+
 /***/ 65813
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"production/basic-concepts-of-sampling","title":"取樣的基本概念","description":"這是網友在 鄉民站 Keyboard 版問的問題, 我花了一點時間回答基本的概念.","source":"@site/docs/production/basic-concepts-of-sampling.md","sourceDirName":"production","slug":"/production/basic-concepts-of-sampling","permalink":"/production/basic-concepts-of-sampling","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"音樂製作","permalink":"/tags/音樂製作"},{"inline":true,"label":"MIDI鍵盤","permalink":"/tags/midi鍵盤"}],"version":"current","frontMatter":{"title":"取樣的基本概念","date":"2011-01-11T00:00:00.000Z","tags":["★★★★","音樂製作","MIDI鍵盤"]},"sidebar":"tutorialSidebar","previous":{"title":"音樂製作","permalink":"/category/音樂製作"},"next":{"title":"數位音樂科技概論","permalink":"/production/concepts-of-music-technology/"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"production/basic-concepts-of-sampling","title":"取樣的基本概念","description":"這是網友在 鄉民站 Keyboard 版問的問題, 我花了一點時間回答基本的概念.","source":"@site/docs/production/basic-concepts-of-sampling.md","sourceDirName":"production","slug":"/production/basic-concepts-of-sampling","permalink":"/production/basic-concepts-of-sampling","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"音樂製作","permalink":"/tags/音樂製作"},{"inline":true,"label":"MIDI鍵盤","permalink":"/tags/midi鍵盤"}],"version":"current","frontMatter":{"title":"取樣的基本概念","date":"2011-01-11T00:00:00.000Z","tags":["★★★★","音樂製作","MIDI鍵盤"]},"sidebar":"tutorialSidebar","previous":{"title":"基礎聲學與數位音樂製作","permalink":"/production/basic-acoustics-and-digital-music-production"},"next":{"title":"數位音樂科技概論","permalink":"/production/concepts-of-music-technology/"}}');
 
 /***/ },
 
@@ -35203,7 +36284,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/essence-of-musical-scale
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"樂理","permalink":"/tags/樂理","allTagsPath":"/tags","count":10,"items":[{"id":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","title":"再談『首調、固定唱名』與『相對、絕對音感』","description":"以現代西洋音樂的基礎討論如何自行創造一個不一樣的音階。","permalink":"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch"},{"id":"theory/note-signature/index","title":"升降記號","description":"整理升降記號的概念。","permalink":"/theory/note-signature/"},{"id":"theory/create-a-new-scale","title":"可以自行創造音階？","description":"以現代西洋音樂的基礎討論如何自行創造一個不一樣的音階。","permalink":"/theory/create-a-new-scale"},{"id":"theory/major-scale/index","title":"大調音階 (Major Scale)","description":"整理大調音階的概念","permalink":"/theory/major-scale/"},{"id":"theory/minor-scale/index","title":"小調音階 (Minor Scale)","description":"整理小調音階的概念","permalink":"/theory/minor-scale/"},{"id":"theory/dominant-and-extension-chords/index","title":"屬七和弦與其延伸和弦的代換","description":"屬七和弦 (Dominant 7th) 是屬於大和弦的延伸，也就是以大三和弦 (Major Triad) 為基礎，繼續以三度音往上堆疊。和弦的屬性分類以三度音和七度音作為一個分界點，更詳細請參閱 Guide Tone 或 Shell Chord 的介紹。繼續往上堆疊延伸則會得到所謂的延伸和弦.","permalink":"/theory/dominant-and-extension-chords/"},{"id":"theory/suspended-chord","title":"掛留和弦 (Suspended Chord)","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","permalink":"/theory/suspended-chord"},{"id":"theory/secondary-dominat/index","title":"次屬和弦 (Secondary Dominant)","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","permalink":"/theory/secondary-dominat/"},{"id":"theory/tonality-key-mode/index","title":"調、調式及轉調","description":"討論重要的觀念： 調與調式、和轉調之間的差異。","permalink":"/theory/tonality-key-mode/"},{"id":"theory/essence-of-musical-scales","title":"音階的本質","description":"在學習音階的過程中，我心裡一直有個疑惑，為什麼要叫做自然大調音階？自然小調音階？為啥是自然的？不是人工的？為啥又會有調式這種東西存在？","permalink":"/theory/essence-of-musical-scales"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"樂理","permalink":"/tags/樂理","allTagsPath":"/tags","count":11,"items":[{"id":"theory/tsd-chord-substitution","title":"TSD 和聲代換","description":"調性的順階和弦中，主和弦、下屬和弦、屬和弦各有其聲響特性。了解 TSD 代換原理，可以讓和弦進行更加豐富。\\n","permalink":"/theory/tsd-chord-substitution"},{"id":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","title":"再談『首調、固定唱名』與『相對、絕對音感』","description":"以現代西洋音樂的基礎討論如何自行創造一個不一樣的音階。","permalink":"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch"},{"id":"theory/note-signature/index","title":"升降記號","description":"整理升降記號的概念。","permalink":"/theory/note-signature/"},{"id":"theory/create-a-new-scale","title":"可以自行創造音階？","description":"以現代西洋音樂的基礎討論如何自行創造一個不一樣的音階。","permalink":"/theory/create-a-new-scale"},{"id":"theory/major-scale/index","title":"大調音階 (Major Scale)","description":"整理大調音階的概念","permalink":"/theory/major-scale/"},{"id":"theory/minor-scale/index","title":"小調音階 (Minor Scale)","description":"整理小調音階的概念","permalink":"/theory/minor-scale/"},{"id":"theory/dominant-and-extension-chords/index","title":"屬七和弦與其延伸和弦的代換","description":"屬七和弦 (Dominant 7th) 是屬於大和弦的延伸，也就是以大三和弦 (Major Triad) 為基礎，繼續以三度音往上堆疊。和弦的屬性分類以三度音和七度音作為一個分界點，更詳細請參閱 Guide Tone 或 Shell Chord 的介紹。繼續往上堆疊延伸則會得到所謂的延伸和弦.","permalink":"/theory/dominant-and-extension-chords/"},{"id":"theory/suspended-chord","title":"掛留和弦 (Suspended Chord)","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","permalink":"/theory/suspended-chord"},{"id":"theory/secondary-dominat/index","title":"次屬和弦 (Secondary Dominant)","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","permalink":"/theory/secondary-dominat/"},{"id":"theory/tonality-key-mode/index","title":"調、調式及轉調","description":"討論重要的觀念： 調與調式、和轉調之間的差異。","permalink":"/theory/tonality-key-mode/"},{"id":"theory/essence-of-musical-scales","title":"音階的本質","description":"在學習音階的過程中，我心裡一直有個疑惑，為什麼要叫做自然大調音階？自然小調音階？為啥是自然的？不是人工的？為啥又會有調式這種東西存在？","permalink":"/theory/essence-of-musical-scales"}],"unlisted":false}}');
 
 /***/ },
 
@@ -35626,7 +36707,7 @@ function MDXContent(props = {}) {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"production/digital-audio-system/index","title":"Digital Audio System","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","source":"@site/docs/production/digital-audio-system/index.md","sourceDirName":"production/digital-audio-system","slug":"/production/digital-audio-system/","permalink":"/production/digital-audio-system/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"DAW","permalink":"/tags/daw"},{"inline":true,"label":"MIDI","permalink":"/tags/midi"}],"version":"current","frontMatter":{"title":"Digital Audio System","weight":1,"description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","date":"2008-05-31T00:00:00.000Z","tags":["★★★★","DAW","MIDI"]},"sidebar":"tutorialSidebar","previous":{"title":"數位音樂科技概論","permalink":"/production/concepts-of-music-technology/"},"next":{"title":"Loop 的概念與應用實例 - One Night in 北京","permalink":"/production/loop-concepts-and-application-one-night-in-beijing/"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"production/digital-audio-system/index","title":"Digital Audio System","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","source":"@site/docs/production/digital-audio-system/index.md","sourceDirName":"production/digital-audio-system","slug":"/production/digital-audio-system/","permalink":"/production/digital-audio-system/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"DAW","permalink":"/tags/daw"},{"inline":true,"label":"MIDI","permalink":"/tags/midi"}],"version":"current","frontMatter":{"title":"Digital Audio System","weight":1,"description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","date":"2008-05-31T00:00:00.000Z","tags":["★★★★","DAW","MIDI"]},"sidebar":"tutorialSidebar","previous":{"title":"數位音樂科技概論","permalink":"/production/concepts-of-music-technology/"},"next":{"title":"聊聊即時與立即 - Echo / Delay / Reverb","permalink":"/production/echo-delay-reverb"}}');
 
 /***/ },
 
@@ -36323,7 +37404,7 @@ __webpack_require__.r(__webpack_exports__);
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"和弦","permalink":"/tags/和弦","allTagsPath":"/tags","count":8,"items":[{"id":"dict/diatonic-chords-in-circle-of-5ths/index","title":"五度圈順階和弦表","description":"用五度圈作為主軸，整理各調的順階和弦表。\\n","permalink":"/dict/diatonic-chords-in-circle-of-5ths/"},{"id":"theory/eleventh-chord","title":"十一和弦 (X11 Eleventh Chord)","description":"整理十一和弦的基本概念、組成、複合和弦、應用 ... 等概念。","permalink":"/theory/eleventh-chord"},{"id":"theory/thriteenth-chord","title":"十三和弦 (X13 Thirteenth Chord)","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","permalink":"/theory/thriteenth-chord"},{"id":"theory/canon-chord-progression/index","title":"卡農進行 (Canon Chord Progression)","description":"卡農進行這個和弦進行的歌曲實在很多，從這些整理中去了解常見的應用。\\n","permalink":"/theory/canon-chord-progression/"},{"id":"theory/dominant-and-extension-chords/index","title":"屬七和弦與其延伸和弦的代換","description":"屬七和弦 (Dominant 7th) 是屬於大和弦的延伸，也就是以大三和弦 (Major Triad) 為基礎，繼續以三度音往上堆疊。和弦的屬性分類以三度音和七度音作為一個分界點，更詳細請參閱 Guide Tone 或 Shell Chord 的介紹。繼續往上堆疊延伸則會得到所謂的延伸和弦.","permalink":"/theory/dominant-and-extension-chords/"},{"id":"theory/suspended-chord","title":"掛留和弦 (Suspended Chord)","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","permalink":"/theory/suspended-chord"},{"id":"theory/secondary-dominat/index","title":"次屬和弦 (Secondary Dominant)","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","permalink":"/theory/secondary-dominat/"},{"id":"theory/relation-chord","title":"關係和弦？","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","permalink":"/theory/relation-chord"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"和弦","permalink":"/tags/和弦","allTagsPath":"/tags","count":9,"items":[{"id":"theory/tsd-chord-substitution","title":"TSD 和聲代換","description":"調性的順階和弦中，主和弦、下屬和弦、屬和弦各有其聲響特性。了解 TSD 代換原理，可以讓和弦進行更加豐富。\\n","permalink":"/theory/tsd-chord-substitution"},{"id":"dict/diatonic-chords-in-circle-of-5ths/index","title":"五度圈順階和弦表","description":"用五度圈作為主軸，整理各調的順階和弦表。\\n","permalink":"/dict/diatonic-chords-in-circle-of-5ths/"},{"id":"theory/eleventh-chord","title":"十一和弦 (X11 Eleventh Chord)","description":"整理十一和弦的基本概念、組成、複合和弦、應用 ... 等概念。","permalink":"/theory/eleventh-chord"},{"id":"theory/thriteenth-chord","title":"十三和弦 (X13 Thirteenth Chord)","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","permalink":"/theory/thriteenth-chord"},{"id":"theory/canon-chord-progression/index","title":"卡農進行 (Canon Chord Progression)","description":"卡農進行這個和弦進行的歌曲實在很多，從這些整理中去了解常見的應用。\\n","permalink":"/theory/canon-chord-progression/"},{"id":"theory/dominant-and-extension-chords/index","title":"屬七和弦與其延伸和弦的代換","description":"屬七和弦 (Dominant 7th) 是屬於大和弦的延伸，也就是以大三和弦 (Major Triad) 為基礎，繼續以三度音往上堆疊。和弦的屬性分類以三度音和七度音作為一個分界點，更詳細請參閱 Guide Tone 或 Shell Chord 的介紹。繼續往上堆疊延伸則會得到所謂的延伸和弦.","permalink":"/theory/dominant-and-extension-chords/"},{"id":"theory/suspended-chord","title":"掛留和弦 (Suspended Chord)","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","permalink":"/theory/suspended-chord"},{"id":"theory/secondary-dominat/index","title":"次屬和弦 (Secondary Dominant)","description":"整理次屬和弦的基本概念、組成、複合和弦、應用 ... 等概念。","permalink":"/theory/secondary-dominat/"},{"id":"theory/relation-chord","title":"關係和弦？","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","permalink":"/theory/relation-chord"}],"unlisted":false}}');
 
 /***/ },
 
@@ -36495,7 +37576,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/play-what-and-how-to-pla
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"How-to","permalink":"/tags/how-to","allTagsPath":"/tags","count":5,"items":[{"id":"guitar/guitar-fundation-technical/index","title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","permalink":"/guitar/guitar-fundation-technical/"},{"id":"guitar/effective-practice-guitar/index","title":"吉他練習的實踐原則：專心、彈好、彈滿","description":"聊聊練吉他的方法。","permalink":"/guitar/effective-practice-guitar/"},{"id":"guitar/time-for-practice-guitar/index","title":"如何安排練習 - 以上班族為例","description":"很多朋友都會有同樣的問題：怎麼安排時間練習，特別是上班族。","permalink":"/guitar/time-for-practice-guitar/"},{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"基本上，『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","permalink":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/"},{"id":"guitar/how-to-practice-a-song","title":"怎麼練一首曲子","description":"當好不容易拿到樂譜的時候，發現共 15 頁，250 小節，翻開發現一堆一個小節就佔據一行的篇幅  ... 這時候要怎麼辦？一小節一小節慢慢啃嗎??","permalink":"/guitar/how-to-practice-a-song"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"How-to","permalink":"/tags/how-to","allTagsPath":"/tags","count":5,"items":[{"id":"guitar/guitar-fundation-technical/index","title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","permalink":"/guitar/guitar-fundation-technical/"},{"id":"guitar/effective-practice-guitar/index","title":"吉他練習的實踐原則：專心、彈好、彈滿","description":"聊聊練吉他的方法。","permalink":"/guitar/effective-practice-guitar/"},{"id":"guitar/time-for-practice-guitar/index","title":"如何安排練習 - 以上班族為例","description":"很多朋友都會有同樣的問題：怎麼安排時間練習，特別是上班族。","permalink":"/guitar/time-for-practice-guitar/"},{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","permalink":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/"},{"id":"guitar/how-to-practice-a-song","title":"怎麼練一首曲子","description":"當好不容易拿到樂譜的時候，發現共 15 頁，250 小節，翻開發現一堆一個小節就佔據一行的篇幅  ... 這時候要怎麼辦？一小節一小節慢慢啃嗎??","permalink":"/guitar/how-to-practice-a-song"}],"unlisted":false}}');
 
 /***/ },
 
@@ -40525,14 +41606,6 @@ function HasHydratedDataAttribute(){const isBrowser=(0,_docusaurus_useIsBrowser_
 
 /***/ },
 
-/***/ 73668
-(module) {
-
-"use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","source":"@site/docs/gossip/echo-delay-reverb.md","sourceDirName":"gossip","slug":"/gossip/echo-delay-reverb","permalink":"/gossip/echo-delay-reverb","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"},{"inline":true,"label":"echo","permalink":"/tags/echo"},{"inline":true,"label":"delay","permalink":"/tags/delay"},{"inline":true,"label":"reverb","permalink":"/tags/reverb"},{"inline":true,"label":"IRs","permalink":"/tags/i-rs"},{"inline":true,"label":"Overtone","permalink":"/tags/overtone"},{"inline":true,"label":"Basetone","permalink":"/tags/basetone"},{"inline":true,"label":"Musical Tone","permalink":"/tags/musical-tone"}],"version":"current","frontMatter":{"title":"聊聊即時與立即 - Echo / Delay / Reverb","date":"2019-08-24T00:00:00.000Z","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","tags":["★","聊天","echo","delay","reverb","IRs","Overtone","Basetone","Musical Tone"]},"sidebar":"tutorialSidebar","previous":{"title":"對談","permalink":"/gossip/dialogue"},"next":{"title":"固定唱名？還是首調唱名？","permalink":"/gossip/fixed-solfege"}}');
-
-/***/ },
-
 /***/ 74098
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -40556,7 +41629,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"type":"mdx","permalink":"/markdown-p
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"吉他","permalink":"/tags/吉他","allTagsPath":"/tags","count":11,"items":[{"id":"guitar/some-tips-and-suggestions-for-practicing-guitar","title":"一些練習吉他的提醒和建議","description":"在 Youtube 的 Next level guitar 看到這段『十個練習吉他的提醒和建議』，不管是什麼樣的吉他手，都是一個不錯的自我修練的參考。","permalink":"/guitar/some-tips-and-suggestions-for-practicing-guitar"},{"id":"guitar/practice-arpeggios-251-on-g-major/index","title":"吉他琶音練習 - 以 G 大調 251 為例","description":"繼續聊聊琶音 (Arpeggios) 練習的方法。","permalink":"/guitar/practice-arpeggios-251-on-g-major/"},{"id":"guitar/practice-arpeggios-g-major7/index","title":"吉他琶音練習 - 以 Gmaj7 為例","description":"怎樣練習琶音？琶音跟掃弦有什麼差異？怎麼利用琶音創造樂句？","permalink":"/guitar/practice-arpeggios-g-major7/"},{"id":"guitar/guitar-chord-voicing/index","title":"吉他的和弦聲位基本概念 (Chord Voicing)","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","permalink":"/guitar/guitar-chord-voicing/"},{"id":"guitar/guitar-fundation-technical/index","title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","permalink":"/guitar/guitar-fundation-technical/"},{"id":"guitar/effective-practice-guitar/index","title":"吉他練習的實踐原則：專心、彈好、彈滿","description":"聊聊練吉他的方法。","permalink":"/guitar/effective-practice-guitar/"},{"id":"guitar/guide-to-guitar-scale-patterns/index","title":"吉他音階學習摘要","description":"吉他手不免要熟悉吉他指板 (技術) 與音階 (理論) 的關係，怎麼有系統、有效的學習呢？","permalink":"/guitar/guide-to-guitar-scale-patterns/"},{"id":"guitar/time-for-practice-guitar/index","title":"如何安排練習 - 以上班族為例","description":"很多朋友都會有同樣的問題：怎麼安排時間練習，特別是上班族。","permalink":"/guitar/time-for-practice-guitar/"},{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"基本上，『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","permalink":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/"},{"id":"gossip/play-what-and-how-to-play","title":"怎麼彈和彈什麼","description":"怎麼彈、彈什麼？","permalink":"/gossip/play-what-and-how-to-play"},{"id":"guitar/how-to-practice-a-song","title":"怎麼練一首曲子","description":"當好不容易拿到樂譜的時候，發現共 15 頁，250 小節，翻開發現一堆一個小節就佔據一行的篇幅  ... 這時候要怎麼辦？一小節一小節慢慢啃嗎??","permalink":"/guitar/how-to-practice-a-song"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"吉他","permalink":"/tags/吉他","allTagsPath":"/tags","count":11,"items":[{"id":"guitar/some-tips-and-suggestions-for-practicing-guitar","title":"一些練習吉他的提醒和建議","description":"在 Youtube 的 Next level guitar 看到這段『十個練習吉他的提醒和建議』，不管是什麼樣的吉他手，都是一個不錯的自我修練的參考。","permalink":"/guitar/some-tips-and-suggestions-for-practicing-guitar"},{"id":"guitar/practice-arpeggios-251-on-g-major/index","title":"吉他琶音練習 - 以 G 大調 251 為例","description":"繼續聊聊琶音 (Arpeggios) 練習的方法。","permalink":"/guitar/practice-arpeggios-251-on-g-major/"},{"id":"guitar/practice-arpeggios-g-major7/index","title":"吉他琶音練習 - 以 Gmaj7 為例","description":"怎樣練習琶音？琶音跟掃弦有什麼差異？怎麼利用琶音創造樂句？","permalink":"/guitar/practice-arpeggios-g-major7/"},{"id":"guitar/guitar-chord-voicing/index","title":"吉他的和弦聲位基本概念","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","permalink":"/guitar/guitar-chord-voicing/"},{"id":"guitar/guitar-fundation-technical/index","title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","permalink":"/guitar/guitar-fundation-technical/"},{"id":"guitar/effective-practice-guitar/index","title":"吉他練習的實踐原則：專心、彈好、彈滿","description":"聊聊練吉他的方法。","permalink":"/guitar/effective-practice-guitar/"},{"id":"guitar/guide-to-guitar-scale-patterns/index","title":"吉他音階學習摘要","description":"吉他手不免要熟悉吉他指板 (技術) 與音階 (理論) 的關係，怎麼有系統、有效的學習呢？","permalink":"/guitar/guide-to-guitar-scale-patterns/"},{"id":"guitar/time-for-practice-guitar/index","title":"如何安排練習 - 以上班族為例","description":"很多朋友都會有同樣的問題：怎麼安排時間練習，特別是上班族。","permalink":"/guitar/time-for-practice-guitar/"},{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","permalink":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/"},{"id":"gossip/play-what-and-how-to-play","title":"怎麼彈和彈什麼","description":"怎麼彈、彈什麼？","permalink":"/gossip/play-what-and-how-to-play"},{"id":"guitar/how-to-practice-a-song","title":"怎麼練一首曲子","description":"當好不容易拿到樂譜的時候，發現共 15 頁，250 小節，翻開發現一堆一個小節就佔據一行的篇幅  ... 這時候要怎麼辦？一小節一小節慢慢啃嗎??","permalink":"/guitar/how-to-practice-a-song"}],"unlisted":false}}');
 
 /***/ },
 
@@ -40617,7 +41690,7 @@ if (true) {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(29867);
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"00f3246a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(51552))),"@site/docs/gossip/semi-tone-of-solfege.md",/*require.resolve*/(51552)],"01004f01":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21470))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音程-64d.json",/*require.resolve*/(21470)],"03181aef":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77826))),"@site/src/pages/my-markdown-page.md",/*require.resolve*/(77826)],"06610195":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(95753))),"@generated/docusaurus-plugin-content-docs/default/p/tags-substitute-chord-a5b.json",/*require.resolve*/(95753)],"0668808e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(14544))),"@site/docs/theory/dominant-and-extension-chords/index.md",/*require.resolve*/(14544)],"09c85861":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(33433))),"@site/docs/theory/eleventh-chord.md",/*require.resolve*/(33433)],"0bffc9b7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41329))),"@generated/docusaurus-plugin-content-docs/default/p/tags-i-rs-a90.json",/*require.resolve*/(41329)],"0e539989":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(81937))),"@site/docs/theory/musical-mode.md",/*require.resolve*/(81937)],"10b2f1c4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41993))),"@generated/docusaurus-plugin-content-docs/default/p/tags-私房歌-825.json",/*require.resolve*/(41993)],"14eb3368":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68780))),"@theme/DocCategoryGeneratedIndexPage",/*require.resolve*/(68780)],"15cc8d7b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(53174))),"@site/docs/gossip/correctness-efficiency.md",/*require.resolve*/(53174)],"17896441":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(66915))),"@theme/DocItem",/*require.resolve*/(66915)],"1827dc15":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32295))),"@site/docs/guitar/practice-arpeggios-g-major7/index.md",/*require.resolve*/(32295)],"1916df2a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68956))),"@generated/docusaurus-plugin-content-docs/default/p/tags-和弦-394.json",/*require.resolve*/(68956)],"1f391b9e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84250))),"@theme/MDXPage",/*require.resolve*/(84250)],"219bd1f3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83130))),"@site/docs/dict/diatonic-chords-in-circle-of-5ths/index.md",/*require.resolve*/(83130)],"2298341a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49163))),"@site/docs/gossip/willing.md",/*require.resolve*/(49163)],"22dd74f7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55226))),"@generated/docusaurus-plugin-content-docs/default/p/index-466.json",/*require.resolve*/(55226)],"24348a5e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(71839))),"@site/docs/gossip/how-to-listen-a-song.md",/*require.resolve*/(71839)],"2455be05":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(37557))),"@site/docs/gossip/mathematics.md",/*require.resolve*/(37557)],"2603587c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(78811))),"@generated/docusaurus-plugin-content-docs/default/p/category-音樂製作-07c.json",/*require.resolve*/(78811)],"2776dd36":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8576))),"@generated/docusaurus-plugin-content-docs/default/p/tags-interval-5bb.json",/*require.resolve*/(8576)],"2d36cbcb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(25545))),"@generated/docusaurus-plugin-content-docs/default/p/tags-本質-cff.json",/*require.resolve*/(25545)],"31087c4c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94531))),"@generated/docusaurus-plugin-content-docs/default/p/category-樂理-b97.json",/*require.resolve*/(94531)],"32147d15":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13122))),"@site/docs/theory/tritone.md",/*require.resolve*/(13122)],"3563154e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(3793))),"@generated/docusaurus-plugin-content-docs/default/p/tags-zelda-f0a.json",/*require.resolve*/(3793)],"35710a4a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(91313))),"@generated/docusaurus-plugin-content-docs/default/p/tags-五聲音階-d84.json",/*require.resolve*/(91313)],"3720c009":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12194))),"@theme/DocTagsListPage",/*require.resolve*/(12194)],"388a6d45":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12338))),"@generated/docusaurus-plugin-content-docs/default/p/tags-modal-interchange-549.json",/*require.resolve*/(12338)],"393be207":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75943))),"@site/src/pages/markdown-page.md",/*require.resolve*/(75943)],"3a23291b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72067))),"@site/docs/gossip/dialogue.mdx",/*require.resolve*/(72067)],"3bbf71fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(54800))),"@generated/docusaurus-plugin-content-docs/default/p/tags-唱名-750.json",/*require.resolve*/(54800)],"3ce948fd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55069))),"@generated/docusaurus-plugin-content-docs/default/p/tags-dominant-207.json",/*require.resolve*/(55069)],"3eadd4d2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(70283))),"@generated/docusaurus-plugin-content-docs/default/p/tags-how-to-a2d.json",/*require.resolve*/(70283)],"41dfd778":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21145))),"@site/docs/guitar/time-for-practice-guitar/index.md",/*require.resolve*/(21145)],"43cae74f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85057))),"@site/docs/theory/create-a-new-scale.md",/*require.resolve*/(85057)],"45158fe1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(92614))),"@site/docs/gossip/protect-your-ears.md",/*require.resolve*/(92614)],"454aab79":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12867))),"@generated/docusaurus-plugin-content-docs/default/p/tags-數學-ee5.json",/*require.resolve*/(12867)],"4599de8a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(47739))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音階-fe9.json",/*require.resolve*/(47739)],"45d71abc":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84514))),"@site/docs/theory/canon-chord-progression/index.md",/*require.resolve*/(84514)],"488109a4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(48503))),"@site/docs/gossip/learn-to-listen.md",/*require.resolve*/(48503)],"48d3a866":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9159))),"@generated/docusaurus-plugin-content-docs/default/p/tags-tritone-92e.json",/*require.resolve*/(9159)],"495757da":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(33440))),"@site/docs/gossip/play-what-and-how-to-play.md",/*require.resolve*/(33440)],"4992f4a8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(89285))),"@generated/docusaurus-plugin-content-docs/default/p/tags-passing-tone-388.json",/*require.resolve*/(89285)],"4a68c1b2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(98623))),"@site/docs/gossip/fixed-solfege.md",/*require.resolve*/(98623)],"4c3cc1d9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(70527))),"@generated/docusaurus-plugin-content-docs/default/p/category-聊音樂-86e.json",/*require.resolve*/(70527)],"4d711081":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(28856))),"@site/docs/guitar/guitar-chord-voicing/index.md",/*require.resolve*/(28856)],"4e00f8fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21745))),"@site/docs/theory/secondary-dominat/index.md",/*require.resolve*/(21745)],"4e07e22f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(66647))),"@generated/docusaurus-plugin-content-docs/default/p/tags-樂理-1a5.json",/*require.resolve*/(66647)],"520fb30b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68556))),"@site/docs/gossip/algorithm-for-songs/index.md",/*require.resolve*/(68556)],"544ffd2f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55113))),"@generated/docusaurus-plugin-content-docs/default/p/tags-motu-431.json",/*require.resolve*/(55113)],"547c0595":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72757))),"@generated/docusaurus-plugin-content-docs/default/p/tags-msb-117.json",/*require.resolve*/(72757)],"5678974b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(58455))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★★★-cfa.json",/*require.resolve*/(58455)],"59af61a6":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(5332))),"@generated/docusaurus-plugin-content-docs/default/p/tags-b9f.json",/*require.resolve*/(5332)],"5b178ce3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(31625))),"@generated/docusaurus-plugin-content-docs/default/p/tags-樂團經營-67b.json",/*require.resolve*/(31625)],"5e95c892":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(7121))),"@theme/DocsRoot",/*require.resolve*/(7121)],"5e9f5e1a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4784))),"@generated/docusaurus.config",/*require.resolve*/(4784)],"5f9c3504":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84190))),"@site/docs/songs/g5-project.md",/*require.resolve*/(84190)],"619780f9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(57040))),"@generated/docusaurus-plugin-content-docs/default/p/tags-bichord-5b0.json",/*require.resolve*/(57040)],"62a26766":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(89045))),"@site/docs/theory/suspended-chord.md",/*require.resolve*/(89045)],"64cac739":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(80529))),"@generated/docusaurus-plugin-content-docs/default/p/tags-midi鍵盤-dd9.json",/*require.resolve*/(80529)],"64f457bd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67601))),"@site/docs/songs/Survival-Dance/index.md",/*require.resolve*/(67601)],"669a9296":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(19072))),"@generated/docusaurus-plugin-content-docs/default/p/category-樂團經營-71c.json",/*require.resolve*/(19072)],"67ec076f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(59369))),"@site/docs/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index.md",/*require.resolve*/(59369)],"6bcabe35":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(17489))),"@site/docs/gossip/guthrie-govan-live-2015.md",/*require.resolve*/(17489)],"6c5f2d61":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13558))),"@site/docs/theory/tonality-key-mode/index.md",/*require.resolve*/(13558)],"70cfd2fd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(35692))),"@site/docs/band/about-score/index.md",/*require.resolve*/(35692)],"729eb257":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(63978))),"@site/docs/songs/FFV_Dear-Friends/index.md",/*require.resolve*/(63978)],"72f879f0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(3010))),"@site/docs/theory/essence-of-musical-scales.md",/*require.resolve*/(3010)],"73beb38d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(6813))),"@site/docs/guitar/some-tips-and-suggestions-for-practicing-guitar.md",/*require.resolve*/(6813)],"746d00c8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61157))),"@site/docs/gossip/relative-absolute.md",/*require.resolve*/(61157)],"752d998c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(92744))),"@generated/docusaurus-plugin-content-docs/default/p/tags-daw-484.json",/*require.resolve*/(92744)],"78b2ca1c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77654))),"@site/docs/theory/minor-scale/index.md",/*require.resolve*/(77654)],"7cf79e5c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75926))),"@generated/docusaurus-plugin-content-docs/default/p/tags-open-voicing-ca4.json",/*require.resolve*/(75926)],"7d3fe123":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(1811))),"@generated/docusaurus-plugin-content-docs/default/p/tags-closed-voicing-edf.json",/*require.resolve*/(1811)],"7f84096f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(69421))),"@generated/docusaurus-plugin-content-docs/default/p/tags-jack-thammarat-385.json",/*require.resolve*/(69421)],"7ff305a2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75195))),"@site/docs/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch.md",/*require.resolve*/(75195)],"80398d32":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(56396))),"@generated/docusaurus-plugin-content-docs/default/p/tags-delay-36d.json",/*require.resolve*/(56396)],"83387aa1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94631))),"@generated/docusaurus-plugin-content-docs/default/p/tags-midi-628.json",/*require.resolve*/(94631)],"84f0d58d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4893))),"@site/docs/gossip/memory-in-ff-music.md",/*require.resolve*/(4893)],"875d921a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(79979))),"@generated/docusaurus-plugin-content-docs/default/p/tags-guide-tone-26b.json",/*require.resolve*/(79979)],"8e3d99ec":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(10291))),"@generated/docusaurus-plugin-content-docs/default/p/tags-練習-171.json",/*require.resolve*/(10291)],"9007ebbb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(22667))),"@generated/docusaurus-plugin-content-docs/default/p/tags-和聲-bcb.json",/*require.resolve*/(22667)],"91d4e9b3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(71191))),"@generated/docusaurus-plugin-content-docs/default/p/tags-sound-module-7bd.json",/*require.resolve*/(71191)],"933ee70b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(76354))),"@site/docs/theory/thinkin-mode.md",/*require.resolve*/(76354)],"9360ef66":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41195))),"@generated/docusaurus-plugin-content-docs/default/p/tags-lsb-efe.json",/*require.resolve*/(41195)],"9a7a6827":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4538))),"@site/docs/theory/major-scale/index.md",/*require.resolve*/(4538)],"9b335e39":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(56477))),"@generated/docusaurus-plugin-content-docs/default/p/tags-polychord-818.json",/*require.resolve*/(56477)],"9c7f1a53":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61137))),"@site/docs/gossip/jimi-hendrix.md",/*require.resolve*/(61137)],"9dbc87ed":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67873))),"@site/docs/production/digital-audio-system/index.md",/*require.resolve*/(67873)],"9fa7d172":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32980))),"@site/docs/guitar/how-to-practice-a-song.md",/*require.resolve*/(32980)],"a023366f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(80549))),"@site/docs/gossip/echo-delay-reverb.md",/*require.resolve*/(80549)],"a09bd0f7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93254))),"@generated/docusaurus-plugin-content-docs/default/p/tags-harmony-42f.json",/*require.resolve*/(93254)],"a0c6d5d0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94938))),"@site/docs/songs/Zelda-Trailer-2017E3/index.md",/*require.resolve*/(94938)],"a2dbe853":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97558))),"@site/docs/songs/Jack-Thammarat_Falling-in-Love-Again/index.md",/*require.resolve*/(97558)],"a3f59da0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77862))),"@site/docs/production/concepts-of-music-technology/index.md",/*require.resolve*/(77862)],"a6383854":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(14964))),"@generated/docusaurus-plugin-content-docs/default/p/tags-刻意練習-4a9.json",/*require.resolve*/(14964)],"a7456010":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(88552))),"@generated/docusaurus-plugin-content-pages/default/__plugin.json",/*require.resolve*/(88552)],"a7bd4aaa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(74532))),"@theme/DocVersionRoot",/*require.resolve*/(74532)],"a83fb154":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21461))),"@site/docs/guitar/effective-practice-guitar/index.md",/*require.resolve*/(21461)],"a94703ab":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8944))),"@theme/DocRoot",/*require.resolve*/(8944)],"a9f0d007":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67253))),"@site/docs/production/basic-concepts-of-sampling.md",/*require.resolve*/(67253)],"aa4a21d9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85308))),"@site/docs/guitar/guitar-fundation-technical/index.md",/*require.resolve*/(85308)],"ab0de171":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(62475))),"@site/docs/dict/scale-learning-map/index.md",/*require.resolve*/(62475)],"aba21aa0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(27093))),"@generated/docusaurus-plugin-content-docs/default/__plugin.json",/*require.resolve*/(27093)],"aca4e32b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(43649))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★-8f9.json",/*require.resolve*/(43649)],"ad8289d7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8571))),"@generated/docusaurus-plugin-content-docs/default/p/tags-motif-xs-8-b58.json",/*require.resolve*/(8571)],"ae5e7060":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(23114))),"@generated/docusaurus-plugin-content-docs/default/p/tags-echo-605.json",/*require.resolve*/(23114)],"b02775e2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(90376))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★★-a0c.json",/*require.resolve*/(90376)],"b0e641ea":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87827))),"@site/docs/gossip/just-getting-started/index.md",/*require.resolve*/(87827)],"b11cd6cd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97096))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★-b74.json",/*require.resolve*/(97096)],"b14f7e2a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12773))),"@site/docs/guitar/guide-to-guitar-scale-patterns/index.md",/*require.resolve*/(12773)],"b4244436":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(11139))),"@site/docs/production/using-external-midi-devices-in-logic-pro/index.md",/*require.resolve*/(11139)],"b4a1af84":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(38662))),"@site/docs/production/loop-concepts-and-application-one-night-in-beijing/index.mdx",/*require.resolve*/(38662)],"b4a2439b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93955))),"@site/docs/band/pick-songs.md",/*require.resolve*/(93955)],"b6117871":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49824))),"@generated/docusaurus-plugin-content-docs/default/p/category-給吉他手-da2.json",/*require.resolve*/(49824)],"b65fc5c5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(26280))),"@site/docs/gossip/simple-complex.md",/*require.resolve*/(26280)],"b835dda1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(60057))),"@site/docs/gossip/level-of-practice.md",/*require.resolve*/(60057)],"bb18a448":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(82916))),"@generated/docusaurus-plugin-content-docs/default/p/tags-basetone-852.json",/*require.resolve*/(82916)],"bb4f65cd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83057))),"@site/docs/gossip/form-framework-history.md",/*require.resolve*/(83057)],"be046359":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61193))),"@generated/docusaurus-plugin-content-docs/default/p/tags-arpeggios-ee4.json",/*require.resolve*/(61193)],"c208fb7d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(91940))),"@site/docs/theory/relation-chord.md",/*require.resolve*/(91940)],"c272ffaf":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72627))),"@site/docs/gossip/as-professional.md",/*require.resolve*/(72627)],"c2bbaef0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(30087))),"@site/docs/theory/note-signature/index.md",/*require.resolve*/(30087)],"c3758c06":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(6625))),"@site/docs/theory/thriteenth-chord.md",/*require.resolve*/(6625)],"c377a04b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(48321))),"@site/docs/index.md",/*require.resolve*/(48321)],"c5b1e2a3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49562))),"@generated/docusaurus-plugin-content-docs/default/p/tags-secondary-dominant-2f3.json",/*require.resolve*/(49562)],"c7030adb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(19104))),"@site/docs/production/motu-mk4-macos/index.md",/*require.resolve*/(19104)],"c8172173":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(82677))),"@site/docs/songs/Jack-Thammarat_Emotive-Ballad/index.md",/*require.resolve*/(82677)],"c889ff72":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75134))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音樂製作-e1b.json",/*require.resolve*/(75134)],"cabe4fc0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(53971))),"@generated/docusaurus-plugin-content-docs/default/p/tags-聊天-105.json",/*require.resolve*/(53971)],"cb2d06fe":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(1989))),"@generated/docusaurus-plugin-content-docs/default/p/tags-調式-6ef.json",/*require.resolve*/(1989)],"cb6965f2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94671))),"@site/docs/dict/chord-learning-map/index.md",/*require.resolve*/(94671)],"cc324f10":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(37200))),"@site/docs/gossip/speed.md",/*require.resolve*/(37200)],"cc84ab41":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(25692))),"@generated/docusaurus-plugin-content-docs/default/p/tags-final-fantasy-728.json",/*require.resolve*/(25692)],"cd0a223c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9369))),"@generated/docusaurus-plugin-content-docs/default/p/tags-augmented-d05.json",/*require.resolve*/(9369)],"cd34d918":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83493))),"@site/docs/theory/modal-interchange.md",/*require.resolve*/(83493)],"cdcc5aee":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87944))),"@generated/docusaurus-plugin-content-docs/default/p/tags-reverb-11d.json",/*require.resolve*/(87944)],"ce767eaa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(65327))),"@generated/docusaurus-plugin-content-docs/default/p/tags-mac-os-3bb.json",/*require.resolve*/(65327)],"d1bc1dd4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75781))),"@site/docs/gossip/learning.md",/*require.resolve*/(75781)],"d245a67f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97786))),"@site/docs/gossip/pubking-wubai.md",/*require.resolve*/(97786)],"d2ab1831":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(34405))),"@generated/docusaurus-plugin-content-docs/default/p/tags-overtone-f8a.json",/*require.resolve*/(34405)],"d472b6e9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(20441))),"@generated/docusaurus-plugin-content-docs/default/p/tags-原子習慣-2fa.json",/*require.resolve*/(20441)],"d6e5bbc8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(60639))),"@site/docs/guitar/practice-arpeggios-251-on-g-major/index.md",/*require.resolve*/(60639)],"dd972d00":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75582))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★-869.json",/*require.resolve*/(75582)],"de1e7d19":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72145))),"@generated/docusaurus-plugin-content-docs/default/p/tags-聽音樂-7a1.json",/*require.resolve*/(72145)],"de5662b5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32257))),"@site/docs/songs/Songs-for-Memory/index.md",/*require.resolve*/(32257)],"df13cb96":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(52603))),"@site/docs/theory/musical-scale-fundation.md",/*require.resolve*/(52603)],"df203c0f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(45921))),"@theme/DocTagDocListPage",/*require.resolve*/(45921)],"e35b0c8d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9381))),"@site/docs/songs/Songs-for-Nylon-Guitar/index.md",/*require.resolve*/(9381)],"e3cfb130":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(74471))),"@generated/docusaurus-plugin-content-docs/default/p/tags-吉他-f5c.json",/*require.resolve*/(74471)],"e43a2153":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85501))),"@generated/docusaurus-plugin-content-docs/default/p/tags-suspended-06f.json",/*require.resolve*/(85501)],"e70651fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87921))),"@generated/docusaurus-plugin-content-docs/default/p/tags-musical-tone-f44.json",/*require.resolve*/(87921)],"e8ac9372":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(28390))),"@generated/docusaurus-plugin-content-docs/default/p/tags-shell-chord-e44.json",/*require.resolve*/(28390)],"eb4ee1a8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13179))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音感-290.json",/*require.resolve*/(13179)],"edce2f46":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(58364))),"@generated/docusaurus-plugin-content-docs/default/p/tags-chord-voicing-ccd.json",/*require.resolve*/(58364)],"f1884e56":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(50934))),"@generated/docusaurus-plugin-content-docs/default/p/tags-comping-b2e.json",/*require.resolve*/(50934)],"f32e392d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(86212))),"@generated/docusaurus-plugin-content-docs/default/p/category-字典工具-2bf.json",/*require.resolve*/(86212)],"f4b4a775":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(20041))),"@site/docs/band/getting-started-play-as-band.md",/*require.resolve*/(20041)],"f533cec5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(36543))),"@generated/docusaurus-plugin-content-docs/default/p/tags-tritone-substitute-2e6.json",/*require.resolve*/(36543)],"f8551aab":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(81976))),"@site/src/pages/my-react-page.js",/*require.resolve*/(81976)],"f9629f28":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(96032))),"@site/docs/band/run-a-band.md",/*require.resolve*/(96032)],"fbe01978":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(42741))),"@generated/docusaurus-plugin-content-docs/default/p/category-私房歌-d2f.json",/*require.resolve*/(42741)],"fe5d3305":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93690))),"@generated/docusaurus-plugin-content-docs/default/p/tags-diminished-ed3.json",/*require.resolve*/(93690)]});
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({"0048f7fb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(48177))),"@generated/docusaurus-plugin-content-docs/default/p/tags-聲學-b74.json",/*require.resolve*/(48177)],"01004f01":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21470))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音程-64d.json",/*require.resolve*/(21470)],"03181aef":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77826))),"@site/src/pages/my-markdown-page.md",/*require.resolve*/(77826)],"058ec3e0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(19872))),"@generated/docusaurus-plugin-content-docs/default/p/tags-泛音-18a.json",/*require.resolve*/(19872)],"06610195":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(95753))),"@generated/docusaurus-plugin-content-docs/default/p/tags-substitute-chord-a5b.json",/*require.resolve*/(95753)],"0668808e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(14544))),"@site/docs/theory/dominant-and-extension-chords/index.md",/*require.resolve*/(14544)],"07013876":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75917))),"@site/docs/theory/tsd-chord-substitution.md",/*require.resolve*/(75917)],"09c85861":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(33433))),"@site/docs/theory/eleventh-chord.md",/*require.resolve*/(33433)],"0bba26fc":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(34612))),"@site/docs/theory/semi-tone-of-solfege.md",/*require.resolve*/(34612)],"0bffc9b7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41329))),"@generated/docusaurus-plugin-content-docs/default/p/tags-i-rs-a90.json",/*require.resolve*/(41329)],"0e539989":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(81937))),"@site/docs/theory/musical-mode.md",/*require.resolve*/(81937)],"0f64fa28":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(47268))),"@generated/docusaurus-plugin-content-docs/default/p/tags-編曲-2a9.json",/*require.resolve*/(47268)],"10b2f1c4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41993))),"@generated/docusaurus-plugin-content-docs/default/p/tags-私房歌-825.json",/*require.resolve*/(41993)],"14eb3368":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68780))),"@theme/DocCategoryGeneratedIndexPage",/*require.resolve*/(68780)],"15cc8d7b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(53174))),"@site/docs/gossip/correctness-efficiency.md",/*require.resolve*/(53174)],"17896441":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(66915))),"@theme/DocItem",/*require.resolve*/(66915)],"1827dc15":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32295))),"@site/docs/guitar/practice-arpeggios-g-major7/index.md",/*require.resolve*/(32295)],"1916df2a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68956))),"@generated/docusaurus-plugin-content-docs/default/p/tags-和弦-394.json",/*require.resolve*/(68956)],"1f391b9e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84250))),"@theme/MDXPage",/*require.resolve*/(84250)],"214b7d13":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(96971))),"@generated/docusaurus-plugin-content-docs/default/p/tags-襯底-bd9.json",/*require.resolve*/(96971)],"219bd1f3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83130))),"@site/docs/dict/diatonic-chords-in-circle-of-5ths/index.md",/*require.resolve*/(83130)],"2298341a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49163))),"@site/docs/gossip/willing.md",/*require.resolve*/(49163)],"22dd74f7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55226))),"@generated/docusaurus-plugin-content-docs/default/p/index-466.json",/*require.resolve*/(55226)],"24348a5e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(71839))),"@site/docs/gossip/how-to-listen-a-song.md",/*require.resolve*/(71839)],"2455be05":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(37557))),"@site/docs/gossip/mathematics.md",/*require.resolve*/(37557)],"2603587c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(78811))),"@generated/docusaurus-plugin-content-docs/default/p/category-音樂製作-07c.json",/*require.resolve*/(78811)],"26e67706":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(14046))),"@site/docs/production/pad-basics.md",/*require.resolve*/(14046)],"2776dd36":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8576))),"@generated/docusaurus-plugin-content-docs/default/p/tags-interval-5bb.json",/*require.resolve*/(8576)],"2d36cbcb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(25545))),"@generated/docusaurus-plugin-content-docs/default/p/tags-本質-cff.json",/*require.resolve*/(25545)],"31087c4c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94531))),"@generated/docusaurus-plugin-content-docs/default/p/category-樂理-b97.json",/*require.resolve*/(94531)],"3185bcbc":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(91083))),"@site/docs/production/echo-delay-reverb.md",/*require.resolve*/(91083)],"32147d15":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13122))),"@site/docs/theory/tritone.md",/*require.resolve*/(13122)],"3563154e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(3793))),"@generated/docusaurus-plugin-content-docs/default/p/tags-zelda-f0a.json",/*require.resolve*/(3793)],"35710a4a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(91313))),"@generated/docusaurus-plugin-content-docs/default/p/tags-五聲音階-d84.json",/*require.resolve*/(91313)],"360e4e56":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(79105))),"@generated/docusaurus-plugin-content-docs/default/p/tags-取樣-093.json",/*require.resolve*/(79105)],"3720c009":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12194))),"@theme/DocTagsListPage",/*require.resolve*/(12194)],"388a6d45":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12338))),"@generated/docusaurus-plugin-content-docs/default/p/tags-modal-interchange-549.json",/*require.resolve*/(12338)],"393be207":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75943))),"@site/src/pages/markdown-page.md",/*require.resolve*/(75943)],"3a23291b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72067))),"@site/docs/gossip/dialogue.mdx",/*require.resolve*/(72067)],"3b16aa74":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(80717))),"@generated/docusaurus-plugin-content-docs/default/p/tags-鼓-a0a.json",/*require.resolve*/(80717)],"3bbf71fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(54800))),"@generated/docusaurus-plugin-content-docs/default/p/tags-唱名-750.json",/*require.resolve*/(54800)],"3ce948fd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55069))),"@generated/docusaurus-plugin-content-docs/default/p/tags-dominant-207.json",/*require.resolve*/(55069)],"3eadd4d2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(70283))),"@generated/docusaurus-plugin-content-docs/default/p/tags-how-to-a2d.json",/*require.resolve*/(70283)],"41dfd778":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21145))),"@site/docs/guitar/time-for-practice-guitar/index.md",/*require.resolve*/(21145)],"43cae74f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85057))),"@site/docs/theory/create-a-new-scale.md",/*require.resolve*/(85057)],"45158fe1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(92614))),"@site/docs/gossip/protect-your-ears.md",/*require.resolve*/(92614)],"454aab79":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12867))),"@generated/docusaurus-plugin-content-docs/default/p/tags-數學-ee5.json",/*require.resolve*/(12867)],"4599de8a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(47739))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音階-fe9.json",/*require.resolve*/(47739)],"45d71abc":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84514))),"@site/docs/theory/canon-chord-progression/index.md",/*require.resolve*/(84514)],"488109a4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(48503))),"@site/docs/gossip/learn-to-listen.md",/*require.resolve*/(48503)],"48d3a866":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9159))),"@generated/docusaurus-plugin-content-docs/default/p/tags-tritone-92e.json",/*require.resolve*/(9159)],"495757da":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(33440))),"@site/docs/gossip/play-what-and-how-to-play.md",/*require.resolve*/(33440)],"4992f4a8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(89285))),"@generated/docusaurus-plugin-content-docs/default/p/tags-passing-tone-388.json",/*require.resolve*/(89285)],"4a68c1b2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(98623))),"@site/docs/gossip/fixed-solfege.md",/*require.resolve*/(98623)],"4c3cc1d9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(70527))),"@generated/docusaurus-plugin-content-docs/default/p/category-聊音樂-86e.json",/*require.resolve*/(70527)],"4d711081":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(28856))),"@site/docs/guitar/guitar-chord-voicing/index.md",/*require.resolve*/(28856)],"4e00f8fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21745))),"@site/docs/theory/secondary-dominat/index.md",/*require.resolve*/(21745)],"4e07e22f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(66647))),"@generated/docusaurus-plugin-content-docs/default/p/tags-樂理-1a5.json",/*require.resolve*/(66647)],"520fb30b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(68556))),"@site/docs/gossip/algorithm-for-songs/index.md",/*require.resolve*/(68556)],"544ffd2f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(55113))),"@generated/docusaurus-plugin-content-docs/default/p/tags-motu-431.json",/*require.resolve*/(55113)],"547c0595":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72757))),"@generated/docusaurus-plugin-content-docs/default/p/tags-msb-117.json",/*require.resolve*/(72757)],"5678974b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(58455))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★★★-cfa.json",/*require.resolve*/(58455)],"59af61a6":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(5332))),"@generated/docusaurus-plugin-content-docs/default/p/tags-b9f.json",/*require.resolve*/(5332)],"5b178ce3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(31625))),"@generated/docusaurus-plugin-content-docs/default/p/tags-樂團經營-67b.json",/*require.resolve*/(31625)],"5e95c892":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(7121))),"@theme/DocsRoot",/*require.resolve*/(7121)],"5e9f5e1a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4784))),"@generated/docusaurus.config",/*require.resolve*/(4784)],"5f9c3504":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(84190))),"@site/docs/songs/g5-project.md",/*require.resolve*/(84190)],"619780f9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(57040))),"@generated/docusaurus-plugin-content-docs/default/p/tags-bichord-5b0.json",/*require.resolve*/(57040)],"62a26766":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(89045))),"@site/docs/theory/suspended-chord.md",/*require.resolve*/(89045)],"64cac739":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(80529))),"@generated/docusaurus-plugin-content-docs/default/p/tags-midi鍵盤-dd9.json",/*require.resolve*/(80529)],"64f457bd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67601))),"@site/docs/songs/Survival-Dance/index.md",/*require.resolve*/(67601)],"669a9296":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(19072))),"@generated/docusaurus-plugin-content-docs/default/p/category-樂團經營-71c.json",/*require.resolve*/(19072)],"67ec076f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(59369))),"@site/docs/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index.md",/*require.resolve*/(59369)],"6bcabe35":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(17489))),"@site/docs/gossip/guthrie-govan-live-2015.md",/*require.resolve*/(17489)],"6c5f2d61":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13558))),"@site/docs/theory/tonality-key-mode/index.md",/*require.resolve*/(13558)],"70cfd2fd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(35692))),"@site/docs/band/about-score/index.md",/*require.resolve*/(35692)],"72112395":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(89221))),"@generated/docusaurus-plugin-content-docs/default/p/tags-錄音-51d.json",/*require.resolve*/(89221)],"729eb257":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(63978))),"@site/docs/songs/FFV_Dear-Friends/index.md",/*require.resolve*/(63978)],"72f879f0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(3010))),"@site/docs/theory/essence-of-musical-scales.md",/*require.resolve*/(3010)],"73beb38d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(6813))),"@site/docs/guitar/some-tips-and-suggestions-for-practicing-guitar.md",/*require.resolve*/(6813)],"746d00c8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61157))),"@site/docs/gossip/relative-absolute.md",/*require.resolve*/(61157)],"752d998c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(92744))),"@generated/docusaurus-plugin-content-docs/default/p/tags-daw-484.json",/*require.resolve*/(92744)],"77d7c940":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(65501))),"@generated/docusaurus-plugin-content-docs/default/p/tags-cadence-2e7.json",/*require.resolve*/(65501)],"78b2ca1c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77654))),"@site/docs/theory/minor-scale/index.md",/*require.resolve*/(77654)],"7cf79e5c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75926))),"@generated/docusaurus-plugin-content-docs/default/p/tags-open-voicing-ca4.json",/*require.resolve*/(75926)],"7d3fe123":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(1811))),"@generated/docusaurus-plugin-content-docs/default/p/tags-closed-voicing-edf.json",/*require.resolve*/(1811)],"7f84096f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(69421))),"@generated/docusaurus-plugin-content-docs/default/p/tags-jack-thammarat-385.json",/*require.resolve*/(69421)],"7ff305a2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75195))),"@site/docs/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch.md",/*require.resolve*/(75195)],"80398d32":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(56396))),"@generated/docusaurus-plugin-content-docs/default/p/tags-delay-36d.json",/*require.resolve*/(56396)],"83387aa1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94631))),"@generated/docusaurus-plugin-content-docs/default/p/tags-midi-628.json",/*require.resolve*/(94631)],"84f0d58d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4893))),"@site/docs/gossip/memory-in-ff-music.md",/*require.resolve*/(4893)],"875d921a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(79979))),"@generated/docusaurus-plugin-content-docs/default/p/tags-guide-tone-26b.json",/*require.resolve*/(79979)],"8b6d3a35":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49617))),"@generated/docusaurus-plugin-content-docs/default/p/tags-pad-10a.json",/*require.resolve*/(49617)],"8e3d99ec":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(10291))),"@generated/docusaurus-plugin-content-docs/default/p/tags-練習-171.json",/*require.resolve*/(10291)],"9007ebbb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(22667))),"@generated/docusaurus-plugin-content-docs/default/p/tags-和聲-bcb.json",/*require.resolve*/(22667)],"91d4e9b3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(71191))),"@generated/docusaurus-plugin-content-docs/default/p/tags-sound-module-7bd.json",/*require.resolve*/(71191)],"933ee70b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(76354))),"@site/docs/theory/thinkin-mode.md",/*require.resolve*/(76354)],"9360ef66":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(41195))),"@generated/docusaurus-plugin-content-docs/default/p/tags-lsb-efe.json",/*require.resolve*/(41195)],"9735086d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(14752))),"@generated/docusaurus-plugin-content-docs/default/p/tags-混音-6ea.json",/*require.resolve*/(14752)],"9a7a6827":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(4538))),"@site/docs/theory/major-scale/index.md",/*require.resolve*/(4538)],"9b335e39":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(56477))),"@generated/docusaurus-plugin-content-docs/default/p/tags-polychord-818.json",/*require.resolve*/(56477)],"9c7f1a53":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61137))),"@site/docs/gossip/jimi-hendrix.md",/*require.resolve*/(61137)],"9dbc87ed":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67873))),"@site/docs/production/digital-audio-system/index.md",/*require.resolve*/(67873)],"9fa7d172":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32980))),"@site/docs/guitar/how-to-practice-a-song.md",/*require.resolve*/(32980)],"a09bd0f7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93254))),"@generated/docusaurus-plugin-content-docs/default/p/tags-harmony-42f.json",/*require.resolve*/(93254)],"a0c6d5d0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94938))),"@site/docs/songs/Zelda-Trailer-2017E3/index.md",/*require.resolve*/(94938)],"a2dbe853":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97558))),"@site/docs/songs/Jack-Thammarat_Falling-in-Love-Again/index.md",/*require.resolve*/(97558)],"a3f59da0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(77862))),"@site/docs/production/concepts-of-music-technology/index.md",/*require.resolve*/(77862)],"a6383854":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(14964))),"@generated/docusaurus-plugin-content-docs/default/p/tags-刻意練習-4a9.json",/*require.resolve*/(14964)],"a7456010":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(88552))),"@generated/docusaurus-plugin-content-pages/default/__plugin.json",/*require.resolve*/(88552)],"a7bd4aaa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(74532))),"@theme/DocVersionRoot",/*require.resolve*/(74532)],"a83fb154":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(21461))),"@site/docs/guitar/effective-practice-guitar/index.md",/*require.resolve*/(21461)],"a94703ab":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8944))),"@theme/DocRoot",/*require.resolve*/(8944)],"a9f0d007":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(67253))),"@site/docs/production/basic-concepts-of-sampling.md",/*require.resolve*/(67253)],"aa4a21d9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85308))),"@site/docs/guitar/guitar-fundation-technical/index.md",/*require.resolve*/(85308)],"ab0de171":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(62475))),"@site/docs/dict/scale-learning-map/index.md",/*require.resolve*/(62475)],"aba21aa0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(27093))),"@generated/docusaurus-plugin-content-docs/default/__plugin.json",/*require.resolve*/(27093)],"aca4e32b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(43649))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★-8f9.json",/*require.resolve*/(43649)],"ad8289d7":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(8571))),"@generated/docusaurus-plugin-content-docs/default/p/tags-motif-xs-8-b58.json",/*require.resolve*/(8571)],"ae5e7060":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(23114))),"@generated/docusaurus-plugin-content-docs/default/p/tags-echo-605.json",/*require.resolve*/(23114)],"b02775e2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(90376))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★★-a0c.json",/*require.resolve*/(90376)],"b0e641ea":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87827))),"@site/docs/gossip/just-getting-started/index.md",/*require.resolve*/(87827)],"b11cd6cd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97096))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★★★-b74.json",/*require.resolve*/(97096)],"b14f7e2a":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(12773))),"@site/docs/guitar/guide-to-guitar-scale-patterns/index.md",/*require.resolve*/(12773)],"b4244436":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(11139))),"@site/docs/production/using-external-midi-devices-in-logic-pro/index.md",/*require.resolve*/(11139)],"b4a1af84":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(38662))),"@site/docs/production/loop-concepts-and-application-one-night-in-beijing/index.mdx",/*require.resolve*/(38662)],"b4a2439b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93955))),"@site/docs/band/pick-songs.md",/*require.resolve*/(93955)],"b6117871":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49824))),"@generated/docusaurus-plugin-content-docs/default/p/category-給吉他手-da2.json",/*require.resolve*/(49824)],"b65fc5c5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(26280))),"@site/docs/gossip/simple-complex.md",/*require.resolve*/(26280)],"b835dda1":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(60057))),"@site/docs/gossip/level-of-practice.md",/*require.resolve*/(60057)],"bb18a448":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(82916))),"@generated/docusaurus-plugin-content-docs/default/p/tags-basetone-852.json",/*require.resolve*/(82916)],"bb4f65cd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83057))),"@site/docs/gossip/form-framework-history.md",/*require.resolve*/(83057)],"be046359":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(61193))),"@generated/docusaurus-plugin-content-docs/default/p/tags-arpeggios-ee4.json",/*require.resolve*/(61193)],"c09f491e":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49161))),"@site/docs/production/basic-acoustics-and-digital-music-production.md",/*require.resolve*/(49161)],"c208fb7d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(91940))),"@site/docs/theory/relation-chord.md",/*require.resolve*/(91940)],"c271fc4d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9138))),"@generated/docusaurus-plugin-content-docs/default/p/tags-chord-substitution-5c0.json",/*require.resolve*/(9138)],"c272ffaf":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72627))),"@site/docs/gossip/as-professional.md",/*require.resolve*/(72627)],"c2bbaef0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(30087))),"@site/docs/theory/note-signature/index.md",/*require.resolve*/(30087)],"c3758c06":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(6625))),"@site/docs/theory/thriteenth-chord.md",/*require.resolve*/(6625)],"c377a04b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(48321))),"@site/docs/index.md",/*require.resolve*/(48321)],"c5b1e2a3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(49562))),"@generated/docusaurus-plugin-content-docs/default/p/tags-secondary-dominant-2f3.json",/*require.resolve*/(49562)],"c7030adb":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(19104))),"@site/docs/production/motu-mk4-macos/index.md",/*require.resolve*/(19104)],"c8172173":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(82677))),"@site/docs/songs/Jack-Thammarat_Emotive-Ballad/index.md",/*require.resolve*/(82677)],"c889ff72":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75134))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音樂製作-e1b.json",/*require.resolve*/(75134)],"cabe4fc0":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(53971))),"@generated/docusaurus-plugin-content-docs/default/p/tags-聊天-105.json",/*require.resolve*/(53971)],"cb2d06fe":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(1989))),"@generated/docusaurus-plugin-content-docs/default/p/tags-調式-6ef.json",/*require.resolve*/(1989)],"cb6965f2":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(94671))),"@site/docs/dict/chord-learning-map/index.md",/*require.resolve*/(94671)],"cc324f10":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(37200))),"@site/docs/gossip/speed.md",/*require.resolve*/(37200)],"cc84ab41":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(25692))),"@generated/docusaurus-plugin-content-docs/default/p/tags-final-fantasy-728.json",/*require.resolve*/(25692)],"cd0a223c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9369))),"@generated/docusaurus-plugin-content-docs/default/p/tags-augmented-d05.json",/*require.resolve*/(9369)],"cd34d918":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(83493))),"@site/docs/theory/modal-interchange.md",/*require.resolve*/(83493)],"cdcc5aee":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87944))),"@generated/docusaurus-plugin-content-docs/default/p/tags-reverb-11d.json",/*require.resolve*/(87944)],"ce767eaa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(65327))),"@generated/docusaurus-plugin-content-docs/default/p/tags-mac-os-3bb.json",/*require.resolve*/(65327)],"d175032b":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(64946))),"@generated/docusaurus-plugin-content-docs/default/p/tags-五度圈-f2d.json",/*require.resolve*/(64946)],"d1bc1dd4":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75781))),"@site/docs/gossip/learning.md",/*require.resolve*/(75781)],"d1d19307":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(63349))),"@generated/docusaurus-plugin-content-docs/default/p/tags-共鳴-5b5.json",/*require.resolve*/(63349)],"d245a67f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(97786))),"@site/docs/gossip/pubking-wubai.md",/*require.resolve*/(97786)],"d2ab1831":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(34405))),"@generated/docusaurus-plugin-content-docs/default/p/tags-overtone-f8a.json",/*require.resolve*/(34405)],"d472b6e9":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(20441))),"@generated/docusaurus-plugin-content-docs/default/p/tags-原子習慣-2fa.json",/*require.resolve*/(20441)],"d6e5bbc8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(60639))),"@site/docs/guitar/practice-arpeggios-251-on-g-major/index.md",/*require.resolve*/(60639)],"dd972d00":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(75582))),"@generated/docusaurus-plugin-content-docs/default/p/tags-★-869.json",/*require.resolve*/(75582)],"de1e7d19":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(72145))),"@generated/docusaurus-plugin-content-docs/default/p/tags-聽音樂-7a1.json",/*require.resolve*/(72145)],"de5662b5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(32257))),"@site/docs/songs/Songs-for-Memory/index.md",/*require.resolve*/(32257)],"df13cb96":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(52603))),"@site/docs/theory/musical-scale-fundation.md",/*require.resolve*/(52603)],"df203c0f":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(45921))),"@theme/DocTagDocListPage",/*require.resolve*/(45921)],"e35b0c8d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(9381))),"@site/docs/songs/Songs-for-Nylon-Guitar/index.md",/*require.resolve*/(9381)],"e3cfb130":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(74471))),"@generated/docusaurus-plugin-content-docs/default/p/tags-吉他-f5c.json",/*require.resolve*/(74471)],"e43a2153":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(85501))),"@generated/docusaurus-plugin-content-docs/default/p/tags-suspended-06f.json",/*require.resolve*/(85501)],"e70651fa":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(87921))),"@generated/docusaurus-plugin-content-docs/default/p/tags-musical-tone-f44.json",/*require.resolve*/(87921)],"e8ac9372":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(28390))),"@generated/docusaurus-plugin-content-docs/default/p/tags-shell-chord-e44.json",/*require.resolve*/(28390)],"eb4ee1a8":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(13179))),"@generated/docusaurus-plugin-content-docs/default/p/tags-音感-290.json",/*require.resolve*/(13179)],"ed5a7cb3":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(23839))),"@generated/docusaurus-plugin-content-docs/default/p/tags-ii-v-i-fa3.json",/*require.resolve*/(23839)],"edce2f46":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(58364))),"@generated/docusaurus-plugin-content-docs/default/p/tags-chord-voicing-ccd.json",/*require.resolve*/(58364)],"ee70f2fd":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(44344))),"@site/docs/production/recording-drums-basics.md",/*require.resolve*/(44344)],"f1884e56":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(50934))),"@generated/docusaurus-plugin-content-docs/default/p/tags-comping-b2e.json",/*require.resolve*/(50934)],"f32e392d":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(86212))),"@generated/docusaurus-plugin-content-docs/default/p/category-字典工具-2bf.json",/*require.resolve*/(86212)],"f4b4a775":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(20041))),"@site/docs/band/getting-started-play-as-band.md",/*require.resolve*/(20041)],"f533cec5":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(36543))),"@generated/docusaurus-plugin-content-docs/default/p/tags-tritone-substitute-2e6.json",/*require.resolve*/(36543)],"f8551aab":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(81976))),"@site/src/pages/my-react-page.js",/*require.resolve*/(81976)],"f879ee9c":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(22915))),"@generated/docusaurus-plugin-content-docs/default/p/tags-弦樂-b5f.json",/*require.resolve*/(22915)],"f9629f28":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(96032))),"@site/docs/band/run-a-band.md",/*require.resolve*/(96032)],"fbe01978":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(42741))),"@generated/docusaurus-plugin-content-docs/default/p/category-私房歌-d2f.json",/*require.resolve*/(42741)],"fe5d3305":[()=>Promise.resolve().then(()=>(0,_Users_rickhwang_Repos_rickhwang_sites_site_rickmidi_gtcafe_com_src_node_modules_babel_runtime_helpers_esm_interopRequireWildcard_js__WEBPACK_IMPORTED_MODULE_0__/* ["default"] */ .A)(__webpack_require__(93690))),"@generated/docusaurus-plugin-content-docs/default/p/tags-diminished-ed3.json",/*require.resolve*/(93690)]});
 
 /***/ },
 
@@ -40648,7 +41721,7 @@ if (true) {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"音樂製作","permalink":"/tags/音樂製作","allTagsPath":"/tags","count":2,"items":[{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","title":"Loop 的概念與應用實例 - One Night in 北京","description":"Loop 字面上 的意思是: 循環, 反覆, 迴路, 橡皮圈 .... etc. 在音樂製作中, 中文可以翻譯成 \\"循環樂句\\", 或者 \\"反覆段落\\". 簡單說就是一段一直反覆播放的 \\"樂音\\".","permalink":"/production/loop-concepts-and-application-one-night-in-beijing/"},{"id":"production/basic-concepts-of-sampling","title":"取樣的基本概念","description":"這是網友在 鄉民站 Keyboard 版問的問題, 我花了一點時間回答基本的概念.","permalink":"/production/basic-concepts-of-sampling"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"音樂製作","permalink":"/tags/音樂製作","allTagsPath":"/tags","count":5,"items":[{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","title":"Loop 的概念與應用實例 - One Night in 北京","description":"Loop 字面上 的意思是: 循環, 反覆, 迴路, 橡皮圈 .... etc. 在音樂製作中, 中文可以翻譯成 \\"循環樂句\\", 或者 \\"反覆段落\\". 簡單說就是一段一直反覆播放的 \\"樂音\\".","permalink":"/production/loop-concepts-and-application-one-night-in-beijing/"},{"id":"production/basic-concepts-of-sampling","title":"取樣的基本概念","description":"這是網友在 鄉民站 Keyboard 版問的問題, 我花了一點時間回答基本的概念.","permalink":"/production/basic-concepts-of-sampling"},{"id":"production/basic-acoustics-and-digital-music-production","title":"基礎聲學與數位音樂製作","description":"對於 \\"聲音\\" 的物理現象，很多物理學、音響或 PA 相關的書都會提到一些基本概念，這些概念對於音樂製作上，尤其要做出比較有豐富聲響的音樂，基礎的聲音理論更是要有相當的瞭解。\\n","permalink":"/production/basic-acoustics-and-digital-music-production"},{"id":"production/pad-basics","title":"襯底 PAD 的基本概念","description":"襯底 (Pad) 是音樂裡製造流動感、呼吸感的長音元素。了解 Pad 的類型與編曲技巧，可以讓音樂更有層次與氛圍。\\n","permalink":"/production/pad-basics"},{"id":"production/recording-drums-basics","title":"錄鼓的一些基本概念","description":"鼓的錄音是音樂製作中的一項大工程，需要具備基礎知識、技術與設備。本文整理錄鼓所需的認知與注意事項。\\n","permalink":"/production/recording-drums-basics"}],"unlisted":false}}');
 
 /***/ },
 
@@ -40938,7 +42011,7 @@ const admonitionAliases={secondary:props=>/*#__PURE__*/(0,react_jsx_runtime__WEB
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"★","permalink":"/tags/★","allTagsPath":"/tags","count":19,"items":[{"id":"gossip/memory-in-ff-music","title":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","description":"整理電玩雜誌對作曲家植松伸夫訪談紀錄","permalink":"/gossip/memory-in-ff-music"},{"id":"gossip/guthrie-govan-live-2015","title":"2015 Guthrie Govan 西門河岸吉他音樂講座 筆記","description":"昨天 (2015/10/18) 去聽了期待已久的 Guthrie Govan (以下簡稱 GG) 音樂會 + 吉他講座。GG 現場的演奏，真的是大師中的大師，流暢到不可思議！信手捻來 的每個音符、句子、和弦，甚至是隨手彈的馬上疊成 Loop ，好像隨時都可以『噴』出一堆曲子。","permalink":"/gossip/guthrie-govan-live-2015"},{"id":"songs/g5-project","title":"G5 Project","description":"介紹日本吉他演奏專輯","permalink":"/songs/g5-project"},{"id":"gossip/protect-your-ears","title":"保護耳朵","description":"音樂人要好好的保護自己的耳朵。","permalink":"/gossip/protect-your-ears"},{"id":"gossip/just-getting-started/index","title":"十年，不過是入門而已","description":"怎樣才算入門？","permalink":"/gossip/just-getting-started/"},{"id":"gossip/fixed-solfege","title":"固定唱名？還是首調唱名？","description":"探討音程相對、絕對的概念。","permalink":"/gossip/fixed-solfege"},{"id":"gossip/how-to-listen-a-song","title":"如何聽一首歌?","description":"聆聽音樂的層次、角度。如何欣賞音樂，是學音樂必要的修煉。","permalink":"/gossip/how-to-listen-a-song"},{"id":"gossip/learn-to-listen","title":"學習聆聽","description":"探討音程相對、絕對的概念。","permalink":"/gossip/learn-to-listen"},{"id":"gossip/learning","title":"學習雜感","description":"態度與嚴謹造就我們的現況。","permalink":"/gossip/learning"},{"id":"gossip/dialogue","title":"對談","description":"一直以來, 教育是我覺得要提升人民素質唯一的方法 ...\\n教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 …\\n教育育是要我們的下一代能夠有 \\"獨立思考\\", \\"明辨是非\\", \\"培養創造力\\", \\"解決問題\\" …\\n","permalink":"/gossip/dialogue"},{"id":"gossip/willing","title":"意念傳達","description":"音樂是一種語言，語言的目的在於傳達想法。","permalink":"/gossip/willing"},{"id":"gossip/mathematics","title":"數學問題?","description":"音樂 vs 數學，理性的科學，與感性的藝術。","permalink":"/gossip/mathematics"},{"id":"gossip/form-framework-history","title":"曲式、歷史背景、框架模式","description":"這幾個背後的本質是類似的。","permalink":"/gossip/form-framework-history"},{"id":"gossip/correctness-efficiency","title":"正確性與速度","description":"幾個月前工作上遇到一個問題，就是 正確性 (Correctness) 與 速度 (其實就是效率 Efficiency) 的課題。","permalink":"/gossip/correctness-efficiency"},{"id":"gossip/relative-absolute","title":"相對、絕對音感","description":"二元論議題，在各個領域都會有的，音樂領域最常討論的就是音感。","permalink":"/gossip/relative-absolute"},{"id":"gossip/simple-complex","title":"簡單、複雜","description":"聊聊我個人對於現實與理想、簡單與複雜之間差距的心得與體悟。\\n","permalink":"/gossip/simple-complex"},{"id":"gossip/level-of-practice","title":"練習的層次","description":"關於練習的 DoD (Definition of Done)，以及學習的階段。","permalink":"/gossip/level-of-practice"},{"id":"gossip/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/gossip/echo-delay-reverb"},{"id":"gossip/speed","title":"關於速度","description":"天下武功，唯快不破！","permalink":"/gossip/speed"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"★","permalink":"/tags/★","allTagsPath":"/tags","count":19,"items":[{"id":"gossip/memory-in-ff-music","title":"16 年前的回憶 - FFIII 作曲家 植松伸夫 訪談紀錄","description":"整理電玩雜誌對作曲家植松伸夫訪談紀錄","permalink":"/gossip/memory-in-ff-music"},{"id":"gossip/guthrie-govan-live-2015","title":"2015 Guthrie Govan 西門河岸吉他音樂講座 筆記","description":"昨天 (2015/10/18) 去聽了期待已久的 Guthrie Govan (以下簡稱 GG) 音樂會 + 吉他講座。GG 現場的演奏，真的是大師中的大師，流暢到不可思議！信手捻來 的每個音符、句子、和弦，甚至是隨手彈的馬上疊成 Loop ，好像隨時都可以『噴』出一堆曲子。","permalink":"/gossip/guthrie-govan-live-2015"},{"id":"songs/g5-project","title":"G5 Project","description":"介紹日本吉他演奏專輯","permalink":"/songs/g5-project"},{"id":"gossip/protect-your-ears","title":"保護耳朵","description":"音樂人要好好的保護自己的耳朵。","permalink":"/gossip/protect-your-ears"},{"id":"gossip/just-getting-started/index","title":"十年，不過是入門而已","description":"怎樣才算入門？","permalink":"/gossip/just-getting-started/"},{"id":"gossip/fixed-solfege","title":"固定唱名？還是首調唱名？","description":"探討音程相對、絕對的概念。","permalink":"/gossip/fixed-solfege"},{"id":"gossip/how-to-listen-a-song","title":"如何聽一首歌?","description":"聆聽音樂的層次、角度。如何欣賞音樂，是學音樂必要的修煉。","permalink":"/gossip/how-to-listen-a-song"},{"id":"gossip/learn-to-listen","title":"學習聆聽","description":"探討音程相對、絕對的概念。","permalink":"/gossip/learn-to-listen"},{"id":"gossip/learning","title":"學習雜感","description":"態度與嚴謹造就我們的現況。","permalink":"/gossip/learning"},{"id":"gossip/dialogue","title":"對談","description":"一直以來, 教育是我覺得要提升人民素質唯一的方法 ...\\n教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 …\\n教育育是要我們的下一代能夠有 \\"獨立思考\\", \\"明辨是非\\", \\"培養創造力\\", \\"解決問題\\" …\\n","permalink":"/gossip/dialogue"},{"id":"gossip/willing","title":"意念傳達","description":"音樂是一種語言，語言的目的在於傳達想法。","permalink":"/gossip/willing"},{"id":"gossip/mathematics","title":"數學問題?","description":"音樂 vs 數學，理性的科學，與感性的藝術。","permalink":"/gossip/mathematics"},{"id":"gossip/form-framework-history","title":"曲式、歷史背景、框架模式","description":"這幾個背後的本質是類似的。","permalink":"/gossip/form-framework-history"},{"id":"gossip/correctness-efficiency","title":"正確性與速度","description":"幾個月前工作上遇到一個問題，就是 正確性 (Correctness) 與 速度 (其實就是效率 Efficiency) 的課題。","permalink":"/gossip/correctness-efficiency"},{"id":"gossip/relative-absolute","title":"相對、絕對音感","description":"二元論議題，在各個領域都會有的，音樂領域最常討論的就是音感。","permalink":"/gossip/relative-absolute"},{"id":"gossip/simple-complex","title":"簡單、複雜","description":"聊聊我個人對於現實與理想、簡單與複雜之間差距的心得與體悟。\\n","permalink":"/gossip/simple-complex"},{"id":"gossip/level-of-practice","title":"練習的層次","description":"關於練習的 DoD (Definition of Done)，以及學習的階段。","permalink":"/gossip/level-of-practice"},{"id":"production/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/production/echo-delay-reverb"},{"id":"gossip/speed","title":"關於速度","description":"天下武功，唯快不破！","permalink":"/gossip/speed"}],"unlisted":false}}');
 
 /***/ },
 
@@ -41208,6 +42281,344 @@ function MDXContent(props = {}) {
  */// References symbol in docusaurus-theme-classic/src/inlineSvgSprites.ts
 // See why: https://github.com/facebook/docusaurus/issues/5865
 const svgSprite='#theme-svg-external-link';function IconExternalLink({width=13.5,height=13.5}){return/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("svg",{width:width,height:height,"aria-label":(0,_docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__/* .translate */ .T)({id:'theme.IconExternalLink.ariaLabel',message:'(opens in new tab)',description:'The ARIA label for the external link icon'}),className:(_styles_module_css__WEBPACK_IMPORTED_MODULE_2___default().iconExternalLink),children:/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("use",{href:svgSprite})});}
+
+/***/ },
+
+/***/ 75917
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   assets: () => (/* binding */ assets),
+/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
+/* harmony export */   "default": () => (/* binding */ MDXContent),
+/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
+/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_theory_tsd_chord_substitution_md_070_json__WEBPACK_IMPORTED_MODULE_0__),
+/* harmony export */   toc: () => (/* binding */ toc)
+/* harmony export */ });
+/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_theory_tsd_chord_substitution_md_070_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(30966);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(74848);
+/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(28453);
+
+
+const frontMatter = {
+	title: 'TSD 和聲代換',
+	description: '調性的順階和弦中，主和弦、下屬和弦、屬和弦各有其聲響特性。了解 TSD 代換原理，可以讓和弦進行更加豐富。\n',
+	date: new Date('2007-11-15T00:00:00.000Z'),
+	tags: [
+		'★★★★',
+		'樂理',
+		'和弦',
+		'Chord Substitution',
+		'ii-V-I',
+		'Cadence',
+		'五度圈'
+	]
+};
+const contentTitle = undefined;
+
+const assets = {
+
+};
+
+
+
+const toc = [{
+  "value": "基本的 TSD 代換",
+  "id": "基本的-tsd-代換",
+  "level": 2
+}, {
+  "value": "C Major 順階七和弦",
+  "id": "c-major-順階七和弦",
+  "level": 3
+}, {
+  "value": "C Minor 順階七和弦",
+  "id": "c-minor-順階七和弦",
+  "level": 3
+}, {
+  "value": "TSD 代換一覽表",
+  "id": "tsd-代換一覽表",
+  "level": 2
+}, {
+  "value": "ii-V-I 進行",
+  "id": "ii-v-i-進行",
+  "level": 2
+}, {
+  "value": "實際應用範例",
+  "id": "實際應用範例",
+  "level": 2
+}, {
+  "value": "延伸閱讀",
+  "id": "延伸閱讀",
+  "level": 2
+}, {
+  "value": "站內資料",
+  "id": "站內資料",
+  "level": 3
+}, {
+  "value": "參考資料／線上資源",
+  "id": "參考資料線上資源",
+  "level": 3
+}, {
+  "value": "更新紀錄",
+  "id": "更新紀錄",
+  "level": 2
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    code: "code",
+    h2: "h2",
+    h3: "h3",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    pre: "pre",
+    strong: "strong",
+    table: "table",
+    tbody: "tbody",
+    td: "td",
+    th: "th",
+    thead: "thead",
+    tr: "tr",
+    ul: "ul",
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "調性的順階和弦 (Diatonic Harmony) 中，每個和弦都有其主要的功能。其中主和弦 (Tonic)、下屬和弦 (Sub-dominant)、屬和弦 (Dominant) 三個的聲響穩定依序為主和弦最穩定，下屬和弦次之，屬和弦最不穩定。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "另外三個和弦因為聲響性質，可以用其他順階和弦作代換，也就是常見的 T-S-D 代換。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["瞭解三種和弦的特性與和弦代換，應用在終止式 (", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "http://en.wikipedia.org/wiki/Cadence_%28music%29",
+        children: "Cadence"
+      }), ")，可以讓音樂更加的豐富。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "基本的-tsd-代換",
+      children: "基本的 TSD 代換"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "c-major-順階七和弦",
+      children: "C Major 順階七和弦"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "主和弦 (Tonic)"
+        }), "：CM7 可以用 Em7 和 Am7 代換"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "下屬和弦 (Sub-dominant)"
+        }), "：FM7 可以用 Dm7 代換"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "屬和弦 (Dominant)"
+        }), "：G7 可以用 Bm7-5 代換"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "c-minor-順階七和弦",
+      children: "C Minor 順階七和弦"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "以 C minor (Cm7, Dm7-5, EbM7, Fm7, Gm7, AbM7, Bb7) 順階七和弦為例："
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "主和弦 (Tonic)"
+        }), "：Cm7 可以用 EbM7、AbM7、Am7-5 代換"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "下屬和弦 (Sub-dominant)"
+        }), "：Fm7 可以用 Dm7-5、AbM7 代換"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+          children: "屬和弦 (Dominant)"
+        }), "：G7 可以用 Bm7-5、Bb7 代換"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "tsd-代換一覽表",
+      children: "TSD 代換一覽表"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "使用 TSD 代換之後會有一些排列組合，列表如下："
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.table, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.thead, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "Level"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "I"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "IV"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.th, {
+            children: "V"
+          })]
+        })
+      }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tbody, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Key"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Tonic"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Sub-dominant"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Dominant"
+          })]
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+              children: "C Major"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "CM7 / Em7 / Am7"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "FM7 / Dm7"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "G7 / Bm7-5"
+          })]
+        }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.tr, {
+          children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.strong, {
+              children: "C Minor"
+            })
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Cm7 / EbM7 / AbM7 / Am7-5"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "Fm7 / Dm7-5 / AbM7"
+          }), (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.td, {
+            children: "G7 / Bm7-5 / Bb7"
+          })]
+        })]
+      })]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "ii-v-i-進行",
+      children: "ii-V-I 進行"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["爵士樂最常見的終止式進行：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "/docs/theory/secondary-dominat",
+        children: "ii - V - I"
+      }), "，例如："]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+          children: "Dm7 - G7 - CM7"
+        }), " (C Major)"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+          children: "Cm7 - F7 - BbM7"
+        }), " (Bb Major)"]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+          children: "Am7 - D7 - GM7"
+        }), " (G Major)"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "熟悉五度圈的朋友應該很快就會發現，上述的 ii-V-I 進行，剛好是五度圈逆時針方向的排列。所以熟悉五度圈，對於 ii-V-I 進行的練習會有很大的幫助！"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "實際應用範例",
+      children: "實際應用範例"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["一般常見的編曲手法，可以在目標和弦引入終止式或者次屬和弦 (", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "/docs/theory/secondary-dominat",
+        children: "Secondary Dominant"
+      }), ")。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "例如一首曲子的 A 段和弦進行如下："
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "A: || C | C | F | F | Dm | Dm | F | G ||\n"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "我們在 F 導入次屬和弦，在結束和弦 G 導入 ii-V-I 進行，變成如下："
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.pre, {
+      children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "A: || C | C7 | F | F | Dm | Dm | F - Am7 - | D7 - G - ||\n"
+      })
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "聽起來會比原本的更加的 Smooth。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.hr, {}), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "延伸閱讀",
+      children: "延伸閱讀"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "站內資料",
+      children: "站內資料"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "/docs/theory/chord-fundation",
+          children: "和弦基礎"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "/docs/theory/secondary-dominat",
+          children: "次屬和弦 (Secondary Dominant)"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "/docs/theory/minor-scale",
+          children: "小調音階 (Minor Scale)"
+        })
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h3, {
+      id: "參考資料線上資源",
+      children: "參考資料／線上資源"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "爵士樂理入門 (Jazz Theory for Novices) - 李承育著"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "征服琴海 (Complete Guitar Playing) - 林正如著"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://en.wikipedia.org/wiki/Cadence_%28music%29",
+          children: "Cadence"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://en.wikipedia.org/wiki/Substitute_chord",
+          children: "Chord Substitution"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://en.wikipedia.org/wiki/Secondary_dominant",
+          children: "Secondary Dominant"
+        })
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "http://en.wikipedia.org/wiki/Circle_of_fifths",
+          children: "Circle of 5ths"
+        })
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "更新紀錄",
+      children: "更新紀錄"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ul, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.li, {
+        children: ["原文網址：", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+          href: "https://rickmidi.blogspot.com/2007/11/blog-post_15.html",
+          children: "https://rickmidi.blogspot.com/2007/11/blog-post_15.html"
+        })]
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "2007/11/15：初版"
+      }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+        children: "2026/02/01：搬移新站"
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
+    ...props,
+    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
 
 /***/ },
 
@@ -42851,6 +44262,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/pubking-wubai","title":"
 
 /***/ },
 
+/***/ 78390
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"id":"theory/semi-tone-of-solfege","title":"關於半音階的唱名","description":"唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\\n","source":"@site/docs/theory/semi-tone-of-solfege.md","sourceDirName":"theory","slug":"/theory/semi-tone-of-solfege","permalink":"/theory/semi-tone-of-solfege","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"唱名","permalink":"/tags/唱名"}],"version":"current","frontMatter":{"title":"關於半音階的唱名","description":"唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\\n","date":"2008-08-07T00:00:00.000Z","tags":["★★★","唱名"]},"sidebar":"tutorialSidebar","previous":{"title":"次屬和弦 (Secondary Dominant)","permalink":"/theory/secondary-dominat/"},"next":{"title":"掛留和弦 (Suspended Chord)","permalink":"/theory/suspended-chord"}}');
+
+/***/ },
+
 /***/ 78478
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -42888,7 +44307,7 @@ module.exports = {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/dialogue","title":"對談","description":"一直以來, 教育是我覺得要提升人民素質唯一的方法 ...\\n教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 …\\n教育育是要我們的下一代能夠有 \\"獨立思考\\", \\"明辨是非\\", \\"培養創造力\\", \\"解決問題\\" …\\n","source":"@site/docs/gossip/dialogue.mdx","sourceDirName":"gossip","slug":"/gossip/dialogue","permalink":"/gossip/dialogue","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"}],"version":"current","frontMatter":{"title":"對談","date":"2013-09-01T00:00:00.000Z","description":"一直以來, 教育是我覺得要提升人民素質唯一的方法 ...\\n教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 …\\n教育育是要我們的下一代能夠有 \\"獨立思考\\", \\"明辨是非\\", \\"培養創造力\\", \\"解決問題\\" …\\n","tags":["★","聊天"]},"sidebar":"tutorialSidebar","previous":{"title":"正確性與速度","permalink":"/gossip/correctness-efficiency"},"next":{"title":"聊聊即時與立即 - Echo / Delay / Reverb","permalink":"/gossip/echo-delay-reverb"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/dialogue","title":"對談","description":"一直以來, 教育是我覺得要提升人民素質唯一的方法 ...\\n教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 …\\n教育育是要我們的下一代能夠有 \\"獨立思考\\", \\"明辨是非\\", \\"培養創造力\\", \\"解決問題\\" …\\n","source":"@site/docs/gossip/dialogue.mdx","sourceDirName":"gossip","slug":"/gossip/dialogue","permalink":"/gossip/dialogue","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"}],"version":"current","frontMatter":{"title":"對談","date":"2013-09-01T00:00:00.000Z","description":"一直以來, 教育是我覺得要提升人民素質唯一的方法 ...\\n教育不是要告訴學生有多少東西要記憶, 背誦, 要考試 …\\n教育育是要我們的下一代能夠有 \\"獨立思考\\", \\"明辨是非\\", \\"培養創造力\\", \\"解決問題\\" …\\n","tags":["★","聊天"]},"sidebar":"tutorialSidebar","previous":{"title":"正確性與速度","permalink":"/gossip/correctness-efficiency"},"next":{"title":"固定唱名？還是首調唱名？","permalink":"/gossip/fixed-solfege"}}');
 
 /***/ },
 
@@ -42896,7 +44315,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/dialogue","title":"對�
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"音樂製作","description":"關於音樂如何製作的背後的技術議題心得整理，包含錄音、編曲、MIDI、軟體 (DAW) ... 等。","slug":"/category/音樂製作","permalink":"/category/音樂製作","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"樂團的經營","permalink":"/band/run-a-band"},"next":{"title":"取樣的基本概念","permalink":"/production/basic-concepts-of-sampling"}}}}');
+module.exports = /*#__PURE__*/JSON.parse('{"categoryGeneratedIndex":{"title":"音樂製作","description":"關於音樂如何製作的背後的技術議題心得整理，包含錄音、編曲、MIDI、軟體 (DAW) ... 等。","slug":"/category/音樂製作","permalink":"/category/音樂製作","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"樂團的經營","permalink":"/band/run-a-band"},"next":{"title":"基礎聲學與數位音樂製作","permalink":"/production/basic-acoustics-and-digital-music-production"}}}}');
 
 /***/ },
 
@@ -42940,6 +44359,14 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"songs/g5-project","title":"G5 P
 // See https://github.com/facebook/docusaurus/pull/6003
 // There's probably a better solution though...
 ,href:props.to?undefined:'#',className:(0,clsx__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('navbar__link',className),...props,onClick:props.to?undefined:e=>e.preventDefault(),onKeyDown:e=>{if(e.key==='Enter'){e.preventDefault();setShowDropdown(!showDropdown);}},children:props.children??props.label}),/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("ul",{className:"dropdown__menu",children:items.map((childItemProps,i)=>/*#__PURE__*/(0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(_theme_NavbarItem__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .A,{isDropdownItem:true,activeClassName:"dropdown__link--active",...childItemProps,key:i}))})]});}
+
+/***/ },
+
+/***/ 79105
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"取樣","permalink":"/tags/取樣","allTagsPath":"/tags","count":1,"items":[{"id":"production/basic-acoustics-and-digital-music-production","title":"基礎聲學與數位音樂製作","description":"對於 \\"聲音\\" 的物理現象，很多物理學、音響或 PA 相關的書都會提到一些基本概念，這些概念對於音樂製作上，尤其要做出比較有豐富聲響的音樂，基礎的聲音理論更是要有相當的瞭解。\\n","permalink":"/production/basic-acoustics-and-digital-music-production"}],"unlisted":false}}');
 
 /***/ },
 
@@ -43037,6 +44464,14 @@ Object.defineProperty(exports, "__esModule", ({value:true}));exports.getErrorCau
 
 /***/ },
 
+/***/ 80311
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"id":"production/pad-basics","title":"襯底 PAD 的基本概念","description":"襯底 (Pad) 是音樂裡製造流動感、呼吸感的長音元素。了解 Pad 的類型與編曲技巧，可以讓音樂更有層次與氛圍。\\n","source":"@site/docs/production/pad-basics.md","sourceDirName":"production","slug":"/production/pad-basics","permalink":"/production/pad-basics","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★","permalink":"/tags/★★★★"},{"inline":true,"label":"音樂製作","permalink":"/tags/音樂製作"},{"inline":true,"label":"編曲","permalink":"/tags/編曲"},{"inline":true,"label":"Pad","permalink":"/tags/pad"},{"inline":true,"label":"襯底","permalink":"/tags/襯底"},{"inline":true,"label":"弦樂","permalink":"/tags/弦樂"}],"version":"current","frontMatter":{"title":"襯底 PAD 的基本概念","description":"襯底 (Pad) 是音樂裡製造流動感、呼吸感的長音元素。了解 Pad 的類型與編曲技巧，可以讓音樂更有層次與氛圍。\\n","date":"2007-06-21T00:00:00.000Z","tags":["★★★★","音樂製作","編曲","Pad","襯底","弦樂"]},"sidebar":"tutorialSidebar","previous":{"title":"在 MacOS 驅動 MOTU UltraLite mk4","permalink":"/production/motu-mk4-macos/"},"next":{"title":"錄鼓的一些基本概念","permalink":"/production/recording-drums-basics"}}');
+
+/***/ },
+
 /***/ 80466
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -43081,197 +44516,6 @@ function a(){return a=Object.assign||function(t){for(var e=1;e<arguments.length;
 
 /***/ },
 
-/***/ 80549
-(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   assets: () => (/* binding */ assets),
-/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
-/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_gossip_echo_delay_reverb_md_a02_json__WEBPACK_IMPORTED_MODULE_0__),
-/* harmony export */   toc: () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_gossip_echo_delay_reverb_md_a02_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(73668);
-/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(74848);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(28453);
-
-
-const frontMatter = {
-	title: '聊聊即時與立即 - Echo / Delay / Reverb',
-	date: new Date('2019-08-24T00:00:00.000Z'),
-	description: '名詞解釋，說說 Echo / Delay / Reverb 的差異',
-	tags: [
-		'★',
-		'聊天',
-		'echo',
-		'delay',
-		'reverb',
-		'IRs',
-		'Overtone',
-		'Basetone',
-		'Musical Tone'
-	]
-};
-const contentTitle = undefined;
-
-const assets = {
-
-};
-
-
-
-const toc = [{
-  "value": "Reference",
-  "id": "reference",
-  "level": 2
-}];
-function _createMdxContent(props) {
-  const _components = {
-    a: "a",
-    blockquote: "blockquote",
-    code: "code",
-    h2: "h2",
-    li: "li",
-    ol: "ol",
-    p: "p",
-    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
-    ...props.components
-  };
-  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
-    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["人類對於 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "即時、立即"
-      }), " 的感覺，我的經驗值是 20ms ~ 50ms，只要大於 50ms 就可以感覺到 \"延遲\"。 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "聲學"
-      }), " 裡有三個名詞是跟延遲有關係的，分別是 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "echo / delay / reverb"
-      }), "。"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "　　　※"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Echo"
-      }), " 中文翻譯成 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "迴聲、反響"
-      }), "，有返回的意思，大部分口語不會特別用中文。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "返回"
-      }), " 表示達到某一個臨界條件之後，發生的動作，物理特性原理指的是聲波經由 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "介質"
-      }), " 的反射 (Reflection) 聲音。依照障礙物的材質差異、角度，反射的能量與波形依照空間大小會有所差異。"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["在混音領域，會利用不同的反射介質，模擬出各種 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "效果 (Effect, FX)"
-      }), "。Echo 實際要聽到效果，通常要一定的空間以上。依照 25 度攝氏度，聲音的傳播速度 343m/s 計算，人類要能夠察覺 echo ，必須至少要 17.2 米長的空間，才有有所謂的 echo。依此可以計算出 echo 的時間約 100ms."]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "echo 的概念，就是反射。很多時候在 KTV 唱歌時，大家都喜歡加 echo ，聽起來才夠台。其實那不叫 echo，那叫做 delay。而 echo 的實作，通常是透過 delay 做出來的，原理後述。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "然後 echo 會依照介質不同，依照物質的角度差異（嚴格講還有溫度與濕度），呈現不同的音色，只是大部分的人是無法察覺，通常在錄音軟體裡都有相關參數可以調整，達到模擬效果。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "　　　※"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Delay"
-      }), " 相對於 Echo 就單純了，算是被人類發明出來的東西。基本概念就是："]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ol, {
-        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-          children: "把原始聲音複製一段"
-        }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-          children: "然後延後播放。"
-        }), "\n"]
-      }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "不牽扯真實的空間波形傳遞的問題。所以 Delay 是可以製造出來的，而且也可以模擬 echo 。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["我剛開始在", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-        href: "https://www.facebook.com/rick.kyhwang/posts/10210808014435833",
-        children: "玩 MIDI 編曲"
-      }), " 時，沒有什麼硬體資源，只有簡單的 SB16 聲霸卡（那時候我還沒買音源卡），一開始也不知道啥叫效果器，但是知道聽的音樂中有那種很有空間感的、短暫的反覆旋律的聲音，不管反覆的是人聲、還是樂器聲音。所以， 我就在編曲時："]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
-      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ol, {
-        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-          children: "複製同一個音軌，把聲音調小"
-        }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
-          children: "整個音軌往後搬 16 分個音符"
-        }), "\n"]
-      }), "\n"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "這就是我人工製造出來的 delay。直到後來買了 DB50XG 音源子卡，才知道原來世上有效果器這種東西。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "不過在數位設備還不流行的年代，這種複製整個音軌是很大的成本，因為那年代的設備都是類比的，就算用數位 Audio，記憶體也很貴。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Delay 和 Echo 其實差異很大，Echo 在技術上的定義，約莫在 35ms ~ 100ms ，但是 Delay 可以玩很大，甚至有 #無限延伸 的技術，讓一個音符無限的長度，著名的吉他手 Santana 就很喜歡玩這東西。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "　　　※"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["Reverb 中文翻譯成 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "殘響"
-      }), "，指的是訊號源 (例如 小提琴) 發射出去之後，撞到介質，然後介質反射新的 echo 能量，此能量再撞到其他介質，再次產生新的能量，如此反覆循環產生的物理現象，稱為 Reverb。真實的世界，到處都是 Reverb，但是要感覺到他麼存在，必須在相對空曠的空間才行。"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Reverb 對人類的聽覺效果是產生具體的空間感，像是小舞台、大型巨蛋、或者是表演廳等。不同的空間又會因為建築材質，音樂廳的反射板設計差異，會有不同的反射。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "Reverb 對人類聽覺另一個感覺叫做真實感，混音的術語稱為 Wet Sound (濕的聲音)，原始訊號稱為 Dry Sound (乾的聲音)。 Dry + Wet Sound 構成真實的聲音。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "在錄音室錄音的目的，是要取得原始聲音訊號 (不管是樂器還是人聲) 的 Dry Sound，也就是沒有殘響的聲音。通常錄音室需要聽過特別的聲學與建築設計，達到最佳的 S/N Ratio (訊號與噪音比)，讓錄音師在錄音過程中，可以取得最佳的 Dry Sound，而 Wet Sound 則在混音階段處理。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "不過就在地球上來講，理論上無法取的 S/N 比只要 Singal 的聲音，也就是一定會有 reverb ，只是多少而已。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["除了反射造成的 Reverb 現象，另一個更重要的現象就是，這些 殘響 頻率之間的共振，如果剛好是倍頻關係，例如 Source: 220Hz，因為介質差異，產生了 440Hz 或者 5/4 倍、4/3 ... 等倍頻，最後會產生 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "Overtone"
-      }), "，中文稱為 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "泛音"
-      }), "。而原始聲音稱為 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "基音 (Base Tone)"
-      }), " ，加上 泛音，則是我們在地表上能夠聽得到自然音。如果只有基音，通常也會叫做 #純音 (Pure Tone)，但是在地表，理論上不會有純音。因為泛音的存在，使得聲音變成可聽性，這樣的聲音稱為 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "樂音 (Musical Tone)"
-      }), "，樂器會依照此特性製造。"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["Reverb 是個非常複雜的技術，特別是那些想要呈現演唱會後製專輯的處理，要達到 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "自然"
-      }), "，或者還原現場溫度，Reverb 的處理是非常關鍵的。"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "　　　※"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
-        href: "http://a85115230.pixnet.net/blog/post/390104224-%E9%9B%95%E5%A1%91%E6%9B%B4%E7%9C%9F%E5%AF%A6%E8%B2%BC%E5%88%87%E7%9A%84%E7%A9%BA%E9%96%93%E5%8F%96%E6%A8%A3%E9%97%9C%E9%8D%B5%EF%BC%8Dimpulse-respons",
-        children: "脈衝響應 (Impulse Responses, IRs)"
-      }), " 是記錄聲音訊號在系統中的動態反應、外部空間的變化、額外時間的改變。"]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "也就是說在一個固定空間裡，例如雪梨歌劇院，不同的區域的不同座位，都有上述的值可以記錄，然後只要在雪梨歌劇院裡每個座位都做 IRs 數據的採樣， 最後透過演算法就可以呈現出特定地方的音場特性，包含計算出 Reverb、Delay、Echo ... 等。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "音樂製作很多產品，以此為主要概念，設計很多產品，軟體、硬體都有。裡面通常會提供大量的資料庫、參數，像是雪梨歌劇院就是著名的 waves 裡的 IRs 參數。"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "　　　※"
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
-      children: ["文章開頭提到我對於 \"即時\" 的感覺，其實是源自於以前編曲時，設備不好，那時候用很多軟體取樣音源，音源檔案是放在硬碟，透過 MIDI 訊號發出，經過電腦運算、取得音源檔、送到錄音介面播放出來，經常感覺會 delay，後來透過 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
-        children: "ASIO (一個標準協議)"
-      }), " 得知 Buffer Size 太大，換言之，聲音訊息會 Buffering 在電腦的時間太久，造成最後送到 錄音介面 (D to A) 的時間太久，導致從鍵盤按下一個音，到聽到的時間，感覺不是即時。經過很多次的實驗，最後才歸納出 20ms ~ 50ms 這個時間區間，是我自己定義的 \"即時\" ...."]
-    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
-      id: "reference",
-      children: "Reference"
-    })]
-  });
-}
-function MDXContent(props = {}) {
-  const {wrapper: MDXLayout} = {
-    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
-    ...props.components
-  };
-  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
-    ...props,
-    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
-      ...props
-    })
-  }) : _createMdxContent(props);
-}
-
-
-
-/***/ },
-
 /***/ 80716
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
@@ -43280,6 +44524,14 @@ function MDXContent(props = {}) {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/canon-chord-progression_basic3_c-major-658d4e20714c3eda65126d9a70e06d29.png");
+
+/***/ },
+
+/***/ 80717
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"鼓","permalink":"/tags/鼓","allTagsPath":"/tags","count":1,"items":[{"id":"production/recording-drums-basics","title":"錄鼓的一些基本概念","description":"鼓的錄音是音樂製作中的一項大工程，需要具備基礎知識、技術與設備。本文整理錄鼓所需的認知與注意事項。\\n","permalink":"/production/recording-drums-basics"}],"unlisted":false}}');
 
 /***/ },
 
@@ -44230,7 +45482,7 @@ if(!hiddenSidebar&&(0,_docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_3__/* .p
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Basetone","permalink":"/tags/basetone","allTagsPath":"/tags","count":1,"items":[{"id":"gossip/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/gossip/echo-delay-reverb"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Basetone","permalink":"/tags/basetone","allTagsPath":"/tags","count":1,"items":[{"id":"production/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/production/echo-delay-reverb"}],"unlisted":false}}');
 
 /***/ },
 
@@ -44522,7 +45774,7 @@ function MDXContent(props = {}) {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/guitar-chord-voicing/index","title":"吉他的和弦聲位基本概念 (Chord Voicing)","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","source":"@site/docs/guitar/guitar-chord-voicing/index.md","sourceDirName":"guitar/guitar-chord-voicing","slug":"/guitar/guitar-chord-voicing/","permalink":"/guitar/guitar-chord-voicing/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★★","permalink":"/tags/★★★★★"},{"inline":true,"label":"吉他","permalink":"/tags/吉他"},{"inline":true,"label":"Chord Voicing","permalink":"/tags/chord-voicing"}],"version":"current","frontMatter":{"title":"吉他的和弦聲位基本概念 (Chord Voicing)","linkTitle":"吉他的和弦聲位基本概念","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","date":"2010-04-17T00:00:00.000Z","tags":["★★★★★","吉他","Chord Voicing"]},"sidebar":"tutorialSidebar","previous":{"title":"吉他音階學習摘要","permalink":"/guitar/guide-to-guitar-scale-patterns/"},"next":{"title":"吉他的基本功","permalink":"/guitar/guitar-fundation-technical/"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/guitar-chord-voicing/index","title":"吉他的和弦聲位基本概念","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","source":"@site/docs/guitar/guitar-chord-voicing/index.md","sourceDirName":"guitar/guitar-chord-voicing","slug":"/guitar/guitar-chord-voicing/","permalink":"/guitar/guitar-chord-voicing/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★★★","permalink":"/tags/★★★★★"},{"inline":true,"label":"吉他","permalink":"/tags/吉他"},{"inline":true,"label":"Chord Voicing","permalink":"/tags/chord-voicing"}],"version":"current","frontMatter":{"title":"吉他的和弦聲位基本概念","description":"摘要和弦聲位 (Chord Voicing) 的基本概念以及吉他的應用技巧。","date":"2010-04-17T00:00:00.000Z","tags":["★★★★★","吉他","Chord Voicing"]},"sidebar":"tutorialSidebar","previous":{"title":"吉他音階學習摘要","permalink":"/guitar/guide-to-guitar-scale-patterns/"},"next":{"title":"吉他的基本功","permalink":"/guitar/guitar-fundation-technical/"}}');
 
 /***/ },
 
@@ -44808,7 +46060,7 @@ function MDXContent(props = {}) {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"/markdown-page-3d7":{"__comp":"1f391b9e","__context":{"plugin":"a7456010"},"content":"393be207"},"/my-markdown-page-438":{"__comp":"1f391b9e","__context":{"plugin":"a7456010"},"content":"03181aef"},"/my-react-page-f2d":{"__comp":"f8551aab","__context":{"plugin":"a7456010"},"config":"5e9f5e1a"},"/-a23":{"__comp":"5e95c892","__context":{"plugin":"aba21aa0"}},"/-89d":{"__comp":"a7bd4aaa","__props":"22dd74f7"},"/tags-ce1":{"__comp":"3720c009","__props":"59af61a6"},"/tags/★-655":{"__comp":"df203c0f","__props":"dd972d00"},"/tags/★★-c5f":{"__comp":"df203c0f","__props":"aca4e32b"},"/tags/★★★-fe1":{"__comp":"df203c0f","__props":"b11cd6cd"},"/tags/★★★★-5d1":{"__comp":"df203c0f","__props":"b02775e2"},"/tags/★★★★★-c99":{"__comp":"df203c0f","__props":"5678974b"},"/tags/arpeggios-a33":{"__comp":"df203c0f","__props":"be046359"},"/tags/augmented-ee6":{"__comp":"df203c0f","__props":"cd0a223c"},"/tags/basetone-a7c":{"__comp":"df203c0f","__props":"bb18a448"},"/tags/bichord-fa1":{"__comp":"df203c0f","__props":"619780f9"},"/tags/chord-voicing-7dd":{"__comp":"df203c0f","__props":"edce2f46"},"/tags/closed-voicing-d6d":{"__comp":"df203c0f","__props":"7d3fe123"},"/tags/comping-5df":{"__comp":"df203c0f","__props":"f1884e56"},"/tags/daw-3b4":{"__comp":"df203c0f","__props":"752d998c"},"/tags/delay-71f":{"__comp":"df203c0f","__props":"80398d32"},"/tags/diminished-184":{"__comp":"df203c0f","__props":"fe5d3305"},"/tags/dominant-9d7":{"__comp":"df203c0f","__props":"3ce948fd"},"/tags/echo-b26":{"__comp":"df203c0f","__props":"ae5e7060"},"/tags/final-fantasy-899":{"__comp":"df203c0f","__props":"cc84ab41"},"/tags/guide-tone-597":{"__comp":"df203c0f","__props":"875d921a"},"/tags/harmony-057":{"__comp":"df203c0f","__props":"a09bd0f7"},"/tags/how-to-5e6":{"__comp":"df203c0f","__props":"3eadd4d2"},"/tags/i-rs-13c":{"__comp":"df203c0f","__props":"0bffc9b7"},"/tags/interval-1a3":{"__comp":"df203c0f","__props":"2776dd36"},"/tags/jack-thammarat-a39":{"__comp":"df203c0f","__props":"7f84096f"},"/tags/lsb-c34":{"__comp":"df203c0f","__props":"9360ef66"},"/tags/mac-os-77d":{"__comp":"df203c0f","__props":"ce767eaa"},"/tags/midi-6cb":{"__comp":"df203c0f","__props":"83387aa1"},"/tags/midi鍵盤-a83":{"__comp":"df203c0f","__props":"64cac739"},"/tags/modal-interchange-0f0":{"__comp":"df203c0f","__props":"388a6d45"},"/tags/motif-xs-8-c4c":{"__comp":"df203c0f","__props":"ad8289d7"},"/tags/motu-28e":{"__comp":"df203c0f","__props":"544ffd2f"},"/tags/msb-994":{"__comp":"df203c0f","__props":"547c0595"},"/tags/musical-tone-9c2":{"__comp":"df203c0f","__props":"e70651fa"},"/tags/open-voicing-633":{"__comp":"df203c0f","__props":"7cf79e5c"},"/tags/overtone-2e3":{"__comp":"df203c0f","__props":"d2ab1831"},"/tags/passing-tone-242":{"__comp":"df203c0f","__props":"4992f4a8"},"/tags/polychord-5a8":{"__comp":"df203c0f","__props":"9b335e39"},"/tags/reverb-e94":{"__comp":"df203c0f","__props":"cdcc5aee"},"/tags/secondary-dominant-37a":{"__comp":"df203c0f","__props":"c5b1e2a3"},"/tags/shell-chord-fbd":{"__comp":"df203c0f","__props":"e8ac9372"},"/tags/sound-module-b7c":{"__comp":"df203c0f","__props":"91d4e9b3"},"/tags/substitute-chord-cb9":{"__comp":"df203c0f","__props":"06610195"},"/tags/suspended-1d7":{"__comp":"df203c0f","__props":"e43a2153"},"/tags/tritone-2fd":{"__comp":"df203c0f","__props":"48d3a866"},"/tags/tritone-substitute-3ee":{"__comp":"df203c0f","__props":"f533cec5"},"/tags/zelda-8c0":{"__comp":"df203c0f","__props":"3563154e"},"/tags/五聲音階-363":{"__comp":"df203c0f","__props":"35710a4a"},"/tags/刻意練習-988":{"__comp":"df203c0f","__props":"a6383854"},"/tags/原子習慣-43a":{"__comp":"df203c0f","__props":"d472b6e9"},"/tags/吉他-e2b":{"__comp":"df203c0f","__props":"e3cfb130"},"/tags/和弦-359":{"__comp":"df203c0f","__props":"1916df2a"},"/tags/和聲-786":{"__comp":"df203c0f","__props":"9007ebbb"},"/tags/唱名-d8e":{"__comp":"df203c0f","__props":"3bbf71fa"},"/tags/數學-766":{"__comp":"df203c0f","__props":"454aab79"},"/tags/本質-f96":{"__comp":"df203c0f","__props":"2d36cbcb"},"/tags/樂團經營-b09":{"__comp":"df203c0f","__props":"5b178ce3"},"/tags/樂理-84d":{"__comp":"df203c0f","__props":"4e07e22f"},"/tags/私房歌-c08":{"__comp":"df203c0f","__props":"10b2f1c4"},"/tags/練習-033":{"__comp":"df203c0f","__props":"8e3d99ec"},"/tags/聊天-1ba":{"__comp":"df203c0f","__props":"cabe4fc0"},"/tags/聽音樂-329":{"__comp":"df203c0f","__props":"de1e7d19"},"/tags/調式-53c":{"__comp":"df203c0f","__props":"cb2d06fe"},"/tags/音感-e86":{"__comp":"df203c0f","__props":"eb4ee1a8"},"/tags/音樂製作-052":{"__comp":"df203c0f","__props":"c889ff72"},"/tags/音程-2a2":{"__comp":"df203c0f","__props":"01004f01"},"/tags/音階-780":{"__comp":"df203c0f","__props":"4599de8a"},"/-ab7":{"__comp":"a94703ab"},"/band/about-score/-a5e":{"__comp":"17896441","content":"70cfd2fd"},"/band/getting-started-play-as-band-185":{"__comp":"17896441","content":"f4b4a775"},"/band/pick-songs-d86":{"__comp":"17896441","content":"b4a2439b"},"/band/run-a-band-c2d":{"__comp":"17896441","content":"f9629f28"},"/category/字典工具-9b5":{"__comp":"14eb3368","__props":"f32e392d"},"/category/樂團經營-016":{"__comp":"14eb3368","__props":"669a9296"},"/category/樂理-7b6":{"__comp":"14eb3368","__props":"31087c4c"},"/category/私房歌-560":{"__comp":"14eb3368","__props":"fbe01978"},"/category/給吉他手-39f":{"__comp":"14eb3368","__props":"b6117871"},"/category/聊音樂-05b":{"__comp":"14eb3368","__props":"4c3cc1d9"},"/category/音樂製作-727":{"__comp":"14eb3368","__props":"2603587c"},"/dict/chord-learning-map/-1ce":{"__comp":"17896441","content":"cb6965f2"},"/dict/diatonic-chords-in-circle-of-5ths/-118":{"__comp":"17896441","content":"219bd1f3"},"/dict/scale-learning-map/-340":{"__comp":"17896441","content":"ab0de171"},"/gossip/algorithm-for-songs/-da3":{"__comp":"17896441","content":"520fb30b"},"/gossip/as-professional-427":{"__comp":"17896441","content":"c272ffaf"},"/gossip/correctness-efficiency-f3b":{"__comp":"17896441","content":"15cc8d7b"},"/gossip/dialogue-9bc":{"__comp":"17896441","content":"3a23291b"},"/gossip/echo-delay-reverb-5ad":{"__comp":"17896441","content":"a023366f"},"/gossip/fixed-solfege-3b8":{"__comp":"17896441","content":"4a68c1b2"},"/gossip/form-framework-history-5ea":{"__comp":"17896441","content":"bb4f65cd"},"/gossip/guthrie-govan-live-2015-07d":{"__comp":"17896441","content":"6bcabe35"},"/gossip/how-to-listen-a-song-4b4":{"__comp":"17896441","content":"24348a5e"},"/gossip/jimi-hendrix-ff4":{"__comp":"17896441","content":"9c7f1a53"},"/gossip/just-getting-started/-e39":{"__comp":"17896441","content":"b0e641ea"},"/gossip/learn-to-listen-a7c":{"__comp":"17896441","content":"488109a4"},"/gossip/learning-907":{"__comp":"17896441","content":"d1bc1dd4"},"/gossip/level-of-practice-622":{"__comp":"17896441","content":"b835dda1"},"/gossip/mathematics-492":{"__comp":"17896441","content":"2455be05"},"/gossip/memory-in-ff-music-1d0":{"__comp":"17896441","content":"84f0d58d"},"/gossip/play-what-and-how-to-play-688":{"__comp":"17896441","content":"495757da"},"/gossip/protect-your-ears-1fc":{"__comp":"17896441","content":"45158fe1"},"/gossip/pubking-wubai-932":{"__comp":"17896441","content":"d245a67f"},"/gossip/relative-absolute-521":{"__comp":"17896441","content":"746d00c8"},"/gossip/semi-tone-of-solfege-28d":{"__comp":"17896441","content":"00f3246a"},"/gossip/simple-complex-62e":{"__comp":"17896441","content":"b65fc5c5"},"/gossip/speed-8e8":{"__comp":"17896441","content":"cc324f10"},"/gossip/willing-f83":{"__comp":"17896441","content":"2298341a"},"/guitar/effective-practice-guitar/-d19":{"__comp":"17896441","content":"a83fb154"},"/guitar/guide-to-guitar-scale-patterns/-bef":{"__comp":"17896441","content":"b14f7e2a"},"/guitar/guitar-chord-voicing/-9f6":{"__comp":"17896441","content":"4d711081"},"/guitar/guitar-fundation-technical/-726":{"__comp":"17896441","content":"aa4a21d9"},"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/-12b":{"__comp":"17896441","content":"67ec076f"},"/guitar/how-to-practice-a-song-e88":{"__comp":"17896441","content":"9fa7d172"},"/guitar/practice-arpeggios-251-on-g-major/-e06":{"__comp":"17896441","content":"d6e5bbc8"},"/guitar/practice-arpeggios-g-major7/-957":{"__comp":"17896441","content":"1827dc15"},"/guitar/some-tips-and-suggestions-for-practicing-guitar-6c6":{"__comp":"17896441","content":"73beb38d"},"/guitar/time-for-practice-guitar/-562":{"__comp":"17896441","content":"41dfd778"},"/production/basic-concepts-of-sampling-298":{"__comp":"17896441","content":"a9f0d007"},"/production/concepts-of-music-technology/-dbb":{"__comp":"17896441","content":"a3f59da0"},"/production/digital-audio-system/-5c0":{"__comp":"17896441","content":"9dbc87ed"},"/production/loop-concepts-and-application-one-night-in-beijing/-6bb":{"__comp":"17896441","content":"b4a1af84"},"/production/motu-mk4-macos/-1a7":{"__comp":"17896441","content":"c7030adb"},"/production/using-external-midi-devices-in-logic-pro/-780":{"__comp":"17896441","content":"b4244436"},"/songs/FFV_Dear-Friends/-c6b":{"__comp":"17896441","content":"729eb257"},"/songs/g5-project-ba2":{"__comp":"17896441","content":"5f9c3504"},"/songs/Jack-Thammarat_Emotive-Ballad/-9db":{"__comp":"17896441","content":"c8172173"},"/songs/Jack-Thammarat_Falling-in-Love-Again/-5e2":{"__comp":"17896441","content":"a2dbe853"},"/songs/Songs-for-Memory/-5ff":{"__comp":"17896441","content":"de5662b5"},"/songs/Songs-for-Nylon-Guitar/-305":{"__comp":"17896441","content":"e35b0c8d"},"/songs/Survival-Dance/-abd":{"__comp":"17896441","content":"64f457bd"},"/songs/Zelda-Trailer-2017E3/-f29":{"__comp":"17896441","content":"a0c6d5d0"},"/theory/canon-chord-progression/-764":{"__comp":"17896441","content":"45d71abc"},"/theory/create-a-new-scale-36f":{"__comp":"17896441","content":"43cae74f"},"/theory/dominant-and-extension-chords/-808":{"__comp":"17896441","content":"0668808e"},"/theory/eleventh-chord-6ed":{"__comp":"17896441","content":"09c85861"},"/theory/essence-of-musical-scales-a15":{"__comp":"17896441","content":"72f879f0"},"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch-49d":{"__comp":"17896441","content":"7ff305a2"},"/theory/major-scale/-9fc":{"__comp":"17896441","content":"9a7a6827"},"/theory/minor-scale/-4fa":{"__comp":"17896441","content":"78b2ca1c"},"/theory/modal-interchange-854":{"__comp":"17896441","content":"cd34d918"},"/theory/musical-mode-ebc":{"__comp":"17896441","content":"0e539989"},"/theory/musical-scale-fundation-909":{"__comp":"17896441","content":"df13cb96"},"/theory/note-signature/-b6c":{"__comp":"17896441","content":"c2bbaef0"},"/theory/relation-chord-177":{"__comp":"17896441","content":"c208fb7d"},"/theory/secondary-dominat/-9f5":{"__comp":"17896441","content":"4e00f8fa"},"/theory/suspended-chord-63e":{"__comp":"17896441","content":"62a26766"},"/theory/thinkin-mode-d29":{"__comp":"17896441","content":"933ee70b"},"/theory/thriteenth-chord-616":{"__comp":"17896441","content":"c3758c06"},"/theory/tonality-key-mode/-bcd":{"__comp":"17896441","content":"6c5f2d61"},"/theory/tritone-d3f":{"__comp":"17896441","content":"32147d15"},"/-efb":{"__comp":"17896441","content":"c377a04b"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"/markdown-page-3d7":{"__comp":"1f391b9e","__context":{"plugin":"a7456010"},"content":"393be207"},"/my-markdown-page-438":{"__comp":"1f391b9e","__context":{"plugin":"a7456010"},"content":"03181aef"},"/my-react-page-f2d":{"__comp":"f8551aab","__context":{"plugin":"a7456010"},"config":"5e9f5e1a"},"/-4e6":{"__comp":"5e95c892","__context":{"plugin":"aba21aa0"}},"/-cc1":{"__comp":"a7bd4aaa","__props":"22dd74f7"},"/tags-ce1":{"__comp":"3720c009","__props":"59af61a6"},"/tags/★-655":{"__comp":"df203c0f","__props":"dd972d00"},"/tags/★★-c5f":{"__comp":"df203c0f","__props":"aca4e32b"},"/tags/★★★-fe1":{"__comp":"df203c0f","__props":"b11cd6cd"},"/tags/★★★★-5d1":{"__comp":"df203c0f","__props":"b02775e2"},"/tags/★★★★★-c99":{"__comp":"df203c0f","__props":"5678974b"},"/tags/arpeggios-a33":{"__comp":"df203c0f","__props":"be046359"},"/tags/augmented-ee6":{"__comp":"df203c0f","__props":"cd0a223c"},"/tags/basetone-a7c":{"__comp":"df203c0f","__props":"bb18a448"},"/tags/bichord-fa1":{"__comp":"df203c0f","__props":"619780f9"},"/tags/cadence-239":{"__comp":"df203c0f","__props":"77d7c940"},"/tags/chord-substitution-818":{"__comp":"df203c0f","__props":"c271fc4d"},"/tags/chord-voicing-7dd":{"__comp":"df203c0f","__props":"edce2f46"},"/tags/closed-voicing-d6d":{"__comp":"df203c0f","__props":"7d3fe123"},"/tags/comping-5df":{"__comp":"df203c0f","__props":"f1884e56"},"/tags/daw-3b4":{"__comp":"df203c0f","__props":"752d998c"},"/tags/delay-71f":{"__comp":"df203c0f","__props":"80398d32"},"/tags/diminished-184":{"__comp":"df203c0f","__props":"fe5d3305"},"/tags/dominant-9d7":{"__comp":"df203c0f","__props":"3ce948fd"},"/tags/echo-b26":{"__comp":"df203c0f","__props":"ae5e7060"},"/tags/final-fantasy-899":{"__comp":"df203c0f","__props":"cc84ab41"},"/tags/guide-tone-597":{"__comp":"df203c0f","__props":"875d921a"},"/tags/harmony-057":{"__comp":"df203c0f","__props":"a09bd0f7"},"/tags/how-to-5e6":{"__comp":"df203c0f","__props":"3eadd4d2"},"/tags/i-rs-13c":{"__comp":"df203c0f","__props":"0bffc9b7"},"/tags/ii-v-i-f5b":{"__comp":"df203c0f","__props":"ed5a7cb3"},"/tags/interval-1a3":{"__comp":"df203c0f","__props":"2776dd36"},"/tags/jack-thammarat-a39":{"__comp":"df203c0f","__props":"7f84096f"},"/tags/lsb-c34":{"__comp":"df203c0f","__props":"9360ef66"},"/tags/mac-os-77d":{"__comp":"df203c0f","__props":"ce767eaa"},"/tags/midi-6cb":{"__comp":"df203c0f","__props":"83387aa1"},"/tags/midi鍵盤-a83":{"__comp":"df203c0f","__props":"64cac739"},"/tags/modal-interchange-0f0":{"__comp":"df203c0f","__props":"388a6d45"},"/tags/motif-xs-8-c4c":{"__comp":"df203c0f","__props":"ad8289d7"},"/tags/motu-28e":{"__comp":"df203c0f","__props":"544ffd2f"},"/tags/msb-994":{"__comp":"df203c0f","__props":"547c0595"},"/tags/musical-tone-9c2":{"__comp":"df203c0f","__props":"e70651fa"},"/tags/open-voicing-633":{"__comp":"df203c0f","__props":"7cf79e5c"},"/tags/overtone-2e3":{"__comp":"df203c0f","__props":"d2ab1831"},"/tags/pad-48e":{"__comp":"df203c0f","__props":"8b6d3a35"},"/tags/passing-tone-242":{"__comp":"df203c0f","__props":"4992f4a8"},"/tags/polychord-5a8":{"__comp":"df203c0f","__props":"9b335e39"},"/tags/reverb-e94":{"__comp":"df203c0f","__props":"cdcc5aee"},"/tags/secondary-dominant-37a":{"__comp":"df203c0f","__props":"c5b1e2a3"},"/tags/shell-chord-fbd":{"__comp":"df203c0f","__props":"e8ac9372"},"/tags/sound-module-b7c":{"__comp":"df203c0f","__props":"91d4e9b3"},"/tags/substitute-chord-cb9":{"__comp":"df203c0f","__props":"06610195"},"/tags/suspended-1d7":{"__comp":"df203c0f","__props":"e43a2153"},"/tags/tritone-2fd":{"__comp":"df203c0f","__props":"48d3a866"},"/tags/tritone-substitute-3ee":{"__comp":"df203c0f","__props":"f533cec5"},"/tags/zelda-8c0":{"__comp":"df203c0f","__props":"3563154e"},"/tags/五度圈-ff2":{"__comp":"df203c0f","__props":"d175032b"},"/tags/五聲音階-363":{"__comp":"df203c0f","__props":"35710a4a"},"/tags/共鳴-377":{"__comp":"df203c0f","__props":"d1d19307"},"/tags/刻意練習-988":{"__comp":"df203c0f","__props":"a6383854"},"/tags/原子習慣-43a":{"__comp":"df203c0f","__props":"d472b6e9"},"/tags/取樣-826":{"__comp":"df203c0f","__props":"360e4e56"},"/tags/吉他-e2b":{"__comp":"df203c0f","__props":"e3cfb130"},"/tags/和弦-359":{"__comp":"df203c0f","__props":"1916df2a"},"/tags/和聲-786":{"__comp":"df203c0f","__props":"9007ebbb"},"/tags/唱名-d8e":{"__comp":"df203c0f","__props":"3bbf71fa"},"/tags/弦樂-e9e":{"__comp":"df203c0f","__props":"f879ee9c"},"/tags/數學-766":{"__comp":"df203c0f","__props":"454aab79"},"/tags/本質-f96":{"__comp":"df203c0f","__props":"2d36cbcb"},"/tags/樂團經營-b09":{"__comp":"df203c0f","__props":"5b178ce3"},"/tags/樂理-84d":{"__comp":"df203c0f","__props":"4e07e22f"},"/tags/泛音-637":{"__comp":"df203c0f","__props":"058ec3e0"},"/tags/混音-2fd":{"__comp":"df203c0f","__props":"9735086d"},"/tags/私房歌-c08":{"__comp":"df203c0f","__props":"10b2f1c4"},"/tags/編曲-e10":{"__comp":"df203c0f","__props":"0f64fa28"},"/tags/練習-033":{"__comp":"df203c0f","__props":"8e3d99ec"},"/tags/聊天-1ba":{"__comp":"df203c0f","__props":"cabe4fc0"},"/tags/聲學-923":{"__comp":"df203c0f","__props":"0048f7fb"},"/tags/聽音樂-329":{"__comp":"df203c0f","__props":"de1e7d19"},"/tags/襯底-6a8":{"__comp":"df203c0f","__props":"214b7d13"},"/tags/調式-53c":{"__comp":"df203c0f","__props":"cb2d06fe"},"/tags/錄音-ad3":{"__comp":"df203c0f","__props":"72112395"},"/tags/音感-e86":{"__comp":"df203c0f","__props":"eb4ee1a8"},"/tags/音樂製作-052":{"__comp":"df203c0f","__props":"c889ff72"},"/tags/音程-2a2":{"__comp":"df203c0f","__props":"01004f01"},"/tags/音階-780":{"__comp":"df203c0f","__props":"4599de8a"},"/tags/鼓-895":{"__comp":"df203c0f","__props":"3b16aa74"},"/-01d":{"__comp":"a94703ab"},"/band/about-score/-a5e":{"__comp":"17896441","content":"70cfd2fd"},"/band/getting-started-play-as-band-185":{"__comp":"17896441","content":"f4b4a775"},"/band/pick-songs-d86":{"__comp":"17896441","content":"b4a2439b"},"/band/run-a-band-c2d":{"__comp":"17896441","content":"f9629f28"},"/category/字典工具-9b5":{"__comp":"14eb3368","__props":"f32e392d"},"/category/樂團經營-016":{"__comp":"14eb3368","__props":"669a9296"},"/category/樂理-7b6":{"__comp":"14eb3368","__props":"31087c4c"},"/category/私房歌-560":{"__comp":"14eb3368","__props":"fbe01978"},"/category/給吉他手-39f":{"__comp":"14eb3368","__props":"b6117871"},"/category/聊音樂-05b":{"__comp":"14eb3368","__props":"4c3cc1d9"},"/category/音樂製作-727":{"__comp":"14eb3368","__props":"2603587c"},"/dict/chord-learning-map/-1ce":{"__comp":"17896441","content":"cb6965f2"},"/dict/diatonic-chords-in-circle-of-5ths/-118":{"__comp":"17896441","content":"219bd1f3"},"/dict/scale-learning-map/-340":{"__comp":"17896441","content":"ab0de171"},"/gossip/algorithm-for-songs/-da3":{"__comp":"17896441","content":"520fb30b"},"/gossip/as-professional-427":{"__comp":"17896441","content":"c272ffaf"},"/gossip/correctness-efficiency-f3b":{"__comp":"17896441","content":"15cc8d7b"},"/gossip/dialogue-9bc":{"__comp":"17896441","content":"3a23291b"},"/gossip/fixed-solfege-3b8":{"__comp":"17896441","content":"4a68c1b2"},"/gossip/form-framework-history-5ea":{"__comp":"17896441","content":"bb4f65cd"},"/gossip/guthrie-govan-live-2015-07d":{"__comp":"17896441","content":"6bcabe35"},"/gossip/how-to-listen-a-song-4b4":{"__comp":"17896441","content":"24348a5e"},"/gossip/jimi-hendrix-ff4":{"__comp":"17896441","content":"9c7f1a53"},"/gossip/just-getting-started/-e39":{"__comp":"17896441","content":"b0e641ea"},"/gossip/learn-to-listen-a7c":{"__comp":"17896441","content":"488109a4"},"/gossip/learning-907":{"__comp":"17896441","content":"d1bc1dd4"},"/gossip/level-of-practice-622":{"__comp":"17896441","content":"b835dda1"},"/gossip/mathematics-492":{"__comp":"17896441","content":"2455be05"},"/gossip/memory-in-ff-music-1d0":{"__comp":"17896441","content":"84f0d58d"},"/gossip/play-what-and-how-to-play-688":{"__comp":"17896441","content":"495757da"},"/gossip/protect-your-ears-1fc":{"__comp":"17896441","content":"45158fe1"},"/gossip/pubking-wubai-932":{"__comp":"17896441","content":"d245a67f"},"/gossip/relative-absolute-521":{"__comp":"17896441","content":"746d00c8"},"/gossip/simple-complex-62e":{"__comp":"17896441","content":"b65fc5c5"},"/gossip/speed-8e8":{"__comp":"17896441","content":"cc324f10"},"/gossip/willing-f83":{"__comp":"17896441","content":"2298341a"},"/guitar/effective-practice-guitar/-d19":{"__comp":"17896441","content":"a83fb154"},"/guitar/guide-to-guitar-scale-patterns/-bef":{"__comp":"17896441","content":"b14f7e2a"},"/guitar/guitar-chord-voicing/-9f6":{"__comp":"17896441","content":"4d711081"},"/guitar/guitar-fundation-technical/-726":{"__comp":"17896441","content":"aa4a21d9"},"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/-12b":{"__comp":"17896441","content":"67ec076f"},"/guitar/how-to-practice-a-song-e88":{"__comp":"17896441","content":"9fa7d172"},"/guitar/practice-arpeggios-251-on-g-major/-e06":{"__comp":"17896441","content":"d6e5bbc8"},"/guitar/practice-arpeggios-g-major7/-957":{"__comp":"17896441","content":"1827dc15"},"/guitar/some-tips-and-suggestions-for-practicing-guitar-6c6":{"__comp":"17896441","content":"73beb38d"},"/guitar/time-for-practice-guitar/-562":{"__comp":"17896441","content":"41dfd778"},"/production/basic-acoustics-and-digital-music-production-8d0":{"__comp":"17896441","content":"c09f491e"},"/production/basic-concepts-of-sampling-298":{"__comp":"17896441","content":"a9f0d007"},"/production/concepts-of-music-technology/-dbb":{"__comp":"17896441","content":"a3f59da0"},"/production/digital-audio-system/-5c0":{"__comp":"17896441","content":"9dbc87ed"},"/production/echo-delay-reverb-2c5":{"__comp":"17896441","content":"3185bcbc"},"/production/loop-concepts-and-application-one-night-in-beijing/-6bb":{"__comp":"17896441","content":"b4a1af84"},"/production/motu-mk4-macos/-1a7":{"__comp":"17896441","content":"c7030adb"},"/production/pad-basics-f5b":{"__comp":"17896441","content":"26e67706"},"/production/recording-drums-basics-ed4":{"__comp":"17896441","content":"ee70f2fd"},"/production/using-external-midi-devices-in-logic-pro/-780":{"__comp":"17896441","content":"b4244436"},"/songs/FFV_Dear-Friends/-c6b":{"__comp":"17896441","content":"729eb257"},"/songs/g5-project-ba2":{"__comp":"17896441","content":"5f9c3504"},"/songs/Jack-Thammarat_Emotive-Ballad/-9db":{"__comp":"17896441","content":"c8172173"},"/songs/Jack-Thammarat_Falling-in-Love-Again/-5e2":{"__comp":"17896441","content":"a2dbe853"},"/songs/Songs-for-Memory/-5ff":{"__comp":"17896441","content":"de5662b5"},"/songs/Songs-for-Nylon-Guitar/-305":{"__comp":"17896441","content":"e35b0c8d"},"/songs/Survival-Dance/-abd":{"__comp":"17896441","content":"64f457bd"},"/songs/Zelda-Trailer-2017E3/-f29":{"__comp":"17896441","content":"a0c6d5d0"},"/theory/canon-chord-progression/-764":{"__comp":"17896441","content":"45d71abc"},"/theory/create-a-new-scale-36f":{"__comp":"17896441","content":"43cae74f"},"/theory/dominant-and-extension-chords/-808":{"__comp":"17896441","content":"0668808e"},"/theory/eleventh-chord-6ed":{"__comp":"17896441","content":"09c85861"},"/theory/essence-of-musical-scales-a15":{"__comp":"17896441","content":"72f879f0"},"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch-49d":{"__comp":"17896441","content":"7ff305a2"},"/theory/major-scale/-9fc":{"__comp":"17896441","content":"9a7a6827"},"/theory/minor-scale/-4fa":{"__comp":"17896441","content":"78b2ca1c"},"/theory/modal-interchange-854":{"__comp":"17896441","content":"cd34d918"},"/theory/musical-mode-ebc":{"__comp":"17896441","content":"0e539989"},"/theory/musical-scale-fundation-909":{"__comp":"17896441","content":"df13cb96"},"/theory/note-signature/-b6c":{"__comp":"17896441","content":"c2bbaef0"},"/theory/relation-chord-177":{"__comp":"17896441","content":"c208fb7d"},"/theory/secondary-dominat/-9f5":{"__comp":"17896441","content":"4e00f8fa"},"/theory/semi-tone-of-solfege-9e6":{"__comp":"17896441","content":"0bba26fc"},"/theory/suspended-chord-63e":{"__comp":"17896441","content":"62a26766"},"/theory/thinkin-mode-d29":{"__comp":"17896441","content":"933ee70b"},"/theory/thriteenth-chord-616":{"__comp":"17896441","content":"c3758c06"},"/theory/tonality-key-mode/-bcd":{"__comp":"17896441","content":"6c5f2d61"},"/theory/tritone-d3f":{"__comp":"17896441","content":"32147d15"},"/theory/tsd-chord-substitution-929":{"__comp":"17896441","content":"07013876"},"/-efb":{"__comp":"17896441","content":"c377a04b"}}');
 
 /***/ },
 
@@ -46926,7 +48178,7 @@ function MDXContent(props = {}) {
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Musical Tone","permalink":"/tags/musical-tone","allTagsPath":"/tags","count":1,"items":[{"id":"gossip/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/gossip/echo-delay-reverb"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"Musical Tone","permalink":"/tags/musical-tone","allTagsPath":"/tags","count":1,"items":[{"id":"production/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/production/echo-delay-reverb"}],"unlisted":false}}');
 
 /***/ },
 
@@ -46993,7 +48245,7 @@ module.exports = invariant;
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"reverb","permalink":"/tags/reverb","allTagsPath":"/tags","count":1,"items":[{"id":"gossip/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/gossip/echo-delay-reverb"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"reverb","permalink":"/tags/reverb","allTagsPath":"/tags","count":1,"items":[{"id":"production/echo-delay-reverb","title":"聊聊即時與立即 - Echo / Delay / Reverb","description":"名詞解釋，說說 Echo / Delay / Reverb 的差異","permalink":"/production/echo-delay-reverb"}],"unlisted":false}}');
 
 /***/ },
 
@@ -47382,6 +48634,14 @@ function MDXContent(props = {}) {
 
 /***/ },
 
+/***/ 89221
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"錄音","permalink":"/tags/錄音","allTagsPath":"/tags","count":1,"items":[{"id":"production/recording-drums-basics","title":"錄鼓的一些基本概念","description":"鼓的錄音是音樂製作中的一項大工程，需要具備基礎知識、技術與設備。本文整理錄鼓所需的認知與注意事項。\\n","permalink":"/production/recording-drums-basics"}],"unlisted":false}}');
+
+/***/ },
+
 /***/ 89285
 (module) {
 
@@ -47589,7 +48849,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"id":"dict/diatonic-chords-in-circle-
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/fixed-solfege","title":"固定唱名？還是首調唱名？","description":"探討音程相對、絕對的概念。","source":"@site/docs/gossip/fixed-solfege.md","sourceDirName":"gossip","slug":"/gossip/fixed-solfege","permalink":"/gossip/fixed-solfege","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"}],"version":"current","frontMatter":{"title":"固定唱名？還是首調唱名？","date":"2008-11-25T00:00:00.000Z","description":"探討音程相對、絕對的概念。","tags":["★","聊天"]},"sidebar":"tutorialSidebar","previous":{"title":"聊聊即時與立即 - Echo / Delay / Reverb","permalink":"/gossip/echo-delay-reverb"},"next":{"title":"曲式、歷史背景、框架模式","permalink":"/gossip/form-framework-history"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"gossip/fixed-solfege","title":"固定唱名？還是首調唱名？","description":"探討音程相對、絕對的概念。","source":"@site/docs/gossip/fixed-solfege.md","sourceDirName":"gossip","slug":"/gossip/fixed-solfege","permalink":"/gossip/fixed-solfege","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★","permalink":"/tags/★"},{"inline":true,"label":"聊天","permalink":"/tags/聊天"}],"version":"current","frontMatter":{"title":"固定唱名？還是首調唱名？","date":"2008-11-25T00:00:00.000Z","description":"探討音程相對、絕對的概念。","tags":["★","聊天"]},"sidebar":"tutorialSidebar","previous":{"title":"對談","permalink":"/gossip/dialogue"},"next":{"title":"曲式、歷史背景、框架模式","permalink":"/gossip/form-framework-history"}}');
 
 /***/ },
 
@@ -47664,7 +48924,7 @@ module.exports = require("async_hooks");
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"★★★★","permalink":"/tags/★★★★","allTagsPath":"/tags","count":17,"items":[{"id":"production/digital-audio-system/index","title":"Digital Audio System","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","permalink":"/production/digital-audio-system/"},{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","title":"Loop 的概念與應用實例 - One Night in 北京","description":"Loop 字面上 的意思是: 循環, 反覆, 迴路, 橡皮圈 .... etc. 在音樂製作中, 中文可以翻譯成 \\"循環樂句\\", 或者 \\"反覆段落\\". 簡單說就是一段一直反覆播放的 \\"樂音\\".","permalink":"/production/loop-concepts-and-application-one-night-in-beijing/"},{"id":"production/using-external-midi-devices-in-logic-pro/index","title":"Using External MIDI Devices in Logic Pro","description":"紀錄如何在 Logic Pro 使用外部音源設備。","permalink":"/production/using-external-midi-devices-in-logic-pro/"},{"id":"guitar/some-tips-and-suggestions-for-practicing-guitar","title":"一些練習吉他的提醒和建議","description":"在 Youtube 的 Next level guitar 看到這段『十個練習吉他的提醒和建議』，不管是什麼樣的吉他手，都是一個不錯的自我修練的參考。","permalink":"/guitar/some-tips-and-suggestions-for-practicing-guitar"},{"id":"theory/tritone","title":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","permalink":"/theory/tritone"},{"id":"dict/diatonic-chords-in-circle-of-5ths/index","title":"五度圈順階和弦表","description":"用五度圈作為主軸，整理各調的順階和弦表。\\n","permalink":"/dict/diatonic-chords-in-circle-of-5ths/"},{"id":"theory/eleventh-chord","title":"十一和弦 (X11 Eleventh Chord)","description":"整理十一和弦的基本概念、組成、複合和弦、應用 ... 等概念。","permalink":"/theory/eleventh-chord"},{"id":"theory/thriteenth-chord","title":"十三和弦 (X13 Thirteenth Chord)","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","permalink":"/theory/thriteenth-chord"},{"id":"theory/canon-chord-progression/index","title":"卡農進行 (Canon Chord Progression)","description":"卡農進行這個和弦進行的歌曲實在很多，從這些整理中去了解常見的應用。\\n","permalink":"/theory/canon-chord-progression/"},{"id":"production/basic-concepts-of-sampling","title":"取樣的基本概念","description":"這是網友在 鄉民站 Keyboard 版問的問題, 我花了一點時間回答基本的概念.","permalink":"/production/basic-concepts-of-sampling"},{"id":"dict/chord-learning-map/index","title":"和弦學習地圖","description":"整理音階學習地圖全貌。","permalink":"/dict/chord-learning-map/"},{"id":"production/motu-mk4-macos/index","title":"在 MacOS 驅動 MOTU UltraLite mk4","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","permalink":"/production/motu-mk4-macos/"},{"id":"theory/minor-scale/index","title":"小調音階 (Minor Scale)","description":"整理小調音階的概念","permalink":"/theory/minor-scale/"},{"id":"theory/tonality-key-mode/index","title":"調、調式及轉調","description":"討論重要的觀念： 調與調式、和轉調之間的差異。","permalink":"/theory/tonality-key-mode/"},{"id":"theory/thinkin-mode","title":"調式學習的思考","description":"針對網友提問，整理學習調式音階經常遇到的問題。","permalink":"/theory/thinkin-mode"},{"id":"theory/relation-chord","title":"關係和弦？","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","permalink":"/theory/relation-chord"},{"id":"dict/scale-learning-map/index","title":"音階學習地圖","description":"整理音階學習地圖全貌。","permalink":"/dict/scale-learning-map/"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"★★★★","permalink":"/tags/★★★★","allTagsPath":"/tags","count":19,"items":[{"id":"production/digital-audio-system/index","title":"Digital Audio System","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","permalink":"/production/digital-audio-system/"},{"id":"production/loop-concepts-and-application-one-night-in-beijing/index","title":"Loop 的概念與應用實例 - One Night in 北京","description":"Loop 字面上 的意思是: 循環, 反覆, 迴路, 橡皮圈 .... etc. 在音樂製作中, 中文可以翻譯成 \\"循環樂句\\", 或者 \\"反覆段落\\". 簡單說就是一段一直反覆播放的 \\"樂音\\".","permalink":"/production/loop-concepts-and-application-one-night-in-beijing/"},{"id":"theory/tsd-chord-substitution","title":"TSD 和聲代換","description":"調性的順階和弦中，主和弦、下屬和弦、屬和弦各有其聲響特性。了解 TSD 代換原理，可以讓和弦進行更加豐富。\\n","permalink":"/theory/tsd-chord-substitution"},{"id":"production/using-external-midi-devices-in-logic-pro/index","title":"Using External MIDI Devices in Logic Pro","description":"紀錄如何在 Logic Pro 使用外部音源設備。","permalink":"/production/using-external-midi-devices-in-logic-pro/"},{"id":"guitar/some-tips-and-suggestions-for-practicing-guitar","title":"一些練習吉他的提醒和建議","description":"在 Youtube 的 Next level guitar 看到這段『十個練習吉他的提醒和建議』，不管是什麼樣的吉他手，都是一個不錯的自我修練的參考。","permalink":"/guitar/some-tips-and-suggestions-for-practicing-guitar"},{"id":"theory/tritone","title":"三全音","description":"三全音在音程具備極具張力的聲響特性，了解基本概念與應用方法，對於情緒的營造與音樂表達會很有幫助。\\n","permalink":"/theory/tritone"},{"id":"dict/diatonic-chords-in-circle-of-5ths/index","title":"五度圈順階和弦表","description":"用五度圈作為主軸，整理各調的順階和弦表。\\n","permalink":"/dict/diatonic-chords-in-circle-of-5ths/"},{"id":"theory/eleventh-chord","title":"十一和弦 (X11 Eleventh Chord)","description":"整理十一和弦的基本概念、組成、複合和弦、應用 ... 等概念。","permalink":"/theory/eleventh-chord"},{"id":"theory/thriteenth-chord","title":"十三和弦 (X13 Thirteenth Chord)","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","permalink":"/theory/thriteenth-chord"},{"id":"theory/canon-chord-progression/index","title":"卡農進行 (Canon Chord Progression)","description":"卡農進行這個和弦進行的歌曲實在很多，從這些整理中去了解常見的應用。\\n","permalink":"/theory/canon-chord-progression/"},{"id":"production/basic-concepts-of-sampling","title":"取樣的基本概念","description":"這是網友在 鄉民站 Keyboard 版問的問題, 我花了一點時間回答基本的概念.","permalink":"/production/basic-concepts-of-sampling"},{"id":"dict/chord-learning-map/index","title":"和弦學習地圖","description":"整理音階學習地圖全貌。","permalink":"/dict/chord-learning-map/"},{"id":"production/motu-mk4-macos/index","title":"在 MacOS 驅動 MOTU UltraLite mk4","description":"為了方便跟朋友解釋現代音樂工作環境的架構，花了一點時間畫了一張簡單的架構圖。","permalink":"/production/motu-mk4-macos/"},{"id":"theory/minor-scale/index","title":"小調音階 (Minor Scale)","description":"整理小調音階的概念","permalink":"/theory/minor-scale/"},{"id":"production/pad-basics","title":"襯底 PAD 的基本概念","description":"襯底 (Pad) 是音樂裡製造流動感、呼吸感的長音元素。了解 Pad 的類型與編曲技巧，可以讓音樂更有層次與氛圍。\\n","permalink":"/production/pad-basics"},{"id":"theory/tonality-key-mode/index","title":"調、調式及轉調","description":"討論重要的觀念： 調與調式、和轉調之間的差異。","permalink":"/theory/tonality-key-mode/"},{"id":"theory/thinkin-mode","title":"調式學習的思考","description":"針對網友提問，整理學習調式音階經常遇到的問題。","permalink":"/theory/thinkin-mode"},{"id":"theory/relation-chord","title":"關係和弦？","description":"整理十三和弦的基本概念、記憶方式、取捨、六九和弦與五聲音階的概念。\\n","permalink":"/theory/relation-chord"},{"id":"dict/scale-learning-map/index","title":"音階學習地圖","description":"整理音階學習地圖全貌。","permalink":"/dict/scale-learning-map/"}],"unlisted":false}}');
 
 /***/ },
 
@@ -47677,7 +48937,7 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"★★★★","permal
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(96540);
 /* harmony import */ var _docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2067);
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ([{path:'/markdown-page',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/markdown-page','3d7'),exact:true},{path:'/my-markdown-page',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/my-markdown-page','438'),exact:true},{path:'/my-react-page',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/my-react-page','f2d'),exact:true},{path:'/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/','a23'),routes:[{path:'/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/','89d'),routes:[{path:'/tags',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags','ce1'),exact:true},{path:'/tags/★',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/★','655'),exact:true},{path:'/tags/★★',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/★★','c5f'),exact:true},{path:'/tags/★★★',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/★★★','fe1'),exact:true},{path:'/tags/★★★★',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/★★★★','5d1'),exact:true},{path:'/tags/★★★★★',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/★★★★★','c99'),exact:true},{path:'/tags/arpeggios',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/arpeggios','a33'),exact:true},{path:'/tags/augmented',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/augmented','ee6'),exact:true},{path:'/tags/basetone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/basetone','a7c'),exact:true},{path:'/tags/bichord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/bichord','fa1'),exact:true},{path:'/tags/chord-voicing',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/chord-voicing','7dd'),exact:true},{path:'/tags/closed-voicing',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/closed-voicing','d6d'),exact:true},{path:'/tags/comping',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/comping','5df'),exact:true},{path:'/tags/daw',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/daw','3b4'),exact:true},{path:'/tags/delay',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/delay','71f'),exact:true},{path:'/tags/diminished',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/diminished','184'),exact:true},{path:'/tags/dominant',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/dominant','9d7'),exact:true},{path:'/tags/echo',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/echo','b26'),exact:true},{path:'/tags/final-fantasy',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/final-fantasy','899'),exact:true},{path:'/tags/guide-tone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/guide-tone','597'),exact:true},{path:'/tags/harmony',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/harmony','057'),exact:true},{path:'/tags/how-to',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/how-to','5e6'),exact:true},{path:'/tags/i-rs',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/i-rs','13c'),exact:true},{path:'/tags/interval',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/interval','1a3'),exact:true},{path:'/tags/jack-thammarat',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/jack-thammarat','a39'),exact:true},{path:'/tags/lsb',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/lsb','c34'),exact:true},{path:'/tags/mac-os',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/mac-os','77d'),exact:true},{path:'/tags/midi',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/midi','6cb'),exact:true},{path:'/tags/midi鍵盤',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/midi鍵盤','a83'),exact:true},{path:'/tags/modal-interchange',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/modal-interchange','0f0'),exact:true},{path:'/tags/motif-xs-8',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/motif-xs-8','c4c'),exact:true},{path:'/tags/motu',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/motu','28e'),exact:true},{path:'/tags/msb',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/msb','994'),exact:true},{path:'/tags/musical-tone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/musical-tone','9c2'),exact:true},{path:'/tags/open-voicing',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/open-voicing','633'),exact:true},{path:'/tags/overtone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/overtone','2e3'),exact:true},{path:'/tags/passing-tone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/passing-tone','242'),exact:true},{path:'/tags/polychord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/polychord','5a8'),exact:true},{path:'/tags/reverb',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/reverb','e94'),exact:true},{path:'/tags/secondary-dominant',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/secondary-dominant','37a'),exact:true},{path:'/tags/shell-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/shell-chord','fbd'),exact:true},{path:'/tags/sound-module',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/sound-module','b7c'),exact:true},{path:'/tags/substitute-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/substitute-chord','cb9'),exact:true},{path:'/tags/suspended',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/suspended','1d7'),exact:true},{path:'/tags/tritone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/tritone','2fd'),exact:true},{path:'/tags/tritone-substitute',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/tritone-substitute','3ee'),exact:true},{path:'/tags/zelda',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/zelda','8c0'),exact:true},{path:'/tags/五聲音階',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/五聲音階','363'),exact:true},{path:'/tags/刻意練習',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/刻意練習','988'),exact:true},{path:'/tags/原子習慣',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/原子習慣','43a'),exact:true},{path:'/tags/吉他',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/吉他','e2b'),exact:true},{path:'/tags/和弦',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/和弦','359'),exact:true},{path:'/tags/和聲',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/和聲','786'),exact:true},{path:'/tags/唱名',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/唱名','d8e'),exact:true},{path:'/tags/數學',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/數學','766'),exact:true},{path:'/tags/本質',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/本質','f96'),exact:true},{path:'/tags/樂團經營',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/樂團經營','b09'),exact:true},{path:'/tags/樂理',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/樂理','84d'),exact:true},{path:'/tags/私房歌',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/私房歌','c08'),exact:true},{path:'/tags/練習',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/練習','033'),exact:true},{path:'/tags/聊天',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/聊天','1ba'),exact:true},{path:'/tags/聽音樂',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/聽音樂','329'),exact:true},{path:'/tags/調式',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/調式','53c'),exact:true},{path:'/tags/音感',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/音感','e86'),exact:true},{path:'/tags/音樂製作',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/音樂製作','052'),exact:true},{path:'/tags/音程',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/音程','2a2'),exact:true},{path:'/tags/音階',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/音階','780'),exact:true},{path:'/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/','ab7'),routes:[{path:'/band/about-score/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/band/about-score/','a5e'),exact:true,sidebar:"tutorialSidebar"},{path:'/band/getting-started-play-as-band',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/band/getting-started-play-as-band','185'),exact:true,sidebar:"tutorialSidebar"},{path:'/band/pick-songs',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/band/pick-songs','d86'),exact:true,sidebar:"tutorialSidebar"},{path:'/band/run-a-band',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/band/run-a-band','c2d'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/字典工具',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/字典工具','9b5'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/樂團經營',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/樂團經營','016'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/樂理',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/樂理','7b6'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/私房歌',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/私房歌','560'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/給吉他手',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/給吉他手','39f'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/聊音樂',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/聊音樂','05b'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/音樂製作',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/音樂製作','727'),exact:true,sidebar:"tutorialSidebar"},{path:'/dict/chord-learning-map/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/dict/chord-learning-map/','1ce'),exact:true,sidebar:"tutorialSidebar"},{path:'/dict/diatonic-chords-in-circle-of-5ths/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/dict/diatonic-chords-in-circle-of-5ths/','118'),exact:true,sidebar:"tutorialSidebar"},{path:'/dict/scale-learning-map/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/dict/scale-learning-map/','340'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/algorithm-for-songs/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/algorithm-for-songs/','da3'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/as-professional',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/as-professional','427'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/correctness-efficiency',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/correctness-efficiency','f3b'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/dialogue',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/dialogue','9bc'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/echo-delay-reverb',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/echo-delay-reverb','5ad'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/fixed-solfege',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/fixed-solfege','3b8'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/form-framework-history',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/form-framework-history','5ea'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/guthrie-govan-live-2015',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/guthrie-govan-live-2015','07d'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/how-to-listen-a-song',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/how-to-listen-a-song','4b4'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/jimi-hendrix',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/jimi-hendrix','ff4'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/just-getting-started/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/just-getting-started/','e39'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/learn-to-listen',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/learn-to-listen','a7c'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/learning',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/learning','907'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/level-of-practice',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/level-of-practice','622'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/mathematics',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/mathematics','492'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/memory-in-ff-music',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/memory-in-ff-music','1d0'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/play-what-and-how-to-play',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/play-what-and-how-to-play','688'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/protect-your-ears',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/protect-your-ears','1fc'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/pubking-wubai',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/pubking-wubai','932'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/relative-absolute',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/relative-absolute','521'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/semi-tone-of-solfege',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/semi-tone-of-solfege','28d'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/simple-complex',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/simple-complex','62e'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/speed',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/speed','8e8'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/willing',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/willing','f83'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/effective-practice-guitar/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/effective-practice-guitar/','d19'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/guide-to-guitar-scale-patterns/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/guide-to-guitar-scale-patterns/','bef'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/guitar-chord-voicing/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/guitar-chord-voicing/','9f6'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/guitar-fundation-technical/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/guitar-fundation-technical/','726'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/','12b'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/how-to-practice-a-song',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/how-to-practice-a-song','e88'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/practice-arpeggios-251-on-g-major/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/practice-arpeggios-251-on-g-major/','e06'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/practice-arpeggios-g-major7/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/practice-arpeggios-g-major7/','957'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/some-tips-and-suggestions-for-practicing-guitar',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/some-tips-and-suggestions-for-practicing-guitar','6c6'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/time-for-practice-guitar/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/time-for-practice-guitar/','562'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/basic-concepts-of-sampling',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/basic-concepts-of-sampling','298'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/concepts-of-music-technology/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/concepts-of-music-technology/','dbb'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/digital-audio-system/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/digital-audio-system/','5c0'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/loop-concepts-and-application-one-night-in-beijing/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/loop-concepts-and-application-one-night-in-beijing/','6bb'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/motu-mk4-macos/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/motu-mk4-macos/','1a7'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/using-external-midi-devices-in-logic-pro/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/using-external-midi-devices-in-logic-pro/','780'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/FFV_Dear-Friends/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/FFV_Dear-Friends/','c6b'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/g5-project',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/g5-project','ba2'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Jack-Thammarat_Emotive-Ballad/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Jack-Thammarat_Emotive-Ballad/','9db'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Jack-Thammarat_Falling-in-Love-Again/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Jack-Thammarat_Falling-in-Love-Again/','5e2'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Songs-for-Memory/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Songs-for-Memory/','5ff'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Songs-for-Nylon-Guitar/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Songs-for-Nylon-Guitar/','305'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Survival-Dance/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Survival-Dance/','abd'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Zelda-Trailer-2017E3/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Zelda-Trailer-2017E3/','f29'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/canon-chord-progression/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/canon-chord-progression/','764'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/create-a-new-scale',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/create-a-new-scale','36f'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/dominant-and-extension-chords/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/dominant-and-extension-chords/','808'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/eleventh-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/eleventh-chord','6ed'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/essence-of-musical-scales',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/essence-of-musical-scales','a15'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch','49d'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/major-scale/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/major-scale/','9fc'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/minor-scale/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/minor-scale/','4fa'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/modal-interchange',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/modal-interchange','854'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/musical-mode',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/musical-mode','ebc'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/musical-scale-fundation',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/musical-scale-fundation','909'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/note-signature/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/note-signature/','b6c'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/relation-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/relation-chord','177'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/secondary-dominat/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/secondary-dominat/','9f5'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/suspended-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/suspended-chord','63e'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/thinkin-mode',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/thinkin-mode','d29'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/thriteenth-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/thriteenth-chord','616'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/tonality-key-mode/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/tonality-key-mode/','bcd'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/tritone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/tritone','d3f'),exact:true,sidebar:"tutorialSidebar"},{path:'/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/','efb'),exact:true,sidebar:"tutorialSidebar"}]}]}]},{path:'*',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('*')}]);
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ([{path:'/markdown-page',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/markdown-page','3d7'),exact:true},{path:'/my-markdown-page',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/my-markdown-page','438'),exact:true},{path:'/my-react-page',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/my-react-page','f2d'),exact:true},{path:'/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/','4e6'),routes:[{path:'/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/','cc1'),routes:[{path:'/tags',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags','ce1'),exact:true},{path:'/tags/★',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/★','655'),exact:true},{path:'/tags/★★',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/★★','c5f'),exact:true},{path:'/tags/★★★',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/★★★','fe1'),exact:true},{path:'/tags/★★★★',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/★★★★','5d1'),exact:true},{path:'/tags/★★★★★',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/★★★★★','c99'),exact:true},{path:'/tags/arpeggios',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/arpeggios','a33'),exact:true},{path:'/tags/augmented',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/augmented','ee6'),exact:true},{path:'/tags/basetone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/basetone','a7c'),exact:true},{path:'/tags/bichord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/bichord','fa1'),exact:true},{path:'/tags/cadence',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/cadence','239'),exact:true},{path:'/tags/chord-substitution',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/chord-substitution','818'),exact:true},{path:'/tags/chord-voicing',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/chord-voicing','7dd'),exact:true},{path:'/tags/closed-voicing',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/closed-voicing','d6d'),exact:true},{path:'/tags/comping',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/comping','5df'),exact:true},{path:'/tags/daw',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/daw','3b4'),exact:true},{path:'/tags/delay',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/delay','71f'),exact:true},{path:'/tags/diminished',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/diminished','184'),exact:true},{path:'/tags/dominant',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/dominant','9d7'),exact:true},{path:'/tags/echo',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/echo','b26'),exact:true},{path:'/tags/final-fantasy',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/final-fantasy','899'),exact:true},{path:'/tags/guide-tone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/guide-tone','597'),exact:true},{path:'/tags/harmony',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/harmony','057'),exact:true},{path:'/tags/how-to',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/how-to','5e6'),exact:true},{path:'/tags/i-rs',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/i-rs','13c'),exact:true},{path:'/tags/ii-v-i',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/ii-v-i','f5b'),exact:true},{path:'/tags/interval',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/interval','1a3'),exact:true},{path:'/tags/jack-thammarat',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/jack-thammarat','a39'),exact:true},{path:'/tags/lsb',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/lsb','c34'),exact:true},{path:'/tags/mac-os',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/mac-os','77d'),exact:true},{path:'/tags/midi',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/midi','6cb'),exact:true},{path:'/tags/midi鍵盤',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/midi鍵盤','a83'),exact:true},{path:'/tags/modal-interchange',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/modal-interchange','0f0'),exact:true},{path:'/tags/motif-xs-8',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/motif-xs-8','c4c'),exact:true},{path:'/tags/motu',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/motu','28e'),exact:true},{path:'/tags/msb',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/msb','994'),exact:true},{path:'/tags/musical-tone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/musical-tone','9c2'),exact:true},{path:'/tags/open-voicing',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/open-voicing','633'),exact:true},{path:'/tags/overtone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/overtone','2e3'),exact:true},{path:'/tags/pad',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/pad','48e'),exact:true},{path:'/tags/passing-tone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/passing-tone','242'),exact:true},{path:'/tags/polychord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/polychord','5a8'),exact:true},{path:'/tags/reverb',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/reverb','e94'),exact:true},{path:'/tags/secondary-dominant',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/secondary-dominant','37a'),exact:true},{path:'/tags/shell-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/shell-chord','fbd'),exact:true},{path:'/tags/sound-module',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/sound-module','b7c'),exact:true},{path:'/tags/substitute-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/substitute-chord','cb9'),exact:true},{path:'/tags/suspended',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/suspended','1d7'),exact:true},{path:'/tags/tritone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/tritone','2fd'),exact:true},{path:'/tags/tritone-substitute',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/tritone-substitute','3ee'),exact:true},{path:'/tags/zelda',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/zelda','8c0'),exact:true},{path:'/tags/五度圈',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/五度圈','ff2'),exact:true},{path:'/tags/五聲音階',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/五聲音階','363'),exact:true},{path:'/tags/共鳴',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/共鳴','377'),exact:true},{path:'/tags/刻意練習',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/刻意練習','988'),exact:true},{path:'/tags/原子習慣',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/原子習慣','43a'),exact:true},{path:'/tags/取樣',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/取樣','826'),exact:true},{path:'/tags/吉他',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/吉他','e2b'),exact:true},{path:'/tags/和弦',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/和弦','359'),exact:true},{path:'/tags/和聲',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/和聲','786'),exact:true},{path:'/tags/唱名',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/唱名','d8e'),exact:true},{path:'/tags/弦樂',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/弦樂','e9e'),exact:true},{path:'/tags/數學',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/數學','766'),exact:true},{path:'/tags/本質',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/本質','f96'),exact:true},{path:'/tags/樂團經營',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/樂團經營','b09'),exact:true},{path:'/tags/樂理',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/樂理','84d'),exact:true},{path:'/tags/泛音',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/泛音','637'),exact:true},{path:'/tags/混音',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/混音','2fd'),exact:true},{path:'/tags/私房歌',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/私房歌','c08'),exact:true},{path:'/tags/編曲',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/編曲','e10'),exact:true},{path:'/tags/練習',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/練習','033'),exact:true},{path:'/tags/聊天',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/聊天','1ba'),exact:true},{path:'/tags/聲學',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/聲學','923'),exact:true},{path:'/tags/聽音樂',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/聽音樂','329'),exact:true},{path:'/tags/襯底',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/襯底','6a8'),exact:true},{path:'/tags/調式',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/調式','53c'),exact:true},{path:'/tags/錄音',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/錄音','ad3'),exact:true},{path:'/tags/音感',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/音感','e86'),exact:true},{path:'/tags/音樂製作',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/音樂製作','052'),exact:true},{path:'/tags/音程',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/音程','2a2'),exact:true},{path:'/tags/音階',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/音階','780'),exact:true},{path:'/tags/鼓',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/tags/鼓','895'),exact:true},{path:'/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/','01d'),routes:[{path:'/band/about-score/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/band/about-score/','a5e'),exact:true,sidebar:"tutorialSidebar"},{path:'/band/getting-started-play-as-band',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/band/getting-started-play-as-band','185'),exact:true,sidebar:"tutorialSidebar"},{path:'/band/pick-songs',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/band/pick-songs','d86'),exact:true,sidebar:"tutorialSidebar"},{path:'/band/run-a-band',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/band/run-a-band','c2d'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/字典工具',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/字典工具','9b5'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/樂團經營',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/樂團經營','016'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/樂理',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/樂理','7b6'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/私房歌',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/私房歌','560'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/給吉他手',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/給吉他手','39f'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/聊音樂',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/聊音樂','05b'),exact:true,sidebar:"tutorialSidebar"},{path:'/category/音樂製作',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/category/音樂製作','727'),exact:true,sidebar:"tutorialSidebar"},{path:'/dict/chord-learning-map/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/dict/chord-learning-map/','1ce'),exact:true,sidebar:"tutorialSidebar"},{path:'/dict/diatonic-chords-in-circle-of-5ths/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/dict/diatonic-chords-in-circle-of-5ths/','118'),exact:true,sidebar:"tutorialSidebar"},{path:'/dict/scale-learning-map/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/dict/scale-learning-map/','340'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/algorithm-for-songs/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/algorithm-for-songs/','da3'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/as-professional',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/as-professional','427'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/correctness-efficiency',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/correctness-efficiency','f3b'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/dialogue',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/dialogue','9bc'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/fixed-solfege',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/fixed-solfege','3b8'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/form-framework-history',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/form-framework-history','5ea'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/guthrie-govan-live-2015',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/guthrie-govan-live-2015','07d'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/how-to-listen-a-song',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/how-to-listen-a-song','4b4'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/jimi-hendrix',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/jimi-hendrix','ff4'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/just-getting-started/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/just-getting-started/','e39'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/learn-to-listen',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/learn-to-listen','a7c'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/learning',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/learning','907'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/level-of-practice',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/level-of-practice','622'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/mathematics',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/mathematics','492'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/memory-in-ff-music',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/memory-in-ff-music','1d0'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/play-what-and-how-to-play',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/play-what-and-how-to-play','688'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/protect-your-ears',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/protect-your-ears','1fc'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/pubking-wubai',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/pubking-wubai','932'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/relative-absolute',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/relative-absolute','521'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/simple-complex',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/simple-complex','62e'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/speed',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/speed','8e8'),exact:true,sidebar:"tutorialSidebar"},{path:'/gossip/willing',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/gossip/willing','f83'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/effective-practice-guitar/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/effective-practice-guitar/','d19'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/guide-to-guitar-scale-patterns/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/guide-to-guitar-scale-patterns/','bef'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/guitar-chord-voicing/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/guitar-chord-voicing/','9f6'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/guitar-fundation-technical/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/guitar-fundation-technical/','726'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/','12b'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/how-to-practice-a-song',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/how-to-practice-a-song','e88'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/practice-arpeggios-251-on-g-major/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/practice-arpeggios-251-on-g-major/','e06'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/practice-arpeggios-g-major7/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/practice-arpeggios-g-major7/','957'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/some-tips-and-suggestions-for-practicing-guitar',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/some-tips-and-suggestions-for-practicing-guitar','6c6'),exact:true,sidebar:"tutorialSidebar"},{path:'/guitar/time-for-practice-guitar/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/guitar/time-for-practice-guitar/','562'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/basic-acoustics-and-digital-music-production',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/basic-acoustics-and-digital-music-production','8d0'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/basic-concepts-of-sampling',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/basic-concepts-of-sampling','298'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/concepts-of-music-technology/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/concepts-of-music-technology/','dbb'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/digital-audio-system/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/digital-audio-system/','5c0'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/echo-delay-reverb',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/echo-delay-reverb','2c5'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/loop-concepts-and-application-one-night-in-beijing/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/loop-concepts-and-application-one-night-in-beijing/','6bb'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/motu-mk4-macos/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/motu-mk4-macos/','1a7'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/pad-basics',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/pad-basics','f5b'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/recording-drums-basics',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/recording-drums-basics','ed4'),exact:true,sidebar:"tutorialSidebar"},{path:'/production/using-external-midi-devices-in-logic-pro/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/production/using-external-midi-devices-in-logic-pro/','780'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/FFV_Dear-Friends/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/FFV_Dear-Friends/','c6b'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/g5-project',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/g5-project','ba2'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Jack-Thammarat_Emotive-Ballad/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Jack-Thammarat_Emotive-Ballad/','9db'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Jack-Thammarat_Falling-in-Love-Again/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Jack-Thammarat_Falling-in-Love-Again/','5e2'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Songs-for-Memory/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Songs-for-Memory/','5ff'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Songs-for-Nylon-Guitar/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Songs-for-Nylon-Guitar/','305'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Survival-Dance/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Survival-Dance/','abd'),exact:true,sidebar:"tutorialSidebar"},{path:'/songs/Zelda-Trailer-2017E3/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/songs/Zelda-Trailer-2017E3/','f29'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/canon-chord-progression/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/canon-chord-progression/','764'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/create-a-new-scale',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/create-a-new-scale','36f'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/dominant-and-extension-chords/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/dominant-and-extension-chords/','808'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/eleventh-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/eleventh-chord','6ed'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/essence-of-musical-scales',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/essence-of-musical-scales','a15'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch','49d'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/major-scale/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/major-scale/','9fc'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/minor-scale/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/minor-scale/','4fa'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/modal-interchange',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/modal-interchange','854'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/musical-mode',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/musical-mode','ebc'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/musical-scale-fundation',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/musical-scale-fundation','909'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/note-signature/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/note-signature/','b6c'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/relation-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/relation-chord','177'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/secondary-dominat/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/secondary-dominat/','9f5'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/semi-tone-of-solfege',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/semi-tone-of-solfege','9e6'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/suspended-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/suspended-chord','63e'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/thinkin-mode',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/thinkin-mode','d29'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/thriteenth-chord',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/thriteenth-chord','616'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/tonality-key-mode/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/tonality-key-mode/','bcd'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/tritone',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/tritone','d3f'),exact:true,sidebar:"tutorialSidebar"},{path:'/theory/tsd-chord-substitution',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/theory/tsd-chord-substitution','929'),exact:true,sidebar:"tutorialSidebar"},{path:'/',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('/','efb'),exact:true,sidebar:"tutorialSidebar"}]}]}]},{path:'*',component:(0,_docusaurus_ComponentCreator__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .A)('*')}]);
 
 /***/ },
 
@@ -47685,7 +48945,198 @@ module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"★★★★","permal
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/guide-to-guitar-scale-patterns/index","title":"吉他音階學習摘要","description":"吉他手不免要熟悉吉他指板 (技術) 與音階 (理論) 的關係，怎麼有系統、有效的學習呢？","source":"@site/docs/guitar/guide-to-guitar-scale-patterns/index.md","sourceDirName":"guitar/guide-to-guitar-scale-patterns","slug":"/guitar/guide-to-guitar-scale-patterns/","permalink":"/guitar/guide-to-guitar-scale-patterns/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"吉他","permalink":"/tags/吉他"},{"inline":true,"label":"音階","permalink":"/tags/音階"},{"inline":true,"label":"五聲音階","permalink":"/tags/五聲音階"}],"version":"current","frontMatter":{"title":"吉他音階學習摘要","description":"吉他手不免要熟悉吉他指板 (技術) 與音階 (理論) 的關係，怎麼有系統、有效的學習呢？","date":"2010-08-07T00:00:00.000Z","tags":["★★★","吉他","音階","五聲音階"]},"sidebar":"tutorialSidebar","previous":{"title":"吉他練習的實踐原則：專心、彈好、彈滿","permalink":"/guitar/effective-practice-guitar/"},"next":{"title":"吉他的和弦聲位基本概念 (Chord Voicing)","permalink":"/guitar/guitar-chord-voicing/"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"guitar/guide-to-guitar-scale-patterns/index","title":"吉他音階學習摘要","description":"吉他手不免要熟悉吉他指板 (技術) 與音階 (理論) 的關係，怎麼有系統、有效的學習呢？","source":"@site/docs/guitar/guide-to-guitar-scale-patterns/index.md","sourceDirName":"guitar/guide-to-guitar-scale-patterns","slug":"/guitar/guide-to-guitar-scale-patterns/","permalink":"/guitar/guide-to-guitar-scale-patterns/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"★★★","permalink":"/tags/★★★"},{"inline":true,"label":"吉他","permalink":"/tags/吉他"},{"inline":true,"label":"音階","permalink":"/tags/音階"},{"inline":true,"label":"五聲音階","permalink":"/tags/五聲音階"}],"version":"current","frontMatter":{"title":"吉他音階學習摘要","description":"吉他手不免要熟悉吉他指板 (技術) 與音階 (理論) 的關係，怎麼有系統、有效的學習呢？","date":"2010-08-07T00:00:00.000Z","tags":["★★★","吉他","音階","五聲音階"]},"sidebar":"tutorialSidebar","previous":{"title":"吉他練習的實踐原則：專心、彈好、彈滿","permalink":"/guitar/effective-practice-guitar/"},"next":{"title":"吉他的和弦聲位基本概念","permalink":"/guitar/guitar-chord-voicing/"}}');
+
+/***/ },
+
+/***/ 91083
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   assets: () => (/* binding */ assets),
+/* harmony export */   contentTitle: () => (/* binding */ contentTitle),
+/* harmony export */   "default": () => (/* binding */ MDXContent),
+/* harmony export */   frontMatter: () => (/* binding */ frontMatter),
+/* harmony export */   metadata: () => (/* reexport default export from named module */ _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_production_echo_delay_reverb_md_318_json__WEBPACK_IMPORTED_MODULE_0__),
+/* harmony export */   toc: () => (/* binding */ toc)
+/* harmony export */ });
+/* harmony import */ var _site_docusaurus_docusaurus_plugin_content_docs_default_site_docs_production_echo_delay_reverb_md_318_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(45227);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(74848);
+/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(28453);
+
+
+const frontMatter = {
+	title: '聊聊即時與立即 - Echo / Delay / Reverb',
+	date: new Date('2019-08-24T00:00:00.000Z'),
+	description: '名詞解釋，說說 Echo / Delay / Reverb 的差異',
+	tags: [
+		'★',
+		'聊天',
+		'echo',
+		'delay',
+		'reverb',
+		'IRs',
+		'Overtone',
+		'Basetone',
+		'Musical Tone'
+	]
+};
+const contentTitle = undefined;
+
+const assets = {
+
+};
+
+
+
+const toc = [{
+  "value": "Reference",
+  "id": "reference",
+  "level": 2
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    blockquote: "blockquote",
+    code: "code",
+    h2: "h2",
+    li: "li",
+    ol: "ol",
+    p: "p",
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.Fragment, {
+    children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["人類對於 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "即時、立即"
+      }), " 的感覺，我的經驗值是 20ms ~ 50ms，只要大於 50ms 就可以感覺到 \"延遲\"。 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "聲學"
+      }), " 裡有三個名詞是跟延遲有關係的，分別是 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "echo / delay / reverb"
+      }), "。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "　　　※"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Echo"
+      }), " 中文翻譯成 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "迴聲、反響"
+      }), "，有返回的意思，大部分口語不會特別用中文。", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "返回"
+      }), " 表示達到某一個臨界條件之後，發生的動作，物理特性原理指的是聲波經由 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "介質"
+      }), " 的反射 (Reflection) 聲音。依照障礙物的材質差異、角度，反射的能量與波形依照空間大小會有所差異。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["在混音領域，會利用不同的反射介質，模擬出各種 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "效果 (Effect, FX)"
+      }), "。Echo 實際要聽到效果，通常要一定的空間以上。依照 25 度攝氏度，聲音的傳播速度 343m/s 計算，人類要能夠察覺 echo ，必須至少要 17.2 米長的空間，才有有所謂的 echo。依此可以計算出 echo 的時間約 100ms."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "echo 的概念，就是反射。很多時候在 KTV 唱歌時，大家都喜歡加 echo ，聽起來才夠台。其實那不叫 echo，那叫做 delay。而 echo 的實作，通常是透過 delay 做出來的，原理後述。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "然後 echo 會依照介質不同，依照物質的角度差異（嚴格講還有溫度與濕度），呈現不同的音色，只是大部分的人是無法察覺，通常在錄音軟體裡都有相關參數可以調整，達到模擬效果。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "　　　※"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Delay"
+      }), " 相對於 Echo 就單純了，算是被人類發明出來的東西。基本概念就是："]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ol, {
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+          children: "把原始聲音複製一段"
+        }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+          children: "然後延後播放。"
+        }), "\n"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "不牽扯真實的空間波形傳遞的問題。所以 Delay 是可以製造出來的，而且也可以模擬 echo 。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["我剛開始在", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "https://www.facebook.com/rick.kyhwang/posts/10210808014435833",
+        children: "玩 MIDI 編曲"
+      }), " 時，沒有什麼硬體資源，只有簡單的 SB16 聲霸卡（那時候我還沒買音源卡），一開始也不知道啥叫效果器，但是知道聽的音樂中有那種很有空間感的、短暫的反覆旋律的聲音，不管反覆的是人聲、還是樂器聲音。所以， 我就在編曲時："]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.blockquote, {
+      children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.ol, {
+        children: ["\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+          children: "複製同一個音軌，把聲音調小"
+        }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.li, {
+          children: "整個音軌往後搬 16 分個音符"
+        }), "\n"]
+      }), "\n"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "這就是我人工製造出來的 delay。直到後來買了 DB50XG 音源子卡，才知道原來世上有效果器這種東西。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "不過在數位設備還不流行的年代，這種複製整個音軌是很大的成本，因為那年代的設備都是類比的，就算用數位 Audio，記憶體也很貴。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "Delay 和 Echo 其實差異很大，Echo 在技術上的定義，約莫在 35ms ~ 100ms ，但是 Delay 可以玩很大，甚至有 #無限延伸 的技術，讓一個音符無限的長度，著名的吉他手 Santana 就很喜歡玩這東西。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "　　　※"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Reverb 中文翻譯成 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "殘響"
+      }), "，指的是訊號源 (例如 小提琴) 發射出去之後，撞到介質，然後介質反射新的 echo 能量，此能量再撞到其他介質，再次產生新的能量，如此反覆循環產生的物理現象，稱為 Reverb。真實的世界，到處都是 Reverb，但是要感覺到他麼存在，必須在相對空曠的空間才行。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "Reverb 對人類的聽覺效果是產生具體的空間感，像是小舞台、大型巨蛋、或者是表演廳等。不同的空間又會因為建築材質，音樂廳的反射板設計差異，會有不同的反射。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "Reverb 對人類聽覺另一個感覺叫做真實感，混音的術語稱為 Wet Sound (濕的聲音)，原始訊號稱為 Dry Sound (乾的聲音)。 Dry + Wet Sound 構成真實的聲音。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "在錄音室錄音的目的，是要取得原始聲音訊號 (不管是樂器還是人聲) 的 Dry Sound，也就是沒有殘響的聲音。通常錄音室需要聽過特別的聲學與建築設計，達到最佳的 S/N Ratio (訊號與噪音比)，讓錄音師在錄音過程中，可以取得最佳的 Dry Sound，而 Wet Sound 則在混音階段處理。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "不過就在地球上來講，理論上無法取的 S/N 比只要 Singal 的聲音，也就是一定會有 reverb ，只是多少而已。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["除了反射造成的 Reverb 現象，另一個更重要的現象就是，這些 殘響 頻率之間的共振，如果剛好是倍頻關係，例如 Source: 220Hz，因為介質差異，產生了 440Hz 或者 5/4 倍、4/3 ... 等倍頻，最後會產生 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "Overtone"
+      }), "，中文稱為 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "泛音"
+      }), "。而原始聲音稱為 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "基音 (Base Tone)"
+      }), " ，加上 泛音，則是我們在地表上能夠聽得到自然音。如果只有基音，通常也會叫做 #純音 (Pure Tone)，但是在地表，理論上不會有純音。因為泛音的存在，使得聲音變成可聽性，這樣的聲音稱為 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "樂音 (Musical Tone)"
+      }), "，樂器會依照此特性製造。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["Reverb 是個非常複雜的技術，特別是那些想要呈現演唱會後製專輯的處理，要達到 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "自然"
+      }), "，或者還原現場溫度，Reverb 的處理是非常關鍵的。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "　　　※"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: [(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.a, {
+        href: "http://a85115230.pixnet.net/blog/post/390104224-%E9%9B%95%E5%A1%91%E6%9B%B4%E7%9C%9F%E5%AF%A6%E8%B2%BC%E5%88%87%E7%9A%84%E7%A9%BA%E9%96%93%E5%8F%96%E6%A8%A3%E9%97%9C%E9%8D%B5%EF%BC%8Dimpulse-respons",
+        children: "脈衝響應 (Impulse Responses, IRs)"
+      }), " 是記錄聲音訊號在系統中的動態反應、外部空間的變化、額外時間的改變。"]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "也就是說在一個固定空間裡，例如雪梨歌劇院，不同的區域的不同座位，都有上述的值可以記錄，然後只要在雪梨歌劇院裡每個座位都做 IRs 數據的採樣， 最後透過演算法就可以呈現出特定地方的音場特性，包含計算出 Reverb、Delay、Echo ... 等。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "音樂製作很多產品，以此為主要概念，設計很多產品，軟體、硬體都有。裡面通常會提供大量的資料庫、參數，像是雪梨歌劇院就是著名的 waves 裡的 IRs 參數。"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
+      children: "　　　※"
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsxs)(_components.p, {
+      children: ["文章開頭提到我對於 \"即時\" 的感覺，其實是源自於以前編曲時，設備不好，那時候用很多軟體取樣音源，音源檔案是放在硬碟，透過 MIDI 訊號發出，經過電腦運算、取得音源檔、送到錄音介面播放出來，經常感覺會 delay，後來透過 ", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.code, {
+        children: "ASIO (一個標準協議)"
+      }), " 得知 Buffer Size 太大，換言之，聲音訊息會 Buffering 在電腦的時間太久，造成最後送到 錄音介面 (D to A) 的時間太久，導致從鍵盤按下一個音，到聽到的時間，感覺不是即時。經過很多次的實驗，最後才歸納出 20ms ~ 50ms 這個時間區間，是我自己定義的 \"即時\" ...."]
+    }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
+      id: "reference",
+      children: "Reference"
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_2__/* .useMDXComponents */ .R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(MDXLayout, {
+    ...props,
+    children: (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
 
 /***/ },
 
@@ -56359,11 +57810,19 @@ exports.version = "19.2.3";
 
 /***/ },
 
+/***/ 96971
+(module) {
+
+"use strict";
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"襯底","permalink":"/tags/襯底","allTagsPath":"/tags","count":1,"items":[{"id":"production/pad-basics","title":"襯底 PAD 的基本概念","description":"襯底 (Pad) 是音樂裡製造流動感、呼吸感的長音元素。了解 Pad 的類型與編曲技巧，可以讓音樂更有層次與氛圍。\\n","permalink":"/production/pad-basics"}],"unlisted":false}}');
+
+/***/ },
+
 /***/ 97096
 (module) {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"★★★","permalink":"/tags/★★★","allTagsPath":"/tags","count":15,"items":[{"id":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","title":"再談『首調、固定唱名』與『相對、絕對音感』","description":"以現代西洋音樂的基礎討論如何自行創造一個不一樣的音階。","permalink":"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch"},{"id":"guitar/practice-arpeggios-251-on-g-major/index","title":"吉他琶音練習 - 以 G 大調 251 為例","description":"繼續聊聊琶音 (Arpeggios) 練習的方法。","permalink":"/guitar/practice-arpeggios-251-on-g-major/"},{"id":"guitar/practice-arpeggios-g-major7/index","title":"吉他琶音練習 - 以 Gmaj7 為例","description":"怎樣練習琶音？琶音跟掃弦有什麼差異？怎麼利用琶音創造樂句？","permalink":"/guitar/practice-arpeggios-g-major7/"},{"id":"guitar/guitar-fundation-technical/index","title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","permalink":"/guitar/guitar-fundation-technical/"},{"id":"guitar/guide-to-guitar-scale-patterns/index","title":"吉他音階學習摘要","description":"吉他手不免要熟悉吉他指板 (技術) 與音階 (理論) 的關係，怎麼有系統、有效的學習呢？","permalink":"/guitar/guide-to-guitar-scale-patterns/"},{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"基本上，『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","permalink":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/"},{"id":"band/getting-started-play-as-band","title":"怎樣的程度才適合組樂團？","description":"如果是面試，該怎麼設定團員的合格標準？","permalink":"/band/getting-started-play-as-band"},{"id":"gossip/play-what-and-how-to-play","title":"怎麼彈和彈什麼","description":"怎麼彈、彈什麼？","permalink":"/gossip/play-what-and-how-to-play"},{"id":"theory/suspended-chord","title":"掛留和弦 (Suspended Chord)","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","permalink":"/theory/suspended-chord"},{"id":"band/run-a-band","title":"樂團的經營","description":"經營樂團跟經營公司一樣，怎處理人、事、物，都是學問。","permalink":"/band/run-a-band"},{"id":"theory/musical-mode","title":"調式概念","description":"整理一些個人對於調式概念的理解的步驟： 1) 調式的功能 2) 理解與記憶 3) 聽覺分析 4) 歌曲例子\\n","permalink":"/theory/musical-mode"},{"id":"band/pick-songs","title":"開歌, 選歌","description":"歌唱選秀節目裡, 評審常常給參賽者的評語是:","permalink":"/band/pick-songs"},{"id":"gossip/semi-tone-of-solfege","title":"關於半音階的唱名","description":"唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\\n","permalink":"/gossip/semi-tone-of-solfege"},{"id":"theory/musical-scale-fundation","title":"音階基礎","description":"西洋樂理以巴哈十二平均律為基礎。平均律定義了音階的物理關係，將倍數頻率 (ex：220Hz - 440Hz) 以指數關係分成十二個半音，我們又依據聽覺的協和度定義了音程關係，以音程關係加以排列組合，形成各式各樣的聲響特色、顏色，經由先知們整理過後，形成我們目前使用的音階系統。\\n","permalink":"/theory/musical-scale-fundation"},{"id":"theory/essence-of-musical-scales","title":"音階的本質","description":"在學習音階的過程中，我心裡一直有個疑惑，為什麼要叫做自然大調音階？自然小調音階？為啥是自然的？不是人工的？為啥又會有調式這種東西存在？","permalink":"/theory/essence-of-musical-scales"}],"unlisted":false}}');
+module.exports = /*#__PURE__*/JSON.parse('{"tag":{"label":"★★★","permalink":"/tags/★★★","allTagsPath":"/tags","count":17,"items":[{"id":"theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch","title":"再談『首調、固定唱名』與『相對、絕對音感』","description":"以現代西洋音樂的基礎討論如何自行創造一個不一樣的音階。","permalink":"/theory/further-discussion-on-movable-do-and-fixed-do-systems-vs-relative-and-absolute-pitch"},{"id":"guitar/practice-arpeggios-251-on-g-major/index","title":"吉他琶音練習 - 以 G 大調 251 為例","description":"繼續聊聊琶音 (Arpeggios) 練習的方法。","permalink":"/guitar/practice-arpeggios-251-on-g-major/"},{"id":"guitar/practice-arpeggios-g-major7/index","title":"吉他琶音練習 - 以 Gmaj7 為例","description":"怎樣練習琶音？琶音跟掃弦有什麼差異？怎麼利用琶音創造樂句？","permalink":"/guitar/practice-arpeggios-g-major7/"},{"id":"guitar/guitar-fundation-technical/index","title":"吉他的基本功","description":"學吉他練習是很重要的一個過程, 但是練些什麼, 怎麼規劃練習的內容, 怎麼安排適當的 schedule, 然後練習才會有效率? 有效果?","permalink":"/guitar/guitar-fundation-technical/"},{"id":"guitar/guide-to-guitar-scale-patterns/index","title":"吉他音階學習摘要","description":"吉他手不免要熟悉吉他指板 (技術) 與音階 (理論) 的關係，怎麼有系統、有效的學習呢？","permalink":"/guitar/guide-to-guitar-scale-patterns/"},{"id":"production/basic-acoustics-and-digital-music-production","title":"基礎聲學與數位音樂製作","description":"對於 \\"聲音\\" 的物理現象，很多物理學、音響或 PA 相關的書都會提到一些基本概念，這些概念對於音樂製作上，尤其要做出比較有豐富聲響的音樂，基礎的聲音理論更是要有相當的瞭解。\\n","permalink":"/production/basic-acoustics-and-digital-music-production"},{"id":"guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/index","title":"如何選擇適合的數位設備 - 以吉他綜合效果器為例","description":"『買設備』這件事情可以當做『在學習』來看到，所以我會花很多時間做功課，找資料。","permalink":"/guitar/how-to-choose-the-ight-digital-devices_taking-a-guitar-multi-effects-pedal-as-an-example/"},{"id":"band/getting-started-play-as-band","title":"怎樣的程度才適合組樂團？","description":"如果是面試，該怎麼設定團員的合格標準？","permalink":"/band/getting-started-play-as-band"},{"id":"gossip/play-what-and-how-to-play","title":"怎麼彈和彈什麼","description":"怎麼彈、彈什麼？","permalink":"/gossip/play-what-and-how-to-play"},{"id":"theory/suspended-chord","title":"掛留和弦 (Suspended Chord)","description":"簡單說就是風鈴的感覺。 ..... 或者說 文青的一種。。。。。。。。 這麼多圈圈, 夠文青吧 XDD","permalink":"/theory/suspended-chord"},{"id":"band/run-a-band","title":"樂團的經營","description":"經營樂團跟經營公司一樣，怎處理人、事、物，都是學問。","permalink":"/band/run-a-band"},{"id":"theory/musical-mode","title":"調式概念","description":"整理一些個人對於調式概念的理解的步驟： 1) 調式的功能 2) 理解與記憶 3) 聽覺分析 4) 歌曲例子\\n","permalink":"/theory/musical-mode"},{"id":"production/recording-drums-basics","title":"錄鼓的一些基本概念","description":"鼓的錄音是音樂製作中的一項大工程，需要具備基礎知識、技術與設備。本文整理錄鼓所需的認知與注意事項。\\n","permalink":"/production/recording-drums-basics"},{"id":"band/pick-songs","title":"開歌, 選歌","description":"歌唱選秀節目裡, 評審常常給參賽者的評語是:","permalink":"/band/pick-songs"},{"id":"theory/semi-tone-of-solfege","title":"關於半音階的唱名","description":"唱名 Do Re Mi 大家都知道，但是唱名只有七個，音樂的一個八度卻有十二個音，那其他的音應該怎麼唱？\\n","permalink":"/theory/semi-tone-of-solfege"},{"id":"theory/musical-scale-fundation","title":"音階基礎","description":"西洋樂理以巴哈十二平均律為基礎。平均律定義了音階的物理關係，將倍數頻率 (ex：220Hz - 440Hz) 以指數關係分成十二個半音，我們又依據聽覺的協和度定義了音程關係，以音程關係加以排列組合，形成各式各樣的聲響特色、顏色，經由先知們整理過後，形成我們目前使用的音階系統。\\n","permalink":"/theory/musical-scale-fundation"},{"id":"theory/essence-of-musical-scales","title":"音階的本質","description":"在學習音階的過程中，我心裡一直有個疑惑，為什麼要叫做自然大調音階？自然小調音階？為啥是自然的？不是人工的？為啥又會有調式這種東西存在？","permalink":"/theory/essence-of-musical-scales"}],"unlisted":false}}');
 
 /***/ },
 
