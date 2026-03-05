@@ -891,9 +891,9 @@ function _createMdxContent(props) {
       id: "最喜歡的歌曲a-sunrise-worth-seeing",
       children: "最喜歡的歌曲：A Sunrise Worth Seeing"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "在整張 OST 中，我特別喜歡這首「A Sunrise Worth Seeing」。這首歌出現在芙莉蓮與費倫完成海岸清潔委託後，受居民邀請一起看日出的那一幕。特別是從 01:30 開始，鋼琴溫暖的音色配上極其寧靜的旋律，隨著日出的畫面緩緩升起，那種「平凡而深刻的幸福感」真的非常動人。"
+      children: "在整張 OST 中，我特別喜歡這首「A Sunrise Worth Seeing」。這首歌出現在芙莉蓮與費倫完成海岸清潔委託後，受居民邀請一起看日出的那一幕。特別是從 01:30 開始，鋼琴溫暖的音色配上極其寧靜的旋律，隨著日出的畫面緩緩升起，那種「平凡而深刻的幸福感」真的非常動人。這段旋律也出現在師傅芙蘭梅第一次對芙莉蓮展現「花田的魔法」時，以及芙莉蓮 見到 賽利耶 時，講述他用「變出花田魔法」給欣梅爾的時。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.p, {
-      children: "有趣的是，這段旋律也出現在師傅芙蘭梅第一次對芙莉蓮展現「花田的魔法」時。這種重複運用，彷彿在訴說著：無論是師傅留下的魔法，還是與新夥伴看過的日出，這些寧靜的時刻，才是漫長生命中最值得珍藏的風景。"
+      children: "這種重複運用，彷彿在訴說著：無論是師傅留下的魔法，還是與新夥伴看過的日出，這些寧靜的時刻，才是漫長生命中最值得珍藏的風景。"
     }), "\n", (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__.jsx)(_components.h2, {
       id: "從芙莉蓮到-ff4-的共鳴",
       children: "從芙莉蓮到 FF4 的共鳴"
