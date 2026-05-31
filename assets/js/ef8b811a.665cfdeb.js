@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[8947],{6600(t){t.exports=JSON.parse('{"authors":[{"name":"Rick Hwang","title":"\u559d\u5496\u5561 \u804a\u97f3\u6a02","url":"https://rickhw.github.io/2017/12/29/About/About-Author/","imageURL":"/img/logo.png","key":"rick","page":null,"count":2}]}')}}]);
