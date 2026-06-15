@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_website=globalThis.webpackChunkmy_website||[]).push([[35108],{3305(e){e.exports=JSON.parse('{"tags":[{"label":"\u516c\u544a","permalink":"/tags/\u516c\u544a","count":4}]}')}}]);
